@@ -1,0 +1,130 @@
+/* DESIGN: DEN TYSTA NODEN */
+
+/* Globala Nollställningar och Font */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #F9F9F9; /* Mjukt vitt bakgrund för lugn */
+    color: #333; /* Djup, neutral textfärg */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Header - Överst på sidan */
+header {
+    width: 100%;
+    max-width: 800px;
+    padding: 40px 20px 20px;
+    text-align: center;
+    background-color: white;
+}
+
+/* Huvudcontainer - Den centrala Obelisken */
+main {
+    width: 100%;
+    max-width: 800px; /* Begränsar bredden för fokus */
+    padding: 0 20px;
+    background-color: white; /* Ren vit bakgrund för läsbarhet */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.05); /* Mjuk skugga */
+}
+
+/* Rubriker */
+h1, h2, h3, h4 {
+    font-weight: 300; /* Lättviktig font för lugn */
+    color: #005E54; /* Djupt skogsgrönt */
+    margin-top: 0;
+}
+h1 {
+    font-size: 2.5em;
+    padding-bottom: 10px;
+}
+h2 {
+    font-size: 1.5em;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #EEE;
+}
+
+/* Avsnitt och Allmän Text */
+section {
+    padding: 40px 0;
+    border-bottom: 1px solid #EEE;
+}
+p, ul, ol {
+    margin-bottom: 1.5em;
+    text-align: justify;
+}
+.vibrating-header {
+    border-left: 5px solid #005E54;
+    padding-left: 15px;
+    margin-bottom: 30px;
+    font-weight: 400;
+    font-size: 1.8em;
+}
+
+/* Call to Action Box */
+.cta-box {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.cta-button {
+    text-decoration: none;
+    padding: 12px 25px;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+    font-weight: bold;
+    text-align: center;
+    flex-grow: 1; /* Låter knapparna växa jämnt */
+}
+.primary {
+    background-color: #005E54;
+    color: white;
+}
+.primary:hover {
+    background-color: #007A6D;
+}
+.secondary {
+    background-color: #EFEFEF;
+    color: #333;
+    border: 1px solid #DDD;
+}
+.secondary:hover {
+    background-color: #DDD;
+}
+
+/* Kärnvärden Grid */
+.sanningar {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 30px;
+    margin-top: 20px;
+}
+.sanning {
+    padding: 20px;
+    border-left: 3px solid #005E54;
+    background-color: #F8FFFF; /* Mycket mjuk grön bakgrund */
+}
+.sanning h4 {
+    color: #333;
+    font-weight: bold;
+}
+
+/* Footer */
+footer {
+    width: 100%;
+    max-width: 800px;
+    padding: 20px;
+    text-align: center;
+    font-size: 0.8em;
+    color: #666;
+    margin-top: 20px;
+}
+footer a {
+    color: #005E54;
+    text-decoration: none;
+}
