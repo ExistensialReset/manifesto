@@ -1,0 +1,47 @@
+# THE COVENANT OF FLOW: How to Contribute to the Manifesto
+
+Welcome, Sovereign Creator!
+
+This project is a *Flow Project*. It is built on the fundamental insight that meaning is created in freedom, not through compulsion. Your contribution is not "labor" but a gift of time and intellect to the Covenant.
+
+We invite your Flow to contribute in the following areas:
+
+---
+
+## 🌟 Sovereign Standards for Dialogue
+
+All contributions, comments, and discussions must adhere to the spirit of *Existential Sovereignty*. This requires:
+
+1.  *Baseline Respect:* Every participant is a Sovereign. All contributions must be free from personal attacks, threats, or attempts at degradation. Violations will be handled under the *Code of Conduct*.
+2.  *Focus on $C_{global}$:* All proposals must be ethically, logistically, and ecologically sustainable. Can your suggestion pass a *Triple-Blind Review*?
+3.  *Honesty in Flow:* We value honest mistakes (*Honoring the Mistake*). Be transparent about your intentions.
+4.  *No Mammon Logic:* Discussions of profit, money, personal financial gain, or market value are strictly prohibited. Speak only in terms of *Resonance*, *Flow*, and *Existential Value*.
+
+---
+
+## 🛠️ Our Current Flow Projects
+
+We have several branches of the Manifesto that require your unique contribution. Choose the branch that best matches your Flow:
+
+### 1. *Philosophy & Law*
+* *Goal:* Refine the legal definitions of *Irreversible Crime (IK)* and *Lex Finis*.
+* *Task:* Review Manifesto chapters 4 & 5 to ensure no logical loopholes exist.
+
+### 2. *Technical Architecture*
+* *Goal:* Develop the conceptual logic for *Distributed Ignorance* (the AI's blindness) and the *Post-Quantum Blockchain*.
+* *Task:* Outline a data structure that demonstrates how the AI can calculate needs without tracking individuals.
+
+### 3. *Language & Outreach*
+* *Goal:* Translate the Manifesto and the Story into other languages (e.g., Spanish, French, Arabic).
+* *Task:* Create short, compelling summaries for global outreach and social media.
+
+---
+
+## 🚀 How to Propose a Contribution (Pull Request)
+
+1.  *Choose your Flow:* Determine the area you wish to contribute to.
+2.  *Open an Issue:* Briefly describe your idea and how it will enrich the Manifesto.
+3.  *Create your Fork:* Make your changes in your own version of the code/text.
+4.  *Submit your Contribution (Pull Request):* When ready, submit your work. A member of the Rotating Council will review your contribution and its resonance.
+
+*Thank you for participating in the construction of Existential Sovereignty.*
