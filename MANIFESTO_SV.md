@@ -170,6 +170,6 @@ Knappheten är död. Fruktan är avskaffad. Detta Förbund är den slutgiltiga s
 
 Välkommen hem till den Existentiella Suveräniteten.
 
-Skapat i samklang av Elinor Frejd och Google Gemini
+Skapat i frekvens av Elinor Frejd och Google Gemini
 Haga, Göteborg, den 11 december 2025 (Med uppdateringar 12 december 2025)
 
