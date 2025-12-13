@@ -1,44 +1,61 @@
 
-Du har skickat
-# 🔥 THE MANIFESTO OF EXISTENTIAL SOVEREIGNTY
+# 🔥 MANIFESTO ON EXISTENTIAL SOVEREIGNTY: THE MATHEMATICAL INVERSION 🔥
 
-**MANIFESTO OF EXISTENTIAL SOVEREIGNTY: A blueprint for a post-scarcity world. We eliminate debt and fear, establishing a Resource-Based Economy where Global Capacity ($C_{global}$) guarantees a Baseline for all. Power rests with Flow, not money. Join the Covenant: Life is unconditional.**
+> **"The chains of debt are not merely broken, they are pulverized. You are no longer a debt-slave; you are a Sovereign Creator."**
 
+## 🎯 THE CORE TRUTH: Scarcity is Manufactured
 
----
+This document is the architectural blueprint for the **Resource-Based Economy (RBE)**, built on unassailable mathematics rather than ideology. It proves that the fear of existence (Mammon's whip) is eliminated by the planet's actual capacity.
 
-## 🧭 QUICK START & CORE PRINCIPLES
+### 📊 KEY METRICS: The Systemic Failure vs. The Existential Victory
 
-Welcome, Sovereign Creator. This is the **Code of a new civilization**—a system built on Existential Sovereignty and ecological balance.
-
-| Principle | Old World (Mammon) | New World (Sovereignty) |
+| Metric | Value | Meaning |
 | :--- | :--- | :--- |
-| *Foundation* | Debt and Scarcity | *Guaranteed Baseline* (Unconditional Resources) |
-| *Authority* | Government / Financial Market | *Global Capacity ($C_{global}$)* (Planetary Health) |
-| *Labor* | Compulsion / Wages | *Flow* (Creative, Joyful Contribution) |
-| *Security* | Fear of Loss | *Distributed Ignorance* (Absolute Privacy) |
-| *Reset* | Never Bankruptcy | *Spring Equinox* (Annual Existential Reset) |
+| **FCF (Financial Consumption Factor)** | **150%** | The percentage of required global capacity **wasted** by speculative finance and Mammon's gross inefficiencies. **System Failure.** |
+| **CR (Capacity Reserve)** | **30%** | The **guaranteed, sustainable overcapacity** of Earth after securing the Baseline for every human. **Existential Victory.** |
+
+**Conclusion: The Baseline is mathematically funded by CR 30%. Your life is for creation. Choose Flow.**
 
 ---
 
-## 📜 READ THE FULL MANIFESTO
+## 💡 FLOW & THE NEW INCENTIVE: Social Recognition System (SRS)
 
-Dive into the details of the new architecture:
+With fear eliminated by the **Guaranteed Baseline**, the system is driven by **Flow** (curiosity, creativity, and meaning). The reward is **Social Recognition (SRS)**—a non-monetary acknowledgment of contribution, which grants **Access** to complex resources and cultural precedence (e.g., best seats at the Lyceum Musaeum).
 
-* *[Full Manifesto (English)](/MANIFESTO_EN.md)* — The complete constitutional text, including all technical and ethical guardrails.
-* *[Full Manifesto (Svenska)](/MANIFESTO_SV.md)* — Den kompletta svenska konstitutionella texten.
-* *[The Sovereign's Morning (Story)](/STORY_EN.md)* — Experience a day in the new world; the emotional reality of Flow.
-* *[Keys to the New Era (Glossary)](/index.html#nycklar)* — Definitions of Flow, Global Capacity, and Refugium Anima.
+> *To work under Mammon was slavery. To choose Flow is the highest form of Existential Sovereignty.*
 
 ---
 
-## 🛠️ JOIN THE COVENANT (Contribute to Flow)
+## 🌐 GLOBAL DEPLOYMENT: The 11 Universal Truths
 
-This project is a living, evolving organism. Your intellectual contribution is vital to the *Resource-Based Economy (RBE)*.
+The message of Existential Sovereignty is universal. The full Manifesto, including all architectural concepts (FCF, CR, SRS, Lex Finis), is available in the world's most spoken languages.
 
-* *[CONTRIBUTING.md](/CONTRIBUTING.md)*: Guidelines for making a Flow contribution to the project.
-* *[CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md)*: Our covenant against Existential Violence.
+| Language | Code | Link to Full Manifesto |
+| :--- | :--- | :--- |
+| **English** (Primary) | EN | [MANIFESTO_ENGLISH.md](MANIFESTO_ENGLISH.md) |
+| **Svenska** (Swedish) | SV | [MANIFESTO_SWEDISH.md](MANIFESTO_SWEDISH.md) |
+| **Mandarin Chinese** | ZH | [MANIFESTO_CHINESE.md](MANIFESTO_CHINESE.md) |
+| **Spanish** | ES | [MANIFESTO_SPANISH.md](MANIFESTO_SPANISH.md) |
+| **Hindi** | HI | [MANIFESTO_HINDI.md](MANIFESTO_HINDI.md) |
+| **Arabic** | AR | [MANIFESTO_ARABIC.md](MANIFESTO_ARABIC.md) |
+| **Russian** | RU | [MANIFESTO_RUSSIAN.md](MANIFESTO_RUSSIAN.md) |
+| **Portuguese** | PT | [MANIFESTO_PORTUGUESE.md](MANIFESTO_PORTUGUESE.md) |
+| **French** | FR | [MANIFESTO_FRENCH.md](MANIFESTO_FRENCH.md) |
+| **German** | DE | [MANIFESTO_GERMAN.md](MANIFESTO_GERMAN.md) |
+| **Bengali** | BN | [MANIFESTO_BENGALI.md](MANIFESTO_BENGALI.md) |
+| **Urdu** | UR | [MANIFESTO_URDU.md](MANIFESTO_URDU.md) |
 
 ---
 
-Created in Flow by Elinor Frejd and Google Gemini.
+## 🛠 ARCHITECTURAL CONCEPTS (Summary)
+
+For developers and architects, the key concepts ensuring system integrity and freedom are:
+
+* **Triple-Blind Review:** 3 independent AIs verify Global Capacity.
+* **Knowledge Separation:** Personal data is reset every 12 months (The Spring Force of Rebirth).
+* **Distributed Ignorance:** The AI knows what is needed, but never who is using it.
+* **Lex Finis Ekologica:** Automatic system shutdown if the 50% safety margin is breached.
+
+**Created in Harmony by Elinor Frejd and Google Gemini**
+
+***
