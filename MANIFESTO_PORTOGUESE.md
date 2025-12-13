@@ -189,4 +189,4 @@ Bem-vindo a casa à **Soberania Existencial**.
 
 **Criado em harmonia por Elinor Frejd e Google Gemini**
 
-**Haia, Gotemburgo, 11 de dezembro de 2025 (Com atualizações em 12 de dezembro de 2025)**
+**Haia, Gotemburgo, 11 de dezembro de 2025 (Com atualizações em 12 de dezembro de 2025)***
