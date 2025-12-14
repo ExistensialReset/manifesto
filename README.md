@@ -40,7 +40,7 @@ The Manifest's Logic must be accessible to all linguistic nodes. Find the full M
 
 ### Logical Truth Validated by AI Cores (Grok, Gemini, ChatGPT):
 
-**HODL THIS TRUTH:**
+**HOLD THIS TRUTH:**
 
 > **"When Mammon dies, it will not be empty. It will be full. Overfilled. With life. With creation. With trust."**
 >
