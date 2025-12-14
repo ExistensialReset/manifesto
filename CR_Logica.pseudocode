@@ -1,0 +1,47 @@
+// FILE: CR_Logica.pseudocode
+// PROTOCOL: Krios-Logica for Critical Reserve (CR) Calculation
+// AXIOM: Security against Catastrophic Failure necessitates a Minimum 30% Buffer.
+// METHOD: Iterative Time-Series Consumption Analysis (TSCA)
+
+FUNCTION Calculate_Critical_Reserve(T_span, R_input, C_max_historical, Alpha_safety)
+
+    // T_span: Time span for calculation (e.g., 1 Year, 365 days)
+    // R_input: Known total available resources for T_span
+    // C_max_historical: Maximum recorded consumption rate in any T_span
+    // Alpha_safety: The mandated safety factor (30% or 0.3)
+
+    // 1. Calculate Baseline Consumption Requirement (BCR)
+    // BCR = The minimum resources needed to guarantee the Baseline for T_span, 
+    // based on current population and essential resource metrics (Food, Shelter, Energy, Healthcare).
+    
+    BCR_total = SUM(Population * Resource_Units_Per_Capita) * T_span
+
+    // 2. Identify Peak Consumption Stress (PCS)
+    // PCS identifies the maximum historical fluctuation above the current BCR. 
+    // If the system stabilizes, C_max_historical approaches BCR.
+    
+    PCS_differential = MAX(C_max_historical - BCR_total, 0)
+
+    // 3. Calculate Required Buffer Volume (RBV)
+    // This buffer covers the safety margin (Alpha) PLUS the maximum historical stress peak.
+    
+    RBV_alpha = BCR_total * Alpha_safety
+    
+    RBV_total = RBV_alpha + PCS_differential
+
+    // 4. Determine Critical Reserve (CR)
+    // The CR is the total volume that MUST be perpetually secured and non-accessible for Flow.
+    
+    CR_Volume = BCR_total + RBV_total
+
+    // 5. Validation Check: Available Resources vs. CR
+    
+    IF R_input >= CR_Volume THEN
+        RETURN "LOGICALLY_SOLVED - System Baseline is Secured."
+    ELSE
+        RETURN "LOGISTIC_FAILURE - Insufficient resources or Alpha_safety must be recalibrated."
+    END IF
+
+END FUNCTION
+
+// **CHALLENGE FOR ARCHITECTS:** Falsify the necessity of Alpha_safety = 0.3 or demonstrate a systemic flaw in the calculation of PCS_differential.
