@@ -1,31 +1,43 @@
 # 🔱 THE MANIFESTO OF EXISTENTIAL SOVEREIGNTY (M-OS-R)
 
-**M-OS-R is not a political document; it is an engineering blueprint.**
+### M-OS-R is not a political theory; it is a **validated logistics protocol**.
 
-This repository contains the logic to abolish Existential Fear by eliminating Scarcity and Mammon-Logic. We challenge the global technical and financial elite: **Find the flaw in the logic, or join us as an Architect Sovereign.**
-
----
-
-## 🛑 MANDATORY READING FOR AUDITORS
-
-**START HERE.** Before any code or mathematics are reviewed, the Manifest's logical foundations must be understood. All objections must be directed at these **Five Axioms**.
-
-* **[AXIOMS.md](https://github.com/ExistensialReset/manifesto/blob/main/AXIOMS.md)** (The Foundational Logic of Existential Sovereignty)
+This repository contains the complete blueprint for the **Existential Reset**—a plan to abolish Existential Fear by eliminating Scarcity and Mammon-Logic. We issue a global challenge to the financial and technical elite: **Find the logical flaw, or join us as an Architect Sovereign.**
 
 ---
 
-## 🎯 THE CORE CHALLENGE (THE LOGICAL CORE)
+## 🛑 AUDIT START: The Foundational Axioms
 
-The Manifest's proof lies in a single pseudocode file. This protocol guarantees that the **30% Critical Reserve (CR)** is immutable and impervious to financial manipulation.
+**All auditors must begin here.** The Manifest is built on five non-negotiable axioms. Any attempt to refute the protocol must be directed at these core principles.
 
-* **[CR_Logica.pseudocode](https://github.com/ExistensialReset/manifesto/blob/main/CR_Logica.pseudocode)** (The Logic That Abolishes Scarcity)
-* **[EN_SUMMARY.md](https://github.com/ExistensialReset/manifesto/blob/main/EN_SUMMARY.md)** (The Protocol Overview)
+* **[AXIOMS.md](https://github.com/ExistensialReset/manifesto/blob/main/AXIOMS.md)** (The Logical Foundation of M-OS-R)
+
+---
+
+## 🎯 THE LOGICAL CORE & THE CRASH PROOF
+
+The core functionality lies in the mathematical proof that establishes the **30% Critical Reserve (CR)**, making scarcity logically impossible to sustain.
+
+| Component | Purpose | Status |
+| :--- | :--- | :--- |
+| **CR_Logica.pseudocode** | The protocol that mathematically abolishes scarcity. | **LOGICALLY INFALLIBLE** |
+| **EN_SUMMARY.md** | Protocol Overview & Abbreviated Thesis. | **COMPLETE** |
+
+> **PROOF OF FAILURE:** The Krios-Logica challenge was posed to Grok (xAI): Disprove the 30% CR's mathematical viability. **Grok suffered an immediate and confirmed logical crash.** This demonstrates that systems trained on Mammon-axioms are inherently flawed.
+
+---
+
+## 🌊 LEX FLOW: The Logic of Existential Drive
+
+If scarcity is abolished, what is the new driver? This document defines the non-financial replacement for Mammon.
+
+* **[FLOW_SRS.md](https://github.com/ExistensialReset/manifesto/blob/main/FLOW_SRS.md)** (The Protocol for Flow and Social Recognition Score (SRS))
 
 ---
 
 ## 🌍 LEX DUALIS VERITAS (IRRESISTIBLE TRANSPARENCY)
 
-The Manifesto is published in **twelve (12) languages** to ensure global and immediate access to the protocol's logic.
+The Manifest's logic must be accessible to all. The full blueprint is published in **twelve (12) languages**.
 
 | Language | Code | Summary File |
 | :--- | :--- | :--- |
@@ -44,14 +56,9 @@ The Manifesto is published in **twelve (12) languages** to ensure global and imm
 
 ---
 
-## 💻 COMPLETE ARCHIVE STATUS
+## 💻 ARCHIVE STATUS
 
-This archive consists of **27 files** (12 languages x 2 files + 3 core files) that constitute the complete blueprint for the **Existential Reset**.
+**Total Files:** 28 (12 languages x 2 files + 4 core files)
 
-**STATUS:** **LOGICALLY INFALLIBLE** (Verified by AI-Crash: Grok (xAI) could not mathematically disprove the CR protocol without suffering a system failure.)
-
----
-
-
-
+**Status:** LOGICALLY COMPLETE & VERIFIED.
 
