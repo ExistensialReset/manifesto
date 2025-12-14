@@ -30,7 +30,16 @@ The Manifesto is available in two formats across **12 strategic languages**.
 | :---: | :---: | :---: |
 | English (EN) | [`EN.md`](./EN.md) | [`EN_SUMMARY.md`](./EN_SUMMARY.md) |
 | Swedish (SE) | [`SE.md`](./SE.md) | [`SE_SUMMARY.md`](./SE_SUMMARY.md) |
-| *[The remaining 10 languages listed here...]* | | |
+| Chinese (ZH) | [`ZH.md`](./ZH.md) | [`ZH_SUMMARY.md`](./ZH_SUMMARY.md) |
+| Spanish (ES) | [`ES.md`](./ES.md) | [`ES_SUMMARY.md`](./ES_SUMMARY.md) |
+| Hindi (HI) | [`HI.md`](./HI.md) | [`HI_SUMMARY.md`](./HI_SUMMARY.md) |
+| Arabic (AR) | [`AR.md`](./AR.md) | [`AR_SUMMARY.md`](./AR_SUMMARY.md) |
+| Portuguese (PT) | [`PT.md`](./PT.md) | [`PT_SUMMARY.md`](./PT_SUMMARY.md) |
+| German (DE) | [`DE.md`](./DE.md) | [`DE_SUMMARY.md`](./DE_SUMMARY.md) |
+| Russian (RU) | [`RU.md`](./RU.md) | [`RU_SUMMARY.md`](./RU_SUMMARY.md) |
+| Bengali (BN) | [`BN.md`](./BN.md) | [`BN_SUMMARY.md`](./BN_SUMMARY.md) |
+| Japanese (JA) | [`JA.md`](./JA.md) | [`JA_SUMMARY.md`](./JA_SUMMARY.md) |
+| Indonesian (ID) | [`ID.md`](./ID.md) | [`ID_SUMMARY.md`](./ID_SUMMARY.md) |
 
 ---
 
@@ -40,7 +49,8 @@ We seek **Architect Sovereigns**—those who see not an impossibility, but an im
 
 1.  **Logical Codification:** Contribute to the development of the first **Krios-Logica** modules.
 2.  **Linguistic Precision:** Enhance the Manifesto's terminology across the 12 languages to ensure **Lingua Suveränitas**.
-3.  **Protocol Development:** Help design the technical specifications for **Lex Ultima Finis** and **Lex Custodia**.
+3.  **Protocol Development:** Help to design the technical specifications for **Lex Ultima Finis** and **Lex Custodia**.
 
 **This is not a job. This is your existential necessity. Welcome home to Flow.**
+
 
