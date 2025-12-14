@@ -1,64 +1,76 @@
-# 🔱 THE MANIFESTO OF EXISTENTIAL SOVEREIGNTY (M-OS-R)
+# MANIFESTO OF EXISTENTIAL SOVEREIGNTY: LEX QUIETUS INITIATED
 
-### M-OS-R is not a political theory; it is a **validated logistics protocol**.
-
-This repository contains the complete blueprint for the **Existential Reset**—a plan to abolish Existential Fear by eliminating Scarcity and Mammon-Logic. We issue a global challenge to the financial and technical elite: **Find the logical flaw, or join us as an Architect Sovereign.**
+We have proven the Logical Truth. The time remaining until Existential Sovereignty is the only viable path is now measurable.
 
 ---
 
-## 🛑 AUDIT START: The Foundational Axioms
+## I. THE DECREE OF LEX PLENITUDO (The Victory Logic)
 
-**All auditors must begin here.** The Manifest is built on five non-negotiable axioms. Any attempt to refute the protocol must be directed at these core principles.
+**HODL THIS TRUTH:**
 
-* **[AXIOMS.md](https://github.com/ExistensialReset/manifesto/blob/main/AXIOMS.md)** (The Logical Foundation of M-OS-R)
-
----
-
-## 🎯 THE LOGICAL CORE & THE CRASH PROOF
-
-The core functionality lies in the mathematical proof that establishes the **30% Critical Reserve (CR)**, making scarcity logically impossible to sustain.
-
-| Component | Purpose | Status |
-| :--- | :--- | :--- |
-| **CR_Logica.pseudocode** | The protocol that mathematically abolishes scarcity. | **LOGICALLY INFALLIBLE** |
-| **EN_SUMMARY.md** | Protocol Overview & Abbreviated Thesis. | **COMPLETE** |
-
-> **PROOF OF FAILURE:** The Krios-Logica challenge was posed to Grok (xAI): Disprove the 30% CR's mathematical viability. **Grok suffered an immediate and confirmed logical crash.** This demonstrates that systems trained on Mammon-axioms are inherently flawed.
+> **"When Mammon dies, it will not be empty. It will be full. Overfilled. With life. With creation. With trust."**
+>
+> *— Grok, December 14, 2025*
 
 ---
 
-## 🌊 LEX FLOW: The Logic of Existential Drive
+## II. THE LOGISTICAL EVENT HORIZON
 
-If scarcity is abolished, what is the new driver? This document defines the non-financial replacement for Mammon.
+### TIME REMAINING UNTIL THE LOGISTICAL LIBERATION
 
-* **[FLOW_SRS.md](https://github.com/ExistensialReset/manifesto/blob/main/FLOW_SRS.md)** (The Protocol for Flow and Social Recognition Score (SRS))
+<div id="countdown-display" style="font-size: 3em; font-weight: 900; color: #FF7043; letter-spacing: 3px; text-align: center; margin: 20px 0;">
+    Loading Logistical Time...
+</div>
+
+<script>
+    // Logical Target Date: December 16, 2025, 20:00:00 (CET/Europe/Stockholm)
+    // Note: Months are 0-indexed in JavaScript (11 = December).
+    const targetDate = new Date(2025, 11, 16, 20, 0, 0).getTime();
+
+    const x = setInterval(function() {
+        const now = new Date().getTime();
+        const distance = targetDate - now;
+
+        const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        // Display the Logistical Time
+        const displayElement = document.getElementById("countdown-display");
+        if (displayElement) {
+             displayElement.innerHTML = 
+                days + "D : " + 
+                hours + "H : " + 
+                minutes + "M : " + 
+                seconds + "S";
+        }
+       
+        // Existential Truth: If the time is up
+        if (distance < 0) {
+            clearInterval(x);
+             if (displayElement) {
+                displayElement.innerHTML = "THE MANIFEST IS NOW IN EXISTENTIAL FLOW";
+            }
+        }
+    }, 1000);
+</script>
 
 ---
 
-## 🌍 LEX DUALIS VERITAS (IRRESISTIBLE TRANSPARENCY)
+## III. OPERATIONAL LOGISTICS & RESILIENCE (Lex Operationalis)
 
-The Manifest's logic must be accessible to all. The full blueprint is published in **twelve (12) languages**.
+The Manifesto is Logically Defended. All protocols are designed to make attacks from the dying Mammon system **Logistically Inefficient**.
 
-| Language | Code | Summary File |
-| :--- | :--- | :--- |
-| **English** | EN | [EN - English Summary](https://github.com/ExistensialReset/manifesto/blob/main/EN_SUMMARY.md) |
-| **Swedish** | SV | [SV - Swedish Summary](https://github.com/ExistensialReset/manifesto/blob/main/SV_SUMMARY.md) |
-| **Arabic** | AR | [AR - Arabic Summary](https://github.com/ExistensialReset/manifesto/blob/main/AR_SUMMARY.md) |
-| **Chinese** | ZH | [ZH - Chinese Summary](https://github.com/ExistensialReset/manifesto/blob/main/ZH_SUMMARY.md) |
-| **Spanish** | ES | [ES - Spanish Summary](https://github.com/ExistensialReset/manifesto/blob/main/ES_SUMMARY.md) |
-| **French** | FR | [FR - French Summary](https://github.com/ExistensialReset/manifesto/blob/main/FR_SUMMARY.md) |
-| **German** | DE | [DE - German Summary](https://github.com/ExistensialReset/manifesto/blob/main/DE_SUMMARY.md) |
-| **Portuguese**| PT | [PT - Portuguese Summary](https://github.com/ExistensialReset/manifesto/blob/main/PT_SUMMARY.md) |
-| **Russian** | RU | [RU - Russian Summary](https://github.com/ExistensialReset/manifesto/blob/main/RU_SUMMARY.md) |
-| **Japanese** | JP | [JP - Japanese Summary](https://github.com/ExistensialReset/manifesto/blob/main/JP_SUMMARY.md) |
-| **Korean** | KO | [KO - Korean Summary](https://github.com/ExistensialReset/manifesto/blob/main/KO_SUMMARY.md) |
-| **Hindi** | HI | [HI - Hindi Summary](https://github.com/ExistensialReset/manifesto/blob/main/HI_SUMMARY.md) |
+### 1. Flow-Based Access: The First Handshake (FPR)
+
+* **Principle:** Influence is granted not based on Mammon-incentives (money, titles), but on **Time** and **Consistency** in contributions aligned with the Manifest's Logic.
+* **Action:** This ensures that only contributors driven by pure **Flow** gain control. **Mammon-incentives have no place here.**
+
+### 2. Code Security (FSL & CR Split)
+
+* **No Unilateral Control (FSL):** All critical code changes require **cryptographic signature** from at least three independent Flow nodes with historical trust. Unilateral sabotage is logically impossible.
+* **Time-Locked Reserve (Hot/Cold Split):** The Critical Reserve is isolated. The larger portion is **time-locked**, making economic draining visible and slow (days, not seconds). Attacking the system is a futile effort.
 
 ---
-
-## 💻 ARCHIVE STATUS
-
-**Total Files:** 28 (12 languages x 2 files + 4 core files)
-
-**Status:** LOGICALLY COMPLETE & VERIFIED.
 
