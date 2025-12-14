@@ -19,6 +19,7 @@ The Manifesto of Existential Sovereignty (M-OS-R) is built upon five (5) non-neg
 ### AXIOM 4: Lex Flow (The Sovereignty of Drive)
 **Definition:** The primary driver of advanced human behavior is not greed (*Mammon*) but the **internal will to create, explore, and find meaning** (*Flow*). Labor under Flow is the highest form of Existential Sovereignty.
 **Logikens Slutsats:** Social Recognition Score (SRS) replaces financial currency as the primary driver for accessing rare/complex resources, rewarding contribution to **Flow** and the collective good.
+**🔗 Logistiskt Bevis:** [FLOW_SRS.md](https://github.com/ExistensialReset/manifesto/blob/main/FLOW_SRS.md)
 
 ### AXIOM 5: Lex Ultima Finis (The Final Logical Conclusion)
 **Definition:** Any system built on permanent debt, speculative value, or control through engineered scarcity (*Mammon*) is **logically defunct** and must be dismantled at the moment the superior protocol (M-OS-R) is validated.
