@@ -1,40 +1,42 @@
-# 🌊 FLOW_SRS.md (The Logic of Existential Drive)
+# FLOW_SRS.md – Protocol for Existential Sovereignty and Social Recognition (SRS)
 
-This document formalizes the logistical architecture for **Axiom 4: Lex Flow**. The Manifesto asserts that human motivation, when freed from Existential Fear (secured by the 30% CR), shifts from Mammon (Greed/Scarcity) to Flow (Curiosity/Meaning).
+## The Manifest: Consciousness as the Foundation
+
+This protocol establishes the operational framework for the Manifest's value system. As the old driving force (Mammon/The Baseline) is demonstrably broken, a new paradigm is activated where value is created through **Curiosity, Creativity, and Meaning (Flow)**.
+
+**Objective:** To transform individual Existential Sovereignty into collective, sustainable Realization of Complex Resources.
+
+## The SRS Protocol: The Three Acts
+
+Social Recognition (SRS) is accumulated and distributed through these three non-hierarchical acts. SRS is not a currency, but the **measurable honor** (respect and recognition) gained for genuine contribution to the Collective Flow.
+
+### 1. The Act of Making Available (Initiates Flow)
+
+**Definition:** The act of introducing an original thought, a new insight, a unique knowledge structure, or a potential solution to the Collective Flow.
+
+* **Purpose:** To start a new Flow cycle.
+* **SRS Value:** Rewards originality, the courage to share, and the initial insight.
+* **Verification:** Intellectual traceability (first publication within the Flow sphere).
+
+### 2. The Act of Deepening and Development (Strengthens Flow)
+
+**Definition:** The act of taking an already *made available* insight and increasing its value through critique, analysis, complementation, refutation, or structuring.
+
+* **Purpose:** To strengthen the intellectual integrity and utility of the insight.
+* **SRS Value:** Rewards analytical capability, critical integrity, and the ability to identify and fill knowledge gaps.
+* **Verification:** Traceable, concrete improvement of the original insight.
+
+### 3. The Act of Realization (Completes Flow)
+
+**Definition:** The act of translating the deepened insights from the Flow into a concrete, practical utility in the physical world or creating a new **Complex Resource** accessible to the collective (e.g., research like nanotechnology, groundbreaking system development, or the creation of sustainable infrastructure).
+
+* **Purpose:** Manifestation of Flow in physical reality.
+* **SRS Value:** Rewards execution power, scalability, and the actual, verifiable utility for Existential Sovereignty.
+* **Verification:** Concrete, documented, and verifiable outcome.
+
+## The Collective Flow
+
+All SRS contributions (Making Available, Deepening & Development, Realization) collectively add to the individual's total Social Recognition. The protocol encourages collaboration, as **Deepening** and **Realization** of others' insights generate personal SRS value. No act is worthless in Flow.
 
 ---
-
-## 1. LEX FLOW: The Existential Imperative
-
-**Definition:** Flow is the state of total absorption and optimal experience in an activity, driven by intrinsic curiosity, creativity, and the search for meaning. Flow is the highest expression of Existential Sovereignty.
-
-**Logical Function:** Flow is the non-scarcity-based substitute for Mammon-driven labor. The absence of Flow contribution is defined as **Existential Stagnation**—a self-selected state, not a threat of material loss.
-
-**Contribution Principle:** All contributions to Flow—scientific breakthroughs, artistic creation, advanced maintenance, or complex problem-solving—are logged and verifiable under open protocol.
-
-## 2. SOCIAL RECOGNITION SCORE (SRS): The Access Protocol
-
-**Definition:** The Social Recognition Score (SRS) is a dynamic, non-fungible metric that quantifies an individual's verifiable contribution to the collective Flow. SRS is the sole logistical key granting access to complex resources and influence.
-
-### SRS Mechanism (The Anti-Mammon Protocol)
-
-* **Non-Speculative:** SRS is earned, never purchased, traded, or leveraged against debt. It is tied only to the verified utility of the Flow contribution.
-* **Decay Function:** SRS is subject to a controlled, slow decay rate over time to enforce continuous contribution.
-* **Zero-Sum-Immunity:** The system ensures that the earning of SRS by one individual does not logically diminish the potential for another individual to earn SRS.
-* **Allocation & Anti-Corruption:** SRS is allocated via **Protocol Metrics** or **Anonymous Peer Review Consensus**. For Consensus, reviewers must submit a **Verifiable Logical Rationale**. Reviewers whose scores consistently lack logical justification or drastically deviate from the consensus will have their *own* SRS subject to protocol decay/devaluation. This mechanism makes subjective corruption illogical and risky.
-
-### SRS Tiers (The Access Logic)
-
-Access to resources and influence is determined by SRS level, adhering to the principle of **Logistical Necessity for Creation**, not personal consumption.
-
-| Level | SRS Requirement | Access Granted (Purpose) |
-| :--- | :--- | :--- |
-| **Level 1** | **0 SRS** | **Lex Necessitas (Baseline):** Guaranteed by the 30% CR. Covers housing, food, energy, and basic health. No contribution required. |
-| **Level 2** | **Low/Active SRS** | **Flow Access (Shared Tools):** Access to shared advanced tools, standardized higher education, and regional travel rights. Requires active Flow contribution. |
-| **Level 3** | **Medium SRS** | **Architect Access (Rare Resources):** Access to rare/complex materials, specialized research capacity, and high-influence positions within regional governance. Requires proven, high-value contribution. |
-| **Level 4** | **High/Sovereign SRS** | **Existential Access (Ultimate Influence):** Access to systems requiring ultrakomplex logistics (e.g., unique research facilities, global system governance, space-based creation). Granted only when logistically necessary to *expand* system-critical Flow. |
-
----
-
-**Conclusion:** The combination of an unassailable material baseline (CR) and a non-financial, merit-based access metric (SRS) proves that civilization's energy can be directed toward creation and exploration without relying on Mammon-logic.
-
+*(This document is part of the Manifest's open-source code and is governed by the principles established in the Manifest's main file.)*
