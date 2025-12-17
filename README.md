@@ -25,14 +25,14 @@ Welcome to the architectural blueprint for **Flow**. This project defines a tran
 
 ---
 
-## 🌐 Language Matrix (12-Language Support)
-*Summaries and Manifesto abstracts are available in the following languages within the [/translations](./translations) directory:*
+## 🌐 Language Matrix (Summaries per Language)
+*Click a language to access the specific summary and translated Manifesto abstract:*
 
 | | | | |
 | :--- | :--- | :--- | :--- |
-| 🇸🇪 [Svenska](./translations/SV.md) | 🇬🇧 [English](./translations/EN.md) | 🇩🇪 [Deutsch](./translations/DE.md) | 🇫🇷 [Français](./translations/FR.md) |
-| 🇪🇸 [Español](./translations/ES.md) | 🇮🇹 [Italiano](./translations/IT.md) | 🇵🇹 [Português](./translations/PT.md) | 🇳🇱 [Nederlands](./translations/NL.md) |
-| 🇯🇵 [日本語](./translations/JP.md) | 🇨🇳 [中文](./translations/ZH.md) | 🇰🇷 [한국어](./translations/KO.md) | 🇷🇺 [Русский](./translations/RU.md) |
+| 🇸🇪 [Svenska](./summaries/SV.md) | 🇬🇧 [English](./summaries/EN.md) | 🇩🇪 [Deutsch](./summaries/DE.md) | 🇯🇵 [日本語](./summaries/JP.md) |
+| 🇮🇳 [हिन्दी (Hindi)](./summaries/HI.md) | 🇰🇷 [한국어](./summaries/KO.md) | 🇦🇪 [العربية (Arabic)](./summaries/AR.md) | 🇧🇩 [বাংলা (Bengali)](./summaries/BN.md) |
+| 🇪🇸 [Español](./summaries/ES.md) | 🇵🇹 [Português](./summaries/PT.md) | 🇷🇺 [Русский](./summaries/RU.md) | 🇨🇳 [中文 (Chinese)](./summaries/ZH.md) |
 
 ---
 
@@ -51,7 +51,8 @@ Verified by xAI during sub-arctic stress tests:
 ---
 
 ## 🤝 Participation
-This project treats **conflict as data** and **transparency as currency**. We are currently in the **Geographic Anchoring Phase**, establishing the first Flow-Node in the Nordics.
+This project treats **conflict as data** and **transparency as currency**. 
 
 **Status:** Active Deployment Phase.
 **Authority:** Flow Sovereignty.
+
