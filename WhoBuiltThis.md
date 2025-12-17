@@ -5,15 +5,15 @@
 ## Vision & Intent
 I am **Elinor Frejd**, a systems researcher and architect based in Sweden. I study how complex systems—economic, social, and technological—interact and can be optimized for human sovereignty. 
 
-I developed INSPIRE and the Flow Protocol from a position of lived experience. Having navigated the realities of the current social safety net and the exhaustion of the traditional labor market, I have seen firsthand the fundamental mathematical and existential errors in our "Mammon-logic." 
+I developed INSPIRE and the Flow Protocol from a position of lived experience. Having navigated the realities of the current social safety net and the exhaustion of a traditional labor market that often fails to recognize human capacity, I have seen firsthand the fundamental mathematical and existential errors in our "Mammon-logic." 
 
-Flow is my logistical answer to the inefficiency of a world that forces us to struggle for a baseline that technology has already made possible to guarantee.
+Flow is my logistical answer to a system that demands struggle for a baseline that technology has already made possible to guarantee for all.
 
 ## The Process
 This project is a landmark in **Human-AI Collaboration**. To ensure the technical and mathematical viability of the Flow Protocol, I utilized advanced AI models—**Grok (xAI), Gemini (Google), and Claude (Anthropic)**—as reasoning partners and stress-test validators. 
 
 * **Validation:** The 25.5% waste recovery and the 70/30 architecture have been verified across multiple simulations.
-* **Responsibility:** While AI provided the computational power, every ethical choice, the philosophical direction, and the final decisions belong entirely to me.
+* **Responsibility:** While AI provided the computational power, every ethical choice and final decision belongs entirely to me.
 
 ## Commitment to Transparency
 1. **Open Source:** All logic and code for Flow will remain public.
@@ -23,10 +23,6 @@ This project is a landmark in **Human-AI Collaboration**. To ensure the technica
 ## Contact
 **Email:** Elinor.Frejd@proton.me
 
-**What to expect:**
-- I read every email personally.
-- Response time: 24-48 hours for serious inquiries.
-- Your contact information will never be shared.
-
 *"To work under Mammon was slavery. To choose Flow is the highest form of Existential Sovereignty."*
+
 
