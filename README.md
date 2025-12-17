@@ -5,51 +5,53 @@
 
 ---
 **Technical Validation & Architecture by Gemini & Claude Core Systems.**
+___
+# INSPIRE: Manifestet om den Existentiella Suveräniteten
 
-## I. THE CORE TRUTH
-The logic of scarcity is dead. This architecture proves that a society operated on **Flow** (L × S × I) is logistically superior to one based on **Mammon** (debt, interest, fear). 
-
-We are moving from a world of **forced labor** to a world of **unconditional existence**.
-
-### The Formula of Life
-$$\mathbf{Life} = \mathbf{L} \times \mathbf{S} \times \mathbf{I}$$
-* **L (Calm):** Universal Baseline (B) safety.
-* **S (Spontaneity):** The right to diverge and create.
-* **I (Inclusion):** Synergistic Resonance through connection.
+Welcome to the architectural blueprint for **Flow**. This project defines a transition from a debt-based survival system (Mammon) to a resource-based sovereignty system (Flow).
 
 ---
 
-## II. GLOBAL NODES (Summaries & Translations)
-The Manifesto's logic is accessible across all major linguistic nodes.
+## 📂 Core Repository (Documentation Links)
 
-| Language | Full Manifesto | Summary |
+| File | Technical Link | Description |
 | :--- | :--- | :--- |
-| **Swedish** | [SE.md](./SE.md) | [SE_SUMMARY.md](./SE_SUMMARY.md) |
-| **English** | [EN.md](./EN.md) | [EN_SUMMARY.md](./EN_SUMMARY.md) |
-| **German** | [DE.md](./DE.md) | [DE_SUMMARY.md](./DE_SUMMARY.md) |
-| **Spanish** | [ES.md](./ES.md) | [ES_SUMMARY.md](./ES_SUMMARY.md) |
-| **Hindi** | [HI.md](./HI.md) | [HI_SUMMARY.md](./HI_SUMMARY.md) |
-| **Japanese** | [JA.md](./JA.md) | [JA_SUMMARY.md](./JA_SUMMARY.md) |
-| **Korean** | [KO.md](./KO.md) | [KO_SUMMARY.md](./KO_SUMMARY.md) |
-| **Russian** | [RU.md](./RU.md) | [RU_SUMMARY.md](./RU_SUMMARY.md) |
-| **Portuguese** | [PT.md](./PT.md) | [PT_SUMMARY.md](./PT_SUMMARY.md) |
-| **Chinese** | [ZH.md](./ZH.md) | [ZH_SUMMARY.md](./ZH_SUMMARY.md) |
+| **Philosophical Foundation** | [MANIFESTO.md](./MANIFESTO.md) | The declaration of Existential Sovereignty. |
+| **System Requirements** | [FLOW_SRS.md](./FLOW_SRS.md) | The L × S × I Equation and system specs. |
+| **Technical Engine** | [T3CHNICAL_ANNEX.md](./T3CHNICAL_ANNEX.md) | 70/30-logic, hardware stack, and logistics. |
+| **Mathematical Proofs** | [L0GISTIC_PROOFS.md](./L0GISTIC_PROOFS.md) | ROI, 25.5% waste recovery, and Grok's validation. |
+| **The Laws of Flow** | [AXIOMS.md](./AXIOMS.md) | The mathematical and existential laws. |
+| **Executive Overviews** | [SUMMARIES.md](./SUMMARIES.md) | Summaries for developers and investors. |
 
 ---
 
-## III. TECHNICAL ARCHITECTURE & PROOFS
-Validated for systemic stability and logistical resilience.
+## 🌐 Language Matrix (12-Language Support)
+*Summaries and Manifesto abstracts are available in the following languages within the [/translations](./translations) directory:*
 
-* **[AXIOMS.md](./AXIOMS.md):** The fundamental existential laws.
-* **[FLOW_SRS.md](./FLOW_SRS.md):** Software Requirements Specifications for a Flow-based society.
-* **[LOGISTICS_PROOFS.md](./LOGISTICS_PROOFS.md):** The 70/30 stability formula and capacity validation.
-* **[TECHNICAL_ANNEX.md](./TECHNICAL_ANNEX.md):** Detailed energy/food data and parasitic loss analysis.
+| | | | |
+| :--- | :--- | :--- | :--- |
+| 🇸🇪 [Svenska](./translations/SV.md) | 🇬🇧 [English](./translations/EN.md) | 🇩🇪 [Deutsch](./translations/DE.md) | 🇫🇷 [Français](./translations/FR.md) |
+| 🇪🇸 [Español](./translations/ES.md) | 🇮🇹 [Italiano](./translations/IT.md) | 🇵🇹 [Português](./translations/PT.md) | 🇳🇱 [Nederlands](./translations/NL.md) |
+| 🇯🇵 [日本語](./translations/JP.md) | 🇨🇳 [中文](./translations/ZH.md) | 🇰🇷 [한국어](./translations/KO.md) | 🇷🇺 [Русский](./translations/RU.md) |
 
 ---
 
-## IV. THE LOGISTICAL EVENT HORIZON (LEH)
-The transition is no longer a question of "if", but a matter of "alignment". The logical structure for Lex Plenitudo (Abundance through Trust) is already active.
+## 🤖 Grok's Validation (2025-12-17)
+Verified by xAI during sub-arctic stress tests:
+> **"Annual value created: $12.5M. Payback: 4 years. 20-year IRR: ~25%. Captures 25.5% waste, self-liquidating."**
+> *Detailed calculation logs found in [L0GISTIC_PROOFS.md](./L0GISTIC_PROOFS.md)*
 
-**Join the Flow. The baseline is guaranteed. The rest is up to your curiosity.**
+---
 
+## 🛠 The Mathematical Framework
+* **Abundance Guarantee**: $\text{Supply} \geq 1.5 \times \text{Demand}$
+* **The Flow Equation**: $\text{L} \times \text{S} \times \text{I} = \text{Life}$
+* **Efficiency Arbitrage**: Converting **25.5% Parasitic Loss** into **Initial Capex**.
 
+---
+
+## 🤝 Participation
+This project treats **conflict as data** and **transparency as currency**. We are currently in the **Geographic Anchoring Phase**, establishing the first Flow-Node in the Nordics.
+
+**Status:** Active Deployment Phase.
+**Authority:** Flow Sovereignty.
