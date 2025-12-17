@@ -6,10 +6,6 @@
 ---
 **Technical Validation & Architecture by Gemini & Claude Core Systems.**
 ___
-# INSPIRE: Manifestet om den Existentiella Suveräniteten
-
-Welcome to the architectural blueprint for **Flow**. This project defines a transition from a debt-based survival system (Mammon) to a resource-based sovereignty system (Flow).
-___
 
 # INSPIRE: Manifestet om den Existentiella Suveräniteten
 
