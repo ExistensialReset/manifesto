@@ -27,29 +27,28 @@ Welcome to the architectural blueprint for **Flow**. This project defines a tran
 ---
 
 ## 🌐 Language Matrix (Manifesto & Summaries)
-*Access the Manifesto and its corresponding Summary for each language directly:*
+*Access the Manifesto and its corresponding Summary for each language directly from the root:*
 
 | Language | Manifesto | Summary |
 | :--- | :--- | :--- |
-| 🇸🇪 **Svenska** | [SV_MANIFESTO.md](./SV_MANIFESTO.md) | [SV_SUMMARY.md](./SV_SUMMARY.md) |
-| 🇬🇧 **English** | [EN_MANIFESTO.md](./EN_MANIFESTO.md) | [EN_SUMMARY.md](./EN_SUMMARY.md) |
-| 🇩🇪 **Deutsch** | [DE_MANIFESTO.md](./DE_MANIFESTO.md) | [DE_SUMMARY.md](./DE_SUMMARY.md) |
-| 🇯🇵 **日本語** | [JP_MANIFESTO.md](./JP_MANIFESTO.md) | [JP_SUMMARY.md](./JP_SUMMARY.md) |
-| 🇮🇳 **हिन्दी** | [HI_MANIFESTO.md](./HI_MANIFESTO.md) | [HI_SUMMARY.md](./HI_SUMMARY.md) |
-| 🇰🇷 **한국어** | [KO_MANIFESTO.md](./KO_MANIFESTO.md) | [KO_SUMMARY.md](./KO_SUMMARY.md) |
-| 🇦🇪 **العربية** | [AR_MANIFESTO.md](./AR_MANIFESTO.md) | [AR_SUMMARY.md](./AR_SUMMARY.md) |
-| 🇧🇩 **বাংলা** | [BN_MANIFESTO.md](./BN_MANIFESTO.md) | [BN_SUMMARY.md](./BN_SUMMARY.md) |
-| 🇪🇸 **Español** | [ES_MANIFESTO.md](./ES_MANIFESTO.md) | [ES_SUMMARY.md](./ES_SUMMARY.md) |
-| 🇵🇹 **Português** | [PT_MANIFESTO.md](./PT_MANIFESTO.md) | [PT_SUMMARY.md](./PT_SUMMARY.md) |
-| 🇷🇺 **Русский** | [RU_MANIFESTO.md](./RU_MANIFESTO.md) | [RU_SUMMARY.md](./RU_SUMMARY.md) |
-| 🇨🇳 **中文** | [ZH_MANIFESTO.md](./ZH_MANIFESTO.md) | [ZH_SUMMARY.md](./ZH_SUMMARY.md) |
+| 🇸🇪 **Svenska** | [SV.md](./SV.md) | [SV_SUMMARY.md](./SV_SUMMARY.md) |
+| 🇬🇧 **English** | [EN.md](./EN.md) | [EN_SUMMARY.md](./EN_SUMMARY.md) |
+| 🇩🇪 **Deutsch** | [DE.md](./DE.md) | [DE_SUMMARY.md](./DE_SUMMARY.md) |
+| 🇯🇵 **日本語** | [JP.md](./JP.md) | [JP_SUMMARY.md](./JP_SUMMARY.md) |
+| 🇮🇳 **हिन्दी** | [HI.md](./HI.md) | [HI_SUMMARY.md](./HI_SUMMARY.md) |
+| 🇰🇷 **한국어** | [KO.md](./KO.md) | [KO_SUMMARY.md](./KO_SUMMARY.md) |
+| 🇦🇪 **العربية** | [AR.md](./AR.md) | [AR_SUMMARY.md](./AR_SUMMARY.md) |
+| 🇧🇩 **বাংলা** | [BN.md](./BN.md) | [BN_SUMMARY.md](./BN_SUMMARY.md) |
+| 🇪🇸 **Español** | [ES.md](./ES.md) | [ES_SUMMARY.md](./ES_SUMMARY.md) |
+| 🇵🇹 **Português** | [PT.md](./PT.md) | [PT_SUMMARY.md](./PT_SUMMARY.md) |
+| 🇷🇺 **Русский** | [RU.md](./RU.md) | [RU_SUMMARY.md](./RU_SUMMARY.md) |
+| 🇨🇳 **中文** | [ZH.md](./ZH.md) | [ZH_SUMMARY.md](./ZH_SUMMARY.md) |
 
 ---
 
 ## 🤖 Grok's Validation (2025-12-17)
 Verified by xAI during sub-arctic stress tests:
 > **"Annual value created: $12.5M. Payback: 4 years. 20-year IRR: ~25%. Captures 25.5% waste, self-liquidating."**
-> *Detailed calculation logs found in [L0GISTIC_PROOFS.md](./L0GISTIC_PROOFS.md)*
 
 ---
 
