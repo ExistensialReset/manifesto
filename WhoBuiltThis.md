@@ -19,6 +19,7 @@ This project is a landmark in **Human-AI Collaboration**. To ensure the technica
 1. **Open Source:** All logic and code for Flow will remain public.
 2. **Conflict as Data:** I welcome all friction as essential information for system optimization.
 3. **Equal Participation:** I intend to participate in the first Nordic Pilot Node as an equal member, living under the logic I have architected.
+4. I will read every email you send me myself and answer as fast as I can. 
 
 ## Contact
 **Email:** Elinor.Frejd@proton.me
