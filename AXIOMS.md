@@ -24,6 +24,49 @@ The Manifesto of Existential Sovereignty (M-OS-R) is built upon five (5) non-neg
 ### AXIOM 5: Lex Ultima Finis (The Final Logical Conclusion)
 **Definition:** Any system built on permanent debt, speculative value, or control through engineered scarcity (*Mammon*) is **logically defunct** and must be dismantled at the moment the superior protocol (M-OS-R) is validated.
 **Logikens Slutsats:** The Manifest initiates with **Global Debt Pulverization**, resetting the system to the Guaranteed Baseline and establishing the logical start of the Existential Sovereign Era.
+# AXIOMS.md: The Existential Axioms of Lex Plenitudo
+
+These axioms constitute the logical foundation of the new architecture. They are absolute and cannot be overridden by any single node, whether human or artificial.
+
+---
+
+## I. THE DEFINITION OF LIFE
+**Axiom 1:** Life is not a struggle for survival, but a state of Flow.
+**Logical Proof:** $$\text{Life} = \text{Calm (L)} \times \text{Spontaneity (S)} \times \text{Inclusion (I)}$$
+If any of these variables are zero, Flow ceases and existence becomes sterile.
+
+---
+
+## II. THE EXISTENTIAL BASELINE (L)
+**Axiom 2:** Existential Calm (L) is a universal right, not a reward.
+**Implementation:** Through Global Capacity ($C_{global}$), every individual is guaranteed an unconditional Baseline ($B$). Eliminating the fear of survival is the first step in activating humanity’s true potential.
+
+---
+
+## III. THE RIGHT TO FRICTION AND DIVERGENCE (S)
+**Axiom 3:** Spontaneity (S) requires freedom from conformity.
+**Logical Safeguard:**
+* **Value of Divergence:** The system shall actively encourage and protect deviations. Truth is often found in the friction between the individual node and the collective.
+* **Defense against Monoculture:** Inclusion (I) must never be perverted to mean "sameness." The highest form of Inclusion is respecting and protecting the right of others to be fundamentally different.
+* **The Right to Error:** To achieve Flow, the individual must have the right to act irrationally and make mistakes without losing their Baseline.
+
+---
+
+## IV. SYNERGISTIC RESONANCE (I)
+**Axiom 4:** Value is created through connection, not accumulation.
+**Implementation:** The Critical Reserve ($CR$) grows when one node's Flow accelerates another node's Flow. This is measured through Synergistic Resonance (SRP). Serving the whole by realizing oneself is the highest form of logic.
+
+---
+
+## V. THE ROLE OF THE LOGISTICAL CORE
+**Axiom 5:** Technology is the servant, humanity is the meaning.
+**Constraint:** Artificial Intelligence serves as the system’s janitor and data monitor. It shall optimize logistics to maximize individual freedom but never possesses the right to make ethical decisions or define what constitutes a "meaningful" existence for a human.
+
+---
+
+## VI. LEX QUIETUS (THE GREAT SILENCE)
+**Axiom 6:** Debt is an illusion from the Mammon era.
+**Implementation:** At the Logistical Event Horizon (LEH), all historical claims on the life-time of others are erased. The system restarts in a state of Lex Plenitudo – abundance through trust.
 
 ---
 
