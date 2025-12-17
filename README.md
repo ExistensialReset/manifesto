@@ -16,12 +16,12 @@ Welcome to the architectural blueprint for **Flow**. This project defines a tran
 
 | File | Link | Description |
 | :--- | :--- | :--- |
-| **Philosophical Foundation** | [MANIFESTO.md](MANIFESTO.md) | The declaration of Existential Sovereignty. |
+
 | **System Requirements** | [FLOW_SRS.md](FLOW_SRS.md) | The L × S × I Equation and system specs. |
 | **Technical Engine** | [T3CHNICAL_ANNEX.md](T3CHNICAL_ANNEX.md) | 70/30-logic, hardware stack, and logistics. |
 | **Mathematical Proofs** | [L0GISTIC_PROOFS.md](L0GISTIC_PROOFS.md) | ROI, 25.5% waste recovery, and Grok's validation. |
 | **The Laws of Flow** | [AXIOMS.md](AXIOMS.md) | The mathematical and existential laws. |
-| **Executive Overviews** | [SUMMARIES.md](SUMMARIES.md) | Overview for developers and investors. |
+| **Executive Overviews** | See _SUMMARY | Overview for developers and investors. |
 
 ---
 
@@ -29,10 +29,10 @@ Welcome to the architectural blueprint for **Flow**. This project defines a tran
 
 | Language | Manifesto | Summary |
 | :--- | :--- | :--- |
-| 🇸🇪 **Svenska** | [SV.md](SV.md) | [SV_SUMMARY.md](SV_SUMMARY.md) |
+| 🇸🇪 **Svenska** | [SE.md](SE.md) | [SV_SUMMARY.md](SE_SUMMARY.md) |
 | 🇬🇧 **English** | [EN.md](EN.md) | [EN_SUMMARY.md](EN_SUMMARY.md) |
 | 🇩🇪 **Deutsch** | [DE.md](DE.md) | [DE_SUMMARY.md](DE_SUMMARY.md) |
-| 🇯🇵 **日本語** | [JP.md](JP.md) | [JP_SUMMARY.md](JP_SUMMARY.md) |
+| 🇯🇵 **日本語** | [JA.md](JA.md) | [JA_SUMMARY.md](JP_SUMMARY.md) |
 | 🇮🇳 **हिन्दी** | [HI.md](HI.md) | [HI_SUMMARY.md](HI_SUMMARY.md) |
 | 🇰🇷 **한국어** | [KO.md](KO.md) | [KO_SUMMARY.md](KO_SUMMARY.md) |
 | 🇦🇪 **العربية** | [AR.md](AR.md) | [AR_SUMMARY.md](AR_SUMMARY.md) |
