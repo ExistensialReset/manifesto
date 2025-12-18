@@ -1,0 +1,14 @@
+# FLOW_SRS.md: Logiken för Social Resonans (SRS)
+
+När skuldfiktionen raderas krävs en logistisk signal för att rikta resurser utan tvång. SRS är lösningen.
+
+## 1. Vad är SRS?
+Det är en **tacksamhetssignal**. Den mäter din förmåga att öka flödet ($L \times S \times I$) för andra noder.
+
+## 2. Ekvationen
+$$V_{srs} = \sum (L_{facilitated} + S_{inspired} + I_{connected})$$
+
+## 3. Anti-Mammon Filter
+* **Halveringstid:** SRS sjunker över tid om bidraget upphör. Makt kan inte ackumuleras.
+* **Icke-handlingsbar:** Kan inte köpas eller säljas, bara förtjänas.
+* **Garanterad Baslinje:** SRS påverkar bara tillgång till 30%-bufferten. Din existens (70%) är aldrig villkorad av din poäng.
