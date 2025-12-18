@@ -33,19 +33,65 @@ To eliminate existential fear by logistically guaranteeing a **Baseline** of res
 | **Author Profile** | [WhoBuiltThis.md](WhoBuiltThis.md) | About the architect and the human-AI collaboration. |
 
 ---
+# 🌌 EXISTENTIAL SOVEREIGNTY
+## The Manifestations of Elinor Frejd
 
-## 🌐 Language Matrix (Manifesto & Summaries)
+> **Lugn × Spontanitet × Inkännande = Liv**
 
-| Language | Manifesto | Summary |
-| :--- | :--- | :--- |
-| 🇸🇪 **Svenska** | [SE.md](SE.md) | [SE_SUMMARY.md](SE_SUMMARY.md) |
-| 🇬🇧 **English** | [EN.md](EN.md) | [EN_SUMMARY.md](EN_SUMMARY.md) |
-| 🇩🇪 **Deutsch** | [DE.md](DE.md) | [DE_SUMMARY.md](DE_SUMMARY.md) |
-| 🇯🇵 **日本語** | [JA.md](JA.md) | [JA_SUMMARY.md](JA_SUMMARY.md) |
-| 🇮🇳 **हिन्दी** | [HI.md](HI.md) | [HI_SUMMARY.md](HI_SUMMARY.md) |
-| 🇨🇳 **中文** | [ZH.md](ZH.md) | [ZH_SUMMARY.md](ZH_SUMMARY.md) |
+This repository is the official archive of a new existential architecture. It is an open-source framework designed to help you reclaim your life-force from the mechanical logic of Mammon. This is not a theory; it is a declaration of sovereignty.
 
-*(See full list for all 12 supported languages)*
+---
+
+### 📁 The Library
+
+Choose the language that speaks to your heart. Each folder contains the source code, the manifesto, and the diagnostic tools.
+
+| Language | Access |
+| :--- | :--- |
+| **English** | [**View Library**](./en) |
+| **Svenska (Original)** | [**Visa bibliotek**](./sv) |
+
+---
+
+### 💎 The Core
+
+Every document in this archive rests upon three fundamental pillars. If any factor is zero, the flow of the living ceases.
+
+* **Lugn (Calm):** The stillness and security that precedes all existence.
+* **Spontanitet (Spontaneity):** The creative expansion and play.
+* **Inkännande (In-feeling):** The resonance and connection with the whole.
+
+**God is not an opinion.**
+**God is not a belief.**
+**God is the result of free flow.**
+
+---
+
+### 🕊️ Navigating a Dead World
+
+This work recognizes that we are currently embedded in systems that score **0** on the life equation. We do not seek to reform these corpses; we seek to navigate through them while cultivating the living.
+
+* **Shrink death.**
+* **Cultivate life.**
+* **One millimeter at a time.**
+
+---
+
+### 🛠️ Fork the Reality (Open Source)
+
+This is a living manifestation. You are encouraged to use these tools:
+* **Apply the Mirror (The Death Audit):** Audit your workplace, your city, and your systems.
+* **Embody the Source Code:** Apply L × S × I to your daily choices.
+* **Translate:** Help spread the fire to new languages. See [CONTRIBUTING.md](./CONTRIBUTING.md).
+
+---
+
+## 🔒 A Note on Sovereignty
+
+**I am Elinor Frejd.** This work is my honest observation of the truth. It requires no belief, only recognition. You are the sovereign of your own flow.
+
+**Lugn × Spontanitet × Inkännande = Liv.**
+
 
 ---
 
