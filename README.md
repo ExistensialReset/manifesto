@@ -25,7 +25,7 @@ To eliminate existential fear by logistically guaranteeing a **Baseline** of res
 
 | File | Technical Link | Description |
 | :--- | :--- | :--- |
-| **Philosophical Foundation** | [MANIFESTO.md](MANIFESTO.md) | The declaration of Existential Sovereignty. |
+| **Philosophical Foundation** | [MANIFESTO.md](en/MANIFESTO.md) | The declaration of Existential Sovereignty. |
 | **System Requirements** | [FLOW_SRS.md](FLOW_SRS.md) | The L × S × I Equation and system specs. |
 | **Technical Engine** | [T3CHNICAL_ANNEX.md](T3CHNICAL_ANNEX.md) | 70/30-logic, hardware stack, and logistics. |
 | **Mathematical Proofs** | [L0GISTIC_PROOFS.md](L0GISTIC_PROOFS.md) | ROI, 25.5% waste recovery, and Grok's validation. |
