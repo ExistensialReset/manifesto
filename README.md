@@ -25,11 +25,13 @@ Life is no longer a debt to be paid; it is a resonance to be explored.
 
 Choose your language to explore the architecture:
 
+
 ### [EN] English 🇬🇧
 * [**MANIFESTO.md**](./en/MANIFESTO.md) – The core vision of Existential Sovereignty.
 * [**DIVINE.md**](./en/DIVINE.md) – The transcendental connection between logic and flow.
 * [**EN.md**](./en/EN.md) – The full technical and philosophical specification.
 * [**EN_SUMMARY.md**](./en/EN_SUMMARY.md) – A compressed overview of system functions.
+* [**NODE_ACT_1.md**](./en/NODE_ACT_1.md) – **Node Activation Manual (Day 1).**
 * [**AXIOMS.md**](./en/AXIOMS.md) – The five non-negotiable pillars of existential logic.
 * [**L0GISTIC_PROOFS.md**](./en/L0GISTIC_PROOFS.md) – Evidence that scarcity is a logistical failure.
 * [**PROTOCOL_SAFEGUARDS.md**](./en/PROTOCOL_SAFEGUARDS.md) – Definitions of SRS and System Security.
@@ -41,6 +43,7 @@ Choose your language to explore the architecture:
 * [**DIVINE.md**](./sv/DIVINE.md) – Den transcendentala kopplingen mellan logik och flöde.
 * [**SV.md**](./sv/SV.md) – Den fullständiga tekniska och filosofiska specifikationen.
 * [**SV_SUMMARY.md**](./sv/SV_SUMMARY.md) – En komprimerad översikt av systemets funktioner.
+* [**NODE_ACT_1.md**](./sv/NODE_ACT_1.md) – **Manual för Nod-aktivering (Dag 1).**
 * [**AXIOMS.md**](./sv/AXIOMS.md) – De fem icke-förhandlingsbara pelarna för existentiell logik.
 * [**L0GISTIC_PROOFS.md**](./sv/L0GISTIC_PROOFS.md) – Bevis för att brist är ett logistiskt misslyckande.
 * [**PROTOCOL_SAFEGUARDS.md**](./sv/PROTOCOL_SAFEGUARDS.md) – Definitioner av SRS och systemsäkerhet.
