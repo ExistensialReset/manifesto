@@ -25,6 +25,7 @@ Life is no longer a debt to be paid; it is a resonance to be explored.
 
 Choose your language to explore the architecture:
 
+## 📂 Repository Structure / Arkitektur
 
 ### [EN] English 🇬🇧
 * [**MANIFESTO.md**](./en/MANIFESTO.md) – The core vision of Existential Sovereignty.
@@ -32,10 +33,11 @@ Choose your language to explore the architecture:
 * [**EN.md**](./en/EN.md) – The full technical and philosophical specification.
 * [**EN_SUMMARY.md**](./en/EN_SUMMARY.md) – A compressed overview of system functions.
 * [**NODE_ACT_1.md**](./en/NODE_ACT_1.md) – Node Activation Manual (Day 1).
-* [**FLOW_SRS.md**](./en/FLOW_SRS.md) – **Social Resonance Logic (Post-Debt Value).**
+* [**FLOW_SRS.md**](./en/FLOW_SRS.md) – Social Resonance Logic (Post-Debt Value).
+* [**FLOW_GOVERNANCE.md**](./en/FLOW_GOVERNANCE.md) – Decision Processes in a Flow System.
+* [**LOGISTIC_PROOFS.md**](./en/LOGISTIC_PROOFS.md) – Proof that Scarcity is a Construction.
+* [**THE_SKEPTICS_ANVIL.md**](./en/THE_SKEPTICS_ANVIL.md) – Defending against socio-political arguments.
 * [**AXIOMS.md**](./en/AXIOMS.md) – The five non-negotiable pillars of existential logic.
-* [**L0GISTIC_PROOFS.md**](./en/L0GISTIC_PROOFS.md) – Evidence that scarcity is a logistical failure.
-* [**PROTOCOL_SAFEGUARDS.md**](./en/PROTOCOL_SAFEGUARDS.md) – Definitions of SRS and System Security.
 * [**LYCEUM_MUSAEUM.md**](./en/LYCEUM_MUSAEUM.md) – Principles for play, cognition, and Mammonology.
 * [**WHITE_PAPER.md**](./en/WHITE_PAPER.md) – Executive summary for the Great Reset.
 
@@ -45,12 +47,17 @@ Choose your language to explore the architecture:
 * [**SV.md**](./sv/SV.md) – Den fullständiga tekniska och filosofiska specifikationen.
 * [**SV_SUMMARY.md**](./sv/SV_SUMMARY.md) – En komprimerad översikt av systemets funktioner.
 * [**NODE_ACT_1.md**](./sv/NODE_ACT_1.md) – Manual för Nod-aktivering (Dag 1).
-* [**FLOW_SRS.md**](./sv/FLOW_SRS.md) – **Logiken för Social Resonans (Värde efter Mammon).**
+* [**FLOW_SRS.md**](./sv/FLOW_SRS.md) – Logiken för Social Resonans (Värde efter Mammon).
+* [**FLOW_GOVERNANCE.md**](./sv/FLOW_GOVERNANCE.md) – Beslutsprocesser i ett flödessystem.
+* [**LOGISTIC_PROOFS.md**](./sv/LOGISTIC_PROOFS.md) – Bevis för att brist är en konstruktion.
+* [**THE_SKEPTICS_ANVIL.md**](./sv/THE_SKEPTICS_ANVIL.md) – Försvar mot sociopolitiska argument.
 * [**AXIOMS.md**](./sv/AXIOMS.md) – De fem icke-förhandlingsbara pelarna för existentiell logik.
-* [**L0GISTIC_PROOFS.md**](./sv/L0GISTIC_PROOFS.md) – Bevis för att brist är ett logistiskt misslyckande.
-* [**PROTOCOL_SAFEGUARDS.md**](./sv/PROTOCOL_SAFEGUARDS.md) – Definitioner av SRS och systemsäkerhet.
 * [**LYCEUM_MUSAEUM.md**](./sv/LYCEUM_MUSAEUM.md) – Principer för lek, kognition och Mammonologi.
 * [**WHITE_PAPER.md**](./sv/WHITE_PAPER.md) – Sammanfattning av den stora återställningen.
+
+---
+
+
 
 ---
 
