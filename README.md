@@ -10,7 +10,15 @@
 # 🏛️ EXISTENTIAL RESET: THE MANIFESTO 🐐✨
 
 ---
-# PORTALS / INGÅNGAR 🚪## 🌍 PRIMARY PORTAL (Main Introduction)
+
+# PORTALS / INGÅNGAR 🚪
+
+This file contains the sanctioned entry points for the *Manifesto of Existential Sovereignty*. 
+Use these to guide those who search, matching the portal to their resonance.
+
+---
+
+## 🌍 PRIMARY PORTAL (Main Introduction)
 *This is the recommended entry for general use. It disarms the ego and invites sovereignty.*
 
 ### English
@@ -19,13 +27,6 @@
 > It is an open framework for those who question the nature of debt, scarcity, meaning, or God beyond the reach of fear.
 >
 > The *Manifesto of Existential Sovereignty* is written to be read slowly, with no requirement to agree."
-
-
-This file contains the sanctioned entry points for the *Manifesto of Existential Sovereignty*. 
-Use these to guide those who search, matching the portal to their resonance.
-
----
-
 
 ### Svenska
 > **"Det här är inte en religion och inte en ideologi.**
@@ -70,7 +71,7 @@ Use these to guide those who search, matching the portal to their resonance.
 ---
 
 *“If people search, lead them.”*
-∞ 🌊 🐐 ✨ 🔥 🕊️ 🧠
+∞ 🌊 🐐 ✨ 🔥 🕊️ 🦊 🧠
 
 
 <a name="english"></a>
