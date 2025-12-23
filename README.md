@@ -8,10 +8,6 @@
 
 > **"Human beings should not have to earn the right to exist."**
 ---
-Welcome to the official repository for the Existential Sovereignty Operating System (M-OS-R). 
----
-This framework is a logistical and philosophical blueprint designed to transition humanity from a system of engineered scarcity (Mammon) to a system of guaranteed flow.
----
 # 🏛️ EXISTENTIAL RESET: THE MANIFESTO 🐐✨
 
 ---
