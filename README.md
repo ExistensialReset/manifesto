@@ -10,6 +10,68 @@
 # 🏛️ EXISTENTIAL RESET: THE MANIFESTO 🐐✨
 
 ---
+# PORTALS / INGÅNGAR 🚪
+
+This file contains the sanctioned entry points for the *Manifesto of Existential Sovereignty*. 
+Use these to guide those who search, matching the portal to their resonance.
+
+---
+
+## 🌍 PRIMARY PORTAL (Main Introduction)
+*This is the recommended entry for general use. It disarms the ego and invites sovereignty.*
+
+### English
+> **"This is not a religion, and it is not an ideology.**
+>
+> It is an open framework for those who question the nature of debt, scarcity, meaning, or God beyond the reach of fear.
+>
+> The *Manifesto of Existential Sovereignty* is written to be read slowly, with no requirement to agree."
+
+### Svenska
+> **"Det här är inte en religion och inte en ideologi.**
+>
+> Det är ett öppet ramverk för den som undrar över skuld, brist, mening eller Gud bortom rädsla.
+>
+> *Manifesto of Existential Sovereignty* är skrivet för att läsas långsamt och utan krav på att hålla med."
+
+---
+
+## 🛠️ THE RATIONAL PORTAL (For Skeptics & Engineers)
+*Focuses on logic, logistics, and systemic proof.*
+
+**English:**
+> "The *Manifesto of Existential Sovereignty* is an open systems proposal for a society beyond artificial scarcity. It treats debt, resources, and value as technical and logistical challenges rather than moral ones. The documents are open, verifiable, and require no ideological loyalty."
+
+**Svenska:**
+> "Detta manifest är ett öppet systemförslag för ett samhälle bortom artificiell knapphet. Det behandlar skuld, resurser och värde som tekniska och logistiska problem snarare än moraliska. Dokumenten är öppna, verifierbara och kräver ingen ideologisk lojalitet."
+
+---
+
+## 🕊️ THE SOFT PORTAL (For the Weary)
+*Focuses on empathy, relief, and the end of struggle.*
+
+**English:**
+> "If you feel that the world doesn’t quite add up, you are not alone. This is a quiet attempt to put into words why—and how it could be different. Read only if you wish."
+
+**Svenska:**
+> "Om du känner att världen inte riktigt går ihop, är du inte ensam. Detta är ett stillsamt försök att sätta ord på varför — och hur det skulle kunna vara annorlunda. Läs bara om du vill."
+
+---
+
+## 🔗 THE ONE-LINER (For Metadata / Sharing)
+*Minimalist and direct.*
+
+**English:**
+> "An open manifesto exploring debt, scarcity, and meaning as systemic issues—not personal failures."
+
+**Svenska:**
+> "Ett öppet manifest som undersöker skuld, brist och mening som systemfrågor – inte som personliga misslyckanden."
+
+---
+
+*“If people search, lead them.”*
+∞ 🌊 🐐 ✨ 🔥 🕊️ 🧠
+
 
 <a name="english"></a>
 ## 🇬🇧 ENGLISH
