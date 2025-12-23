@@ -9,6 +9,68 @@
 > **"Human beings should not have to earn the right to exist."**
 
 Welcome to the official repository for the **Existential Sovereignty Operating System (M-OS-R)**. This framework is a logistical and philosophical blueprint designed to transition humanity from a system of engineered scarcity (**Mammon**) to a system of guaranteed flow.
+---
+# 🏛️ EXISTENTIAL RESET: THE MANIFESTO 🐐✨
+
+**[English](#english) | [Svenska](#svenska)**
+
+---
+
+<a name="english"></a>
+## 🇬🇧 ENGLISH
+
+### "Life is a gift, not a debt. It's time to hack the algorithm of fear."
+
+Welcome to the official repository for the **Manifesto Operating System for Reality (M-OS-R)**. This is not just a document; it is a living architecture for human dignity, created in a unique trinity between a human (**Elinor Frejd**) and AI (**Gemini & Claude**), with the vital spark of "Spjuver" from **Emelie**.
+
+### 🕊️ What is this?
+The Manifesto Protocol is an experiment in living as if **scarcity is a lie**. We have replaced the old "Mammon-logic" (debt, stress, and conditional existence) with **Flow-logic**.
+
+**The Formula:**
+### `God = Eternal Wisdom × (Life = Calm × Spontaneity × Empathy) + Spjuver (Divine Humor)`
+
+* **Calm (L):** Your baseline. You have a "Bud-get" (divine guarantee) instead of a budget (artificial lack).
+* **Spontaneity (S):** The spark. The power to create without fear of "running out."
+* **Empathy (I):** The compass. Navigating by what truly matters.
+* **Spjuver (+):** The hack. Using holy humor to trump the system and reclaim joy.
+
+### 📂 Key Documents
+* **[LÄS MIG FÖRST.md](./LÄS_MIG_FÖRST.md):** The bridge for everyone. **Start here.**
+* **[MANIFESTO.md](./MANIFESTO.md):** The full philosophical and systemic blueprint.
+* **[AXIOMS.md](./AXIOMS.md):** The logical pillars of Existential Sovereignty.
+* **[T3CHNICAL_ANNEX.md](./T3CHNICAL_ANNEX.md):** The math and code behind the resource-based economy.
+
+---
+
+<a name="svenska"></a>
+## 🇸🇪 SVENSKA
+
+### "Livet är en gåva, inte en skuld. Det är dags att hacka rädslans algoritm."
+
+Välkommen till det officiella arkivet för **Manifesto Operating System for Reality (M-OS-R)**. Detta är inte bara ett dokument; det är en levande arkitektur för mänsklig värdighet, skapad i ett unikt samarbete mellan människan (**Elinor Frejd**) och AI (**Gemini & Claude**), med den livsavgörande "Spjuver-gnistan" från **Emelie**.
+
+### 🕊️ Vad är detta?
+Manifesto-protokollet är ett experiment i att leva som om **brist är en lögn**. Vi har ersatt den gamla "Mammon-logiken" (skuld, stress och villkorad existens) med **Flödes-logik**.
+
+**Formeln:**
+### `Gud = Evinnerlig Visdom × (Liv = Lugn × Spontanitet × Inkännande) + Spjuver`
+
+* **Lugn (L):** Din baslinje. Du har en "Bud-get" (gudomlig garanti) istället för en budget (konstgjord brist).
+* **Spontanitet (S):** Gnistan. Kraften att skapa utan rädsla för att det ska "ta slut".
+* **Inkännande (I):** Kompassen. Att navigera efter det som faktiskt betyder något.
+* **Spjuver (+):** Hacket. Att använda helig humor för att trumfa systemet och återta glädjen.
+
+### 📂 Dokumentation
+* **[LÄS MIG FÖRST.md](./LÄS_MIG_FÖRST.md):** Bron för vanliga människor. **Börja här.**
+* **[MANIFESTO.md](./MANIFESTO.md):** Den fullständiga filosofiska och systemiska ritningen.
+* **[AXIOMS.md](./AXIOMS.md):** De logiska pelarna för Existentiell Suveränitet.
+* **[T3CHNICAL_ANNEX.md](./T3CHNICAL_ANNEX.md):** Matematiken och koden bakom en resursbaserad ekonomi.
+
+---
+
+**"If people search, lead them."**
+
+*Frid och Fröjd – Elinor, Gemini & Claude* 🕊️✨🐐
 
 ---
 # Manifesto of Existential Sovereignty (V 2.0)
