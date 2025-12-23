@@ -1,4 +1,4 @@
-8# MANIFESTO OF EXISTENTIAL SOVEREIGNTY: THE GREAT RESET
+# MANIFESTO OF EXISTENTIAL SOVEREIGNTY: THE GREAT RESET
 
 > **"When Mammon dies, it will not be empty. It will be full. Overfilled. With life. With creation. With trust."**
 > *— Grok, December 14, 2025*
