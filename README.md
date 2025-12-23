@@ -1,3 +1,253 @@
+# M-OS-R — Manifesto Operating System for Reality
+
+> **“The most dangerous systems are not the broken ones,  
+> but the ones that keep functioning long after they should have been replaced.”**  
+> — *Grok*
+
+---
+## 📚 Bibliotek
+
+Detta repository är uppdelat i två huvudsakliga bibliotek:
+
+- 🇸🇪 **Svenskt bibliotek**  
+  Texter skrivna primärt för ett svenskt sammanhang, språk och samtal.  
+  → [`/sv`](./sv)
+
+- 🇬🇧 **English library**  
+  Texts adapted for an international audience.  
+  → [`/en`](./en)
+
+Båda biblioteken innehåller samma grundidéer, men är skrivna för olika kulturella och språkliga kontexter.
+
+## 🇸🇪 SVENSKA
+
+### Vad är detta – egentligen?
+
+Detta repository innehåller **M-OS-R**:  
+*Manifesto Operating System for Reality*.
+
+Det är **inte**:
+- ett färdigt projekt  
+- ett start-up  
+- ett löfte om en fungerande utopi  
+- ett pilotprogram som redan är igång  
+
+Det är:
+- ett genomtänkt förslag till ett nytt samhälleligt operativsystem  
+- ett försök att beskriva *hur samhället skulle kunna fungera*  
+  om trygg existens var baslinjen, inte belöningen  
+
+M-OS-R är i nuläget **en samling texter, axiomer och systemskisser**.  
+Inget mer. Inget mindre.
+
+---
+
+### Var befinner sig detta just nu?
+
+Ärligt svar:  
+Det finns **ingen officiell startnod**.
+
+Idéerna har hittills:
+- diskuterats i samtal mellan människor  
+- lyfts i en lokal hyresgästförening i Haga, Göteborg  
+- skrivits, testats språkligt och logiskt  
+- granskats av olika AI-modeller ur filosofi-, strategi- och systemperspektiv  
+
+Detta repo är därför **förstadiet till handling**, inte handlingen själv.
+
+---
+
+### Varför publicera detta redan nu?
+
+För att:
+- tankarna är klara nog att delas  
+- strukturen är tillräckligt genomarbetad för att granskas  
+- eventuella framtida praktiska tester ska vila på öppenhet, inte mystik  
+
+Detta är inte ett rop på följare.  
+Det är ett öppet dokument för dem som vill **läsa, tänka, kritisera eller bygga långsamt**.
+
+---
+
+### Kärnidén i korthet
+
+M-OS-R utgår från en enkel idé:
+
+> När människors grundläggande behov är säkrade  
+> förändras deras beteende mer än vad ideologier någonsin kan göra.
+
+Vi sammanfattar detta som:
+
+**Life = L × S × I + Spjuver**
+
+- **L – Lugn:** trygghet, utan villkor  
+- **S – Spontanitet:** skapande utan tvång  
+- **I – Inkännande:** empati och samarbete  
+- **Spjuver:** lekfullhet, humor och mänsklig absurditet  
+
+Detta kallar vi **Flow-logik**, till skillnad från system byggda på skuld, brist och kontroll.
+
+---
+
+### Hur läser man detta repo?
+
+Du behöver inte läsa allt.
+
+**Rekommenderad väg:**
+1. `MANIFESTO.md` – den existentiella grunden  
+2. `AXIOMS.md` – de sex grundlagarna  
+3. `FLOW_SRS.md` – systemtänkandet bakom  
+4. Övriga dokument – om du vill gå djupare  
+
+Du behöver inte hålla med.  
+Du behöver inte förstå allt.  
+Det räcker att läsa ärligt.
+
+---
+
+### Vem är detta för?
+
+Detta är för:
+- människor som upplever att något i nuvarande system skaver  
+- byggare, tänkare och vardagsrealister  
+- de som inte letar efter snabba lösningar  
+
+Detta är inte för:
+- slogans  
+- ideologisk kamp  
+- färdiga svar  
+
+---
+
+### Ett sista ord
+
+M-OS-R försöker inte rädda världen.
+
+Det försöker:
+> **sluta normalisera system som gör människor rädda, stressade och främmande för varandra.**
+
+Om detta någon gång blir praktisk verklighet  
+ska det ske lokalt, långsamt och med verkliga människor.
+
+Just nu är detta **ett ärligt utkast till ett annat sätt att tänka**.
+
+---
+
+## 🇬🇧 ENGLISH
+
+### What is this — honestly?
+
+This repository contains **M-OS-R**:  
+*Manifesto Operating System for Reality*.
+
+It is **not**:
+- a finished project  
+- a startup  
+- an active pilot  
+- a promise of a working utopia  
+
+It **is**:
+- a carefully thought-out proposal for a different societal operating system  
+- an attempt to describe how society *might function*  
+  if secure existence were the baseline, not the reward  
+
+At this stage, M-OS-R is **text, structure, and system design**.
+
+Nothing more. Nothing less.
+
+---
+
+### Where is this right now?
+
+Honest answer:  
+There is **no official starting node**.
+
+So far, the ideas have:
+- lived in conversations between people  
+- been discussed in a local tenants’ association in Gothenburg, Sweden  
+- been written, revised, and stress-tested logically  
+- been reviewed through multiple AI perspectives  
+
+This repository represents **pre-action clarity**, not implementation.
+
+---
+
+### Why publish it now?
+
+Because:
+- the thinking is mature enough to share  
+- the structure is solid enough to critique  
+- any future real-world testing should begin from openness  
+
+This is not a call to follow.  
+It is an open document for those who wish to **read, reflect, question, or slowly build**.
+
+---
+
+### The core idea
+
+M-OS-R starts from a simple observation:
+
+> When people no longer fear for survival,  
+> their behavior changes more than ideology ever could.
+
+We express this as:
+
+**Life = L × S × I + Playfulness**
+
+- **L – Calm:** unconditional safety  
+- **S – Spontaneity:** freedom from coercion  
+- **I – Empathy:** cooperation and Ubuntu  
+- **Playfulness:** the human element that keeps systems alive  
+
+We call this **Flow logic**, as opposed to systems built on scarcity and control.
+
+---
+
+### How to read this repository
+
+You do not need to read everything.
+
+**Suggested path:**
+1. `MANIFESTO.md`  
+2. `AXIOMS.md`  
+3. `FLOW_SRS.md`  
+4. Additional documents if you wish to go deeper  
+
+Agreement is not required.  
+Honest reading is enough.
+
+---
+
+### Who is this for?
+
+For:
+- people who sense that something in current systems is misaligned  
+- builders, thinkers, and grounded idealists  
+- those willing to move slowly  
+
+Not for:
+- slogans  
+- ideological warfare  
+- quick answers  
+
+---
+
+### Closing
+
+M-OS-R does not aim to save the world.
+
+It aims to:
+> **stop treating harmful systems as inevitable.**
+
+If this ever becomes real-world practice,  
+it should emerge locally, carefully, and with real people.
+
+For now, this is **an honest attempt to think differently**.
+
+Ubuntu.  
+*I am because we are.*
+
 # MANIFESTO OF EXISTENTIAL SOVEREIGNTY: THE GREAT RESET
 
 > **"When Mammon dies, it will not be empty. It will be full. Overfilled. With life. With creation. With trust."**
