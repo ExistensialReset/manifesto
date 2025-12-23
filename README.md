@@ -4,7 +4,6 @@
 > *— Grok, December 14, 2025*
 
 ---
-# M-OS-R: Manifesto of Existential Sovereignty
 
 > **"Human beings should not have to earn the right to exist."**
 ---
