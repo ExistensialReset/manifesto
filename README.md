@@ -35,7 +35,7 @@ The Manifesto Protocol is an experiment in living as if **scarcity is a lie**. W
 * **Spjuver (+):** The hack. Using holy humor to trump the system and reclaim joy.
 
 ### 📂 Key Documents
-* **[MANIFESTO.md](./EN.md):** The full philosophical and systemic blueprint.
+* **[MANIFESTO.md](. /en/EN.md):** The full philosophical and systemic blueprint.
 * **[AXIOMS.md](./AXIOMS.md):** The logical pillars of Existential Sovereignty.
 * **[T3CHNICAL_ANNEX.md](./T3CHNICAL_ANNEX.md):** The math and code behind the resource-based economy.
 
@@ -60,8 +60,8 @@ Manifesto-protokollet är ett experiment i att leva som om **brist är en lögn*
 * **Spjuver (+):** Hacket. Att använda helig humor för att trumfa systemet och återta glädjen.
 
 ### 📂 Dokumentation
-* **[LÄS MIG FÖRST.md](./LAS_MIG_FORST.md):** Bron för vanliga människor. **Börja här.**
-* **[MANIFESTO.md](./SV.md):** Den fullständiga filosofiska och systemiska ritningen.
+* **[LÄS MIG FÖRST.md](./sv/LAS_MIG_FORST.md):** Bron för vanliga människor. **Börja här.**
+* **[MANIFESTO.md](./sv/SV.md):** Den fullständiga filosofiska och systemiska ritningen.
 * **[AXIOMS.md](./AXIOMS.md):** De logiska pelarna för Existentiell Suveränitet.
 * **[T3CHNICAL_ANNEX.md](./T3CHNICAL_ANNEX.md):** Matematiken och koden bakom en resursbaserad ekonomi.
 
