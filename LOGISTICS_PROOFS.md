@@ -52,6 +52,8 @@ We conducted a Monte Carlo simulation for a city of 100,000 inhabitants facing a
 * **Chaos Probability (Standard JIT Logistics):** 100.00%.
 
 ---
+Verify the mathematical foundation by running the Python simulation: python verify_proofs.py
+---
 
 ## 4. Verification Code (Python)
 
@@ -80,6 +82,5 @@ def run_stress_test(simulations=1000):
 print(f"Verified Resource Recovery: {100 - calculate_friction()}%")
 print(f"Verified Chaos Mitigation: {100 - run_stress_test()}%")
 
----
-Verify the mathematical foundation by running the Python simulation: python verify_proofs.py
+
 
