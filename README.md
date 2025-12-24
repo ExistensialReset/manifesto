@@ -11,7 +11,7 @@ We are not here to win a debate. We are here to return your life.
 ## The Core Logic: The Life Formula
 We believe that human existence is governed by three fundamental variables. When these are present, life flows. When they are suppressed, the system fails.
 
-$$Life = L \times S \times I$$
+Life = L x S x I 
 
 * **L (Lugn / Calm):** The foundation. Without a regulated nervous system, creativity and empathy die.
 * **S (Spontanitet / Spontaneity):** The spark. Life happens in the unplanned moments.
@@ -52,7 +52,7 @@ The argument that "humans are lazy" is an old control narrative. If humans were 
 ## Explore the Proofs
 * [THE_EVIDENCE.md](./THE_EVIDENCE.md) – Global data verifying the 50% friction.
 * [LOGISTICS_PROOFS.md](./LOGISTICS_PROOFS.md) – Mathematical and Python simulations.
-* [REVEALING_MAMMON.md](./REVEALING_MAMMON.md) – How to see the theft in your own life.
+* [REVEALING_MAMMON.md](./en/REVEALING_MAMMON.md) – How to see the theft in your own life.
 
 ---
 
