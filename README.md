@@ -37,9 +37,13 @@ This repository is no longer just a vision; it is a technical specification. We 
 * **[verify_proofs.py](./logistics/verify_proofs.py):** The technical audit suite. Run the Python simulation to verify our stability models and Monte Carlo stress tests.
 
 ### The Formula: Life = L x S x I
-* **L (Lugn):** Systemic and personal damping of chaos.
-* **S (Strategy):** Strategic redundancy through decentralized nodes.
-* **I (Implementation):** The speed of enacting the transition protocol.
+Our model shifts the focus from mechanical efficiency to human essence. The technical infrastructure exists only to secure these three variables:
+
+* **L (Lugn / Calm):** The foundational damping of systemic stress.
+* **S (Spontanitet / Spontaneity):** The unpredictable force of living in the now.
+* **I (Inkännande / Empathy & Intuition):** The capacity to feel the flow and connect without friction.
+
+**The Goal:** We automate the logistics of survival to reclaim the 30% of life currently stolen by Mammon, returning it to human spontaneity and connection.
 
 ---
 
