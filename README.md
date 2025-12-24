@@ -43,7 +43,8 @@ Our research and global data (World Bank, OECD) confirm a staggering truth: The 
 **The realization:** You are not tired because you lack discipline. You are tired because you are carrying a system that was never meant for humans.
 
 
-
+* **For Yourself:** Calculate how much Mammon is draining from your life.
+    👉 Run `python MAMMON_DRAIN_CALC.py`
 ---
 
 ## The Solution: A New Architecture
