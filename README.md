@@ -4,6 +4,19 @@
 
 ---
 
+## 🗺️ The Architecture of the Reset (Roadmap)
+
+To understand the Reset, follow the path from vision to action:
+
+1. **The Core Logic** ($L \times S \times I$) → Found in this README.
+2. **The Diagnostic** → Run `MAMMON_DRAIN_CALC.py` to see your personal friction.
+3. **The Evidence** → Study `THE_EVIDENCE.md` for global data verification.
+4. **The Blueprint** → Explore `LOGISTICS_PROOFS.md` and `FLOW_SRS.md` for the solution.
+
+
+
+---
+
 ### 🇬🇧 The Elevator Pitch
 **What if half of your stress isn’t a personal failure, but a design flaw in the system?**
 We have identified a 30–50% "Mammon-friction" in global logistics and economics that steals your time, calm, and potential. This project is the blueprint for a reset.
