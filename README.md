@@ -55,7 +55,8 @@ The argument that "humans are lazy" is an old control narrative. If humans were 
 * [REVEALING_MAMMON.md](./en/REVEALING_MAMMON.md) – How to see the theft in your own life.
 
 ---
-
+Try it yourself: > Run the MAMMON_DRAIN_CALC.py script to see how much Mammon Roffar Åt Sig in your own life.
+---
 **"If an ocean of resources exists, why are we fighting over the drops?"**
 
 Stop serving the friction. Start living.
