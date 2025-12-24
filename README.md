@@ -34,7 +34,7 @@ You do not need to build a factory to lead. You lead by remaining steady during 
 This repository is no longer just a vision; it is a technical specification. We provide the data required to audit the failing system and prepare for the new one.
 
 * **[LOGISTICS_PROOFS.md](./LOGISTICS_PROOFS.md):** Mathematical verification of the 30% resource recovery potential through the elimination of Mammonological Friction.
-* **[verify_proofs.py](./logistics/verify_proofs.py):** The technical audit suite. Run the Python simulation to verify our stability models and Monte Carlo stress tests.
+* **[verify_proofs.py](./verify_proofs.py):** The technical audit suite. Run the Python simulation to verify our stability models and Monte Carlo stress tests.
 
 ### The Formula: Life = L x S x I
 Our model shifts the focus from mechanical efficiency to human essence. The technical infrastructure exists only to secure these three variables:
