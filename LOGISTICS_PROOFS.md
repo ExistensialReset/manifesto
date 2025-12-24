@@ -39,8 +39,6 @@ The attached Python suite is a tool of **Mammonology**. Its purpose is to audit 
 **Core Logic:** Life = Lugn x Spontanitet x Inkännande.
 
 ---
-Verify the mathematical foundation by running the Python simulation: python verify_proofs.py
----
 
 ## 4. Verification Code (Python)
 
