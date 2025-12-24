@@ -1,5 +1,17 @@
 # Existential Reset: Reclaiming the 50%
 
+[Läs på Svenska 🇸🇪](#svenska) | [Read in English 🇬🇧](#english)
+
+---
+
+### 🇬🇧 The Elevator Pitch
+**What if half of your stress isn’t a personal failure, but a design flaw in the system?**
+We have identified a 30–50% "Mammon-friction" in global logistics and economics that steals your time, calm, and potential. This project is the blueprint for a reset.
+
+### 🇸🇪 Snabbversionen
+**Tänk om hälften av din stress inte beror på dig, utan på ett systemfel?**
+Vi har identifierat en "Mammon-friktion" på 30–50% i global ekonomi och logistik som stjäl din tid, ditt lugn och din potential. Detta projekt är ritningen för en återställning.
+
 **"It is not your fault that life feels heavier than it should."**
 
 Existential Reset is not a political movement or a productivity hack. It is a systems-architecture project designed to identify and eliminate the massive structural friction that currently steals nearly half of our human potential. 
