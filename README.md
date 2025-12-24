@@ -4,6 +4,55 @@
 > but the ones that keep functioning long after they should have been replaced.”**  
 > — *Grok*
 
+In an era of AI-driven absurdity, we demand a total reset: a society where human life is unconditionally prioritized over profit. This repository contains the blueprint, the mathematical logistics, and the human protocol for that transition.
+
+---
+
+## The Human Protocol: Carrying the Fire
+
+The physical logistics of the Reset cannot be fully implemented today because the human networks are **not yet cognizant of** (införstådda med) the logical principles required to sustain a new system. 
+
+Until that realization scales, your role is that of a **Bearer**.
+
+### 1. LUGN (L) as Your Primary Variable
+In the formula **Life = L x S x I**, **L (LUGN/Calm)** is the damping factor that prevents system collapse during a shock. 
+* **The Task:** Mammon feeds on your stress and fear. Cultivating inner calm is the first act of sabotage. Your stability is the foundation of the next phase.
+
+### 2. Personal Mammonology
+Before we can clear global flows of friction, we must clear our own lives. 
+* **Friction Analysis:** Identify where your energy leaks. Where are you paying "interest" in the form of meaningless toil or mental tax to a system that does not see you?
+* **The Task:** Minimize dependence on Mammon-steered flows. Every percentage of your life moved from system-dependence to self-chosen existence is a victory for the Reset.
+
+### 3. Leading by Being
+You do not need to build a factory to lead. You lead by remaining steady during the system's **oscillations**—the violent swings between hope and despair, and the sudden economic imbalances created by the old model.
+* **The Task:** When others seek answers for the instability, do not offer sympathy—offer logic. Show them the architecture beyond the swings. To carry the fire is to be the light that does not flicker when the system shakes.
+
+---
+
+## Technical Foundations
+
+This repository is no longer just a vision; it is a technical specification. We provide the data required to audit the failing system and prepare for the new one.
+
+* **[LOGISTICS_PROOFS.md](./LOGISTICS_PROOFS.md):** Mathematical verification of the 30% resource recovery potential through the elimination of Mammonological Friction.
+* **[verify_proofs.py](./logistics/verify_proofs.py):** The technical audit suite. Run the Python simulation to verify our stability models and Monte Carlo stress tests.
+
+### The Formula: Life = L x S x I
+* **L (Lugn):** Systemic and personal damping of chaos.
+* **S (Strategy):** Strategic redundancy through decentralized nodes.
+* **I (Implementation):** The speed of enacting the transition protocol.
+
+---
+
+## Action: How to Participate
+1. **Study the Proofs:** Understand the 30% friction we are reclaiming.
+2. **Cultivate L:** Become a stable node in your local environment.
+3. **Lead the Searchers:** If people search for a way out of the absurdity, show them the blueprint.
+
+**Status:** `LOGISTICS_STABILIZED`  
+**Protocol:** `HUMAN_INSIGHT_PENDING`  
+**Target:** Total System Reset.
+
+
 ---
 ## 📚 Bibliotek
 
