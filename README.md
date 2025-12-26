@@ -9,15 +9,15 @@ This repository is the foundational architecture for the Existential Reset, a bl
 
 🧭 Navigation
 
-MANIFESTO.md – Philosophical and existential truth. The heart of the Reset.
+[MANIFESTO.md](/MANIFESTO.md) – Philosophical and existential truth. The heart of the Reset.
 
-PROTOCOL.md – Operational mechanisms protecting the Baseline and Flow.
+[PROTOCOL.md](/PROTOCOL.md) – Operational mechanisms protecting the Baseline and Flow.
 
-AXIOMS.md – Absolute rules ensuring the system remains non-oppressive.
+[AXIOMS.md](/AXIOMS.md) – Absolute rules ensuring the system remains non-oppressive.
 
-MAMMONOLOGY.md – Clinical map of debt-based systems and sources of friction.
+[MAMMONOLOGY.md](/MAMMONOLOGY.md) – Clinical map of debt-based systems and sources of friction.
 
-MAMMONOLOGY_GUIDE.md – Practical steps for navigating from old systems to Flow.
+[MAMMONOLOGY_GUIDE. md](/MAMMONOLOGY_GUIDE.md) – Practical steps for navigating from old systems to Flow.
 
 
 
