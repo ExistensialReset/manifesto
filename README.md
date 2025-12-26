@@ -1,10 +1,4 @@
-Life = L × S × I
-# Existential Reset – Repository Overview
-
-**Life = L × S × I (Calm × Spontaneity × Insight)**
-
-This repository is the architectural blueprint for the Existential Reset.  
-It contains the core declaration (/MANIFESTO.md), operational protections (/PROTOCOL.md), immutable laws (/AXIOMS.md), analysis of limiting systems (/MAMMONOLOGY.md), and a practical guide (/MAMMONOLOGY_GUIDE.md).  
+Life = L × S × I  
 
 > The Baseline is secured. Sovereignty is recognized. Flow is operational.
 
