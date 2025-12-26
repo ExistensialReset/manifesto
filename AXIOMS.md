@@ -19,7 +19,7 @@ Access to the Baseline is paramount. No project, crisis, vision, or system objec
 The system exists to serve life, not life to serve the system. Any obstacle to Flow is a systemic failure, not a human failure. The system must be changed, not the individual.
 
 ## AXIOM 5: STRUCTURAL IMPARTIALITY
-The system observes logistical principles only. It makes no moral, behavioral, or identity-based judgments. Intervention is limited to infrastructure, never to the individual’s intrinsic agency.
+The system observes logistical principles only. It makes no moral, behavioral, or identity-based judgments. Systemic intervention is limited to infrastructure, never to the individual’s intrinsic agency.
 
 ## AXIOM 6: LEGACY NULLIFICATION
 No pre-existing coercive mechanism, debt instrument, or hierarchical claim may persist in operational effect. Historical records exist solely for analysis, never for enforcement.
