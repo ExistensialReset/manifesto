@@ -38,6 +38,38 @@ The Goal: Move from survival to existence. Life according to L × S × I.
 
 
 ---
+# 🗺️ Existential Reset – Repository Map
+
+Life = L × S × I  
+(Calm × Spontaneity × Insight)
+
+---
+
+## 🔥 MANIFESTO.md – The Heart
+- Declaration of existence and Flow  
+- Defines the Baseline, Critical Reserve, and the Drive of Flow  
+- Philosophical foundation for sovereignty
+
+## 🛡️ PROTOCOL.md – The Shield
+- Operational mechanisms protecting the Baseline and Flow  
+- Includes Baseline Protection, Flow Integrity, Lex Ultima Finis, Lex Custodia
+
+## 🧱 AXIOMS.md – The Walls
+- Immutable laws that prevent system abuse  
+- Non-Coercion, Cognitive Ownership, Baseline Primacy, Flow-Evolution, Structural Impartiality, Legacy Nullification, Irreversible Boundary
+
+## 🗺️ MAMMONOLOGY.md – Map of the Old World
+- Analysis of debt-based and coercive systems  
+- Identifies friction points, dependency loops, and exclusionary mechanisms
+
+## 🚀 MAMMONOLOGY_GUIDE.md – Practical Navigation
+- Step-by-step guidance for transitioning to Flow  
+- Secure your Baseline, preserve Flow, protect cognition, and phase out dependency
+
+---
+
+### 🔗 How It All Connects
+---
 
 Architecture Overview
 
