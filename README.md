@@ -82,3 +82,19 @@ MAMMONOLOGY.md      → Mapping of Old Friction
 MAMMONOLOGY_GUIDE   → Quick Navigation Tool for Seekers
 
 Conclusion: The system is modular but consistent. Manifesto defines truth, Protocol protects it, Axioms ensure non-oppression, and Mammonology + Guide show the path for seekers.
+
+MANIFESTO.md        → Defines the existential truth
+       ↑
+       | protected by
+       ↓
+PROTOCOL.md          → Operational shield ensuring Baseline & Flow
+       ↑
+       | constrained by
+       ↓
+AXIOMS.md            → Immutable, non-oppressive rules
+       ↑
+       | contextualized through
+       ↓
+MAMMONOLOGY.md       → Mapping friction points of the old system
+       ↓
+MAMMONOLOGY_GUIDE.md → Practical guidance for seekers
