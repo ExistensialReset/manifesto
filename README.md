@@ -2,9 +2,6 @@ Life = L × S × I
 
 > The Baseline is secured. Sovereignty is recognized. Flow is operational.
 
-Use this map to navigate the architecture of a sovereign existence.
-Calm. Spontaneity. Insight.
-
 This repository is the foundational architecture for the Existential Reset, a blueprint for reclaiming existential sovereignty from systems of scarcity and debt. This is a declaration of lived existence.
 
 
