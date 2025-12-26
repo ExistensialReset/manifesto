@@ -1,8 +1,5 @@
-
-
-README_COMPLETE.md
-
 Life = L × S × I
+
 Calm. Spontaneity. Insight.
 
 This repository is the foundational architecture for the Existential Reset, a blueprint for reclaiming existential sovereignty from systems of scarcity and debt. This is a declaration of lived existence.
