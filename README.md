@@ -1,5 +1,5 @@
 
-# $Life = L \times S \times I$
+# Life = L x S x I 
 
 **Lugn. Spontanitet. Inkännande.**
 
