@@ -7,7 +7,7 @@ These axioms define the immutable boundaries of the system. They are not ideals 
 ---
 
 ## AXIOM 1: NON-COERCION
-Any system state that requires submission, dependency, or obedience to access Flow is invalid. Flow must be voluntary. No mechanism or procedure may condition existence on compliance.
+Any system state that requires submission, dependency, or obedience to access Flow is invalid. Flow must be unconditionally voluntary. No mechanism or procedure may condition existence on compliance.
 
 ## AXIOM 2: COGNITIVE OWNERSHIP
 Every individual’s attention, cognition, and decision-making are absolute property. No algorithm, record, debt, or external structure may claim, divert, or extract this attention.
