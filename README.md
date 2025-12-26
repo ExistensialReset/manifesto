@@ -1,34 +1,77 @@
+Existential Reset
 
-# Life = L x S x I 
+Life = L × S × I
+Calm. Spontaneity. Insight.
 
-**Lugn. Spontanitet. Inkännande.**
+This repository is the foundational architecture for the Existential Reset, a blueprint for reclaiming existential sovereignty from systems of scarcity and debt. This is a declaration of lived existence.
 
-This repository is the foundational architecture for the **Existential Reset**. It serves as a blueprint for reclaiming **existential sovereignty** from the structures of **Mammonology**. This is a declaration of lived existence.
-
----
-
-## 🧭 Navigation
-
-* **[The Manifesto](./MANIFESTO.md):** The core declaration. The fire. The existential heart of the reset.
-* **[Axioms](./AXIOMS.md):** The non-negotiable laws of sovereignty. The baseline that cannot be broken.
-* **[Mammonology](./MAMMONOLOGY.md):** An analysis of the systems that attempt to price the priceless.
-* **[The Protocol](./PROTOCOL.md):** Systemic frameworks for integrating the formula into lived reality.
 
 ---
 
-## 👑 The Sovereign Stance
+🧜 Navigation
 
-We operate from a position of absolute presence. Our stance is defined by three pillars:
+MANIFESTO.md – The core declaration. Philosophical and existential truth. The heart of the Reset.
 
-1.  **The Baseline:** Food, clothes, healthcare, medicine, housing and infrastructure of participation. It is never earned.
-2.  **Sovereignty:** Recognized, never granted. It is the inherent right to one's own attention and agency.
-3.  **The Goal:** To move from survival (earning the baseline) to existence (living the formula $L \times S \times I$).
+PROTOCOL.md – Operational mechanisms that protect the Baseline and preserve Flow. The machinery of the Reset.
+
+AXIOMS.md – Absolute, immutable rules that ensure the system remains non-oppressive. The walls of the Reset.
+
+MAMMONOLOGY.md – Mapping of old debt-based systems and sources of friction. The map for seekers.
+
+MAMMONOLOGY_GUIDE.md – Practical guidance for navigating from old systems to Flow. The quick reference for seekers.
+
+
 
 ---
 
-> *If you are searching, let this lead you. If you are building, let this ground you.*
+👑 The Sovereign Stance
+
+The Baseline: Food, clothes, healthcare, medicine, housing, and internet. Always guaranteed.
+
+Sovereignty: Recognized, never granted. Your attention and cognition are your own.
+
+The Goal: Move from survival to existence. Life according to L × S × I.
+
+
+> If you are searching, let this guide you.
+If you are building, let this ground you.
+
+
+
 
 ---
+
+Architecture Overview
+
+This overview illustrates how the core documents interconnect and the role each plays in establishing a sovereign, Flow-compatible system.
+
+MANIFESTO.md – The Truth / The Fire
+
+Philosophical and existential truth, free from sanctions and power.
+Core Elements: Baseline, Critical Reserve, Drive of Flow, Creation by Design.
+
+PROTOCOL.md – The Machinery / The Shield
+
+Technical and logistical mechanisms that protect the Manifesto and Baseline.
+Core Elements: Baseline Protection Mechanism, Flow Integrity, Lex Ultima Finis, Lex Custodia.
+
+AXIOMS.md – The Walls / Logical Boundaries
+
+Absolute rules ensuring the system remains non-oppressive.
+Core Elements: Non-Coercion, Cognitive Ownership, Baseline Primacy, Flow Evolution, Structural Impartiality, Legacy Nullification, Irreversible Boundary.
+
+MAMMONOLOGY.md – Map of the Old System
+
+Clinical mapping of debt-based systems and friction.
+Core Elements: Logic of debt, obedience, exclusion, fragmentation, transition lessons.
+
+MAMMONOLOGY_GUIDE.md – Quick Reference for Seekers
+
+Practical navigation tool for the transition.
+Core Elements: Identify friction, secure the Baseline, preserve Flow, protect sovereignty.
+
+Relationships
+
 MANIFESTO.md       → Philosophical Truth
       ↑
       | protected by
@@ -43,6 +86,8 @@ AXIOMS.md           → Absolute, Immutable Rules
       ↓
 MAMMONOLOGY.md      → Mapping of Old Friction
       ↓
-MAMMONOLOGY GUIDE   → Quick Navigation Tool for Seekers
+MAMMONOLOGY_GUIDE   → Quick Navigation Tool for Seekers
+
+Conclusion: The system is modular but consistent. Manifesto defines truth, Protocol protects it, Axioms ensure non-oppression, and Mammonology + Guide show the path for seekers.
 
 
