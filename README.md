@@ -28,4 +28,21 @@ We operate from a position of absolute presence. Our stance is defined by three 
 
 > *If you are searching, let this lead you. If you are building, let this ground you.*
 
+---
+MANIFESTO.md       → Philosophical Truth
+      ↑
+      | protected by
+      ↓
+PROTOCOL.md         → Infrastructure & Logistics
+      ↑
+      | constrained by
+      ↓
+AXIOMS.md           → Absolute, Immutable Rules
+      ↑
+      | understood via
+      ↓
+MAMMONOLOGY.md      → Mapping of Old Friction
+      ↓
+MAMMONOLOGY GUIDE   → Quick Navigation Tool for Seekers
+
 
