@@ -15,7 +15,7 @@ Every individual’s attention, cognition, and decision-making are absolute prop
 ## AXIOM 3: BASELINE PRIMACY
 Access to the Baseline is paramount. No project, crisis, vision, or system objective may override the guarantee of food, clothing, healthcare, medicine, housing, and internet.
 
-## AXIOM 3: FLOW-EVOLUTION
+## AXIOM 4: FLOW-EVOLUTION
 The system exists to serve life, not life to serve the system. Any obstacle to Flow is a systemic failure, not a human failure. The system must be changed, not the individual.
 
 ## AXIOM 5: STRUCTURAL IMPARTIALITY
