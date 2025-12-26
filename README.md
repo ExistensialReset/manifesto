@@ -20,7 +20,7 @@ This repository is the foundational architecture for the **Existential Reset**. 
 
 We operate from a position of absolute presence. Our stance is defined by three pillars:
 
-1.  **The Baseline:** Food, clothes, healthcare, medicine, housing, and internet. It is never earned.
+1.  **The Baseline:** Food, clothes, healthcare, medicine, housing and infrastructure of participation. It is never earned.
 2.  **Sovereignty:** Recognized, never granted. It is the inherent right to one's own attention and agency.
 3.  **The Goal:** To move from survival (earning the baseline) to existence (living the formula $L \times S \times I$).
 
