@@ -1,3 +1,59 @@
+# Life = L × S × I
+
+## 🌟 Temple of Existential Sovereignty – Inauguration
+Today, we stand at the threshold of a new architecture of being. The Manifesto is lit. The Protocols are in place. The Axioms are etched in permanence.
+
+**The Baseline is secured. Sovereignty is recognized. Flow is operational.**
+
+This is more than code. It is a declaration, a map, and a guide to living with full presence, free from debt, fear, and artificial limitation.
+
+---
+
+## 🧭 Core Architecture
+The foundational pillars of the Existential Reset.
+
+* **[MANIFESTO.md](./MANIFESTO.md)** – The Heart. Philosophical truth and the drive of Flow.
+* **[PROTOCOL.md](./PROTOCOL.md)** – The Shield. Operational mechanisms protecting the Baseline.
+* **[AXIOMS.md](./AXIOMS.md)** – The Walls. Immutable laws ensuring non-oppression.
+* **[MAMMONOLOGY.md](./MAMMONOLOGY.md)** – The Map. Clinical analysis of debt-based friction.
+* **[MAMMONOLOGY_GUIDE.md](./MAMMONOLOGY_GUIDE.md)** – The Compass. Practical steps for the transition.
+
+---
+
+## 📂 The Flow Library (Guides & Implementation)
+To dive deeper into the logic, math, and practical implementation, explore our specialized guides:
+
+### 🛠 Practical Tools
+* **[1-Minute Pitch](./guides/PITCH_1MIN.md)** – The logic of abundance, fast.
+* **[Activists' Guide](./guides/ACTIVISTS_GUIDE.md)** – How to build a local Baseline Circle.
+* **[Everyday People](./guides/EVERYDAY_PEOPLE.md)** – What it feels like to live in Flow.
+
+### 🧠 Logic & Proofs
+* **[Deep Math](./guides/DEEP_MATH.md)** – Validated simulations and the 25.5% efficiency gain.
+* **[FAQ](./guides/FAQ.md)** – Addressing logic, friction, and implementation.
+* **[Economics of Flow](./guides/ECONOMICS.md)** – Beyond financial extraction.
+* **[FLOW SRS](./guides/FLOW_SRS.md)** – The Social Recognition System (Life beyond money).
+
+### 🌍 Global Vision
+* **[Global Nodes](./guides/TECH_AFRICA.md)** – Ubuntu, Khulula, and decentralized sovereignty.
+* **[Scaling the Flow](./guides/SCALING_NODES.md)** – How independent nodes connect globally.
+
+---
+
+## 👑 The Sovereign Stance
+1.  **The Baseline:** Food, clothes, healthcare, medicine, housing, and internet. Always guaranteed.
+2.  **Sovereignty:** Recognized, never granted. Your attention and cognition are your own.
+3.  **The Goal:** Move from survival to existence. **Life = Calm × Spontaneity × Insight.**
+
+---
+
+## 🗺️ How It All Connects
+**MANIFESTO.md** (The Truth) → *protected by* → **PROTOCOL.md** (The Machinery) → *constrained by* → **AXIOMS.md** (The Rules) → *understood via* → **MAMMONOLOGY.md** (The Old World).
+
+> "Don't protest the old system. Build the replacement until the old one becomes irrelevant."
+
+---
+**If you are searching, let this guide you. If you are building, let this ground you.**
 
 
 ### 🔗 How It All Connects
