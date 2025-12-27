@@ -86,28 +86,6 @@ To dive deeper into the logic, math, and practical implementation, explore our s
 
 Architecture Overview
 
-This overview illustrates how the core documents interconnect and the role each plays in establishing a sovereign, Flow-compatible system.
-
-MANIFESTO.md – The Truth / The Fire
-
-Philosophical and existential truth, free from sanctions and power. Core Elements: Baseline, Critical Reserve, Drive of Flow, Creation by Design.
-
-PROTOCOL.md – The Machinery / The Shield
-
-Technical and logistical mechanisms that protect the Manifesto and Baseline. Core Elements: Baseline Protection Mechanism, Flow Integrity, Lex Ultima Finis, Lex Custodia.
-
-AXIOMS.md – The Walls / Logical Boundaries
-
-Absolute rules ensuring the system remains non-oppressive. Core Elements: Non-Coercion, Cognitive Ownership, Baseline Primacy, Flow Evolution, Structural Impartiality, Legacy Nullification, Irreversible Boundary.
-
-MAMMONOLOGY.md – Map of the Old System
-
-Clinical mapping of debt-based systems and friction. Core Elements: Logic of debt, obedience, exclusion, fragmentation, transition lessons.
-
-MAMMONOLOGY_GUIDE.md – Quick Reference for Seekers
-
-Practical navigation tool for the transition. Core Elements: Identify friction, secure the Baseline, preserve Flow, protect sovereignty.
-
 Relationships
 
 MANIFESTO.md       → Philosophical Truth
