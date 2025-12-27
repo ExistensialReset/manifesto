@@ -57,7 +57,6 @@ To dive deeper into the logic, math, and practical implementation, explore our s
 
 ---
 ### 🔗 How It All Connects
----
 
 Architecture Overview
 
