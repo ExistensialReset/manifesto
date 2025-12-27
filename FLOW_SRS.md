@@ -59,7 +59,7 @@ The system must prevent "Inclusion" from turning into "Conformity."
 ### The Resonance Score: An Example
 Resonance is not a popularity contest; it is a measure of **logistical acceleration**—how much your contributions improve the collective Flow.
 
-**Formula (Simplified):** $$Resonance Score = \sum(Impact \times Reach)$$
+**Formula (Simplified):** Resonance Score = ∑(Impact × Reach)
 
 * **Impact:** How much your contribution improves Calm (L), Spontaneity (S), or Inclusion (I) for others.
 * **Reach:** How many Circles (defined groups of participants) benefit from it.
