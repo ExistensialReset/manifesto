@@ -32,7 +32,7 @@ Social Recognition (SRS) is not a currency you spend. It is the "honor" and resp
 ## The Life Formula: What We Are Measuring
 We measure the health of our society not by "Growth," but by the quality of human life:
 
-$$Life = Calm \times Spontaneity \times Inclusion$$
+Life = Calm x Spontaneity x Inclusion
 
 1. **Calm (L):** Inner stability. When you aren't afraid of starving or losing your home, your mind finds peace.
 2. **Spontaneity (S):** Your creative fire. The right to be different and to create without being forced.
