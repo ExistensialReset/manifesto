@@ -55,7 +55,7 @@ To dive deeper into the logic, math, and practical implementation, explore our s
 ---
 **If you are searching, let this guide you. If you are building, let this ground you.**
 
-
+---
 ### 🔗 How It All Connects
 ---
 
