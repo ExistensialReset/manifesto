@@ -33,6 +33,14 @@ This repository is the foundational architecture for the Existential Reset, a bl
 
 [MAMMONOLOGY_GUIDE. md](/MAMMONOLOGY_GUIDE.md) – Practical steps for navigating from old systems to Flow.
 
+## 📂 Explore the Architecture
+To dive deeper into the logic, math, and practical implementation, visit our guides:
+
+* **[The Guides Folder](./guides/)** - Technical proofs, FAQs, and integration maps.
+* **[Frequently Asked Questions](./guides/FAQ.md)** - Logic vs. Friction.
+* **[Deep Math](./guides/DEEP_MATH.md)** - Validated simulations and efficiency calcs.
+
+
 
 
 ---
