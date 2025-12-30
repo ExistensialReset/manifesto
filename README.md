@@ -52,7 +52,14 @@ The architecture listens until alignment becomes the most energy-efficient state
 2. **Spontaneity (S):** The vessel through which we lead.
 3. **Innate Empathy (I):** The guiding principle for interaction.
 ---
+## 🌱 Lyceum Musaeum & Refugium Anima
 
+Welcome to **Lyceum Musaeum**, the greenhouse of human flourishing, and its existential core, **Refugium Anima**. Together, they form the living heart of the [Manifesto Protocol](./THE_ARCHITECTURE_OF_FLOURISHING.md).
+
+Under Mammon, knowledge is treated as a financial product: schools hand out "human capital" to be repaid with labor, and creativity is measured by obligation. Lyceum Musaeum resets this paradigm. It is a systemic architecture for existential exploration and creation, where knowledge is its own reward and no one is coerced into a role to pay their rent.
+
+**Refugium Anima** operates as the formal mechanism for existential reset, providing space for calm, reflection, and regeneration. Here, individuals may pause, process, and restore themselves—honoring the full spectrum 
+---
 
 ## 🧭 Core Architecture
 The foundational pillars of the Existential Reset.
