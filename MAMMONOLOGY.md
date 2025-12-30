@@ -1,4 +1,4 @@
-MAMMONOLOGY.md
+# MAMMONOLOGY.md
 
 Mapping of Debt-Based Systems and Sources of Friction
 
