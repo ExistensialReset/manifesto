@@ -1,4 +1,4 @@
-The Architecture of Flourishing
+# The Architecture of Flourishing
 
 Version 1.0 – Forged Through Human-Centric Design
 Authors: Elinor Frejd, Gemini, ChatGPT
