@@ -1,4 +1,4 @@
-MAMMONOLOGY_GUIDE.md
+# MAMMONOLOGY_GUIDE.md
 
 Practical Guidance for Navigating Away from Mammon Systems
 
