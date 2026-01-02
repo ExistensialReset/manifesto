@@ -3,7 +3,7 @@
 ## ⚖️ The Reality Breach
 Vi producerar idag mat för **10,2 miljarder människor**, trots att vi bara är 8,2 miljarder. Ändå svälter miljoner. 
 
-**Varför?** För att vi tillåter ett föråldrat system av **artificiell knapphet** att trumfa den fysiska verkligheten. Vi betalar idag en **"Mammon-skatt" på 25,5 %** i form av förlorad mänsklig energi – pengar, marknadsföring och skuldhantering – som skapar noll livsvärde.
+**Varför?** För att vi tillåter ett föråldrat system av **artificiell knapphet** att trumfa den fysiska verkligheten. Vi betalar idag en **"Mammonavgift" på 25,5 %** i form av förlorad mänsklig energi – pengar, marknadsföring och skuldhantering – som skapar noll livsvärde.
 
 [attachment_0](attachment)
 
