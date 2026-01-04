@@ -59,7 +59,7 @@ Any activation of a Veto must be met with an immediate, public, and technical ju
 
 ---
 
-#### § 5. CONFLICT RESOLUTION HIERARCHY
+# § 5. CONFLICT RESOLUTION HIERARCHY
 
 
 **Operational mechanisms for addressing inter-nodal friction while preserving sovereignty.**
