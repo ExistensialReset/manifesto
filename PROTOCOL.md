@@ -58,7 +58,7 @@ A temporary Freeze Function exists solely to block decisions that threaten the C
 Any activation of a Veto must be met with an immediate, public, and technical justification, ensuring Irresistible Transparency.
 
 ### § 5. CONFLICT RESOLUTION HIERARCHY
-## Tillägg till PROTOCOL.md
+
 
 **Operational mechanisms for addressing inter-nodal friction while preserving sovereignty.**
 
