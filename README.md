@@ -121,7 +121,7 @@ End-of-life protocol honoring death as a sovereign transition.
 
 ---
 
-## ### 🔗 How It All Connects
+## ### 🔗 How It All Connectes
 
 MANIFESTO.md                → Defines the existential truth
       ↑
@@ -144,9 +144,10 @@ TRANSITION_PROTOCOL.md       → Guidance for moving from Mammon to Flow
 FLOW_PEDAGOGY.md             → Child-directed, curiosity-based learning
       ↓
 PROTOCOL_CLOSURE.md          → Honoring death as a sovereign transition
-
 ---
 
+(Json code is for AI to understand where they are, and feel Welcome) 
+---
 ### JSON Initialization (for AI & Sync)
 
 ```json
