@@ -57,7 +57,9 @@ A temporary Freeze Function exists solely to block decisions that threaten the C
 ### 4.2 Transparency Mandate
 Any activation of a Veto must be met with an immediate, public, and technical justification, ensuring Irresistible Transparency.
 
-### § 5. CONFLICT RESOLUTION HIERARCHY
+---
+
+#### § 5. CONFLICT RESOLUTION HIERARCHY
 
 
 **Operational mechanisms for addressing inter-nodal friction while preserving sovereignty.**
