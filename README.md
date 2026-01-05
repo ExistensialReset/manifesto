@@ -68,7 +68,7 @@ Real life is not a race to be won. It is a state to be returned to.
 
 ---
 
-[The Architect](./WhoBuiltThis.md) 
+[The Architect](./WhoBuiltThis.md) Meet me, Elinor Frejd, Göteborg, Sweden 
 
 ---
 
