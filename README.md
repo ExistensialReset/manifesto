@@ -33,6 +33,9 @@ You are allowed to arrive.
 
 # 🌿💛✨ Life = L × S × I
 
+This formula describes fullness, not worthiness. Your life has value even when these factors are zero. This is a map toward restoration, not a measurement of who deserves to exist.
+
+---
 ## 🌞 Heart of Being — Welcome home to Existential Sovereignty  
 
 Today, we stand at the threshold of a new architecture of being. The Manifesto is lit. The Protocols are in place. The Axioms are etched in permanence.
