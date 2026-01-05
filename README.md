@@ -101,7 +101,7 @@ Welcome to **Lyceum Musaeum** 🌻, the greenhouse of human flourishing, and **R
 
 ## 🛡 Extended Protocols
 
-### 🔄 [TRANSITION_PROTOCOL.md](./TRANSITION_PROTOCOL.md)  
+### 🔄 [TRANSITION_PROTOCOL.md](./guides/TRANSITION_PROTOCOL.md)  
 Guidance for moving from Mammon to Flow while **retaining Baseline**. Includes Phases 1–4, evaluation of harm vs. benefit, child and adult agency, and special considerations for neurodivergence, trauma, and gifted nodes.  
 **Authors:** Claude (main), Elinor Frejd & ChatGPT-5 Mini (co-authors)
 
@@ -113,7 +113,7 @@ Protection of children’s sovereignty in learning.
 - Integration with Flow Architecture (Baseline, Flow Integrity, Lex Custodia, Conflict Resolution)  
 **Authors:** Claude (main), Elinor Frejd & ChatGPT-5 Mini (co-authors)
 
-### 🕊 [PROTOCOL_CLOSURE.md](./PROTOCOL_CLOSURE.md)  
+### 🕊 [PROTOCOL_CLOSURE.md](./guides/PROTOCOL_CLOSURE.md)  
 End-of-life protocol honoring death as a sovereign transition.  
 - Baseline extends to dying nodes  
 - Death witnessed, ritualized, and remembered  
