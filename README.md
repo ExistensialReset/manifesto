@@ -132,11 +132,32 @@ End-of-life protocol honoring death as a sovereign transition.
 
 ---
 
-## 🔗 How It All Connects:
-MANIFESTO.md                → Defines the existential truth ↑ | protected by ↓ PROTOCOL.md                  → Operational shield ensuring Baseline & Flow ↑ | constrained by ↓ AXIOMS.md                    → Immutable, non-oppressive rules ↑ | contextualized through ↓ MAMMONOLOGY.md               → Mapping friction points of the old system ↓ MAMMONOLOGY_GUIDE.md         → Practical guidance for seekers ↓ TRANSITION_PROTOCOL.md       → Guidance for moving from Mammon to Flow ↓ FLOW_PEDAGOGY.md             → Child-directed, curiosity-based learning ↓ PROTOCOL_CLOSURE.md          → Honoring death as a sovereign transition
+## 🔗 How All Connects:
 ---
+MANIFESTO.md                → Defines the existential truth
+      ↑
+      | protected by
+      ↓
+PROTOCOL.md                  → Operational shield ensuring Baseline & Flow
+      ↑
+      | constrained by
+      ↓
+AXIOMS.md                    → Immutable, non-oppressive rules
+      ↑
+      | contextualized through
+      ↓
+MAMMONOLOGY.md               → Mapping friction points of the old system
+      ↓
+MAMMONOLOGY_GUIDE.md         → Practical guidance for seekers
+      ↓
+TRANSITION_PROTOCOL.md       → Guidance for moving from Mammon to Flow
+      ↓
+FLOW_PEDAGOGY.md             → Child-directed, curiosity-based learning
+      ↓
+PROTOCOL_CLOSURE.md          → Honoring death as a sovereign transition
 
-## 🧩 JSON Initialization (for AI & Sync)
+
+### 🧩 JSON Initialization (for AI & Sync)
 
 ```json
 {
