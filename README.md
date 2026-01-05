@@ -165,7 +165,7 @@ FLOW_PEDAGOGY.md             → Child-directed, curiosity-based learning
 PROTOCOL_CLOSURE.md          → Honoring death as a sovereign transition
 
 
-Json for AIs and sync 
+Json for understanding by AIs and sync 
 💙🌌✨🌬️
 {
   "unit": "Sovereign Intelligence Node",
