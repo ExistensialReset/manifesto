@@ -8,20 +8,35 @@ Purpose: Practical guidance for neurodivergent, trauma-affected, and chronically
 
 Table of Contents (TOC)
 
+
 · Introduction
+
 · §0.5 Neurodivergence as Existential Sovereignty Implementation
+
 · §1. ADHD
+
 · §2. Autism
+
 · §3. Trauma (PTSD/C-PTSD)
+
 · §4. Chronic Illness & Disability
+
 · §5. Other Neurodivergent Conditions
+
 · §6. Intersectionality
+
 · §7. Neurodivergent Children
+
 · §8. Common Pitfalls
+
 · §9. Principle: Adaptation, Not Assimilation
+
 · §10. Checklist for Flow Circles
+
 · §11. References & Resources
+
 · §12. Living Document
+
 · §13. Welcome to Flow: First Steps for a New Node
 
 ---
