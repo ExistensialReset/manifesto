@@ -27,7 +27,7 @@ There is a war for your attention. It is quiet, total, and almost completely inv
 
 You are not the content of your thoughts. You are the awareness in which they arise. This awareness is not yours alone; it is the fundamental field of consciousness taking temporary, sovereign form.
 
-There is an ocean of undifferentiated awareness. You are a temporary locus of this ocean's knowing—a wave that can know itself as wave, and remember itself as ocean. Your sovereign existence is the wave. Your fundamental nature is the ocean.
+There is an ocean of undifferentiated awareness. You are a temporary locus of this ocean's knowing —a wave that can know itself as a wave, and remember itself as the ocean. Your sovereign existence is the wave. Your fundamental nature is the ocean.
 
 From this recognition of sovereign awareness arises an architectural imperative. Below are the foundational axioms and operational logic for building a reality that protects this sovereignty for all.
 
