@@ -12,6 +12,9 @@ If nothing does, you are free to leave without consequence.
 There is no membership.  
 There is no conversion.  
 There is no obligation.
+This is not a self-improvement program. 
+This is not a test you can fail.
+This is not something you join. 
 
 This space exists to reduce pressure, not to create it.
 
