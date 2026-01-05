@@ -155,3 +155,5 @@ Den är existentiell.
 
 Du känner den redan.  
 Välj. 🌀
+
+Av Elinor Frejd med hjälp av Deep Seek och ChatGPT 
