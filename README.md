@@ -68,6 +68,10 @@ Real life is not a race to be won. It is a state to be returned to.
 
 ---
 
+[The Architect](./WhoBuiltThis.md) 
+
+---
+
 ## 🌱 Lyceum Musaeum & Refugium Anima
 
 Welcome to **Lyceum Musaeum** 🌻, the greenhouse of human flourishing, and **Refugium Anima** 🌼, the existential reset core. Together, they form the living heart of the [Manifesto Protocol](./ARCHITECTURE.md).
