@@ -23,7 +23,7 @@ This is not something you join.
 ---
 
 ## 🖋 Poem / Resonance
-Experience the poem that inspired this work: [Read the Poem](./DIKT.md)
+Experience the poem that is inspired by this work: [Read the Poem](./DIKT.md)
 
 ---
 
@@ -49,6 +49,8 @@ Today, we stand at the threshold of a new architecture of being. The Manifesto i
 **This is the architecture for securing Baseline. The whole thing begins with recognition.** 🌊
 
 This is more than code. It is a declaration, a map, and a guide to living with full presence, free from debt, fear, and artificial limitation.
+
+This space resonates with the theory of consciousness as a foundational field of reality, as explored in contemporary science.
 
 ### 🌈 The Invitation to Real Life
 
