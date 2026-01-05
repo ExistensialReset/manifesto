@@ -20,6 +20,12 @@ This is not a test you can fail.
 This is not something you join.
 
 ---
+---
+
+## 🖋 Poem / Resonance
+Experience the poem that inspired this work: [Read the Poem](./DIKT.md)
+
+---
 
 This space exists to reduce pressure, not to create it.
 
