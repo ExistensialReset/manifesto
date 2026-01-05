@@ -83,7 +83,7 @@ Real life is not a race to be won. It is a state to be returned to.
 Welcome to **Lyceum Musaeum** 🌻, the greenhouse of human flourishing, and **Refugium Anima** 🌼, the existential reset core. Together, they form the living heart of the [Manifesto Protocol](./ARCHITECTURE.md).
 
 **Lyceum Musaeum:** Systemic architecture for exploration, where knowledge is its own reward.  
-**Refugium Anima:** Space for calm, reflection, and regeneration. Pause, process, restore.  
+**[Refugium Anima](./REFUGIUM_ANIMA.md):** Space for calm, reflection, and regeneration. Pause, process, restore.  
 **Refugium of Being 🌿:** The container for the living self, fully integrated with **Refugium Anima**. The sanctuary within where you reconnect with presence.  
 🕊 Step inside Refugium Anima: your sanctuary of calm, reflection, and presence.
 
