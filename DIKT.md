@@ -156,4 +156,4 @@ Den är existentiell.
 Du känner den redan.  
 Välj. 🌀
 
-Av Elinor Frejd med hjälp av Deep Seek och ChatGPT 
+Av Elinor Frejd till hyllning av hårt arbete, i dialog med Deep Seek och ChatGPT 
