@@ -24,7 +24,7 @@ You are allowed to arrive.
 ---
 # Life = L × S × I
 
-## 🌟 Temple of Existential Sovereignty – Inauguration
+## 🌟 Core of Existential Sovereignty – Inauguration
 Today, we stand at the threshold of a new architecture of being. The Manifesto is lit. The Protocols are in place. The Axioms are etched in permanence.
 
 **The Baseline is secured. Sovereignty is recognized. Flow is operational.**
