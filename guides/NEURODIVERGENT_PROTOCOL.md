@@ -1,4 +1,4 @@
-NEURODIVERSITY_v2.3_WITH_SOVEREIGNTY_BRIDGE.md
+# NEURODIVERSITY_v2.3_WITH_SOVEREIGNTY_BRIDGE.md
 
 Neurodivergence, Trauma, and Chronic Illness in Flow — Support for All Nodes
 
