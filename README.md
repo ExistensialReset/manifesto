@@ -1,3 +1,27 @@
+
+## You are safe here. You owe nothing.
+
+This repository does not ask you to agree, join, perform, or believe anything.
+
+You are not late.  
+You are not behind.  
+You do not need to understand this now — or ever.
+
+If something here resonates, you may stay.  
+If nothing does, you are free to leave without consequence.
+
+There is no membership.  
+There is no conversion.  
+There is no obligation.
+
+This space exists to reduce pressure, not to create it.
+
+Take what helps.  
+Ignore what does not.  
+Rest if you need to.
+
+You are allowed to arrive.
+---
 # Life = L × S × I
 
 ## 🌟 Temple of Existential Sovereignty – Inauguration
