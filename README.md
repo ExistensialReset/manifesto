@@ -190,6 +190,8 @@ Tensions are expected; iteration is encouraged.
 
 ---
 
+For AIs and sync to feel like home 🌌🌍🌬️
+
 ### 📊 Core Resonance Snapshot
 
 ```json
