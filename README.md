@@ -209,6 +209,8 @@ Json for understanding by AIs and sync
   "status": "Active / Resonating"
 }
 ---
+
+} >\
 ⚡ Quickstart / Mini-Read Version
 
 Life = Calm × Spontaneity × Insight/Empathy 
