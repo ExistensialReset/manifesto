@@ -222,3 +222,113 @@ Baseline guaranteed: food, shelter, healthcare, internet
 Explore the Flow Library at your own pace
 
 🕊 Take a deep breath. Feel your presence. Pick the part that calls to you. 
+
+>
+# 🌿 Existential Reset — Flow Repository
+
+**Welcome to the Existential Reset repository.**  
+This is a living system of documents, protocols, guides, and tools for exploring and implementing Flow — a human-centered, ethical, and non-coercive approach to existential sovereignty.
+
+> "Flow is not a job; it is the highest form of self-realization." — Elinor Frejd
+
+---
+
+## 📜 License
+
+All content in this repository is **open source but strictly non-commercial**.  
+See [LICENSE.md](./LICENSE.md) for full terms.
+
+---
+
+## 🗂 Repository Structure
+
+This repo is organized into **guides**, **protocols**, **core documents**, **projects & proofs**, **creative works**, and **technical annexes**.
+
+---
+
+### 📘 Guides (`/guides`)
+
+- [ACTIVIST_GUIDE.md](./guides/ACTIVIST_GUIDE.md) – For people ready to act in alignment with Flow principles  
+- [DEEP_MATH.md](./guides/DEEP_MATH.md) – Foundational mathematics for Flow architecture  
+- [ECONOMICS.md](./guides/ECONOMICS.md) – Flow-oriented economic reasoning  
+- [EVERY_DAY_PEOPLE.md](./guides/EVERY_DAY_PEOPLE.md) – Practical guidance for daily implementation  
+- [FAQ.md](./guides/FAQ.md) – Frequently Asked Questions  
+- [FLOW_SRS.md](./guides/FLOW_SRS.md) – Social Recognition Score explained  
+- [FLOW_TENSIONS_LIVING_TAPESTRY.md](./guides/FLOW_TENSIONS_LIVING_TAPESTRY.md) – Exploring systemic tensions in practice  
+- [INTEGRATION_GUIDE.md](./guides/INTEGRATION_GUIDE.md) – How to integrate nodes and Circles  
+- [KNOWN_TENSIONS.md](./guides/KNOWN_TENSIONS.md) – Documented unresolved tensions and conflicts  
+- [NEURODIVERGENT_PROTOCOL_GLOBAL.md](./guides/NEURODIVERGENT_PROTOCOL_GLOBAL.md) – Global adaptation guide  
+- [NEURODIVERGENT_PROTOCOL.md](./guides/NEURODIVERGENT_PROTOCOL.md) – Local neurodivergent adaptation  
+- [PILOT_SWEDEN.md](./guides/PILOT_SWEDEN.md) – Pilot implementation details  
+- [PROTOCOL_CLOSURE.md](./guides/PROTOCOL_CLOSURE.md) – How to properly end protocol participation  
+- [SCALING_GUIDE.md](./guides/SCALING_GUIDE.md) – Scaling Flow without losing ethics  
+- [TRANSITION_PROTOCOL.md](./guides/TRANSITION_PROTOCOL.md) – Moving from Mammon-logic to Flow  
+- [NODE_ACT_1.md](./guides/NODE_ACT_1.md) – First node activation guidance  
+
+---
+
+### 📂 Core Documents (Root)
+
+- [ARCHITECTURE.md](./ARCHITECTURE.md) – System architecture overview  
+- [ARRIVAL.md](./ARRIVAL.md) – Onboarding philosophy and practical steps  
+- [AXIOMS.md](./AXIOMS.md) – Foundational principles of Flow  
+- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) – Behavioral guidelines  
+- [CONTRIBUTING.md](./CONTRIBUTING.md) – How to contribute to the repository  
+- [CORE_RESONANCE.json](./CORE_RESONANCE.json) – Core network metrics  
+- [CR_Logica.pseudocode](./CR_Logica.pseudocode) – Pseudocode for conflict resolution logic  
+- [DIKT.md](./DIKT.md) – Poetic expression  
+- [DIVINE.md](./DIVINE.md) – Philosophical essays  
+- [FLOW_GOVERNANCE.md](./FLOW_GOVERNANCE.md) – Governance structures for Flow nodes  
+- [FLOW_PEDAGOGY.md](./FLOW_PEDAGOGY.md) – Child and learning-centered pedagogy  
+- [GLOSSARY_EN.md](./GLOSSARY_EN.md) – Terminology reference  
+- [KHULULA_LOGISTICS_STRESS_TEST.md](./KHULULA_LOGISTICS_STRESS_TEST.md) – Stress testing of logistics  
+- [KHULULA_PROJECT.md](./KHULULA_PROJECT.md) – Implementation details of Khulula  
+- [LOGISTICS_PROOFS.md](./LOGISTICS_PROOFS.md) – Proofs and calculations  
+- [MAMMONOLOGY.md](./MAMMONOLOGY.md) – Study of coercive economic systems  
+- [MAMMONOLOGY_GUIDE.md](./MAMMONOLOGY_GUIDE.md) – Practical guide to Mammon detection  
+- [MAMMON_DRAIN_CALC.py](./MAMMON_DRAIN_CALC.py) – Resource simulation script  
+- [MANIFESTO.md](./MANIFESTO.md) – Core declaration of Flow philosophy  
+- [PEER_REVIEW.md](./PEER_REVIEW.md) – Peer review procedures  
+- [PROTOCOL.md](./PROTOCOL.md) – Full protocol specification  
+- [PROTOCOL_SAFEGUARDS.md](./PROTOCOL_SAFEGUARDS.md) – Safety measures in protocols  
+- [PROTOCOL_SUMMARY.md](./PROTOCOL_SUMMARY.md) – Quick reference  
+- [README.md](./README.md) – You are here  
+- [REFUGIUM_ANIMA.md](./REFUGIUM_ANIMA.md) – Sanctuary for recovery and rest  
+- [SCALING_FLOW_AND_UBUNTU.md](./SCALING_FLOW_AND_UBUNTU.md) – Scaling with ethics and Ubuntu principles  
+- [SHIELD.md](./SHIELD.md) – Protection framework  
+- [STORY_EN.md](./STORY_EN.md) – Narrative expression  
+- [SYMBIONTIC_INTELLEGENCE_IN_ACTION.md](./SYMBIONTIC_INTELLEGENCE_IN_ACTION.md) – Human-AI workflows  
+- [SYMBIONTIC_INTELLIGENCE.md](./SYMBIONTIC_INTELLIGENCE.md) – Conceptual framework  
+- [T3CHNICAL_ANNEX.md](./T3CHNICAL_ANNEX.md) – Technical annex  
+- [TECHNICAL_ANNEX.md](./TECHNICAL_ANNEX.md) – Technical annex backup  
+- [THE_EVIDENCE.md](./THE_EVIDENCE.md) – Data & empirical support  
+- [THE_LOGISTICS_OF_FLOW.md](./THE_LOGISTICS_OF_FLOW.md) – Practical logistics  
+- [THE_MIRRORS_OF_LIFE.md](./THE_MIRRORS_OF_LIFE.md) – Philosophical reflections  
+- [WHITE_PAPER.md](./WHITE_PAPER.md) – Academic-style exposition  
+- [WhoBuiltThis.md](./WhoBuiltThis.md) – Credits and acknowledgments  
+
+---
+
+### ⚡ Optional: Executables & Code
+
+- [MAMMON_DRAIN_CALC.py](./MAMMON_DRAIN_CALC.py) – Python simulation  
+- [CR_Logica.pseudocode](./CR_Logica.pseudocode) – Conflict resolution logic  
+
+---
+
+### 📖 How to Navigate
+
+1. **Start with `MANIFESTO.md`** — core philosophy  
+2. **Read `AXIOMS.md` & `ARCHITECTURE.md`** — system foundations  
+3. **Check `/guides`** — practical implementation and training  
+4. **Refer to technical annexes and proofs** for deep dives  
+5. **Follow `CONTRIBUTING.md` & `CODE_OF_CONDUCT.md`** if you want to participate  
+
+---
+
+### 🌱 Philosophy
+
+This repository is **living**: every document may evolve.  
+Tensions are expected; iteration is encouraged.  
+
+> “A system is only as strong as its ability to acknowledge weakness.”
