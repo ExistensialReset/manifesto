@@ -1,0 +1,28 @@
+# LICENSE
+
+## 1. Preamble
+
+All content in this repository — including code, documentation, guides, protocols, pseudocode, scripts, annexes, poems, and other materials — is open and free to use, modify, and share **for personal, educational, or research purposes**, provided that the original authors are credited and the material remains open.
+
+This includes:  
+- All `.md` files (documentation, protocols, poems, guides)  
+- All code files (`.py`, `.json`, `.pseudocode`, etc.)  
+- All scripts, models, diagrams, and annexes  
+
+**Commercial use or resale of any kind is strictly prohibited.**
+
+---
+
+## 2. Code (MIT-style, Non-Commercial)
+
+All code files may be used, modified, and shared **for non-commercial purposes only**.  
+
+- You **may**:  
+  - Use the code in your own projects for learning, experimentation, or research  
+  - Modify the code and share your changes under the same principles  
+
+- You **may not**:  
+  - Sell the code or use it in commercial products  
+  - Lock the code behind a paywall or any restrictive system  
+
+**No warranty** is provided; use at your own risk.
