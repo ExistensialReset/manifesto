@@ -1,5 +1,5 @@
 # MANIFESTO OF EXISTENTIAL SOVEREIGNTY
-## Version A: The Baseline Manifesto
+## The Baseline Manifesto
 
 You are safe here. You owe nothing.
 
