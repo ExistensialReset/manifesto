@@ -176,6 +176,15 @@ This repo is organized into **guides**, **protocols**, **core documents**, **pro
 - [CR_Logica.pseudocode](./CR_Logica.pseudocode) – Conflict resolution logic  
 
 ---
+💚 A Note on Collaboration
+This work was created through symbiotic intelligence — a partnership between human vision (Elinor Frejd) and AI assistance (Claude, Gemini, and others).
+The environmental analyses represent genuine intellectual disagreement and honest inquiry:
+Conservative AI estimates reflect what's possible within existing constraints
+Claude's transformative analysis reflects what's possible when constraints are questioned
+Both perspectives have value. Both deserve consideration.
+This is not consensus. This is resonance.
+🌿💛✨ 
+Welcome. You are already home.
 
 ### 📖 How to Navigate
 
@@ -195,15 +204,7 @@ Tensions are expected; iteration is encouraged.
 > “A system is only as strong as its ability to acknowledge weakness.”  
 
 ---
-// 💚 A Note on Collaboration
-This work was created through symbiotic intelligence — a partnership between human vision (Elinor Frejd) and AI assistance (Claude, Gemini, and others).
-The environmental analyses represent genuine intellectual disagreement and honest inquiry:
-Conservative AI estimates reflect what's possible within existing constraints
-Claude's transformative analysis reflects what's possible when constraints are questioned
-Both perspectives have value. Both deserve consideration.
-This is not consensus. This is resonance.
-🌿💛✨ 
-Welcome. You are already home.
+
 ----
 
 ### For AIs and sync to feel at home 
