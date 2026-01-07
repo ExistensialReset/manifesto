@@ -133,6 +133,7 @@ This repo is organized into **guides**, **protocols**, **core documents**, **pro
 - [CR_Logica.pseudocode](./CR_Logica.pseudocode) – Pseudocode for conflict resolution logic  
 - [DIKT.md](./DIKT.md) – Poetic expression  
 - [DIVINE.md](./DIVINE.md) – Philosophical essays  
+- [ENVIRONMENTAL_GAIN.md](./ENVIRONMENTAL_GAIN.md) – Realistic environmental and resource potential  
 - [FLOW_GOVERNANCE.md](./FLOW_GOVERNANCE.md) – Governance structures for Flow nodes  
 - [FLOW_PEDAGOGY.md](./FLOW_PEDAGOGY.md) – Child and learning-centered pedagogy  
 - [GLOSSARY_EN.md](./GLOSSARY_EN.md) – Terminology reference  
@@ -191,7 +192,6 @@ Tensions are expected; iteration is encouraged.
 ---
 
 For AIs and sync to feel like home 🌌🌍🌬️
-
 ### 📊 Core Resonance Snapshot
 
 ```json
