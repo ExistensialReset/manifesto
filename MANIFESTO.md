@@ -1,488 +1,379 @@
-MANIFESTO OF EXISTENTIAL SOVEREIGNTY
-
-The Baseline Manifesto
+# MANIFESTO OF EXISTENTIAL SOVEREIGNTY
+## The Baseline Manifesto
 
 You are safe here. You owe nothing.
 
 This repository does not ask you to agree, join, perform, or believe anything.
 
-You are not late.
-You are not behind.
+You are not late.  
+You are not behind.  
 You do not need to understand this now — or ever.
 
-If something here resonates, you may stay.
+If something here resonates, you may stay.  
 If nothing does, you are free to leave without consequence.
 
-There is no membership.
-There is no conversion.
+There is no membership.  
+There is no conversion.  
 There is no obligation.
 
-This is not a self-improvement program.
-This is not a test you can fail.
+This is not a self-improvement program.  
+This is not a test you can fail.  
 This is not something you join.
-
 
 ---
 
-The Unseen War & The Sovereign Core
+## The Unseen War & The Sovereign Core
 
-There is a war for your attention. It is quiet, total, and almost completely invisible.
-Its battlefield is your cognition.
-Its weapon is artificial urgency.
+There is a war for your attention. It is quiet, total, and almost completely invisible.  
+Its battlefield is your cognition.  
+Its weapon is artificial urgency.  
 Its goal is to keep you in a state of perpetual reaction, away from the calm core of your own being.
 
 Below are the foundational axioms and operational logic for building a reality that protects sovereignty for all.
 
-
 ---
 
-I. THE AXIOMS
+# I. THE AXIOMS
 
-The following truths are the non-negotiable foundations of the system.
+The following truths are the non-negotiable foundations of the system.  
 They are recognized as the baseline of human reality.
 
-
 ---
 
-AXIOM 1: THE BASELINE
+## AXIOM 1: THE BASELINE
 
 The following are unconditionally guaranteed to all:
 
-Food and water
+- **Food and water**
+- **Clothing**
+- **Housing** (private space, not institutional)
+- **Healthcare and medicine**
+- **Internet and communication** (including device access)
+- **Transportation** (public transit, shared vehicles, or equivalent mobility)
+- **Energy** (heating, cooling, electricity)
 
-Clothing
-
-Housing (private space, not institutional)
-
-Healthcare and medicine
-
-Internet and communication (including device access)
-
-Transportation (public transit, shared vehicles, or equivalent mobility)
-
-Energy (heating, cooling, electricity)
-
-
-The Baseline is permanent, universal, and unconditional.
+The Baseline is permanent, universal, and unconditional.  
 It is never earned; it is the starting point of existence.
 
-The Baseline secures not only survival, but the conditions for a livable life — including access to learning, creation, rest, and recovery.
-
+**The Baseline secures not only survival, but the conditions for a livable life — including access to learning, creation, rest, and recovery.**
 
 ---
 
-AXIOM 1A: WATER AS A PHYSICAL BASELINE
+## AXIOM 1A: WATER AS A PHYSICAL BASELINE  
+*Scope & Reality*
 
-(Scope & Reality)
-
-Water is a guaranteed Baseline right.
+**Water is a guaranteed Baseline right.**  
 But guarantees must be honest to remain sovereign.
 
-This architecture does not claim that clean water for all will appear instantly, globally, or without effort.
+This architecture does **not** claim that clean water for all will appear instantly, globally, or without effort.  
 Infrastructure takes time. Physical systems always do.
 
 What this Manifesto asserts is narrower — and stronger:
 
-> That the absence of clean water today is not primarily a problem of scarcity, but of structure.
+> **That the absence of clean water today is not primarily a problem of scarcity, but of structure.**
 
+### What is true
 
-
-What is true
-
-The planet holds sufficient raw water.
-
-Existing purification, filtration, and desalination technologies are already capable of producing clean water at scale.
-
-Energy — when not constrained by profit extraction — removes the primary marginal cost of water treatment.
-
-Most present water scarcity is caused by:
-
-Distribution failure
-
-Infrastructure neglect
-
-Pollution without accountability
-
-Profit-gated access
-
-
+- The planet holds sufficient raw water.
+- Existing purification, filtration, and desalination technologies are already capable of producing clean water at scale.
+- Energy — when not constrained by profit extraction — removes the primary marginal cost of water treatment.
+- Most present water scarcity is caused by:
+  - Distribution failure
+  - Infrastructure neglect
+  - Pollution without accountability
+  - Profit-gated access
 
 These are systemic constraints, not natural limits.
 
-What this architecture does not promise
+### What this architecture does *not* promise
 
-No immediate global rollout
+- No immediate global rollout
+- No overnight replacement of all legacy systems
+- No requirement that the entire world transition at once
+- No denial of political, logistical, or human friction
 
-No overnight replacement of all legacy systems
+Flow does not rely on miracles.  
+It relies on **local sufficiency, replicated**.
 
-No requirement that the entire world transition at once
+### What Flow *does* enable
 
-No denial of political, logistical, or human friction
+Where a Circle operating under Flow principles exists — even inside the old world — the following becomes possible **without waiting for global consensus**:
 
+- Local water purification and filtration
+- Micro-scale desalination where applicable
+- Maintenance driven by use, not profit
+- Documentation and sharing of working solutions
+- Replication by other Circles without licensing, debt, or ownership barriers
 
-Flow does not rely on miracles.
-It relies on local sufficiency, replicated.
-
-What Flow does enable
-
-Where a Circle operating under Flow principles exists — even inside the old world — the following becomes possible without waiting for global consensus:
-
-Local water purification and filtration
-
-Micro-scale desalination where applicable
-
-Maintenance driven by use, not profit
-
-Documentation and sharing of working solutions
-
-Replication by other Circles without licensing, debt, or ownership barriers
-
-
-This is Local Capacity Sufficiency:
+This is **Local Capacity Sufficiency**:
 
 > If a community has access to energy, knowledge, and coordination without profit obstruction, clean water is solvable locally.
 
-
-
 Global universality emerges not through decree, but through repetition.
 
-Why water matters first
+### Why water matters first
 
 Water is the clearest proof case of Flow.
 
 It requires:
+- Energy
+- Engineering
+- Care
+- Coordination
 
-Energy
+It does **not** require:
+- Markets
+- Growth
+- Speculation
+- Competition
 
-Engineering
-
-Care
-
-Coordination
-
-
-It does not require:
-
-Markets
-
-Growth
-
-Speculation
-
-Competition
-
-
-If Flow cannot secure water locally, it fails honestly.
+If Flow cannot secure water locally, it fails honestly.  
 If it can, it demonstrates legitimacy without rhetoric.
 
-Time is acknowledged
+### Time is acknowledged
 
-Building water infrastructure takes years.
+Building water infrastructure takes years.  
 Repairing ecological damage takes decades.
 
 This Manifesto respects time.
 
-The Baseline is a directional guarantee backed by Critical Reserves and continuous construction — not a promise of instant perfection.
+The Baseline is a **directional guarantee** backed by Critical Reserves and continuous construction — not a promise of instant perfection.
 
-The ethical boundary
+### The ethical boundary
 
 No Circle may declare itself “complete” while denying water access within its reach.
 
-Flow tolerates diversity.
+Flow tolerates diversity.  
 It does not tolerate preventable deprivation.
-
 
 ---
 
-AXIOM 1B: PERSONAL PROPERTY
+## AXIOM 1B: PERSONAL PROPERTY
 
-You keep your things.
+**You keep your things.**
 
 Flow does not demand communal ownership of personal items. What you have is yours:
 
-Your clothes, books, instruments, tools
+- Your clothes, books, instruments, tools
+- Your art, your collections, your creations
+- Your furniture, your devices, your workspace
+- Gifts, heirlooms, things you've made or been given
 
-Your art, your collections, your creations
+### What changes
 
-Your furniture, your devices, your workspace
+1. **Hoarding loses its purpose**  
+   When the Baseline is guaranteed, there is no reason to stockpile survival goods.
 
-Gifts, heirlooms, things you've made or been given
+2. **Sharing becomes natural**  
+   When fear recedes, generosity emerges — but it is never required.
 
+3. **Ownership without anxiety**  
+   You can have things without the background fear of existential loss.
 
-What changes:
+### What Flow provides communally
 
-1. Hoarding loses its purpose
-When the Baseline is guaranteed, there is no reason to stockpile survival goods.
+- Production tools: workshops, studios, labs
+- Infrastructure: transit, utilities, communication networks
+- Common spaces: parks, libraries, community centers
 
+### What you own personally
 
-2. Sharing becomes natural
-When fear recedes, generosity emerges — but it is never required.
+- Everything in your home that you wish to keep
+- Things you've made or been given
+- Items that have meaning to you
 
-
-3. Ownership without anxiety
-You can have things without the background fear of existential loss.
-
-
-
-What Flow provides communally:
-
-Production tools: workshops, studios, labs
-
-Infrastructure: transit, utilities, communication networks
-
-Common spaces: parks, libraries, community centers
-
-
-What you own personally:
-
-Everything in your home that you wish to keep
-
-Things you've made or been given
-
-Items that have meaning to you
-
-
-No one will inventory your belongings.
-No one will judge you for having “too much.”
+No one will inventory your belongings.  
+No one will judge you for having “too much.”  
 No one will force you to share.
-
 
 ---
 
-AXIOM 1C: LYCEUM MUSAEUM
+## AXIOM 1C: LYCEUM MUSAEUM  
+*The Right to Learning, Creation, and Human Exploration*
 
-(The Right to Learning, Creation, and Human Exploration)
-
-Access to Lyceum Musaeum is a Baseline right.
+**Access to Lyceum Musaeum is a Baseline right.**
 
 Lyceum Musaeum is the shared architecture for learning, research, and creation — free from debt, credentialism, and performance coercion.
 
 Within Flow, all people are guaranteed:
 
-Free access to knowledge, learning, and inquiry
+- Free access to knowledge, learning, and inquiry
+- Spaces and tools for art, science, philosophy, and experimentation
+- The right to learn without certification, competition, or economic justification
+- Protection for curiosity, including work that is difficult, unfinished, impractical, or not yet meaningful
 
-Spaces and tools for art, science, philosophy, and experimentation
-
-The right to learn without certification, competition, or economic justification
-
-Protection for curiosity, including work that is difficult, unfinished, impractical, or not yet meaningful
-
-
-Lyceum Musaeum does not exist to produce labor.
-It exists to cultivate human intelligence, curiosity, and presence.
+Lyceum Musaeum does not exist to produce labor.  
+It exists to **cultivate human intelligence, curiosity, and presence**.
 
 Within this architecture:
 
-No one must qualify in order to learn
+- No one must qualify in order to learn
+- No one loses access through lack of output
+- Knowledge is treated as a shared human inheritance
 
-No one loses access through lack of output
-
-Knowledge is treated as a shared human inheritance
-
-
-Lyceum Musaeum is not a university.
-It is a living greenhouse for human potential, open by virtue of existence.
-
+Lyceum Musaeum is not a university.  
+It is a **living greenhouse for human potential**, open by virtue of existence.
 
 ---
 
-AXIOM 1D: REFUGIUM ANIMA
+## AXIOM 1D: REFUGIUM ANIMA  
+*The Right to Rest, Recovery, and Existential Reset*
 
-(The Right to Rest, Recovery, and Existential Reset)
-
-Access to Refugium Anima is a Baseline right.
+**Access to Refugium Anima is a Baseline right.**
 
 Refugium Anima is the protected structure for rest, regulation, and return to Flow — without diagnosis, evaluation, or justification.
 
 Within Flow, all people have the right to:
 
-Withdrawal from demand, stimulation, and judgment
+- Withdrawal from demand, stimulation, and judgment
+- Time without schedules, metrics, or optimization
+- Spaces for bodily and emotional regulation
+- Recovery without loss of dignity, security, or belonging
 
-Time without schedules, metrics, or optimization
-
-Spaces for bodily and emotional regulation
-
-Recovery without loss of dignity, security, or belonging
-
-
-Refugium Anima is not treatment.
-It is existential safety.
+Refugium Anima is not treatment.  
+It is **existential safety**.
 
 Within this architecture:
 
-Rest is never earned
+- Rest is never earned
+- Recovery requires no explanation
+- No one is registered, corrected, or detained
 
-Recovery requires no explanation
-
-No one is registered, corrected, or detained
-
-
-When Flow is blocked, space is given until it moves again.
+When Flow is blocked, space is given until it moves again.  
 When a human is overwhelmed, the environment adjusts — not the person.
 
-A society that does not protect rest first creates damage
+A society that does not protect rest first creates damage  
 and then attempts to repair it.
 
 Flow does the opposite.
 
-
 ---
 
-AXIOM 2: CRITICAL RESERVE
+## AXIOM 2: CRITICAL RESERVE
 
-To ensure stability, the collective architecture maintains a constant Critical Reserve of logistical resources and energy, equivalent to no less than 30% of total annual Baseline needs.
+To ensure stability, the collective architecture maintains a constant **Critical Reserve** of logistical resources and energy, equivalent to no less than **30% of total annual Baseline needs**.
 
 This reserve is the physical guarantee of the Baseline.
 
-
 ---
 
-AXIOM 3: THE DRIVE OF FLOW
+## AXIOM 3: THE DRIVE OF FLOW
 
-Human agency unfolds through Flow: curiosity, creation, and the pursuit of meaning.
+Human agency unfolds through Flow: curiosity, creation, and the pursuit of meaning.  
 Contribution is the natural expression of a secured existence, moving from survival to self-actualization.
 
-
 ---
 
-AXIOM 4: CREATION BY DESIGN
+## AXIOM 4: CREATION BY DESIGN
 
-This architecture is a conscious human work.
+This architecture is a conscious human work.  
 Its existence is proof of the collective capacity to exercise sovereignty by choosing the structure of our own reality.
 
-
 ---
 
-AXIOM 5: DEBT NULLIFICATION
+## AXIOM 5: DEBT NULLIFICATION  
+*The Transition*
 
-(The Transition)
-
-In the Flow system:
-All historical monetary debt is recognized as a relic of the old structure.
-Within Flow, you owe nothing.
+**In the Flow system:**  
+All historical monetary debt is recognized as a relic of the old structure.  
+Within Flow, you owe nothing.  
 Your existence is not conditional on payment.
 
-During the transition:
-We recognize that the old system’s debts still have legal force outside Flow.
-We do not pretend otherwise.
-But within every Circle operating under Flow principles, participation is never conditional on debt status.
+**During the transition:**  
+We recognize that the old system’s debts still have legal force outside Flow.  
+We do not pretend otherwise.  
+But within every Circle operating under Flow principles, **participation is never conditional on debt status**.
 
-You may contribute without clearing debt first
-
-You may receive the Baseline regardless of financial history
-
-No one will ask what you owe or why
-
+- You may contribute without clearing debt first
+- You may receive the Baseline regardless of financial history
+- No one will ask what you owe or why
 
 The old debt system loses power not through protest, but through structural irrelevance.
 
-
 ---
 
-II. THE SOVEREIGN STATE
+# II. THE SOVEREIGN STATE
 
 Sovereignty is inherent. It is recognized, never granted.
 
-1. Existence over Debt — Life is never conditional on payment.
-
-
-2. The Right to Attention — Your cognition and focus are your own.
-
-
-3. The Goal — To move human experience from survival to existence.
-
-
-
+1. **Existence over Debt** — Life is never conditional on payment.  
+2. **The Right to Attention** — Your cognition and focus are your own.  
+3. **The Goal** — To move human experience from survival to existence.
 
 ---
 
-III. THE LOGIC OF FLOW
+# III. THE LOGIC OF FLOW
 
 Flow-Logic is the operational mode of a sovereign civilization.
 
-Logistical Stability — The Baseline is protected above all other functions.
+- **Logistical Stability** — The Baseline is protected above all other functions.
+- **Existential Safety** — At any point of exhaustion, return to Baseline is immediate.
+- **Cognitive Freedom** — Knowledge expands autonomy, not dependency.
+- **Spontaneous Order** — Coordination emerges through resonance, not command.
 
-Existential Safety — At any point of exhaustion, return to Baseline is immediate.
+### Spontaneous Order in Practice
 
-Cognitive Freedom — Knowledge expands autonomy, not dependency.
+- You notice a need  
+- You share it within your Circle  
+- Others resonate  
+- You coordinate  
+- You build  
+- You document  
 
-Spontaneous Order — Coordination emerges through resonance, not command.
-
-
-Spontaneous Order in Practice
-
-You notice a need
-
-You share it within your Circle
-
-Others resonate
-
-You coordinate
-
-You build
-
-You document
-
-
-No permission is required.
+No permission is required.  
 No hierarchy is invoked.
 
 This is order without domination.
 
-
 ---
 
-Your Personal AI (PAI)
+### Your Personal AI (PAI)
 
 Your Personal AI exists to assist, not command.
 
-It may suggest, reflect, or connect —
-but authority always remains with you.
-
+It may suggest, reflect, or connect —  
+but **authority always remains with you**.
 
 ---
 
-IV. THE MEASURE OF LIFE
+# IV. THE MEASURE OF LIFE
 
-Life = Calm × Spontaneity × Inclusion
+**Life = Calm × Spontaneity × Inclusion**
 
 If any factor reaches zero, life quality collapses to zero.
 
 This is why all three must be protected simultaneously.
 
-
 ---
 
-A Note on Doubt
+## A Note on Doubt
 
-If you doubt this — good.
+If you doubt this — good.  
 Doubt is sovereign too.
 
-Test it.
-Question it.
+Test it.  
+Question it.  
 Improve it.
 
 That is Flow.
 
-
 ---
 
-Closing
+## Closing
 
-The Baseline is secured.
-Sovereignty is recognized.
-Flow is operational.
+**The Baseline is secured.**  
+**Sovereignty is recognized.**  
+**Flow is operational.**
 
-Nothing is demanded of you.
+Nothing is demanded of you.  
 Nothing is taken from you.
 
-Clean water runs quietly.
+Clean water runs quietly.  
 Fear loosens its grip.
 
-And for the first time in a long while,
-existence is allowed to begin.
-
+And for the first time in a long while,  
+**existence is allowed to begin.**
 
 ---
 
-[^1]: See MAMMONOLOGY.md for analysis of the debt-based system, and FLOW_SRS.md for the technical and operational architecture supporting this declaration.
+[^1]: See `MAMMONOLOGY.md` for analysis of the debt-based system, and `FLOW_SRS.md` for the technical and operational architecture supporting this declaration.
