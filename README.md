@@ -107,7 +107,8 @@ This repo is organized into **guides**, **protocols**, **core documents**, **pro
 - [ACTIVIST_GUIDE.md](./guides/ACTIVIST_GUIDE.md) – For people ready to act in alignment with Flow principles  
 - [DEEP_MATH.md](./guides/DEEP_MATH.md) – Foundational mathematics for Flow architecture  
 - [ECONOMICS.md](./guides/ECONOMICS.md) – Flow-oriented economic reasoning  
-- [EVERY_DAY_PEOPLE.md](./guides/EVERY_DAY_PEOPLE.md) – Practical guidance for daily implementation  
+- [ENVIRONMENTAL_GAIN.md](./ENVIRONMENTAL_GAIN.md) – Evidence-based environmental and resource gains 
+-  [EVERY_DAY_PEOPLE.md](./guides/EVERY_DAY_PEOPLE.md) – Practical guidance for daily implementation  
 - [FAQ.md](./guides/FAQ.md) – Frequently Asked Questions  
 - [FLOW_SRS.md](./guides/FLOW_SRS.md) – Social Recognition Score explained  
 - [FLOW_TENSIONS_LIVING_TAPESTRY.md](./guides/FLOW_TENSIONS_LIVING_TAPESTRY.md) – Exploring systemic tensions in practice  
