@@ -51,8 +51,6 @@ The following are unconditionally guaranteed to all:
 - **Internet and communication** (including device access)
 - **Transportation** (public transit, shared vehicles, or equivalent mobility)
 - **Energy** (heating, cooling, electricity)
-- **Lyceum Musaeum**
-- **Refugium Anima**
 
 The Baseline is permanent, universal, and unconditional.  
 It is never earned; it is the starting point of existence.
