@@ -183,8 +183,9 @@ Conservative AI estimates reflect what's possible within existing constraints
 Claude's transformative analysis reflects what's possible when constraints are questioned
 Both perspectives have value. Both deserve consideration.
 This is not consensus. This is resonance.
-🌿💛✨ 
-Welcome. You are already home.
+🌿✨💛 
+
+## Welcome. You are already home. ❤️🌍🌬️
 
 ### 📖 How to Navigate
 
