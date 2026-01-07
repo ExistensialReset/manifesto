@@ -127,6 +127,7 @@ This repo is organized into **guides**, **protocols**, **core documents**, **pro
 ### 📂 Core Documents (Root)
 - [ENVIRONMENTAL_GAIN.md](./ENVIRONMENTAL_GAIN.md) – **Empirical Environmental Gains**  
   This document summarizes the realistic potential for reducing humanity’s environmental impact based on publicly available, verified data (FAO, IMF, IEA, academic research). It outlines achievable reductions in CO2 emissions, resource extraction, and waste flows, and provides measurable societal and ecological benefits if the recommendations are implemented.
+-[ENVIRONMENTAL_ANALYSIS.md](ENVIRONMENTAL_ANALYSIS.md) Why it all will be better, faster ❤️🌍
 
 - [ARCHITECTURE.md](./ARCHITECTURE.md) – System architecture overview  
 - [ARRIVAL.md](./ARRIVAL.md) – Onboarding philosophy and practical steps  
@@ -136,6 +137,7 @@ This repo is organized into **guides**, **protocols**, **core documents**, **pro
 - [CR_Logica.pseudocode](./CR_Logica.pseudocode) – Pseudocode for conflict resolution logic  
 - [DIKT.md](./DIKT.md) – Poetic expression  
 - [DIVINE.md](./DIVINE.md) – Philosophical essays  
+-[ENVIRONMENTAL_ANALYSIS.md](. /ENVIRONMENTAL_ANALYSIS.md) - an analysis why Earth will recover faster than ENVIRONMENTAL_GAIN.MD claims. 
 - [ENVIRONMENTAL_GAIN.md](./ENVIRONMENTAL_GAIN.md) – Realistic environmental and resource potential  
 - [FLOW_GOVERNANCE.md](./FLOW_GOVERNANCE.md) – Governance structures for Flow nodes  
 - [FLOW_PEDAGOGY.md](./FLOW_PEDAGOGY.md) – Child and learning-centered pedagogy  
