@@ -337,4 +337,8 @@ If we find ourselves using SRS to allocate creative tools, spaces, or materials:
 
 **STATUS:** Experimental — allowed only for genuine, irreducible uniqueness  
 **VALIDATION:** Aligned with Flow axioms and anti-hierarchy safeguards  
+
 **COMMITMENT:** If it harms dignity, limits creativity, or rations what should be abundant — it is removed immediately.
+---
+This document is subordinate to the Manifesto of Existential Sovereignty.
+If any conflict exists, the Manifesto overrides this specification. 
