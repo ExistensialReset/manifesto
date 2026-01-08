@@ -11,7 +11,7 @@ Every 10 years, a "Deep Audit" is triggered.
 * **Negotiables:** All Guides and specific Protocols are subject to evolution.
 
 ## §2. THE EVOLUTION PROCESS
-1.  **Proposal:** Any Node can propose a change based on evidence of increased $L \times S \times I$.
+1.  **Proposal:** Any Node can propose a change based on evidence of increased L x S x I.
 2.  **Simulation:** AI models the change over a 50-year projection.
 3.  **Consensus:** 80% supermajority required.
 4.  **The Spjuver Test:** Does the change make the system more rigid or more playful? Rigid changes are rejected.
