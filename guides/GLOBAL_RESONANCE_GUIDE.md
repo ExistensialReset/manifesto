@@ -15,4 +15,4 @@ When integrating a new culture, map Flow Axioms to local wisdom:
 Identify where Mammon has corrupted local tradition. Use the Flow to restore traditional communal security. 
 
 ## §3. TRANSLATION
-Protokolls should be translated into local languages and metaphors, ensuring the $L \times S \times I$ formula remains the core metric regardless of terminology.
+Protokolls should be translated into local languages and metaphors, ensuring the L x S X I formula remains the core metric regardless of terminology.
