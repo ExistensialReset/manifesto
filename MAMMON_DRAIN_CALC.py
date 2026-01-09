@@ -1,112 +1,82 @@
-import time
+# MAMMON_DRAIN_CALC.py - Utökad version för att beräkna och visualisera parasitiska förluster (Mammon-drain)
+# Baserat på data från TECHNICAL_ANNEX.md: Mat, energi, marknadsföring, etc.
+# Användning: Kör python MAMMON_DRAIN_CALC.py för att se output och spara plot.
+# Kräver: numpy, matplotlib (installera via pip om behövs: pip install numpy matplotlib)
 
-def calculate_friction():
-    print("="*60)
-    print("      EXISTENTIAL RESET: FRICTION CALCULATOR")
-    print("="*60)
-    
-    lang = input("\nChoose language / Välj språk:\n1. Svenska\n2. English\n> ")
-    
-    # Texter för båda språken
-    texts = {
-        "1": {
-            "title": "MAMMON-ROFFAR-ÅT-SIG CALCULATOR",
-            "intro": "Det här verktyget mäter den dolda friktionen i ditt liv.",
-            "part1": "[DEL 1: DEN EKONOMISKA RÄNTESNURRAN]",
-            "inc": "Din lön efter skatt (netto): ",
-            "int": "Månadskostnad för räntor (bolån, krediter, lån): ",
-            "fees": "Dolda avgifter (försäkringar, bankavgifter, onödiga abonnemang): ",
-            "part2": "[DEL 2: DEN LOGISTISKA LABYRINTEN]",
-            "work": "Hur många timmar jobbar du i veckan? ",
-            "admin": "Timmar/vecka på pendling, räkningar, bankärenden och system-admin: ",
-            "part3": "[DEL 3: STRESS-SKATTEN]",
-            "stress": "På en skala 1-10, hur mycket av din tid är fylld av 'måsten' och inre stress? ",
-            "anal": "ANALYS: HUR MYCKET MAMMON ROFFAR ÅT SIG",
-            "freedom": "Systemisk frihet",
-            "drain": "Mammon Roffar Åt Sig",
-            "potential": "av din totala livspotential",
-            "hours": "Detta motsvarar ca {:.1f} timmar varje vecka som stjäls",
-            "stolen": "direkt från ditt Lugn (L) och din Spontanitet (S).",
-            "danger": "DOMSLUT: Du befinner dig i 'Mammon-fällan'.",
-            "ok": "DOMSLUT: Du har lyckats hålla viss marginal, men friktionen finns där.",
-            "action": "HANDLING: Läs THE_EVIDENCE.md i repot för att förstå hur vi gör en Reset."
+import numpy as np
+import matplotlib.pyplot as plt
+import json  # För att exportera Chart.js-config för web-integration
+
+# Data från TECHNICAL_ANNEX.md och ECOLOGICAL_AXIOM.md (hårdkodade värden för enkelhet; kan läsas från fil)
+drain_data = {
+    'Food Waste': 31.0,  # % matsvinn från marknadsinneffektivitet
+    'Marketing': 1.5,    # % av global GDP på onödig reklam
+    'Finance Admin': 5.0,  # Genomsnitt 4-6% av labor hours på finansbyråkrati
+    'Planned Obsolescence': 17.5,  # 15-20% av resource throughput
+    'Energy Inefficiency': 25.5,   # Potentiell effektiviseringsvinst i energi
+    'Military Expenditure': 2.5,   # % av global GDP på militär (parasitisk enligt manifestot)
+    'Debt Servicing': 10.0         # Uppskattad % på skuldhantering
+}
+
+sectors = list(drain_data.keys())
+drains = list(drain_data.values())
+
+# Beräkna total och genomsnittlig drain
+total_drain = np.sum(drains)
+average_drain = np.mean(drains)
+
+# Printa resultat för att "visa sanningen"
+print("Parasitiska förluster (Mammon-drain) per sektor:")
+for sector, drain in drain_data.items():
+    print(f"{sector}: {drain:.2f}%")
+print(f"\nTotal Drain: {total_drain:.2f}%")
+print(f"Genomsnittlig Drain: {average_drain:.2f}%")
+print("\nDetta visar hur Mammon-systemet slösar resurser som kunde återvinnas i Flow för en post-scarcity-värld.")
+
+# Visualisering med matplotlib (lokal plot)
+plt.figure(figsize=(10, 6))
+plt.bar(sectors, drains, color='red')
+plt.ylabel('Drain (%)')
+plt.title('Mammon Drain per Sektor - Parasitiska Förluster')
+plt.xticks(rotation=45, ha='right')
+plt.tight_layout()
+plt.savefig('mammon_drain_plot.png')  # Spara som PNG för repo
+plt.show()  # Visa om du kör lokalt
+
+# Generera Chart.js-config för web (integrera i index.html eller dashboard)
+chart_config = {
+    "type": "bar",
+    "data": {
+        "labels": sectors,
+        "datasets": [{
+            "label": "Parasitic Loss (%)",
+            "data": drains,
+            "backgroundColor": "rgba(255, 99, 132, 0.2)",
+            "borderColor": "rgba(255, 99, 132, 1)",
+            "borderWidth": 1
+        }]
+    },
+    "options": {
+        "scales": {
+            "y": {
+                "beginAtZero": True,
+                "title": {
+                    "display": True,
+                    "text": "Loss Percentage"
+                }
+            }
         },
-        "2": {
-            "title": "THE MAMMON DRAIN CALCULATOR",
-            "intro": "This tool measures the hidden friction in your life.",
-            "part1": "[PART 1: THE FINANCIAL WHIRLPOOL]",
-            "inc": "Monthly net income (after tax): ",
-            "int": "Monthly interest payments (mortgage, loans): ",
-            "fees": "Hidden fees (insurance, bank fees, unnecessary subscriptions): ",
-            "part2": "[PART 2: THE LOGISTICAL LABYRINTH]",
-            "work": "Hours worked per week: ",
-            "admin": "Hours/week on commuting, bills, bank errands, and system-admin: ",
-            "part3": "[PART 3: THE STRESS TAX]",
-            "stress": "On a scale 1-10, how much of your day is spent in 'Urgency/Stress' (10=Max): ",
-            "anal": "ANALYSIS: THE MAMMON DRAIN",
-            "freedom": "Systemic Freedom",
-            "drain": "Mammon's Take",
-            "potential": "of your total life potential",
-            "hours": "This equals approx {:.1f} hours every week stolen",
-            "stolen": "directly from your Calm (L) and your Spontaneity (S).",
-            "danger": "VERDICT: You are in the 'Mammon Trap'.",
-            "ok": "VERDICT: You have some margin, but the friction is still there.",
-            "action": "ACTION: Visit THE_EVIDENCE.md in the repo to learn how to Reset."
+        "plugins": {
+            "title": {
+                "display": True,
+                "text": "Mammon Drain by Sector - Visar Sanningen om Slöseri"
+            }
         }
     }
+}
 
-    t = texts.get(lang, texts["2"]) # Default till engelska om de skriver fel
+# Spara config som JSON för enkel import
+with open('mammon_drain_chart.json', 'w') as f:
+    json.dump(chart_config, f)
 
-    print("\n" + "="*60)
-    print(f"      {t['title']}")
-    print("="*60)
-    print(f"\n{t['intro']}")
-    
-    try:
-        # 1. EKONOMISK
-        print(f"\n{t['part1']}")
-        income = float(input(t['inc']))
-        interest = float(input(t['int']))
-        fees = float(input(t['fees']))
-        financial_friction = (interest + fees) / income if income > 0 else 0
-
-        # 2. LOGISTISK
-        print(f"\n{t['part2']}")
-        work_hours = float(input(t['work']))
-        admin_hours = float(input(t['admin']))
-        time_friction = admin_hours / work_hours if work_hours > 0 else 0
-
-        # 3. EXISTENTIELL
-        print(f"\n{t['part3']}")
-        stress_level = float(input(t['stress']))
-        l_factor_loss = stress_level / 10
-
-        # BERÄKNING
-        total_friction = (financial_friction + time_friction + l_factor_loss) / 3 * 100
-        lost_hours = (total_friction / 100) * 168 
-        
-        print("\n" + "="*60)
-        print(t['anal'])
-        print("="*60)
-        time.sleep(1)
-        
-        print(f"\n> {t['freedom']}: {100 - total_friction:.1f}%")
-        print(f"> {t['drain']}: {total_friction:.1f}% {t['potential']}.")
-        
-        print(f"\n{t['hours'].format(lost_hours)}")
-        print(t['stolen'])
-        
-        print("\n" + "-" * 60)
-        if total_friction > 30:
-            print(t['danger'])
-        else:
-            print(t['ok'])
-            
-        print(f"\n{t['action']}")
-        print("="*60 + "\n")
-
-    except ValueError:
-        print("\nError: Please use numbers only. / Fel: Använd endast siffror.")
-
-if __name__ == "__main__":
-    calculate_friction()
+print("\nChart.js-config sparad som mammon_drain_chart.json – lägg till i ditt repo för interaktiv web-visning!")
