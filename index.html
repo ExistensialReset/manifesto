@@ -189,3 +189,13 @@
     </script>
 </body>
 </html>
+<!-- Lägg till detta i index.html för charts -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<canvas id="drainChart" width="800" height="400"></canvas>
+<script>
+fetch('mammon_drain_chart.json').then(r => r.json()).then(config => new Chart(document.getElementById('drainChart'), config));
+</script>
+<canvas id="capacityChart" width="400" height="400"></canvas>
+<script>
+fetch('flow_capacity_chart.json').then(r => r.json()).then(config => new Chart(document.getElementById('capacityChart'), config));
+</script>
