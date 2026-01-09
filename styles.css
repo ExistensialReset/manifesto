@@ -128,3 +128,4 @@ footer a {
     color: #005E54;
     text-decoration: none;
 }
+canvas { max-width: 100%; height: auto; margin: 20px 0; }
