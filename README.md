@@ -68,6 +68,12 @@ This formula describes fullness, not worthiness. Your life has value even when t
 ---
 
 ## 📂 Core Repository Documents
+## 📊 Technical Scripts & Visualizations
+- [CAPACITY_VISUALIZER.py](./CAPACITY_VISUALIZER.py) – Visualizes global resource capacity before/after Flow transition.
+- [ENVIRONMENTAL_IMPACT_SIM.py](./ENVIRONMENTAL_IMPACT_SIM.py) – Simulates ecological gains in Flow (e-waste, CO2 savings).
+- [FLOW_CAPACITY_SIMULATOR.py](./FLOW_CAPACITY_SIMULATOR.py) – Pie-charts for resource distribution in Mammon vs Flow.
+- [MAMMON_DRAIN_CALC.py](./MAMMON_DRAIN_CALC.py) – Calculates and visualizes parasitic losses with 2025/2026 data.
+- [verify_proofs.py](./verify_proofs.py) – Validates proofs from TECHNICAL_ANNEX.md against external sources.
 
 - [AI_ETHICS_AXIOM.md](./AI_ETHICS_AXIOM.md) – AI ethical foundation  
 - [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) – Behavioral guidelines  
