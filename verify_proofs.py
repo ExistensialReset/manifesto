@@ -88,4 +88,3 @@ if __name__ == "__main__":
     print("\n" + "="*60)
     print("ALL LOGISTICAL PROOFS STABILIZED. PROCEED WITH RESET.")
     print("="*60)
- 
