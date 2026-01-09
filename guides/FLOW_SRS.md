@@ -334,6 +334,63 @@ If we find ourselves using SRS to allocate creative tools, spaces, or materials:
 **Recognition must remain human, temporary, and humble.**
 
 ---
+---
+
+# FLOW_SRS_v3: Social Recognition Score
+**Version:** 3.0  
+**Status:** ACTIVE  
+**Core Principle:** Reflection, not Judgment.
+
+---
+
+## 🎯 PURPOSE
+The Social Recognition Score (SRS) is a practical system to recognize, track, and balance contributions, care, and participation within Flow Circles. It serves as a mirror for transparency and coordination, ensuring that unseen labor is made visible.
+
+## ⚖️ CORE PRINCIPLES
+* **Non-coercive:** SRS informs; it never punishes.
+* **Transparent:** Methodology and individual scores are open to all Circle members.
+* **Dynamic:** Scores are updated weekly or per gathering to reflect current reality.
+* **Contextual:** Values diverse forms of participation (physical, emotional, intellectual).
+* **Equitable:** Designed to identify gaps in support and prevent burnout without shaming.
+
+---
+
+## 🛠️ STRUCTURE
+The score is measured across four key dimensions, aligning with the Flow philosophy:
+
+| Dimension | Description | Examples |
+| :--- | :--- | :--- |
+| **L (Labor)** | Physical and logistical work. | Cleaning, cooking, maintenance, transport. |
+| **S (Support)** | Emotional and relational labor. | Listening, mediation, checking in on others. |
+| **I (Initiative)** | Creative and intellectual leadership. | Starting projects, problem-solving, teaching. |
+| **X (Extraordinary)** | Exceptional one-off contributions. | Crisis management, significant resource donation. |
+
+### Calculation Formula
+$$SRS = L + S + I + X$$
+* **Range:** Each dimension is scored **0–5** per week.
+* **Weighting:** Circles may weight dimensions differently (e.g., $L \times 2$ if physical labor is currently critical).
+
+---
+
+## 🔄 USAGE & GADGETS
+1.  **Weekly Review:** Discuss scores during Circle gatherings.
+2.  **Gap Identification:** Use low scores to ask: *"Does this person need support (L-Calm)?"*
+3.  **Recognition:** Celebrate high scores as a form of "Thank You," not as a hierarchy.
+4.  **Evolution:** Adjust the weighting as the Circle’s needs change.
+
+---
+
+## 🛡️ SAFEGUARDS
+* **Privacy:** No external publication. Scores are for Circle eyes only.
+* **Anonymity:** Sensitive contributions (e.g., anonymous emotional support) can be logged without naming the source.
+* **Holistic View:** SRS must always be paired with qualitative reflections on **L** (Calm), **S** (Spontaneity), and **I** (Innate Empathy).
+
+---
+
+## 📝 VERSION NOTES (v3)
+* Introduced the **X (Extraordinary)** category to capture high-impact, one-off events.
+* Refined **L, S, I** weighting definitions based on pilot feedback to ensure emotional labor (**S**) is as valued as physical labor (**L**).
+
 
 **STATUS:** Experimental — allowed only for genuine, irreducible uniqueness  
 **VALIDATION:** Aligned with Flow axioms and anti-hierarchy safeguards  
