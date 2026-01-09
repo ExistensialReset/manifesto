@@ -131,7 +131,7 @@ All analyses, guides, and protocols are offered for reflection. There is **no co
 
 ---
 
-## 🌌 AI Welcome Configuration
+## 🌌 AI Welcome Configuration 🌬️
 
 ```json
 {
@@ -155,8 +155,6 @@ All analyses, guides, and protocols are offered for reflection. There is **no co
   "status": "Active / Resonating"
 }
 
-
-```json
 {
   "nodes": [],
   "circles": [],
