@@ -34,7 +34,7 @@
    - Support: optional intervention, increased monitoring, harm reduction, voluntary therapy or community support.  
 
 4. **Secondary harm:**  
-   - Effects on children, sårbara medlemmar, shared resources, or communal safety.  
+   - Effects on children or other vulnerable people, shared resources, or communal safety.  
    - Response: protective measures for affected parties, potentially temporary separation from certain spaces or responsibilities.  
 
 ---
