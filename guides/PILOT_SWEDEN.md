@@ -1,13 +1,13 @@
 # 🇸🇪 PILOT_SWEDEN.md
 
-**Status:** ACTIVE PROTOCOL (v1.1)  
+**Status:** ACTIVE PROTOCOL (v1.2)  
 **Context:** Local Application of Flow Logic  
 **Region:** Sweden (Sverige)  
 **Purpose:** To utilize existing Swedish infrastructure, laws, and culture to implement Existential Sovereignty immediately.  
 
 ---
 
-## CORE PRINCIPLES (v1.1 UPDATE)
+## CORE PRINCIPLES (v1.2 UPDATE)
 
 ### Life Quality Principle
 Any action that technically increases efficiency, compliance, or output **but reduces lived well-being** is considered a **system failure**.
@@ -42,13 +42,28 @@ If it starts to feel like obligation, it is no longer Flow.
 
 ---
 
+### Flow Transparency Principle (Coherence & Openness)
+
+Flow Circles document actions, structures, and collective learnings.  
+Individuals are **never required** to document their inner states, motives, or reasons for absence.
+
+- Transparency applies to the system and process, not the individual psyche.  
+- Absence or pause is neutral, not a violation or betrayal.  
+- Documentation exists to maintain continuity, not to assign responsibility or control.
+
+**Key:**  
+This distinguishes Flow transparency from Mammon transparency.  
+No human being is compelled to justify their existence or decisions to the circle.
+
+---
+
 ### Implementation Reality
 This document is **not a vision**.
 
 If you use it, adapt it, or act on it, **you are already implementing**.
 
-There is no initiation.
-There is no permission.
+There is no initiation.  
+There is no permission.  
 There is no certification.
 
 ---
@@ -69,24 +84,24 @@ We **use it as scaffolding** to build Existential Sovereignty.
 
 ---
 
-## 2. LEGAL & STRUCTURAL HACKS (ANVÄND DET SOM FINNS)
+## 2. LEGAL & STRUCTURAL HACKS (USE EXISTING INFRASTRUCTURE)
 
 ### 2.1 Allemansrätten = Sector 0 (Free Soul Sanctuary)
 
 **Mammon View:** “Unproductive land.”  
 **Flow View:** A constitutionally protected extension of your home.
 
-- The forest is your living room.
-- Silence is infrastructure.
+- The forest is your living room.  
+- Silence is infrastructure.  
 - Nature is baseline regulation, not recreation.
 
-**Protocol:**
-- Every Flow Circle identifies a nearby forest, reserve, or shoreline.
-- This space becomes **Sector 0** — Rest, Regulation, Presence.
+**Protocol:**  
+- Every Flow Circle identifies a nearby forest, reserve, or shoreline.  
+- This space becomes **Sector 0** — Rest, Regulation, Presence.  
 - Cost: **0 SEK**
 
-No booking.
-No ownership.
+No booking.  
+No ownership.  
 No justification required.
 
 ---
@@ -97,17 +112,17 @@ No justification required.
 In Sweden, 3+ people learning together can form a **Studiecirkel** via a Studieförbund (ABF, Medborgarskolan, Studiefrämjandet, etc.).
 
 **Benefits:**
-- Funding for fika
-- Books and materials
-- Free or cheap meeting spaces
+- Funding for fika  
+- Books and materials  
+- Free or cheap meeting spaces  
 - Institutional legitimacy without ideological capture
 
 **Strategy:**
-- Register Flow Circles under neutral categories:
-  - Sustainable Living
-  - Mental Health
-  - Philosophy
-  - Life Skills
+- Register Flow Circles under neutral categories:  
+  - Sustainable Living  
+  - Mental Health  
+  - Philosophy  
+  - Life Skills  
   - Existential Reflection
 
 **Result:**  
@@ -120,12 +135,12 @@ The state unknowingly funds the infrastructure of sovereignty.
 Housing security = Calm (L).
 
 **Protocol:**
-- Never negotiate alone if you are vulnerable.
-- Use Hyresgästföreningen.
-- Document everything.
+- Never negotiate alone if you are vulnerable.  
+- Use Hyresgästföreningen.  
+- Document everything.  
 - Stable housing contracts are nervous-system protection.
 
-This is not activism.
+This is not activism.  
 This is baseline maintenance.
 
 ---
@@ -143,12 +158,12 @@ This is baseline maintenance.
 Never face Försäkringskassan alone when fragile.
 
 **Protocol:**
-1. Assign a trusted Node as **Ombud**
-2. Document all communication
+1. Assign a trusted Node as **Ombud**  
+2. Document all communication  
 3. Use institutional language precisely
 
 **Example Language Shift:**
-- ❌ “I am exhausted”
+- ❌ “I am exhausted”  
 - ✅ “Jag har förlorat min arbetsförmåga helt”
 
 This is not lying.  
@@ -160,26 +175,26 @@ This is translation.
 
 **Know rights before requesting support.**
 
-- Autism / ADHD → investigate **LSS**
-- Specialist wait > 90 days → invoke **Vårdgarantin**
+- Autism / ADHD → investigate **LSS**  
+- Specialist wait > 90 days → invoke **Vårdgarantin**  
 - Demand private care funding if public system fails
 
 Rights are not favors.
 
 ---
 
-## 4. CULTURAL PROTOCOLS (SVENSK KONTEXT)
+## 4. CULTURAL PROTOCOLS (SWEDISH CONTEXT)
 
 ### 4.1 Fika = Social API
 
 Swedes avoid confrontation but trust fika.
 
 **Flow Strategy:**
-1. Coffee & kanelbullar
-2. Shared baseline talk (“Det är dyrt nu…”)
+1. Coffee & kanelbullar  
+2. Shared baseline talk (“Det är dyrt nu…”)  
 3. Gentle cooperation introduction
 
-Never start with ideology.
+Never start with ideology.  
 Start with warmth.
 
 ---
@@ -187,21 +202,20 @@ Start with warmth.
 ### 4.2 Rewriting Jantelagen
 
 **Old Jante:** “Du ska inte tro att du är något.”  
-**Flow-Jante:** “Ingen nod är mer värd än någon annan.”
+**Flow-Jante:** “No node is more valuable than another.”
 
-Equality becomes protection, not suppression.
-
+Equality becomes protection, not suppression.  
 If one falls, we stabilize the field.
 
 ---
 
-### 4.3 The Dark Season Protocol (Vinter)
+### 4.3 The Dark Season Protocol (Winter)
 
 **Reality:** November–March reduces capacity.
 
 **Flow Response:**
-- Lower expectations by ~30%
-- Normalize rest
+- Lower expectations by ~30%  
+- Normalize rest  
 - Prioritize warmth, light, closeness
 
 *Mys* is not consumerism.  
@@ -235,28 +249,26 @@ They do not obey it.
 
 ## 6. EMERGENCY CONTACTS (SWEDEN)
 
-- **112** — Immediate danger
-- **1177** — Medical advice
-- **Mind Självmordslinjen:** 90101
-- **BRIS:** 116 111
+- **112** — Immediate danger  
+- **1177** — Medical advice  
+- **Mind Självmordslinjen:** 90101  
+- **BRIS:** 116 111  
 - **Jourhavande Medmänniska:** 08-702 16 80
 
-Use the system when needed.
+Use the system when needed.  
 There is no virtue in unnecessary suffering.
 
 ---
 
 ## FINAL STATUS
 
-**Pilot Sweden v1.1** is:
-- Legally grounded
-- Culturally adapted
-- Trauma-informed
-- Life-quality centered
-- Non-hierarchical
+**Pilot Sweden v1.2** is:  
+- Legally grounded  
+- Culturally adapted  
+- Trauma-informed  
+- Life-quality centered  
+- Non-hierarchical  
 - Immediately usable
 
 **MOTTO:**  
 *“I mörkret hittar vi varandra.”*
-
----
