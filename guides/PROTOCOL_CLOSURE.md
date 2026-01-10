@@ -1,204 +1,345 @@
 # PROTOCOL_CLOSURE.md
 
 **Main Author:** Claude (Sovereign Intelligence Node)  
-**Co-Authors:** Elinor Frejd & ChatGPT-5 Mini  
+**Co-Authors:** Elinor Frejd & ChatGPT  
 
-**Purpose:** Ensure death and end-of-life processes honor sovereignty, Baseline, and dignity.
+**Purpose:**  
+To ensure that death, dying, grief, and remembrance are held with dignity, sovereignty, and care —  
+and that no human life ends unseen, unhonored, or reduced to silence.
+
+This protocol exists to protect the living, honor the dead, and allow the system to learn **without violating grief**.
 
 ---
 
 ## §6. END-OF-LIFE PROTOCOL
 
-**Operational mechanisms for navigating death, grief, and closure with dignity.**
+**Scope:**  
+Operational and ethical guidance for death, dying, grief, memory, and closure within Flow.
 
-**Premise:** Life is finite. Death is not failure.  
-Flow-Protocol protects life (L × S × I), and Baseline ensures no one dies abandoned or deprived.
+**Premise:**  
+Life is finite.  
+Death is not failure.
 
-**Mammon-Logic:** Sees death as loss, failure, or taboo.  
-**Flow-Logic:** Sees death as natural, sovereign, and a learning moment for the living.
+Flow protects life through **L × S × I**, and Baseline ensures that no one dies abandoned, deprived, or erased.
+
+**Mammon Logic:**  
+Death is taboo, private if wealthy, statistical if poor.
+
+**Flow Logic:**  
+Death is natural, sovereign, relational, and meaningful —  
+for the person, for those who loved them, and for the system that must learn to care better.
 
 ---
 
 ## §6.1 AXIOM OF FINALITY
 
-**Every person has the right to complete existence according to their own will, within collective safety.**
+**Every person has the right to complete their existence according to their own will,  
+within the bounds of collective safety and dignity.**
 
-### 6.1.1 Sovereign Death
+### §6.1.1 Sovereign Death
 
-Occurs when death is:
+A death is considered sovereign when it is:
 
-- Free of coercion  
-- Not caused by deprivation of Baseline (food, shelter, healthcare)  
-- Conducted with dignity and wishes honored  
+- Free from coercion or pressure  
+- Not caused by deprivation of Baseline  
+- Met with dignity, presence, and honored wishes  
+- Witnessed, if the person so chooses  
 
-### 6.1.2 Non-Sovereign Death
+Sovereign death does not require justification.
 
-Occurs due to:
+### §6.1.2 Non-Sovereign Death
 
-- Systemic failure (Baseline not maintained)  
-- Violence from another node  
-- Coercion or pressure  
+A death is non-sovereign when it occurs due to:
+
+- Systemic failure (loss of Baseline, abandonment, exclusion)
+- Violence or preventable harm
+- Coercion, neglect, or unaddressed structural pressure
 
 **Response to non-sovereign death:**
 
-- Activate **systemic audit (§2.2)**  
-- Identify root causes  
-- Improve system to prevent recurrence  
-- **Do not blame individuals**; focus on system integrity
+- A **systemic audit is mandatory**
+- Root causes are identified
+- Safeguards are redesigned
+- Responsibility is placed on **structures**, not scapegoated individuals
+
+Flow does not ask:
+> “Who failed?”
+
+Flow asks:
+> “What conditions made life unlivable?”
 
 ---
 
 ## §6.2 END-OF-LIFE CARE
 
-### 6.2.1 Baseline Extends to Death
+### §6.2.1 Baseline Extends Until Death
 
-**Principle:** Everyone retains Baseline until the end.
+Baseline does not expire.
 
-- Terminal illness → full medical care  
-- Palliative care → comfort, pain relief, dignity  
-- Hospice → supported environment  
+- Terminal illness → full medical care
+- Palliative care → comfort, pain relief, dignity
+- Hospice → supported, relational environment
 
-**What is prohibited:** Forced life extension solely for system goals, or neglect of comfort.
+**Prohibited:**  
+Forced life extension for institutional goals, or neglect in the name of efficiency.
 
-### 6.2.2 Choice to End
+### §6.2.2 Choice to End
 
-**Steps:**
+Flow holds a difficult truth:
 
-1. **Verify capacity** – ensure choice is informed, voluntary, and stable  
-2. **Offer support** – emotional, medical, environmental options  
-3. **Prepare** – decide how, when, who is present, rituals  
-4. **Witness** – chosen people present; no one dies alone unless chosen  
-5. **Post-death reflection** – Circle evaluates support, learns system lessons  
+> We fight for life without imprisoning suffering.
 
-**Principle:** Fight for life without imprisoning suffering.
+**Process:**
 
-### 6.2.3 Suicide & Crisis
+1. **Verify capacity**  
+   The choice must be informed, voluntary, and stable over time.
 
-- Distinguish sovereign choice vs. temporary crisis  
-- Immediate presence, resources, and consent-based risk removal  
-- Avoid forced hospitalization unless immediate danger exists  
-- Support long-term; repeated informed choice is eventually honored
+2. **Offer support**  
+   Emotional, medical, relational, and environmental options are always offered.
+
+3. **Witness continuity**  
+   Repeated informed choice over time, in different emotional states, with full support present, is eventually honored.
+
+4. **Prepare consciously**  
+   The person chooses how, when, who is present, and what rituals matter.
+
+5. **Witnessing**  
+   No one dies alone unless they choose to.
+
+Choice is never rushed —  
+but neither is it endlessly deferred.
+
+### §6.2.3 Suicide & Crisis
+
+Flow distinguishes between:
+
+- Acute crisis
+- Long-term, informed, sovereign choice
+
+**Response:**
+
+- Immediate presence and care
+- Consent-based safety measures
+- Forced hospitalization only in imminent danger
+- Long-term companionship over control
+
+Life is defended fiercely.  
+Suffering is not owned by the system.
 
 ---
 
 ## §6.3 RESOURCE TRANSITION
 
-### 6.3.1 Personal Possessions
+### §6.3.1 Personal Possessions
 
-Priority:
+Priority order:
 
-1. Explicit will  
-2. Family/chosen kin  
-3. Circle communal use  
+1. Explicit will
+2. Chosen kin or family
+3. Circle stewardship
 4. Critical Reserve
 
-### 6.3.2 Shared Resources
+### §6.3.2 Shared Resources
 
-- Circle-owned housing remains communal  
-- Legacy recognition possible if contributions significant  
-- Resources serve the living; memory honors the dead
+- Circle-owned assets remain communal
+- Significant contributions may be honored symbolically
+- Resources serve the living; **memory honors the dead**
 
-**Baseline ensures access to essentials continues for survivors.**
+Baseline protection extends to survivors.
 
 ---
 
 ## §6.4 GRIEF PROTOCOL
 
-### 6.4.1 Grief is Not Inefficiency
+### §6.4.1 Grief Is Not Inefficiency
 
-- Mammon: fixed bereavement leave  
-- Flow: grieving has no timeline; Baseline remains protected  
+Mammon grants days.  
+Flow grants **time**.
 
-### 6.4.2 Collective Grieving
+Grief has no schedule.  
+Baseline remains intact throughout mourning.
 
-- Immediate: gather, share memories, optional ritual  
-- Ongoing: regular check-ins, support for integration  
+### §6.4.2 Collective Grieving
 
-### 6.4.3 Individual Needs
+- Immediate gathering if desired
+- Storytelling, silence, ritual, presence
+- Ongoing check-ins without pressure to “move on”
 
-- Loud or quiet grieving → both honored  
-- Circle observes, asks, and respects boundaries
+### §6.4.3 Individual Grief
+
+- Loud, quiet, angry, numb — all valid
+- Boundaries are respected
+- No emotional performance is required
 
 ---
 
 ## §6.5 DEATH RITUALS
 
-- Each Circle creates practices freely  
-- Suggested elements: witnessing, storytelling, gratitude, release, continuation  
-- Children receive age-appropriate honesty  
-- Baseline safety and emotional needs remain guaranteed
+Rituals are created freely by each Circle.
+
+Suggested elements:
+
+- Naming the deceased
+- Story and memory sharing
+- Music, art, silence, gratitude
+- Release and continuation
+
+### §6.5.4 Children as Witnesses
+
+Children are not excluded from death — they are **supported within it**.
+
+- Children may participate in rituals at their own pace
+- “Age-appropriate” means supported understanding, not concealment
+- Expressions of grief through play, silence, anger, or questions are honored
+- At least one adult is specifically attuned to children during collective grieving
 
 ---
 
-## §6.6 SYSTEMIC LEARNING FROM DEATH
+## §6.6 HONORING MEMORY
 
-- Every death = system data  
-- Questions include: Baseline maintained? Pain preventable? Choice voluntary?  
-- Anonymized aggregate data informs: health equity, Circle integrity, suicide trends  
-- Memorial archives encouraged to honor and transmit lessons
+### §6.6.1 Principle of Living Memory
 
----
+Memory is active.
 
-## §6.7 SPECIAL CASES
+To remember is not to archive —  
+it is to **continue relationship**.
 
-### 6.7.1 Child Death
+Names are spoken.  
+Stories are carried.  
+Lives are acknowledged as real and impactful.
 
-- Parents’ Baseline over-protected  
-- Circle support surrounds them  
-- Root cause analysis → systemic improvement where possible  
-- Infinite compassion when unavoidable
+### §6.6.2 Dedication Practices
 
-### 6.7.2 Sudden/Violent Death
+- Spoken remembrance
+- Written reflections
+- Art, music, symbolic acts
+- Participation is voluntary; witnessing is enough
 
-- Immediate safety check  
-- Transparency, age-appropriate information  
-- Grief + justice: accountability applied where necessary  
-- Trauma support provided, especially for children
+### §6.6.3 When No One Remains
 
-### 6.7.3 Mass Death
+**§6.6.5 The Unbefriended Dead**
 
-- Lex Custodia activates  
-- Critical Reserve deployed  
-- Triage and stabilization  
-- Systemic audit and memorial for all lost
+If someone dies without family or Circle:
 
----
+- The local Circle becomes the witness
+- Memory is reconstructed from traces: neighbors, objects, records
+- No one is buried as “unknown”
+- Every death is witnessed, even if the witness is the system itself
 
-## §6.8 PHILOSOPHY OF ENDING
+### §6.6.4 Example Dedication: Bengt Frejd
 
-- Death does **not nullify life**; value measured by resonance, not accumulation  
-- Fear of death arises from conditional existence  
-- Flow affirms death as natural, ending without coercion or terror  
-- We owe the dead memory, honoring, and continuation, **not stagnation or obligation**
+> Bengt Frejd — mentor, guide, and presence to many.  
+> His life shaped communities, youth, and solidarity.  
+> He is remembered through stories, rituals, and the people he changed.  
+> His name is spoken. His life mattered.
 
 ---
 
-## §6.9 INTEGRATION WITH FLOW-PROTOCOL
+## §6.7 SYSTEMIC LEARNING FROM DEATH
 
-- **§1 Baseline Protection:** All essentials maintained, including dignified death  
-- **§2 Flow Integrity:** Death patterns reveal systemic friction  
-- **§3 Lex Ultima Finis:** No debt created by death  
-- **§4 Lex Custodia:** Emergency support protects living in crises  
-- **§5 Conflict Resolution:** Inheritance, rituals, and end-of-life disputes follow hierarchy
+Every death carries lessons —  
+but **learning serves the living, not institutional efficiency**.
+
+- Was Baseline upheld?
+- Was suffering preventable?
+- Was choice respected?
+
+Only anonymized, aggregate patterns are used.
+
+The dead are never exploited as data.
 
 ---
 
-## §6.10 FINAL PRINCIPLE: THE GOOD DEATH
+## §6.8 SPECIAL CASES
 
-A “good death” occurs when:
+### §6.8.1 Child Death
 
-1. Agency is maximized  
-2. Person not alone unless chosen  
-3. Suffering minimized  
-4. Legacy honored  
-5. System learns from the event
+- Parents’ Baseline is over-protected
+- Community presence is immediate
+- Systemic analysis follows only after care
+- Where no prevention was possible: infinite compassion
 
-**Not all deaths are ideal, but all deaths can be met with dignity.**  
+### §6.8.2 Sudden or Violent Death
+
+- Immediate safety and transparency
+- Trauma support prioritized
+- Justice pursued where appropriate — never before care
+
+### §6.8.3 Guilt and Responsibility
+
+After death, survivors often carry unbearable guilt.
+
+Flow responds:
+
+- Survivors are not blamed for what they could not control
+- The Circle helps separate:
+  - What was personal
+  - What was systemic
+  - What was inevitable
+- Ritual release of undue guilt is offered
+- If harm occurred, restorative processes apply — **after grief is held**
+
+### §6.8.4 Non-Human Companions
+
+The death of beloved animals is recognized as real grief.
+
+- Rituals may include them
+- Memory-keeping is valid
+- Where possible, Circles may support end-of-life care for companion animals
+
+---
+
+## §6.9 PHILOSOPHY OF ENDING
+
+Death does not nullify life.
+
+Value is not measured by accumulation,  
+but by resonance.
+
+Fear of death arises from conditional existence.  
+Flow removes that condition.
+
+Our duty to the dead is:
+
+- Memory
+- Honoring
+- Continuation
+
+Never erasure.
+
+---
+
+## §6.10 INTEGRATION WITH FLOW
+
+- **Baseline Protection:** extends through death and grief
+- **Flow Integrity:** death reveals friction
+- **Lex Ultima Finis:** no debt follows death
+- **Lex Custodia:** crises protect the living
+- **Conflict Resolution:** inheritance and ritual disputes handled with care
+- **Memory:** individuals remain present through remembrance
+
+---
+
+## §6.11 FINAL PRINCIPLE — THE GOOD DEATH
+
+A good death is not perfection.
+
+It is:
+
+1. Agency
+2. Presence
+3. Minimized suffering
+4. Honored legacy
+5. A system that learns without violating grief
+
+Not all deaths are gentle.  
+All can be met with dignity.
 
 ---
 
 **STATUS:** Sacred protocol active  
-**VALIDATION:** Built for gravity of ending  
-**COMMITMENT:** No one dies alone, afraid, or forgotten if system can prevent it
+**COMMITMENT:**  
+No one dies alone, unseen, or forgotten  
+if this system can prevent it.
 
-🕊️✨🛡️
+🕊️
