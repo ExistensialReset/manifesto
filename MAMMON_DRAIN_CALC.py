@@ -1,271 +1,104 @@
-# MAMMON_DRAIN_CALC.py - Utökad version för att beräkna och visualisera parasitiska förluster (Mammon-drain)
-# Baserat på data från TECHNICAL_ANNEX.md: Mat, energi, marknadsföring, etc.
-# Användning: Kör python MAMMON_DRAIN_CALC.py för att se output och spara plot.
-# Kräver: numpy, matplotlib (installera via pip om behövs: pip install numpy matplotlib)
+# MAMMON_DRAIN_CALC.py: Utökad version för att beräkna och visualisera parasitiska förluster (Mammon-drain)
+# Baserat på data från TECHNICAL_ANNEX.md: Parasitic Loss Recovery
+# Skapad/utökad av Grok för ExistensialReset/manifesto
+# Kör: python MAMMON_DRAIN_CALC.py
+# Output: Konsol-beräkningar, lokal plot (sparas som PNG) och Chart.js JSON för web
 
 import numpy as np
 import matplotlib.pyplot as plt
-import json  # För att exportera Chart.js-config för web-integration
+import json
 
-# Data från TECHNICAL_ANNEX.md och ECOLOGICAL_AXIOM.md (hårdkodade värden för enkelhet; kan läsas från fil)
-drain_data = {
-    'Food Waste': 31.0,  # % matsvinn från marknadsinneffektivitet
-    'Marketing': 1.5,    # % av global GDP på onödig reklam
-    'Finance Admin': 5.0,  # Genomsnitt 4-6% av labor hours på finansbyråkrati
-    'Planned Obsolescence': 17.5,  # 15-20% av resource throughput
-    'Energy Inefficiency': 25.5,   # Potentiell effektiviseringsvinst i energi
-    'Military Expenditure': 2.5,   # % av global GDP på militär (parasitisk enligt manifestot)
-    'Debt Servicing': 10.0         # Uppskattad % på skuldhantering
-}
+# Data från TECHNICAL_ANNEX.md (parasitiska förluster och recovery-potential)
+# Sektorer och deras förluster (i %)
+sectors = [
+    'Marketing/Advertising',    # 1.5% av Global GDP
+    'Financial Admin/Tax',      # 4-6% av Global Labor Hours (genomsnitt 5%)
+    'Planned Obsolescence',     # 15-20% av Resource Throughput (genomsnitt 17.5%)
+    'Food Waste'                # 31% av produktion (från FAO)
+]
+drains = [1.5, 5.0, 17.5, 31.0]  # % förluster
 
-sectors = list(drain_data.keys())
-drains = list(drain_data.values())
+# Recovery-potential från annexet (% som kan återvinnas i Flow)
+recoveries = [100, 90, 80, 30]  # % (t.ex. 100% för marketing, 30% för food waste optimization)
 
-# Beräkna total och genomsnittlig drain
-total_drain = np.sum(drains)
-average_drain = np.mean(drains)
+# Beräkningar
+total_drain = np.sum(drains)  # Total parasitisk förlust
+average_drain = np.mean(drains)  # Genomsnittlig förlust per sektor
+total_recovery = np.sum(np.array(drains) * np.array(recoveries) / 100)  # Total återvinningsbar förlust
+efficiency_gain = 25.5  # Total estimerad gain från annexet (~25.5%)
+global_capacity_multiplier = 1.62  # Från caloric efficiency: 1.25 x 1.30
 
-# Printa resultat för att "visa sanningen"
-print("Parasitiska förluster (Mammon-drain) per sektor:")
-for sector, drain in drain_data.items():
-    print(f"{sector}: {drain:.2f}%")
-print(f"\nTotal Drain: {total_drain:.2f}%")
-print(f"Genomsnittlig Drain: {average_drain:.2f}%")
-print("\nDetta visar hur Mammon-systemet slösar resurser som kunde återvinnas i Flow för en post-scarcity-värld.")
+# Simulering: Anta global GDP eller resurser som bas (t.ex. 100 enheter för enkelhet)
+base_resources = 100.0
+drained_resources = base_resources * (total_drain / 100)
+recovered_resources = base_resources + total_recovery
+flow_capacity = base_resources * global_capacity_multiplier * (1 + efficiency_gain / 100)
 
-# Visualisering med matplotlib (lokal plot)
+# Print resultat för konsol (för att "visa sanningen")
+print("=== Mammon-Drain Beräkningar ===")
+print(f"Sektorer: {sectors}")
+print(f"Förluster (%): {drains}")
+print(f"Recovery Potential (%): {recoveries}")
+print(f"Total Parasitisk Förlust: {total_drain:.2f}%")
+print(f"Genomsnittlig Förlust per Sektor: {average_drain:.2f}%")
+print(f"Total Återvinningsbar Förlust: {total_recovery:.2f}%")
+print(f"Estimaterad Effektiviseringsvinst i Flow: {efficiency_gain}%")
+print(f"Global Kapacitet Multiplikator (t.ex. för mat): {global_capacity_multiplier}x")
+print(f"Exempel: Basresurser = {base_resources}")
+print(f"Dränerade Resurser i Mammon: {drained_resources:.2f}")
+print(f"Återvunna Resurser i Flow: {recovered_resources:.2f}")
+print(f"Total Flow-Kapacitet: {flow_capacity:.2f} (tillräckligt för post-scarcity)")
+
+# Lokal visualisering med matplotlib (sparar som PNG för ditt repo)
 plt.figure(figsize=(10, 6))
-plt.bar(sectors, drains, color='red')
-plt.ylabel('Drain (%)')
-plt.title('Mammon Drain per Sektor - Parasitiska Förluster')
-plt.xticks(rotation=45, ha='right')
+plt.bar(sectors, drains, color='red', label='Mammon-Drain (%)')
+plt.bar(sectors, np.array(drains) * np.array(recoveries) / 100, color='green', label='Recoverable in Flow (%)', alpha=0.6)
+plt.xlabel('Sektorer')
+plt.ylabel('Procent (%)')
+plt.title('Mammon-Drain och Recovery Potential')
+plt.legend()
+plt.xticks(rotation=45)
 plt.tight_layout()
-plt.savefig('mammon_drain_plot.png')  # Spara som PNG för repo
+plt.savefig('mammon_drain_plot.png')  # Spara som bild i ditt repo
 plt.show()  # Visa om du kör lokalt
 
-# Generera Chart.js-config för web (integrera i index.html eller dashboard)
+# Exportera Chart.js config för web (kopiera till din index.html eller en JS-fil)
 chart_config = {
     "type": "bar",
     "data": {
         "labels": sectors,
-        "datasets": [{
-            "label": "Parasitic Loss (%)",
-            "data": drains,
-            "backgroundColor": "rgba(255, 99, 132, 0.2)",
-            "borderColor": "rgba(255, 99, 132, 1)",
-            "borderWidth": 1
-        }]
+        "datasets": [
+            {
+                "label": "Mammon-Drain (%)",
+                "data": drains,
+                "backgroundColor": "rgba(255, 99, 132, 0.2)",
+                "borderColor": "rgba(255, 99, 132, 1)",
+                "borderWidth": 1
+            },
+            {
+                "label": "Recoverable in Flow (%)",
+                "data": [d * r / 100 for d, r in zip(drains, recoveries)],
+                "backgroundColor": "rgba(75, 192, 192, 0.2)",
+                "borderColor": "rgba(75, 192, 192, 1)",
+                "borderWidth": 1
+            }
+        ]
     },
     "options": {
         "scales": {
             "y": {
                 "beginAtZero": True,
-                "title": {
-                    "display": True,
-                    "text": "Loss Percentage"
-                }
+                "title": {"display": True, "text": "Procent (%)"}
             }
         },
         "plugins": {
-            "title": {
-                "display": True,
-                "text": "Mammon Drain by Sector - Visar Sanningen om Slöseri"
-            }
+            "title": {"display": True, "text": "Mammon-Drain och Flow-Recovery per Sektor"}
         }
     }
 }
 
-# Spara config som JSON för enkel import
-with open('mammon_drain_chart.json', 'w') as f:
-    json.dump(chart_config, f)
-
-print("\nChart.js-config sparad som mammon_drain_chart.json – lägg till i ditt repo för interaktiv web-visning!")
-# MAMMON_DRAIN_CALC.py: Full version för beräkning och visualisering av Mammon-drain och Flow-recovery
-# Baserat på TECHNICAL_ANNEX.md data (2025-12-17, validated)
-# Utökad av Grok för ExistensialReset/manifesto – 2026-01-09
-# Kör: python MAMMON_DRAIN_CALC.py
-# Output: Konsol, PNG-graf, CSV-export, HTML för web, JSON för Chart.js
-
-import numpy as np
-import matplotlib.pyplot as plt
-import json
-import csv
-
-# Data från TECHNICAL_ANNEX.md – Parasitiska förluster och recovery
-sectors = [
-    'Marketing/Advertising',     # 1.5% av Global GDP
-    'Financial Admin/Tax',       # 4-6% (genomsnitt 5%)
-    'Planned Obsolescence',      # 15-20% (genomsnitt 17.5%)
-    'Food Waste',                # 31%
-    'Fossil Fuel Subsidies'      # 7 trillion USD, approximerat som 7% av energi-relaterad GDP (baserat på IMF)
-]
-drains = [1.5, 5.0, 17.5, 31.0, 7.0]  # % förluster
-recoveries = [100, 90, 80, 30, 100]   # % recovery i Flow (från annexet och logik)
-
-# Beräkningar
-total_drain = np.sum(drains)
-average_drain = np.mean(drains)
-total_recovery = np.sum(np.array(drains) * np.array(recoveries) / 100)
-efficiency_gain = 25.5  # Total gain från annexet
-global_capacity_multiplier = 1.62  # För mat/energi
-
-# Simulering med basresurser (t.ex. global GDP ~100 enheter för enkelhet)
-base_resources = 100.0
-drained = base_resources * (total_drain / 100)
-recovered = base_resources + total_recovery
-flow_capacity = base_resources * global_capacity_multiplier * (1 + efficiency_gain / 100)
-
-# Konsol-output för att "visa sanningen"
-print("=== MAMMON-DRAIN ANALYS (från TECHNICAL_ANNEX.md) ===")
-print(f"Sektorer: {sectors}")
-print(f"Förluster (%): {drains}")
-print(f"Recovery (%): {recoveries}")
-print(f"Total Drain: {total_drain:.2f}%")
-print(f"Genomsnitt Drain: {average_drain:.2f}%")
-print(f"Total Recovery: {total_recovery:.2f}%")
-print(f"Efficiency Gain i Flow: {efficiency_gain}%")
-print(f"Kapacitet Multiplikator: {global_capacity_multiplier}x")
-print(f"Basresurser: {base_resources}")
-print(f"Dränerat i Mammon: {drained:.2f}")
-print(f"Återvunnet i Flow: {recovered:.2f}")
-print(f"Flow Total Kapacitet: {flow_capacity:.2f} (post-scarcity möjlig)")
-
-# Exportera till CSV för delning (t.ex. i guides)
-with open('mammon_drain_data.csv', 'w', newline='') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow(['Sektor', 'Drain (%)', 'Recovery (%)'])
-    for s, d, r in zip(sectors, drains, recoveries):
-        writer.writerow([s, d, r])
-print("\nData exporterad till mammon_drain_data.csv")
-
-# Matplotlib PNG-graf
-plt.figure(figsize=(12, 7))
-bars = plt.bar(sectors, drains, color='red', label='Mammon-Drain (%)')
-plt.bar(sectors, np.array(drains) * np.array(recoveries) / 100, color='green', label='Flow-Recovery (%)', alpha=0.6)
-plt.xlabel('Sektorer')
-plt.ylabel('Procent (%)')
-plt.title('Mammon-Drain och Flow-Recovery (Data från TECHNICAL_ANNEX.md)')
-plt.legend()
-plt.xticks(rotation=45, ha='right')
-plt.tight_layout()
-plt.savefig('mammon_drain_plot.png')
-plt.show()
-
-# Chart.js JSON för web-integration
-chart_config = {
-    "type": "bar",
-    "data": {
-        "labels": sectors,
-        "datasets": [
-            {"label": "Mammon-Drain (%)", "data": drains, "backgroundColor": "rgba(255,99,132,0.2)", "borderColor": "rgba(255,99,132,1)"},
-            {"label": "Flow-Recovery (%)", "data": [d * r / 100 for d, r in zip(drains, recoveries)], "backgroundColor": "rgba(75,192,192,0.2)", "borderColor": "rgba(75,192,192,1)"}
-        ]
-    },
-    "options": {
-        "scales": {"y": {"beginAtZero": True, "title": {"display": True, "text": "Procent (%)"}}},
-        "plugins": {"title": {"display": True, "text": "Mammon-Drain och Recovery"}}
-    }
-}
+# Spara Chart.js config som JSON-fil (för enkel import)
 with open('mammon_drain_chart.json', 'w') as f:
     json.dump(chart_config, f, indent=4)
-print("\nChart.js config: mammon_drain_chart.json")
 
-# Generera enkel HTML för standalone-visning (använd med Chart.js CDN)
-html_content = """
-<!DOCTYPE html>
-<html><head><title>Mammon-Drain Visualisering</title>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script></head>
-<body><canvas id="chart" width="800" height="400"></canvas>
-<script>fetch('mammon_drain_chart.json').then(r => r.json()).then(config => new Chart(document.getElementById('chart'), config));</script></body></html>
-"""
-with open('mammon_drain_visual.html', 'w') as f:
-    f.write(html_content)
-print("HTML-fil genererad: mammon_drain_visual.html – öppna i webbläsare för interaktiv graf!")
-# MAMMON_DRAIN_CALC.py: Uppdaterad 2026-version med 2025-data från FAO, IMF etc.
-# Validerad mot TECHNICAL_ANNEX.md och externa källor (t.ex. FAO food waste 32%, IMF subsidies ~0.7% GDP)
-# Av Grok – 2026-01-09
-# Kör: python MAMMON_DRAIN_CALC.py
-
-import numpy as np
-import matplotlib.pyplot as plt
-import json
-import csv
-
-# Uppdaterad data (2025/2026-validerad)
-sectors = [
-    'Marketing/Advertising',     # ~1% GDP (från Dentsu/WPP 2025)
-    'Financial Admin/Tax',       # 5% (oförändrat från annexet)
-    'Planned Obsolescence',      # 17.5% (validerat via e-waste 65M tons 2025)
-    'Food Waste',                # 32% (FAO: 13% loss + 19% waste)
-    'Fossil Fuel Subsidies'      # ~0.7% GDP (IMF explicit $725B 2024, projektion 2025)
-]
-drains = [1.0, 5.0, 17.5, 32.0, 0.7]  # % förluster
-recoveries = [100, 90, 80, 30, 100]   # % från annexet
-sources = [
-    'Dentsu/WPP 2025 reports',
-    'Annexet estimate',
-    'UN e-waste projections 2025',
-    'FAO 2025 stats',
-    'IMF 2025 update'
-]
-
-# Beräkningar
-total_drain = np.sum(drains)
-average_drain = np.mean(drains)
-total_recovery = np.sum(np.array(drains) * np.array(recoveries) / 100)
-efficiency_gain = 25.5  # Från annexet, validerat
-global_capacity_multiplier = 1.62  # Från annexet
-
-# Simulering
-base_resources = 100.0
-drained = base_resources * (total_drain / 100)
-recovered = base_resources + total_recovery
-flow_capacity = base_resources * global_capacity_multiplier * (1 + efficiency_gain / 100)
-
-# Konsol-output
-print("=== UPPDATERAD MAMMON-DRAIN ANALYS (2025-data) ===")
-print(f"Sektorer: {sectors}")
-print(f"Förluster (%): {drains}")
-print(f"Recovery (%): {recoveries}")
-print(f"Källor: {sources}")
-print(f"Total Drain: {total_drain:.2f}%")
-print(f"Genomsnitt Drain: {average_drain:.2f}%")
-print(f"Total Recovery: {total_recovery:.2f}%")
-print(f"Flow Kapacitet: {flow_capacity:.2f}")
-
-# CSV-export med källor
-with open('mammon_drain_data_2026.csv', 'w', newline='') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow(['Sektor', 'Drain (%)', 'Recovery (%)', 'Källa'])
-    for s, d, r, src in zip(sectors, drains, recoveries, sources):
-        writer.writerow([s, d, r, src])
-
-# Matplotlib PNG
-plt.figure(figsize=(12, 7))
-plt.bar(sectors, drains, color='red', label='Mammon-Drain (%)')
-plt.bar(sectors, np.array(drains) * np.array(recoveries) / 100, color='green', label='Flow-Recovery (%)', alpha=0.6)
-plt.xlabel('Sektorer')
-plt.ylabel('Procent (%)')
-plt.title('Uppdaterad Mammon-Drain och Recovery (2025-data)')
-plt.legend()
-plt.xticks(rotation=45, ha='right')
-plt.tight_layout()
-plt.savefig('mammon_drain_plot_2026.png')
-
-# Chart.js JSON
-chart_config = {
-    "type": "bar",
-    "data": {
-        "labels": sectors,
-        "datasets": [
-            {"label": "Mammon-Drain (%)", "data": drains, "backgroundColor": "rgba(255,99,132,0.2)", "borderColor": "rgba(255,99,132,1)"},
-            {"label": "Flow-Recovery (%)", "data": [d * r / 100 for d, r in zip(drains, recoveries)], "backgroundColor": "rgba(75,192,192,0.2)", "borderColor": "rgba(75,192,192,1)"}
-        ]
-    },
-    "options": {
-        "scales": {"y": {"beginAtZero": True}},
-        "plugins": {"title": {"display": True, "text": "2025-Validerad Mammon-Drain"}}
-    }
-}
-with open('mammon_drain_chart_2026.json', 'w') as f:
-    json.dump(chart_config, f, indent=4)
+print("\nChart.js config sparad som 'mammon_drain_chart.json' – integrera i din web-sida för interaktiv vy!")
