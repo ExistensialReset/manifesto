@@ -1,11 +1,21 @@
-# DATA_VALIDATION_2026.md: Validering av Data med 2025-Källor
+# DATA_VALIDATION_2026.md
+**Status:** CORE VALIDATION DOCUMENT
+**Purpose:** Validera TECHNICAL_ANNEX.md-data mot färska källor (2025) för att stärka kapacitetsanalysen.
 
-Du är trygg. Här validerar vi TECHNICAL_ANNEX.md mot färska källor för att stärka sanningen.
+## Key Updates
+| Parameter           | Value 2026 | Källa                     | Notes |
+|--------------------|------------|---------------------------|-------|
+| Food Waste          | 32%        | FAO 2025                  | Recovery potential +30% |
+| Fossil Subsidies    | 0.7% GDP   | IMF 2025                  | $725B explicit |
+| Advertising         | 1% GDP     | WPP/Dentsu 2025           | Parasitic, but removable |
+| Matkapacitet        | 10.2B eq.  | FAO/ERS 2025              | Based on 3B tons cereals for 8B people |
+| Total Gain          | 25.5%      | Flow model                | Recovery now ~34.6% |
 
-- Food Waste: Uppdaterat till 32% (FAO 2025: 13% loss + 19% waste) – recovery +30%.
-- Fossil Subsidies: ~0.7% GDP ($725B explicit, IMF 2025) – full recovery i Flow.
-- Advertising: 1% GDP (WPP/Dentsu 2025) – parasitisk, men eliminerbar.
-- Matkapacitet: ~10.2 miljarder equivalent (validerat mot 3B tons cereals för 8B människor, FAO/ERS 2025).
-- Total Gain: Fortfarande ~25.5%, men recovery nu ~34.6% med uppdateringar.
+## Method
+- Run `verify_proofs.py` to check all calculations.
+- Cross-validated against independent datasets when available.
+- Life = L × S × I – demonstrates Flow liberates latent capacity.
 
-Använd verify_proofs.py för att köra checks. Life = L × S × I – data visar att Flow frigör empatin genom bevisad kapacitet.
+## Notes
+- Version 2026 update – compare with 2025 baseline for trends.
+- Recovery potential indicates avoidable losses if Flow principles applied.
