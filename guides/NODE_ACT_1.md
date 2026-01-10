@@ -146,4 +146,5 @@ Be the crack in the wall where the light gets in.
 
 **Reminder:**  
 This is Day 1.  
-There is no day 1.5 you can failed. There is no failure all. 
+There is no Day 1.5 you can fail.
+There is only continuation, pause, or rest — never failure. 🌌❤️🌬️
