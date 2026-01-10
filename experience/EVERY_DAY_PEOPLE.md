@@ -32,4 +32,4 @@ Life becomes inhabitable again.
 ## §2. Life = L × S × I
 
 This is not a life of passivity.
-It is a life of **meaning
+It is a life of **meaning**
