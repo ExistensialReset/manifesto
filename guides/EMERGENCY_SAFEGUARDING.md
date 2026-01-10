@@ -1,7 +1,8 @@
 # EMERGENCY_SAFEGUARDING.md
 
-## Purpose
-This document provides detailed guidance for ensuring the physical, psychological, and existential safety of all participants in Flow pilots and Circles. It is meant to be a practical reference in crisis situations.
+**Status:** ACTIVE PRACTICAL GUIDE  
+**Purpose:** Ensure the physical, psychological, and existential safety of all participants in Flow pilots and Circles.  
+**Principle:** Safety first, dignity always.
 
 ---
 
