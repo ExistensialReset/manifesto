@@ -5,9 +5,8 @@ Building on TECHNICAL_ANNEX.md, LOGISTICS_PROOFS.md, THE_EVIDENCE.md, and simula
 ## I. Core Formula and Stability Model
 The foundational equation for Existential Sovereignty:
 
-\[
-Life = L \times S \times I
-\]
+
+Life = L x S x I
 
 To ensure system resilience, we use a damped harmonic oscillator model:
 
