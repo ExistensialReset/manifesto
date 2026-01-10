@@ -1,20 +1,64 @@
 # HYBRID_ECONOMY_GUIDE.md
-**Status:** ACTIVE
-**Core Principle:** Use Mammon as a tool, never as a master.
+**Status:** ACTIVE  
+**Core Principle:** Use Mammon as a tool, never as a master. 🛠️
 
-## PREAMBLE
-The transition to Flow requires navigating the existing economic reality. This is the bridge—a pragmatic guide to Mammonology.
+---
 
-## §1. THE MAMMON-DEPENDENCY-SCORE (MBS)
-The MBS is the percentage of your Baseline (housing, food, energy) that requires fiat currency. 
-* **Calculation:** (Mammon-reliant Costs / Total Baseline Value) × 100.
-* **Target:** Systematic reduction of MBS toward 0%.
+## 🌉 PREAMBLE
+Transition to Flow requires navigating existing economic reality.  
+This is your **pragmatic bridge** — mastering Mammon without being mastered.
 
-## §2. STRATEGIES FOR LIBERATION
-* **Audit:** Eliminate "Mammon-leakage" (subscriptions, high-interest debt).
-* **Shared Infrastructure:** Use the Circle to pool vehicles, tools, and land.
-* **Flow-Aligned Income:** Monetize surplus (energy, crafts, teaching) only to fund the transition.
-* **Legal Hacking:** Utilize non-profits and community-land trusts to shield assets from speculation.
+---
 
-## §3. PSYCHOLOGICAL LUGN
-Hybrid living is not hypocrisy; it is tactical survival. Perform "Mammon-detox" rituals after interacting with the old system to maintain your L-value.
+## §1. THE MAMMON-DEPENDENCY-SCORE (MBS) 💳
+**Definition:** % of your Baseline that depends on fiat currency.
+
+**Formula:**  
+(Mammon-reliant Costs / Total Baseline Value) × 100
+
+**Target:** Progressive reduction of MBS → 0%
+
+**Example:**  
+| Resource | Cost | Mammon? | Notes |
+| :--- | :--- | :--- | :--- |
+| Housing | $500 | ✅ | Rent for shared apartment |
+| Energy | $100 | ✅ | Electricity |
+| Food | $200 | ❌ | Community garden & donations |
+| Total | $800 | 50% MBS |  |
+
+---
+
+## §2. STRATEGIES FOR LIBERATION ✨
+
+- **Audit:** Eliminate subscriptions, high-interest debt, hidden fees 🕵️  
+- **Shared Infrastructure:** Pool vehicles, tools, land, kitchens 🏠🚜  
+- **Flow-Aligned Income:** Monetize surplus only for transition funding 🎨⚡  
+- **Legal Hacking:** Non-profits, community-land trusts, cooperatives 🏛️  
+
+> **Tip:** Always ask: "Does this expand Baseline or just my bank account?"
+
+---
+
+## §3. PSYCHOLOGICAL LUGN 🧘‍♀️
+
+Hybrid living = tactical survival, not hypocrisy.  
+
+- Perform "Mammon-detox" rituals after transactions 💨  
+- Reflect on L × S × I impact: did this transaction add or drain Flow?  
+- Rotate responsibilities to prevent burnout 🌀  
+
+---
+
+## §4. OPTIONAL: PROGRESSION DASHBOARD 📊
+
+| Month | Target MBS | Actual MBS | Notes |
+| :--- | :--- | :--- | :--- |
+| 1 | 80% | 82% | Audit completed |
+| 2 | 60% | 65% | Pooling starts |
+| 3 | 40% | 42% | Flow-aligned income begins |
+| 6 | 20% | 18% | Circle stabilized |
+| 12 | 0% | 2% | Baseline independence achieved |
+
+---
+
+**Location Recommendation:** `/core/guides/economics/HYBRID_ECONOMY_GUIDE.md`
