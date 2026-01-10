@@ -229,9 +229,9 @@ If someone dies without family or Circle:
 ### §6.6.4 Example Dedication: Bengt Frejd
 
 > Bengt Frejd — mentor, guide, and presence to many.  
-> His life shaped communities, youth, and solidarity.  
-> He is remembered through stories, rituals, and the people he changed.  
-> His name is spoken. His life mattered.
+> His life shapes communities, youth, and solidarity.  
+> He will be remembered through stories, rituals, and the people he changed.  
+> His name is spoken. His life matters.
 
 ---
 
