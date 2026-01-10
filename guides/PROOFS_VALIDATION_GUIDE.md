@@ -23,7 +23,7 @@ If these layers remain coherent under validation, Flow remains grounded.
 
 ### Core model reminder
 
-$$Life = L \times S \times I$$
+Life = L x S x I 
 
 * **L** = Baseline calm and security (food, water, shelter, clothing, health, connectivity)
 * **S** = Spontaneity (freedom to act without fear or coercion)
