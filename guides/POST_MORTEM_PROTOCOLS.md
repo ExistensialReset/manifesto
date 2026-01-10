@@ -1,129 +1,155 @@
-# 🕊️ POST_MORTEM_PROTOCOLS.md
-**Location:** /guides/practical_implementation/  
-**Status:** ACTIVE LEARNING FRAMEWORK (v1.1)  
-**Purpose:** Treat system endings as sources of intelligence, not shame  
-**Core Principle:** Every collapse is data. Every ending is a seed.  
-**Note:** This document provides actionable workflow. Ethical analysis will be added in `/guides/ethics_care/` at a later stage.
+# POST_MORTEM_PROTOCOLS.md
+
+**Status:** ACTIVE LEARNING FRAMEWORK  
+**Purpose:** To treat system endings as sources of intelligence, not shame  
+**Core Principle:** Every collapse is data. Every ending is a seed.
 
 ---
 
 ## §1. PHILOSOPHY OF ENDING
 
-**Flow logic:** Failure is information. Document it. Learn from it. Carry it forward.
+**Mammon logic says:**  
+Failure is weakness. Hide it. Blame someone. Move on without memory.
 
-**Foundational truth:** Most Circles will eventually end. Not because people are flawed, but because reality is complex, conditions change, and humans are fragile.
+**Flow logic says:**  
+Failure is information. Document it. Learn from it. Carry it forward.
 
-A Circle that ends is **not evidence of failure** — it is evidence that the system encountered reality.
+**Foundational truth:**  
+Most Flow Nodes or Groups will eventually end or pause.  
+Not because participants are flawed, but because reality is complex, conditions change, and humans are fragile.
+
+An ending is **not evidence of bad intent or incompetence**.  
+It is evidence that the system encountered reality.
 
 The responsibility of Flow is not to prevent all collapse —  
-but to **remember well enough** that the next Circle does not repeat the same ending blindly.
+but to **remember well enough** that future Nodes / Groups do not repeat the same ending blindly.
 
 ---
 
 ## §2. TRIGGER & AUTHORITY
 
 **Trigger condition:**  
-When a Circle can no longer meet its minimum coordination or trust commitments.
+When a Node / Group can no longer maintain its minimum coordination, trust, or operational baseline, Post-Mortem Protocols may be invoked.
 
 **Authority:**  
-Any Circle member may invoke the protocol. No leader approval is required.
+Any participant may invoke the protocol.  
+No leader approval is required.
 
 This prevents:
-- silent collapse  
-- blame avoidance  
-- disappearance of responsibility through hierarchy  
+- silent collapse
+- blame avoidance
+- disappearance of responsibility through hierarchy
 
 ---
 
 ## §3. THE POST-MORTEM PROCESS
 
 ### Phase 1: Immediate Stabilization
+
 **Priority:** Protect human dignity.
 
-**Actions:**  
-- Ensure all remaining members retain access to their Baseline (food, housing, safety).  
+**Actions:**
+- Ensure all participants retain access to their Baseline (food, housing, safety, basic connectivity).
 - Pause all decision-making related to fault, responsibility, or analysis.
 
-**Rule:** No blame. No diagnosis. No lessons yet. Safety first.
+**Rule:**  
+No blame. No diagnosis. No lessons yet.  
+Safety precedes understanding.
 
 ---
 
 ### Phase 2: Individual Reflection
-Each member documents their experience privately.
 
-**Suggested prompts:**  
-- What originally brought you into this Circle?  
-- When did you first sense strain or shift?  
-- What did you contribute — positively or negatively?  
-- What did this teach you about yourself, others, or the system?
+Each participant documents their experience privately.
 
-Reflections are **owned by the individual**; sharing is voluntary.
+Suggested prompts:
+- What initially motivated your participation?
+- When did you first sense strain or disruption?
+- What do you believe you contributed — positively or negatively?
+- What has this experience taught you about yourself, others, or the system?
+
+Reflections are **owned by the individual**.  
+Sharing is voluntary.
 
 ---
 
 ### Phase 3: Collective Witnessing
+
 **Purpose:** To be heard without defense.
 
-**Structure:**  
-- One speaker at a time  
-- No interruptions  
-- No corrections  
-- No debate  
-- No requirement for response
+**Structure:**
+- One speaker at a time
+- No interruptions
+- No corrections
+- No debate
+- No expectation of response
 
-This is not conflict resolution; it is **witnessing**. Listening itself is an act of system repair.
+This is **not conflict resolution**.  
+It is **witnessing**.
+
+Listening itself contributes to system repair, even if the Node / Group ends.
 
 ---
 
 ### Phase 4: Pattern Analysis
-After safety and witnessing are complete.
 
-Focus areas:  
+Only after safety and witnessing are complete.
+
+Focus areas:
 - **Structural patterns:** roles, incentives, coordination load  
 - **Interpersonal patterns:** communication breakdowns, trust erosion  
-- **Resource patterns:** time scarcity, energy drain, external pressures
+- **Resource patterns:** time scarcity, energy drain, external pressure
 
-Goal: Identify **repeatable tensions**, not assign fault.
+Goal: Identify **repeatable tensions**, not assign blame.
 
 ---
 
 ### Phase 5: Documentation & Memory
+
 Outcomes are documented as an anonymized case study.
 
-Requirements:  
-- No names or identifying details  
+Requirements:
+- No participant names  
+- No identifying details  
 - Focus on patterns, not personalities
 
-Case study is added to the shared Flow archive: `KNOWN_TENSIONS.md`
+The case study is added to the shared Flow archive:  
+`KNOWN_TENSIONS.md`
 
-This transforms individual collapse into **collective intelligence**.
+This transforms individual or Node / Group endings into collective intelligence.
 
 ---
 
 ## §4. FEEDBACK INTO FUTURE DESIGN
-All Post-Mortem insights must be reviewed by future Circle initiators before formation.
 
-A new Circle may not be formed without acknowledging:  
-- Which known tensions apply  
-- What safeguards are attempted  
-- What risks remain unresolved
+All Post-Mortem insights must be **reviewed before new Node / Group formation**.
 
-Memory is a **system responsibility**.
+Future implementations should acknowledge:
+- which known tensions apply  
+- what safeguards are being attempted  
+- what risks remain unresolved
+
+Memory is a system responsibility.
 
 ---
 
 ## §5. FINAL PRINCIPLE
-A Circle that ends is not a Circle that failed.
+
+An ending does **not equal failure**.
 
 It existed.  
-People were held.  
-Truth was spoken.  
+Participants were held.  
+Truth was observed.  
 Knowledge was generated.
 
-In Flow, endings are **carried forward**.
+In Flow, endings are not erased.  
+They are carried forward.
 
 ---
 
-**Ethics Note:** For deeper understanding of Flow care principles, see `/guides/ethics_care/POST_MORTEM_PHILOSOPHY.md`.  
-**Status:** Active Learning Framework  
-**Last Updated:** January 2026
+**STATUS:** Active Learning Framework  
+**VALIDATION:** Honest Systems Design  
+**COMMITMENT:** We document reality as it occurs. No pretending.  
+
+**Last updated:** January 2026  
+**Next review:** Upon encountering first major Node / Group ending. 
