@@ -1,8 +1,4 @@
-Här är det fullständiga, uppdaterade dokumentet med de senaste, avgörande förändringarna integrerade.
-
----
-
-THE_MANDATE_OF_NINE_MOONS.md
+# THE_MANDATE_OF_NINE_MOONS.md
 
 Status: SACRAL PROTOCOL
 Domain: Conflict Resolution / Supreme Social Ritual
