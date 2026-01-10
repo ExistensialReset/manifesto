@@ -16,12 +16,14 @@ Secure the fundamentals through logistical solidarity — not financial debt.
   Inventory skills, space, tools, time, and access within your group.
 
 - **Identify Leakage**  
-  Locate exactly where energy is drained by Mammon:
+  Locate exactly where energy is drained by Mammon[^1]:  
   rent, interest, subscriptions, stress, isolation.
 
 - **Pool Logistics**  
-  Share what reduces dependency:
-  tool libraries, shared spaces, community internet, food access.
+  Share what reduces dependency: tool libraries, shared spaces, community internet, food access.
+
+- **Check Social & Mental Baseline**  
+  Emotional, cognitive, and social health are part of the Baseline. Mutual support within the Circle is essential.
 
 The goal of Phase 1 is not comfort —  
 it is *existential safety*.
@@ -43,6 +45,9 @@ Move from *sharing* to *creating*.
 - **Energy Nodes**  
   Localize power production to secure the Baseline independently.
 
+- **Node Feedback Loop**  
+  Nodes share insights and resources; collective learning improves efficiency across the network.
+
 Each node reduces exposure to debt-based systems.
 
 ---
@@ -51,10 +56,13 @@ Each node reduces exposure to debt-based systems.
 
 Connect your Circle to others.
 
-When enough Baseline Circles overlap, the debt-system loses leverage.
+When enough Baseline Circles overlap, the debt-system loses leverage.  
 This is not revolution — it is **Logistical Gravitation**.
 
-The old system collapses not because it is attacked,
+- **Scalability Note**  
+  Start with 2–3 Circles connecting; grow gradually to preserve autonomy and prevent overload.
+
+The old system collapses not because it is attacked,  
 but because it becomes unnecessary.
 
 ---
@@ -69,3 +77,7 @@ Only Flow.
 
 If the structure violates an axiom,  
 the structure must change — not the people.
+
+---
+
+[^1]: “Mammon” refers to systemic energy drains caused by debt, intermediaries, stress, and other forms of structural inefficiency. See `MAMMONOLOGY.md` for full context.
