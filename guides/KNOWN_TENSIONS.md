@@ -1,4 +1,5 @@
 # KNOWN_TENSIONS.md
+
 **Status:** LIVING DOCUMENT (v1.1)  
 **Purpose:** To acknowledge unresolved design tensions in Flow architecture  
 **Principle:** Tensions are not failures - they are maps of where reality will test us
@@ -15,6 +16,7 @@ Flow is not dogma. It is a living system that will encounter friction between it
 3. Pretending coherence where none exists creates brittle systems
 4. Living systems grow through their contradictions
 5. Awareness of tension **prevents accidental Mammonization**
+6. Transparency and documentation within circles can create both clarity and friction
 
 **How to use this:**
 - **Implementers:** Know these tensions before you encounter them
@@ -86,6 +88,12 @@ Flow is not dogma. It is a living system that will encounter friction between it
 - **Iterative Solutions:** Architect Emeritus Protocol, Living Document Culture, Suicide Clause  
 - **Notes:** Leadership is decentralized; all nodes must be prepared to self-organize.
 
+### 11. CIRCLE OPENNESS VS. PRIVATE SAFETY
+- **Design:** Flow Circles emphasize transparency, documentation, and shared learning  
+- **Tension:** Full openness can expose nodes to judgment, Mammon co-option, or privacy loss  
+- **Iterative Solutions:** Tiered Documentation, In-Circle Vetting, Shadow Notes, Optional Openness  
+- **Notes:** Balance transparency with consent; document decisions about disclosure protocols.
+
 ---
 
 ## META-TENSION: THE DOCUMENT ITSELF
@@ -112,9 +120,8 @@ Tensions are not bugs, they are the frontier where theory meets reality.
 
 **STATUS:** Living Document (Update on encounter)  
 **VALIDATION:** Honest Systems Design  
-**COMMITMENT:** We will not pretend to have answers we don't have. 
-
-
+**COMMITMENT:** We will not pretend to have answers we don't have.  
 
 **Last updated:** January 2026  
-**Next review:** Upon encountering first major tension in practice
+**Next review:** Upon encountering first major tension in practice. 
+
