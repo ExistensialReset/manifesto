@@ -1,135 +1,305 @@
-# REFUGIUM_ANIMA.md
+# LYCEUM_MUSAEUM.md
 
-**The Sanctuary of the Soul**
+**The Greenhouse for Human Potential**
 
-A restorative space for returning to Flow — without diagnosis, justification, or timeline
+*A space for learning, creation, and exploration — without coercion, credentials, or conditions*
 
 ---
 
-## What Refugium Anima Is
+## What Lyceum Musaeum Is
 
-Refugium Anima is a **physical and relational space** designed for people who have temporarily lost access to Flow.
+Lyceum Musaeum is not a university.  
+It is not a school.  
+It is not an institution that selects, measures, or certifies.
 
-Not because they are broken.  
-Not because they are ill.  
-But because **life sometimes overwhelms the nervous system** faster than it can recover on its own.
+It is a **living architecture for human curiosity** — open to all, by virtue of existence alone.
 
-This is not a hospital.  
-This is not a treatment facility.  
-This is not a place of diagnosis, correction, or rehabilitation.
+Within Lyceum Musaeum:
 
-**Refugium Anima is sanctuary.**
+- No one must qualify to enter  
+- No one is tested to remain  
+- No one graduates or fails  
+- Knowledge is treated as **shared human inheritance**, not private property  
+
+This is a place where learning happens because **humans are wired to learn** — not because they are forced to perform.
 
 ---
 
 ## Core Principles
 
-### 1. No Performance Expected
-- No justification required  
-- No progress tracking  
-- Being here is enough
+### 1. **Unconditional Access**
 
-### 2. No Productivity Required
-- No tasks, no schedules, no goals unless requested  
-- The body sets the pace
+Everyone may enter.  
+Children, adults, elders.  
+Neurodivergent, disabled, chronically ill.  
+Those who read and those who do not.
 
-### 3. No Justification Demanded
-- Silence is honored  
-- Sharing is optional
-
-### 4. Collapse is Welcome
-- Rest, breakdown, or non-engagement are accepted  
-- No one is judged
-
-### 5. Animals and Nature
-- Access to animals, gardens, and outdoor spaces  
-- Non-human presence supports regulation
+The only requirement is **curiosity** — and even that may arrive slowly.
 
 ---
 
-## What Exists Inside Refugium Anima
+### 2. **No Output Required**
 
-### 1. Rest & Regulation Spaces
-- Adjustable light and sound  
-- Beds, mats, hammocks, weighted blankets  
-- Temperature control  
-- Accessible design
+You may:
 
-### 2. Water & Body Relief
-- Warm baths and soaking areas  
-- No schedules or instructions unless requested
+- explore without finishing  
+- learn without proving  
+- create without sharing  
+- rest without justification  
 
-### 3. Release Rooms
-- Scream rooms  
-- Impact rooms  
-- Movement-friendly spaces  
-
-### 4. Presence: Guides / Witnesses
-- Support without control  
-- Listen without fixing  
-- Agency remains with the individual
-
-### 5. Gentle Joy & Aliveness
-- Music, art, games, shared meals optional  
-- Silence honored
+**Learning is not measured.**  
+It is recognized by the person living it.
 
 ---
 
-## Functional Variation as Design
+### 3. **Functional Variation as Design Axiom**
 
-Supports ADHD, Autism, Trauma, Chronic Illness  
-- Environment adjusts, not the person  
-- Stimming, sensory control, pacing, grounding all respected
+Lyceum Musaeum is designed **for all nervous systems**.
+
+This means:
+
+- Movement is allowed and encouraged  
+- Sensory needs are honored (sound, light, texture)  
+- Multiple formats for every kind of knowledge (text, audio, visual, tactile, embodied)  
+- Rest spaces integrated into learning spaces  
+- No time pressure, no forced pace  
+
+**The environment adapts.**  
+The person does not need to be "fixed."
 
 ---
 
-## Size & Distribution
+### 4. **The Honored Principle of Mistakes**
 
-- Small: 1–5 people  
-- Medium: 5–20 people  
-- Large: 20+ people  
-- Principles scale accordingly
+Mistakes are not failures.  
+They are **the compost of understanding**.
+
+Within Lyceum Musaeum:
+
+- Errors are documented and celebrated  
+- "I don't know" is a respected answer  
+- Confusion is treated as the beginning of insight, not a sign of inadequacy  
+
+**To fail here is to participate fully.**
 
 ---
 
-## Relationship to Flow
+## What Exists Inside Lyceum Musaeum
 
-- Baseline remains intact  
-- Agency stays with the individual  
-- Flow resumes when ready
+### 1. **Language & Cognitive Knowledge**
+
+Spaces for:
+
+- Reading, writing, storytelling  
+- Mathematics, logic, philosophy  
+- Languages (spoken, signed, written)  
+- Memory work, pattern recognition  
+
+Always **in the learner's rhythm**.
+
+No grades.  
+No rankings.  
+Just **availability**.
+
+---
+
+### 2. **Expression & Embodiment**
+
+Spaces for:
+
+- Dance, movement, theater  
+- Music (listening, making, improvising)  
+- Visual arts (painting, drawing, sculpture)  
+- Crafts (weaving, woodwork, pottery, metalwork)  
+- Play — structured and unstructured  
+
+**Creation is learning.**  
+**Play is research.**
+
+---
+
+### 3. **Exploration & Making**
+
+Spaces for:
+
+- Science (observation, experimentation, hypothesis)  
+- Engineering (building, testing, iterating)  
+- Ecology (gardens, ecosystems, living systems)  
+- Technology (coding, electronics, fabrication)  
+
+Tools are **shared and accessible**.  
+Mentors are **available, not mandatory**.
+
+---
+
+### 4. **Shared Knowledge Base**
+
+All materials are:
+
+- Free to access  
+- Available in multiple formats  
+- Continuously updated by contributors  
+- Never locked behind credentials or payment  
+
+Includes:
+
+- Books, articles, recordings  
+- Tutorials, documentation, guides  
+- Open-source tools and software  
+- Historical archives and living memory  
+
+**Knowledge flows freely.**
+
+---
+
+### 5. **Companionship, Not Instruction**
+
+Mentors exist — but they do not control.
+
+Their role is:
+
+- To witness and support  
+- To share what they know when asked  
+- To model learning as a **lifelong practice**, not a completed state  
+
+**No one here is a master.**  
+Everyone is learning.
+
+---
+
+## Accessibility as Foundation
+
+Lyceum Musaeum is **radically accessible**.
+
+### Physical Access
+- Ramps, wide doors, adjustable furniture  
+- Wheelchair-accessible workspaces  
+- Quiet rooms and sensory-safe zones  
+
+### Cognitive Access
+- Multiple entry points for every concept  
+- Visual, auditory, tactile, and kinesthetic learning supported  
+- No time limits, no enforced sequences  
+
+### Economic Access
+- No tuition, no fees, no hidden costs  
+- Materials provided freely  
+- Baseline guaranteed (food, shelter, care)  
+
+### Neurodivergent Access
+- Stimming allowed and normalized  
+- Hyperfocus celebrated  
+- Movement integrated into learning  
+- Rest honored as part of the process  
+
+**If someone cannot learn, the space adjusts — not the person.**
+
+---
+
+## What Lyceum Musaeum Refuses to Be
+
+- A factory for workers  
+- A sorting mechanism for hierarchy  
+- A place where knowledge is rationed by performance  
+- A space where rest is punished or curiosity is coerced  
+
+**Learning does not serve the economy.**  
+**The economy serves learning.**
+
+---
+
+## Integration with Flow
+
+Lyceum Musaeum is **Baseline** — not luxury.
+
+Access to knowledge, tools, and space for exploration is **unconditional**.
+
+When Baseline is secured, **learning becomes spontaneous**.
 
 ---
 
 ## In Practice
 
-Example days for people with different needs  
-- Saga, 29, autistic, burnout  
-- Isak, 42, C-PTSD, crisis  
-(Details in the document above)
+### A Day at Lyceum Musaeum  
+**Example: Mika, age 12, ADHD**
+
+- 09:00 — Arrives, moves freely  
+- 09:30 — Builds a small solar oven  
+- 10:30 — Break in quiet room  
+- 11:00 — Reads about desert ecosystems  
+- 12:00 — Cooks lunch together  
+- 13:00 — Rests  
+- 14:00 — Writes a short story  
+- 15:00 — Leaves when ready  
+
+**Curriculum hours:** 0  
+**Learning hours:** 6  
+**Baseline protected**
 
 ---
 
-## Starting a Refugium Anima
+### A Day at Lyceum Musaeum  
+**Example: Astrid, age 47, autistic, chronic illness**
+
+- 10:00 — Arrives slowly  
+- 10:30 — Observes weaving  
+- 11:30 — Starts own textile project  
+- 12:30 — Eats quietly with a book  
+- 13:30 — Philosophy circle via text chat  
+- 16:00 — Leaves when energy allows  
+
+**Curriculum hours:** 0  
+**Learning hours:** 5.5  
+**Pace honored**
+
+---
+
+## Outcomes
+
+### Short-term
+- Curiosity remains intact  
+- Confidence in one's capacity to learn  
+- Joy replaces fear of failure  
+
+### Long-term
+- People who know **how to learn**  
+- People who know **how to ask for help**  
+- People who contribute freely  
+
+---
+
+## Starting a Lyceum Musaeum Node
 
 1. Find a space  
-2. Make it safe and accessible  
-3. Stock materials (rest, water, sensory tools)  
-4. Invite companions  
-5. Agree on principles  
-6. Open the space  
-7. Iterate with participants' feedback  
+2. Gather materials  
+3. Invite mentors and learners  
+4. Agree on principles:
+   - No coercion  
+   - Functional variation honored  
+   - Mistakes celebrated  
+   - Baseline respected  
+5. Begin simply  
+6. Iterate with participants  
+
+**No certification needed.**  
+**No approval required.**  
+**Just begin.**
 
 ---
 
 ## Final Principle
 
-**A society that cannot rest will collapse.**  
-Refugium Anima is infrastructure for survival.
+**Trust the learner.**
+
+Humans are wired to explore, create, and understand.
+
+Lyceum Musaeum does not create this drive.  
+It simply **stops blocking it**.
 
 ---
 
-**STATUS:** Living sanctuary for human regulation  
-**VALIDATION:** Trauma-informed care, neuroscience of rest, somatic therapy  
-**COMMITMENT:** Every person deserves to collapse without fear, coercion, or deprivation
+**STATUS:** Living space for human flourishing  
+**VALIDATION:** Montessori, Sudbury, unschooling, Indigenous pedagogy, neuroscience  
+**COMMITMENT:** Learning without fear, coercion, or deprivation
 
-🌿🕊️✨
+🌱📚✨
