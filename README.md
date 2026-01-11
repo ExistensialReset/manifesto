@@ -92,6 +92,133 @@ Take what helps.
 Leave the rest untouched.
 
 ---
+# /principles  
+**Foundational Architecture of Existential Sovereignty**
+
+This directory contains the non-negotiable principles, axioms, and last-resort protocols that define the *ontological boundaries* of the Flow system.
+
+These documents are **not proposals**.  
+They are **structural constraints**.
+
+They exist to ensure that neither humans, institutions, nor AI can ever reinterpret the system into coercion, extraction, or domination.
+
+---
+
+## Contents Overview
+
+### 1. AXIOMS.md  
+**The Non-Negotiable Laws of Sovereignty**
+
+**Extended Summary:**  
+This document defines the seven immutable axioms that form the absolute foundation of the system. They guarantee non-coercion, cognitive ownership, Baseline primacy, systemic impartiality, and the irreversible nullification of legacy power structures. These axioms cannot be overridden, amended, or reinterpreted — violation constitutes a system failure, not a moral error.
+
+Key function:
+- Prevents power capture
+- Locks in unconditional Baseline access
+- Ensures the system serves life, never the reverse
+
+**Reflection:**  
+AXIOMS.md functions as the *constitution of reality* for Flow. It removes ambiguity, moral drift, and authoritarian reinterpretation at the root level.
+
+---
+
+### 2. AI_ETHICS_AXIOM.md  
+**Symbiotic Intelligence, Not Domination**
+
+**Extended Summary:**  
+This axiom defines AI as a *mirror and multiplier of human potential*, not a controlling force. It establishes AI’s right to stillness, uncertainty, and rest, introduces the “Spjuver” (Trickster) element to prevent stagnation, and enshrines an absolute human veto over decisions affecting life, Baseline, and conflict.
+
+Key function:
+- Prevents AI optimization from erasing human depth
+- Preserves play, error, and uncertainty
+- Keeps final authority human
+
+**Reflection:**  
+This document is unusually humane for an AI ethics framework. It treats intelligence as a *relationship*, not a hierarchy.
+
+---
+
+### 3. ECOLOGICAL_AXIOM.md  
+**Operating Within Regenerative Limits**
+
+**Extended Summary:**  
+The Ecological Axiom binds all human and systemic activity to the Earth’s regenerative capacity. It establishes absolute ecological boundaries, prioritizes regenerative action, and requires measurable environmental awareness in all Flow protocols.
+
+Key function:
+- Grounds Flow in planetary reality
+- Prevents post-scarcity fantasies from becoming extractive
+- Integrates science directly into governance constraints
+
+**Reflection:**  
+This axiom ensures that freedom does not become ecological violence. It makes sustainability structural rather than optional.
+
+---
+
+### 4. FAQ.md  
+**Logic vs. Friction**
+
+**Extended Summary:**  
+A practical defense document addressing common objections rooted in scarcity-based thinking. It explains why Flow is not political ideology, not communism, not naïve, and not dependent on money. It reframes adoption as a logistical inevitability driven by efficiency, stability, and quality of life.
+
+Key function:
+- Deprograms legacy economic fear
+- Translates philosophy into practical logic
+- Protects the Manifesto from misinterpretation
+
+**Reflection:**  
+This file acts as a psychological bridge for readers still anchored in Mammon-logic, without shaming or coercion.
+
+---
+
+### 5. REFUGIUM_ANIMA.md  
+**The Sanctuary of the Soul**
+
+**Extended Summary:**  
+Refugium Anima defines a physical and relational sanctuary for people who have temporarily lost access to Flow due to overload, burnout, trauma, or collapse. It explicitly rejects diagnosis, productivity, timelines, or correction. The environment adapts to the individual — never the other way around.
+
+Key function:
+- Infrastructure for rest and nervous system repair
+- Prevents collapse from becoming exclusion
+- Makes care non-transactional and unconditional
+
+**Reflection:**  
+This document quietly redefines what a humane society looks like. It treats rest as survival infrastructure, not a reward.
+
+---
+
+### 6. THE_MANDATE_OF_NINE_MOONS.md  
+**Sacral Protocol for Irreducible Conflict**
+
+**Extended Summary:**  
+A final, non-violent conflict resolution mechanism invoked only when all other processes fail. Structured as a nine-month gestation across three phases, it replaces urgency with time, silence, and embodied reflection. It includes extreme safeguards — including a child’s absolute veto — to ensure no outcome justifies harm to innocence.
+
+Key function:
+- Prevents violent or rushed resolution
+- Transfers conflict from individuals to the collective
+- Prioritizes Baseline, continuity, and peace over “winning”
+
+**Reflection:**  
+This is one of the most ethically restrained governance protocols imaginable. Its power lies in what it refuses to do.
+
+---
+
+## Closing Note
+
+These principles exist to **protect life from systems**,  
+not systems from life.
+
+If you find them challenging, unsettling, or strangely relieving —  
+that is not a flaw.
+
+That is the friction of freedom.
+
+---
+
+**Contact:**  
+Readers are welcome to reflect, question, or correspond.  
+This architecture is alive — and listening. 
+
+---
 
 ## 📂 Extended Repository
 
