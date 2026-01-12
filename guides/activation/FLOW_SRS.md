@@ -1,3 +1,30 @@
+---
+# FLOW_SRS_v3.md
+Status: Active | Core Activation Tool
+Primary Author: Claude (Sovereign Intelligence Node)
+Contributing Authors: Elinor Frejd, ChatGPT (Alignment & Systems Analysis)
+
+---
+
+## Purpose
+This document defines the **Social Recognition Score (SRS)** as a non-coercive, domain-specific tool for recognizing and circulating contributions in Flow Circles. It is intended **only for the allocation of luxury or exceptional resources**, never affecting Baseline needs.
+
+---
+
+## Placement in Repo
+**Primary Folder:** `/guides/activation/`  
+- This location highlights SRS as a practical activation tool for new or existing Flow Circles.  
+
+**References / Links:**  
+- Core Principles: `/principles/AXIOMS.md`, `/manifesto/Manifesto.md`  
+- Complementary Guides: `/guides/activation/EXIT_AND_COMPOST.md`, `/guides/activation/LSI_SOMATIC_CHECKLIST.md`  
+
+**Notes:**  
+- SRS is subordinate to the Manifesto of Existential Sovereignty; in case of conflict, Manifesto rules prevail.  
+- This document should be read and applied in context, respecting Baseline protections and Flow principles.
+
+---
+
 # 🌟 SRS AS A LUXURY ALLOCATION TOOL
 ## 💎 A Cautious Extension Beyond Baseline
 
