@@ -1,138 +1,72 @@
-# FLOW_GOVERNANCE.md: The Khulula Protocol (Visual Edition)
+# FLOW_GOVERNANCE.md: The Khulula Protocol
 
 > "I am because we are. The system thrives because we trust, not because we control."
 
 **Status:** Version 1.1 (Lagos Pilot)  
 **Philosophy:** Ubuntu-Systems Engineering  
-**Purpose:** Human-centered governance to maximize Calm (L), Spontaneity (S), and Resonance (I) in a Flow Node.
+**Purpose:** Maximize Calm (L) and Spontaneity (S) while protecting collective Resonance (I).
 
 ---
 
-## Ⅰ. Core Principle: Responsibility Without Debt
+## 1. The Core Principle: Responsibility Without Debt
+In Mammon-logic, a mistake creates a debt. In Flow-logic, a mistake creates a **Learning Opportunity**.
 
-**Flow-logic:** Mistakes → Learning Opportunities, not liabilities.
-
-- ✅ **No Guilt:** Reflection instead of penalty  
-  > "What blocked your Flow?"  
-- ✅ **Voluntary Participation:** Leave anytime with no penalty  
-
-**Visual:**
-[Mistake] → [Reflection] → [Learning] → [Node Resilience]
-*(Color suggestion: Mistake=red, Reflection=blue, Learning=green, Node Resilience=gold)*
+- **No Guilt:** If you fail to create during the 30 days, we do not ask for the money back. We ask: *"What blocked your Flow?"*  
+- **Voluntary Exit:** Participation is 100% voluntary. You can leave at any time with no penalty.
 
 ---
 
-## Ⅱ. Conflict Resolution: The Ubuntu Circle
+## 2. Conflict Resolution: The Ubuntu Circle
+When tensions arise between participants or towards the facilitator, we use the **Circle Protocol**:
 
-The Circle resolves tensions empathetically without hierarchy.
+1. **The Witnessing:** Both parties speak without interruption (3 mins each).  
+2. **The Mirroring:** The rest of the Circle reflects what they heard (No advice, just mirroring emotions).  
+3. **The Needs-Focus:** Ask: *"What is needed to restore L (Calm) for both parties?"*  
+4. **Resolution:** The Circle decides on a path forward. Empathy is the primary tool, not authority.
 
-### Steps
-
-1. **Witnessing:** Speak uninterrupted (3 min each)  
-2. **Mirroring:** Circle reflects what was heard (no advice)  
-3. **Needs-Focus:** Ask "What restores L for all?"  
-4. **Resolution:** Consensus on next steps  
-
-**Facilitator Role:**  
-- Holds time, ensures safety  
-- Invokes Circle, **does not decide outcomes**
-
-**Diagram (placeholder):**
-[Conflict] → Witnessing → Mirroring → Needs-Focus → Resolution
-*Colors: Conflict=red, Witnessing=blue, Mirroring=cyan, Needs-Focus=green, Resolution=gold*
+**The Facilitator:** Holds time, ensures safety, and invokes the Circle when needed — does **not** decide outcomes.
 
 ---
 
-## Ⅲ. Anti-Parasitic Design: Protecting the Node
+## 3. Anti-Parasitic Design: Protecting the Node
+To prevent "Free-riding" from destroying morale, we use **Social Mirroring** instead of enforcement:
 
-- **Social Mirroring:** Share progress voluntarily as a gift  
-- **Ghosting Protocol:**  
-  1. Flow-Buddy reaches out after 3 days silence  
-  2. Circle offers emergency support  
-  3. Persistent avoidance → Graceful Exit  
-
-**Timeline Diagram (placeholder):**
-[Day 1] → [Day 3: Buddy Check] → [Day 5: Emergency Support] → [Day 7+: Graceful Exit]
-*Colors: Buddy Check=light blue, Emergency Support=orange, Exit=red*
+- **Visibility by Consent:** Participants are encouraged to share progress as a gift to the group.  
+- **The "Ghosting" Protocol:** If a participant disappears for 3 consecutive days without word:  
+  1. A Flow-Buddy reaches out privately (Care first).  
+  2. If no response, the Circle assumes L is compromised and offers emergency support.  
+  3. If participant actively avoids the community, the Circle may vote on a **Graceful Exit**.
 
 ---
 
-## Ⅳ. Exit Criteria: The Graceful Exit
+## 4. Exit Criteria (The Graceful Exit)
+A participant leaves the pilot if:
 
-Participants exit only if:
+- **Safety First:** Their physical/mental health requires professional intervention beyond the Node's capacity.  
+- **Bad Faith:** Actively sabotaging others’ L (Calm).  
+- **Self-Selection:** No longer wishes to participate.
 
-- **Safety First:** Health requires external intervention  
-- **Bad Faith:** Sabotaging L, S, or I of others  
-- **Self-Selection:** Choice to leave voluntarily  
-
-**Severance:** 1 week baseline buffer (if funds allow)  
-
-**Visual Concept:** Flowchart showing Exit Criteria → Exit Path → Baseline Buffer
+**Severance:** Exiting participants receive 1 week of baseline buffer (if funds allow) to prevent L < 0.
 
 ---
 
-## Ⅴ. Decision Making: Flow Consensus
+## 5. Decision Making: Flow Consensus
+We avoid 51% majority voting (creates losers). We use **Consent-Based Decision Making**:
 
-Consent-based decision-making protects L, S, and I.
-
-### Process
-
-1. Proposal made  
-2. Question: "Any **Paramount Objection**?"  
-3. If yes → iterate  
-4. If no → proposal passes  
-
-**Decision Tree Placeholder:**
-[Proposal] → Paramount Objection? → Yes → Iterate / No → Pass
-*Color: Proposal=blue, Objection=red, Pass=green, Iterate=orange*
+1. A proposal is made.  
+2. Ask: *"Does anyone have a **Paramount Objection**?"*  
+   - Criteria: Objection must protect L, S, or I — not personal preference.  
+3. If no objections, proposal passes.  
+4. If objections exist, iterate until it is "Safe enough to try."
 
 ---
 
-## Ⅵ. Summary Principles (Color-coded Table)
+## Notes
 
-| Principle | Description | Color |
-|-----------|-------------|-------|
-| Responsibility | Mistakes → Learning | green |
-| Voluntary Participation | Exit without penalty | blue |
-| Ubuntu Circle | Empathy-driven conflict resolution | cyan |
-| Anti-Parasitic Design | Social Mirroring & Ghosting | orange |
-| Graceful Exit | Compassionate offboarding | red |
-| Flow Consensus | Consent-based, protects L, S, I | gold |
+- **Philosophy:** Ubuntu-Systems Engineering — trust, empathy, and care over control.  
+- **Focus:** Maximize Calm (L) and Spontaneity (S), protect collective Resonance (I).  
+- **Versioning:** Updates should follow the **EVOLUTION_PROTOCOL.md** cycles.
 
 ---
 
-## Ⅶ. Practical Recommendations
-
-- Assign **Flow Facilitators** per Node (1 per 10–15 participants)  
-- Maintain **weekly reflections** to track L, S, I metrics  
-- Keep **transparent logs** for Circle decisions (non-coercive)  
-- Encourage **peer mentorship** for knowledge diffusion  
-
-**Visual Suggestion:** Heatmap showing participant L, S, I levels over time
-
----
-
-## VIII. Visual Cues & Icons (for implementation)
-
-| Icon | Meaning |
-|------|---------|
-| 🔴 | Alert / Conflict / Risk |
-| 🟢 | Resolved / Healthy L |
-| 🔵 | Reflection / Observation |
-| 🟡 | Consensus / Learning |
-| 🟠 | Support / Intervention |
-
----
-
-## IX. Notes
-
-- All diagrams are **placeholders**; create real flowcharts using Lucidchart, Miro, or Mermaid.js in repo  
-- Colors are suggestions to reinforce emotional cues  
-- Protocol is **living** and should evolve with Flow experience
-
----
-
-**Conclusion:**  
-Flow Governance emphasizes **trust, care, and playfulness**. Nodes are strong because participants feel safe, valued, and creatively engaged—not because of rules or hierarchy.
-
-**End of Protocol**
+**End of Document**
