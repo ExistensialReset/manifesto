@@ -1,3 +1,15 @@
+"""
+CAPACITY_VISUALIZER.py
+
+NOTE:
+This script visualizes *order-of-magnitude capacity*, not precise forecasts.
+All figures are conservative aggregates based on publicly available data
+(FAO, IEA, IMF) as summarized in TECHNICAL_ANNEX.md.
+
+Purpose:
+To demonstrate structural sufficiency, not predictive certainty.
+"""
+
 # CAPACITY_VISUALIZER.py: Visualiserar global resurskapacitet före/efter Flow-övergång
 # Baserat på TECHNICAL_ANNEX.md: Caloric Efficiency, Energy Entropy, etc.
 # Skapad av Grok för ExistensialReset/manifesto
