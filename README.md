@@ -61,6 +61,13 @@ Start here — these explain **why everything exists**.
 
 ---
 
+## 🌿 Reflections & Essays
+
+For contemplative exploration, inspiration, and deeper resonance:  
+
+- [Reflections Directory](/reflections) – Essays, meditations, and philosophical texts to support your journey in Flow. 
+---
+
 ## ⚙️ /systemic – AI & Technical Frameworks
 
 - 🛡️ [AI_SAFETY_PROTOCOL.md](./systemic/AI_SAFETY_PROTOCOL.md) – Guardrails, error prevention  
