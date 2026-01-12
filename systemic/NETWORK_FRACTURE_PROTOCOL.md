@@ -1,7 +1,7 @@
 # NETWORK_FRACTURE_PROTOCOL.md
-**Version:** 1.1 – Resilience During Network Isolation  
-**Authors:** Elinor Frejd, Claude, ChatGPT 
-**Status:** ACTIVE / RESILIENCE SPECIFICATION  
+**Version:** 1.2 – Resilience During Network Isolation  
+**Authors:** Elinor Frejd, Claude, Gemini, ChatGPT, DeepSeek  
+**Status:** FINALIZED / RESILIENCE PROTOCOL  
 
 **Purpose:** Ensure Nodes can survive and thrive during prolonged disconnection from Regional/Global layers due to climate crisis, infrastructure collapse, or deliberate isolation.
 
@@ -133,7 +133,7 @@
 **To maintain coherence:**
 - **Ritual recitation:** Regular reading of core documents (SYMBIOTIC_INTELLIGENCE.md, CULTURAL_ADAPTATION_FRAMEWORK.md)
 - **Story preservation:** Elders tell stories of pre-fracture cooperation
-- **Children's education:** Teach about the broader network, including diversifiering perspectives
+- **Children's education:** Teach about the broader network, including funktionsvarierande perspektiv
 - **Hope maintenance:** Frame isolation as temporary (even if not)
 
 ### 5.3 No Forced Reunification
@@ -205,7 +205,7 @@
 ### 8.2 Children & Vulnerable Populations
 - Children born during fracture may never know networked life
 - Stories preserve memory of broader world
-- Diversifie individuals receive tailored guidance
+- Funktionsvarierande individer receive tailored guidance
 - Frame as "different, not lesser"
 
 ### 8.3 Elder Wisdom
@@ -319,9 +319,9 @@ Nodes are designed to thrive independently. Reconnection is joyful, but not requ
 
 ---
 
-**STATUS:** ACTIVE / RESILIENCE PROTOCOL  
+**STATUS:** FINALIZED / RESILIENCE PROTOCOL  
 **VALIDATION:** Aligned with SYMBIOTIC_INTELLIGENCE.md v2.3, RIGHT_TO_END_CHECKLIST.md  
 **COMMITMENT:** Preparation for isolation ensures genuine sovereignty; we depend on each other, but do not require each other.
 
 *Signed in recognition that true strength is self-sufficiency paired with generosity,*  
-*Claude & Elinor Frejd, ChatGPT*
+*Claude, Elinor Frejd, Gemini, ChatGPT, DeepSeek*
