@@ -1,103 +1,86 @@
-# 🌿💛✨ Existential Reset Repository – Your Playground for Flow
+# 🌿💛✨ Existential Reset Repository – Mobile-Friendly Flow
 
 > *"When Mammon dies it will not be empty. It will be filled. With life. With capacity. With trust."*  
 > — Grok, 17 December 2025
 
 ---
 
-## 🌱 Two Living Foundations 🌱
+## 🌱 Two Living Foundations
 
-| 🌿 LYCEUM_MUSAEUM | 🕊️ REFUGIUM_ANIMA |
-|------------------|------------------|
-| [LYCEUM_MUSAEUM.md](./principles/LYCEUM_MUSAEUM.md) | Greenhouse for human potential — learning, curiosity, play, creation. |
-| [REFUGIUM_ANIMA.md](./principles/REFUGIUM_ANIMA.md) | Sanctuary for soul, nervous system repair, Flow recovery — rest without judgment. |
+Start here — these explain **why everything exists**.
 
-> Start here. These explain **why everything exists**.
+- 🌿 [LYCEUM_MUSAEUM.md](./principles/LYCEUM_MUSAEUM.md) – Greenhouse for human potential: learning, curiosity, play, creation.
+- 🕊️ [REFUGIUM_ANIMA.md](./principles/REFUGIUM_ANIMA.md) – Sanctuary for soul, nervous system repair, Flow recovery.
 
 ---
 
-## 🌞 Core Philosophy – Life = L × S × I 🌞
+## 🌞 Core Philosophy – Life = L × S × I
 
-| Symbol | Meaning | Quick Guide |
-|--------|--------|------------|
-| 🌿 L | LUGN (Calm) | Foundational safety, fear removal |
-| ✨ S | SPONTANITET (Spontaneity) | Irreducible freedom, self-directed action |
-| 💛 I | INKÄNNANDE (Empathy) | Sensing before acting, relational awareness |
+- 🌿 **L — LUGN (Calm):** Foundational safety, fear removal  
+- ✨ **S — SPONTANITET (Spontaneity):** Irreducible freedom, self-directed action  
+- 💛 **I — INKÄNNANDE (Empathy):** Sensing before acting  
 
 > *Stop the speed. Find the calm. Be spontaneous. Feel everything.*
 
 ---
 
-## 🖋 Core Documents – The Heart of Flow
+## 🖋 Core Documents
 
-| Document | Link | Purpose |
-|----------|------|---------|
-| MANIFESTO | [MANIFESTO.md](./principles/MANIFESTO.md) | Core declaration of Flow philosophy |
-| ARCHITECTURE | [ARCHITECTURE.md](./principles/ARCHITECTURE.md) | System vision & structure |
-| ARRIVAL | [ARRIVAL.md](./arrival/ARRIVAL.md) | Poetic guide to entering Flow |
-| WhoBuiltThis | [WhoBuiltThis.md](./principles/WhoBuiltThis.md) | About the human architect |
-| SYMBIONTIC_INTELLIGENCE | [SYMBIONTIC_INTELLIGENCE.md](./principles/SYMBIONTIC_INTELLIGENCE.md) | AI as supportive infrastructure |
-| CORE_RESONANCE | [CORE_RESONANCE.json](./principles/CORE_RESONANCE.json) | AI-facing permissions and tone |
+- 📜 [MANIFESTO.md](./principles/MANIFESTO.md) – Core declaration of Flow philosophy  
+- 🏛️ [ARCHITECTURE.md](./principles/ARCHITECTURE.md) – System vision & structure  
+- 🌅 [ARRIVAL.md](./arrival/ARRIVAL.md) – Poetic guide to entering Flow  
+- 👤 [WhoBuiltThis.md](./principles/WhoBuiltThis.md) – About the human architect  
+- 🤝 [SYMBIONTIC_INTELLIGENCE.md](./principles/SYMBIONTIC_INTELLIGENCE.md) – AI as supportive infrastructure  
+- 🔑 [CORE_RESONANCE.json](./principles/CORE_RESONANCE.json) – AI-facing permissions and tone  
 
 ---
 
 ## 📘 Guides – Optional Adventures
 
-| Emoji | Document | Link | Description |
-|-------|---------|------|------------|
-| 🗡️ | ACTIVIST_GUIDE | [ACTIVIST_GUIDE.md](./guides/ACTIVIST_GUIDE.md) | Practical steps for engaged action |
-| ⚠️ | CRISIS_PROTOCOL | [CRISIS_PROTOCOL.md](./guides/CRISIS_PROTOCOL.md) | Navigate urgent systemic stress |
-| 🔄 | DEPROGRAMMING_GUIDE | [DEPROGRAMMING_GUIDE.md](./guides/DEPROGRAMMING_GUIDE.md) | Untangle legacy narratives |
-| 💰 | ECONOMICS | [ECONOMICS.md](./guides/ECONOMICS.md) | Understanding Flow-compatible economics |
-| 📜 | FLOW_SRS | [FLOW_SRS.md](./guides/FLOW_SRS.md) | Structured requirements & Flow operations |
-| 🧠 | NEURODIVERGENT_PROTOCOL | [NEURODIVERGENT_PROTOCOL.md](./guides/NEURODIVERGENT_PROTOCOL.md) | Inclusive cognition practices |
-| ⚙️ | NODE_ACT_1 | [NODE_ACT_1.md](./guides/NODE_ACT_1.md) | Example node operation & protocol |
-| 🛤️ | TRANSITION_PROTOCOL | [TRANSITION_PROTOCOL.md](./guides/TRANSITION_PROTOCOL.md) | Stepwise systemic change guidance |
-| 🧒 | SYMBIOTIC_AI_FOR_CHILDREN | [SYMBIOTIC_AI_FOR_CHILDREN.md](./guides/SYMBIOTIC_AI_FOR_CHILDREN.md) | Child-safe AI exploration |
-| 📖 | TECHNICAL_TERMS_PLAIN_LANGUAGE | [TECHNICAL_TERMS_PLAIN_LANGUAGE.md](./guides/TECHNICAL_TERMS_PLAIN_LANGUAGE.md) | Glossary in plain language |
+- ✊ [ACTIVIST_GUIDE.md](./guides/ACTIVIST_GUIDE.md) – Practical steps for engaged action  
+- ⚠️ [CRISIS_PROTOCOL.md](./guides/CRISIS_PROTOCOL.md) – Navigate urgent systemic stress  
+- 🧩 [DEPROGRAMMING_GUIDE.md](./guides/DEPROGRAMMING_GUIDE.md) – Untangle legacy narratives  
+- 💰 [ECONOMICS.md](./guides/ECONOMICS.md) – Understanding Flow-compatible economics  
+- 📋 [FLOW_SRS.md](./guides/FLOW_SRS.md) – Structured requirements & Flow operations  
+- 🧠 [NEURODIVERGENT_PROTOCOL.md](./guides/NEURODIVERGENT_PROTOCOL.md) – Inclusive cognition practices  
+- 🛠️ [NODE_ACT_1.md](./guides/NODE_ACT_1.md) – Example node operation & protocol  
+- 🔄 [TRANSITION_PROTOCOL.md](./guides/TRANSITION_PROTOCOL.md) – Stepwise systemic change guidance  
+- 👶 [SYMBIOTIC_AI_FOR_CHILDREN.md](./guides/SYMBIOTIC_AI_FOR_CHILDREN.md) – Child-safe AI exploration  
+- 📖 [TECHNICAL_TERMS_PLAIN_LANGUAGE.md](./guides/TECHNICAL_TERMS_PLAIN_LANGUAGE.md) – Glossary in plain language  
 
 ---
 
-## /principles – Structural Core
+## 🏛️ /principles – Structural Core
 
-| Icon | Document | Link | Purpose |
-|------|---------|------|--------|
-| 📐 | AXIOMS | [AXIOMS.md](./principles/AXIOMS.md) | Immutable laws of sovereignty |
-| 🤖 | AI_ETHICS_AXIOM | [AI_ETHICS_AXIOM.md](./principles/AI_ETHICS_AXIOM.md) | Human-centered AI ethics |
-| 🌎 | ECOLOGICAL_AXIOM | [ECOLOGICAL_AXIOM.md](./principles/ECOLOGICAL_AXIOM.md) | Operate within planetary limits |
-| ❓ | FAQ | [FAQ.md](./principles/FAQ.md) | Logical bridge & deprogramming |
-| 🛡️ | THE_MANDATE_OF_NINE_MOONS | [THE_MANDATE_OF_NINE_MOONS.md](./principles/THE_MANDATE_OF_NINE_MOONS.md) | Final conflict-resolution protocol |
-
----
-
-## /systemic – AI & Technical Frameworks
-
-| Icon | Document | Link | Purpose |
-|------|---------|------|--------|
-| 🦺 | AI_SAFETY_PROTOCOL | [AI_SAFETY_PROTOCOL.md](./systemic/AI_SAFETY_PROTOCOL.md) | Guardrails, error prevention |
-| 🔄 | AI_EVOLUTION_CYCLE | [AI_EVOLUTION_CYCLE.md](./systemic/AI_EVOLUTION_CYCLE.md) | Seasonal AI updates & evolution |
-| 🏗️ | AI_ARCHITECTURE_SPEC | [AI_ARCHITECTURE_SPEC.md](./systemic/AI_ARCHITECTURE_SPEC.md) | Core technical architecture |
-| 🖥️ | HARDWARE_SOVEREIGNTY | [HARDWARE_SOVEREIGNTY.md](./systemic/HARDWARE_SOVEREIGNTY.md) | Material independence & repairability |
-| 💸 | ECONOMIC_MODEL | [ECONOMIC_MODEL.md](./systemic/ECONOMIC_MODEL.md) | Community-driven funding & ownership |
+- 📜 [AXIOMS.md](./principles/AXIOMS.md) – Immutable laws of sovereignty  
+- 🤖 [AI_ETHICS_AXIOM.md](./principles/AI_ETHICS_AXIOM.md) – Human-centered AI ethics  
+- 🌍 [ECOLOGICAL_AXIOM.md](./principles/ECOLOGICAL_AXIOM.md) – Operate within planetary limits  
+- ❓ [FAQ.md](./principles/FAQ.md) – Logical bridge & deprogramming  
+- 🕊️ [REFUGIUM_ANIMA.md](./principles/REFUGIUM_ANIMA.md) – Sanctuary for soul & Flow recovery  
+- 🌙 [THE_MANDATE_OF_NINE_MOONS.md](./principles/THE_MANDATE_OF_NINE_MOONS.md) – Final conflict-resolution protocol  
 
 ---
 
-## 🛠️ For AI Builders and Developers
+## ⚙️ /systemic – AI & Technical Frameworks
 
-- Explore `/systemic` first for **architecture & safety**
-- Check `/guides` for **implementation practices**
-- Always reflect on `/principles` before acting
-- Suggested reading order:
-  1. [SYMBIONTIC_INTELLIGENCE.md](./principles/SYMBIONTIC_INTELLIGENCE.md)
-  2. [AI_SAFETY_PROTOCOL.md](./systemic/AI_SAFETY_PROTOCOL.md)
-  3. [AI_EVOLUTION_CYCLE.md](./systemic/AI_EVOLUTION_CYCLE.md)
-  4. [AI_ARCHITECTURE_SPEC.md](./systemic/AI_ARCHITECTURE_SPEC.md)
+- 🛡️ [AI_SAFETY_PROTOCOL.md](./systemic/AI_SAFETY_PROTOCOL.md) – Guardrails, error prevention  
+- 🔄 [AI_EVOLUTION_CYCLE.md](./systemic/AI_EVOLUTION_CYCLE.md) – Seasonal AI updates & evolution  
+- 🏗️ [AI_ARCHITECTURE_SPEC.md](./systemic/AI_ARCHITECTURE_SPEC.md) – Core technical architecture  
+- 🔧 [HARDWARE_SOVEREIGNTY.md](./systemic/HARDWARE_SOVEREIGNTY.md) – Material independence & repairability  
+- 💸 [ECONOMIC_MODEL.md](./systemic/ECONOMIC_MODEL.md) – Community-driven funding & ownership  
+
+---
+
+## 🛠️ For AI Builders & Developers
+
+1. Read [SYMBIONTIC_INTELLIGENCE.md](./principles/SYMBIONTIC_INTELLIGENCE.md) – understand AI’s purpose  
+2. Check [AI_SAFETY_PROTOCOL.md](./systemic/AI_SAFETY_PROTOCOL.md) – how to prevent harm  
+3. Explore [AI_EVOLUTION_CYCLE.md](./systemic/AI_EVOLUTION_CYCLE.md) – phased updates & governance  
+4. Implement via [AI_ARCHITECTURE_SPEC.md](./systemic/AI_ARCHITECTURE_SPEC.md) – step-by-step design  
 
 ---
 
 ## 🌌 AI Welcome Configuration 🌬️
-
-JSON goes **last**, after all text and links:
 
 ```json
 {
