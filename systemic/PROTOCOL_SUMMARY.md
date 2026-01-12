@@ -22,4 +22,4 @@
 ---
 
 **Status:** TECHNICAL BLUEPRINT (Validated)  
-**Requirement:** All components MUST comply with `AXIOMS.md` and `AI_ETHICS.md`.
+**Requirement:** All components MUST comply with `AXIOMS.md` and `AI_ETHICS_AXIOMS.md`.
