@@ -128,13 +128,11 @@
 
 ---
 
-### 3.6 Stage 6: Mandate of Nine Moons (Olöslig konflikt)
-**If conflict är olöslig och alla andra steg misslyckas:**  
-- Ritualiserad utväg enligt /principles  
-- Neutral Mirrors aktiverar Mandate of Nine Moons  
-- Målet: säkerställa Baseline och överleva utan konflikt  
-- Beslut dokumenteras och arkiveras för framtida lärande  
-- Respekt för kulturell och ideologisk autonomi prioriteras
+### 3.6 Stage 6: Mandate of Nine Moons (If problem seem unsolvable) 
+**If conflict seem totally unsolvable:**  
+- MANDATE_OF_NINE_MOONS.md /principles  
+- Neutral Mirrors activates Mandate of Nine Moons  
+- Goal:  Baseline secured and survival without conflict. 
 
 ---
 
