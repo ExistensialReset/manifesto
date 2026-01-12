@@ -12,7 +12,7 @@ Commitment: Every child deserves to grow without fear or deprivation
 
 ---
 
-§1. PHILOSOPHY
+## §1. PHILOSOPHY
 
 Flow-Pedagogy prioritizes:
 
@@ -40,7 +40,7 @@ These are non-negotiable and must never be compromised by schooling, projects, o
 
 ---
 
-§2. CHILDREN AS LEARNERS AND TEACHERS
+## §2. CHILDREN AS LEARNERS AND TEACHERS
 
 Children are both learners and teachers.
 
@@ -56,7 +56,7 @@ Peer-teaching encourages confidence, deep understanding, and collaboration.
 
 ---
 
-§3. REDUCE HOMEWORK PRESSURE
+## §3. REDUCE HOMEWORK PRESSURE
 
 Homework is a form of coercion.
 
@@ -76,7 +76,7 @@ What to say:
 
 ---
 
-§4. EVALUATE DAMAGE VS. BENEFIT
+## §4. EVALUATE DAMAGE VS. BENEFIT
 
 Ask: Is school harming my child (anxiety, depression, loss of curiosity) or is it merely suboptimal?
 
@@ -100,7 +100,7 @@ Prepare for full transition when Circle exists
 
 ---
 
-§5. CHILDREN’S AGENCY IN DECISION-MAKING
+## §5. CHILDREN’S AGENCY IN DECISION-MAKING
 
 Around age 10–12, children begin participating in decisions.
 
@@ -112,7 +112,7 @@ Flow is never isolation—social bonds remain voluntary.
 
 ---
 
-§6. SPECIAL CONSIDERATIONS
+## §6. SPECIAL CONSIDERATIONS
 
 Neurodivergent Children
 
@@ -136,7 +136,7 @@ Baseline protection is non-negotiable
 
 ---
 
-§7. FLOW-PEDAGOGY IN PRACTICE
+## §7. FLOW-PEDAGOGY IN PRACTICE
 
 Example: Peer Teaching
 
@@ -177,7 +177,7 @@ Baseline protected
 
 ---
 
-§8. OUTCOMES
+## §8. OUTCOMES
 
 Short-term: Curious, confident, collaborative, self-directed
 
@@ -189,7 +189,7 @@ Children learn to teach as well as learn, fostering agency, resilience, and mast
 
 ---
 
-§9. STARTING A FLOW-LEARNING CIRCLE
+## §9. STARTING A FLOW-LEARNING CIRCLE
 
 1. Find 3–5 families
 
@@ -215,7 +215,7 @@ Baseline remains non-negotiable
 
 ---
 
-§10. INTEGRATION WITH FLOW-PROTOCOL
+## §10. INTEGRATION WITH FLOW-PROTOCOL
 
 Baseline Protection (§1): All children’s needs secured without coercion
 
@@ -231,7 +231,7 @@ Lyceum Musaeum (§2): Children can teach, share expertise, and lead in their str
 
 ---
 
-§11. MENTOR & PARENT CHECKLIST
+## §11. MENTOR & PARENT CHECKLIST
 
 ✅ Ensure Baseline is fully secured (food, health, shelter, supervision)
 
@@ -255,7 +255,7 @@ Lyceum Musaeum (§2): Children can teach, share expertise, and lead in their str
 
 ---
 
-§12. FINAL PRINCIPLE
+## §12. FINAL PRINCIPLE
 
 Trust the child.
 Children are biologically wired to learn.
