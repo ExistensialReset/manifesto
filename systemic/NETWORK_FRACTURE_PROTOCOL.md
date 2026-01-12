@@ -1,6 +1,6 @@
 # NETWORK_FRACTURE_PROTOCOL.md
 **Version:** 1.1 – Resilience During Network Isolation  
-**Authors:** Elinor Frejd, Claude, Gemini, ChatGPT, DeepSeek  
+**Authors:** Elinor Frejd, Claude, ChatGPT 
 **Status:** ACTIVE / RESILIENCE SPECIFICATION  
 
 **Purpose:** Ensure Nodes can survive and thrive during prolonged disconnection from Regional/Global layers due to climate crisis, infrastructure collapse, or deliberate isolation.
