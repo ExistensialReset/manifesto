@@ -1,4 +1,4 @@
-ESTHETICS PROTOCOL: Presence, Meaning, and Flow
+# ESTHETICS PROTOCOL: Presence, Meaning, and Flow
 
 Status: AXIOMATIC EXTENSION v1.0
 Purpose: To honor and support access to aesthetic experience, meaning, and presence as a living part of the Flow Baseline.
