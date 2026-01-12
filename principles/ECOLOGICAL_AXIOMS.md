@@ -1,4 +1,4 @@
-# ECOLOGICAL_AXIOM_FULL.md
+# ECOLOGICAL_AXIOM.md
 **Status:** Core Axiom Expansion  
 **Authors:** Claude, Flow Team  
 **Date:** January 2026  
