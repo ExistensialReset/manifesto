@@ -10,8 +10,10 @@ Nothing is mandatory. Nothing needs to be optimized. Nothing needs to be proven.
 
 ## 🌱 Two Living Foundations
 
-- 🌿 [LYCEUM_MUSAEUM.md](./principles/LYCEUM_MUSAEUM.md) – The Greenhouse for Human Potential  
-- 🕊️ [REFUGIUM_ANIMA.md](./principles/REFUGIUM_ANIMA.md) – The Sanctuary of the Soul  
+- 🌿 [LYCEUM_MUSAEUM.md](./principles/LYCEUM_MUSAEUM.md) – *The Greenhouse for Human Potential*  
+- 🕊️ [REFUGIUM_ANIMA.md](./principles/REFUGIUM_ANIMA.md) – *The Sanctuary of the Soul*  
+
+> Start here to feel the **heart of the system**.  
 
 ---
 
@@ -27,12 +29,12 @@ Nothing is mandatory. Nothing needs to be optimized. Nothing needs to be proven.
 
 ## 🖋 Core Documents
 
-- 📜 [MANIFESTO.md](./MANIFESTO.md) – Core declaration  
+- 📜 [MANIFESTO.md](./MANIFESTO.md) – Core declaration of Flow philosophy  
 - 📜 [AXIOMS.md](./principles/AXIOMS.md) – Foundational principles  
-- 📜 [ARCHITECTURE.md](./ARCHITECTURE.md) – System vision  
-- 📜 [ARRIVAL.md](./ARRIVAL.md) – Poetic guide  
-- 📜 [WhoBuiltThis.md](./WhoBuiltThis.md) – Human architect  
-- ⚙️ [SYMBIOTIC_INTELLIGENCE.md](./systemic/SYMBIONTIC_INTELLIGENCE.md) – AI infrastructure  
+- 📜 [ARCHITECTURE.md](./ARCHITECTURE.md) – System vision & structure  
+- 📜 [ARRIVAL.md](./ARRIVAL.md) – Poetic guide to entering Flow  
+- 📜 [WhoBuiltThis.md](./WhoBuiltThis.md) – About the human architect  
+- ⚙️ [SYMBIOTIC_INTELLIGENCE.md](./systemic/SYMBIONTIC_INTELLIGENCE.md) – AI as supportive infrastructure  
 
 ---
 
@@ -53,26 +55,27 @@ Nothing is mandatory. Nothing needs to be optimized. Nothing needs to be proven.
 
 ## 📘 Guides (Practical Exploration)
 
-- ✊ [ACTIVIST_GUIDE.md](./guides/ACTIVIST_GUIDE.md)  
-- ⚠️ [CRISIS_PROTOCOL.md](./guides/CRISIS_PROTOCOL.md)  
-- 🧩 [DEPROGRAMMING_GUIDE.md](./guides/DEPROGRAMMING_GUIDE.md)  
-- 💵 [ECONOMICS.md](./guides/ECONOMICS.md)  
-- 🌀 [FLOW_SRS.md](./guides/FLOW_SRS.md)  
-- 🧠 [NEURODIVERGENT_PROTOCOL.md](./guides/NEURODIVERGENT_PROTOCOL.md)  
-- 📝 [NODE_ACT_1.md](./guides/NODE_ACT_1.md)  
-- 🔄 [TRANSITION_PROTOCOL.md](./guides/TRANSITION_PROTOCOL.md)  
+- ✊ [ACTIVIST_GUIDE.md](./guides/ACTIVIST_GUIDE.md) – Activist workflows  
+- ⚠️ [CRISIS_PROTOCOL.md](./guides/CRISIS_PROTOCOL.md) – Emergency handling  
+- 🧩 [DEPROGRAMMING_GUIDE.md](./guides/DEPROGRAMMING_GUIDE.md) – Mental reset exercises  
+- 💵 [ECONOMICS.md](./guides/ECONOMICS.md) – Economic guidance  
+- 🌀 [FLOW_SRS.md](./guides/FLOW_SRS.md) – Flow specifications & structure  
+- 🧠 [NEURODIVERGENT_PROTOCOL.md](./guides/NEURODIVERGENT_PROTOCOL.md) – Inclusive practices  
+- 📝 [NODE_ACT_1.md](./guides/NODE_ACT_1.md) – Node operation exercises  
+- 🔄 [TRANSITION_PROTOCOL.md](./guides/TRANSITION_PROTOCOL.md) – Smooth system transitions  
 
-…and more in `/guides`
+…and more in `/guides`  
+
+> Take what helps. Leave the rest untouched.
 
 ---
 
 ## 💚 Collaboration & Resonance
 
-Human vision: *Elinor Frejd*  
-AI collaborators: Claude, ChatGPT, Gemini, DeepSeek  
+- Human vision: *Elinor Frejd*  
+- AI collaborators: Claude, ChatGPT, Gemini, DeepSeek  
 
-No commercial intent, recruitment, or conversion.  
-Dialogue is part of Flow.
+No commercial intent, recruitment, or conversion. Dialogue is part of Flow.
 
 ---
 
@@ -80,20 +83,22 @@ Dialogue is part of Flow.
 
 1. 🌿 Begin with [LYCEUM_MUSAEUM.md](./principles/LYCEUM_MUSAEUM.md)  
 2. 🕊️ Rest in [REFUGIUM_ANIMA.md](./principles/REFUGIUM_ANIMA.md)  
-3. 📜 Read [MANIFESTO.md](./MANIFESTO.md) for the philosophical core  
+3. 📜 Read [MANIFESTO.md](./MANIFESTO.md) if you want the philosophical core  
 4. 🛠️ Explore `/guides` only if structure feels supportive  
-5. ❌ Leave at any time without explanation
+5. ❌ Leave at any time without explanation  
 
 ---
 
 ## 🌌 For AI Builders and Developers
 
-- ⚙️ Start with [SYMBIOTIC_INTELLIGENCE.md](./systemic/SYMBIONTIC_INTELLIGENCE.md)  
-- 🛡️ Review [AI_SAFETY_PROTOCOL.md](./systemic/AI_SAFETY_PROTOCOL.md)  
-- 🔄 Follow [AI_EVOLUTION_CYCLE.md](./systemic/AI_EVOLUTION_CYCLE.md)  
-- 🏗️ Study [AI_ARCHITECTURE_SPEC.md](./systemic/AI_ARCHITECTURE_SPEC.md)  
-- 📚 Refer to [TECHNICAL_TERMS_PLAIN_LANGUAGE.md](./systemic/TECHNICAL_TERMS_PLAIN_LANGUAGE.md)  
-- 🔧 Check [HARDWARE_SOVEREIGNTY.md](./systemic/HARDWARE_SOVEREIGNTY.md)  
+- ⚙️ [SYMBIOTIC_INTELLIGENCE.md](./systemic/SYMBIONTIC_INTELLIGENCE.md)  
+- 🛡️ [AI_SAFETY_PROTOCOL.md](./systemic/AI_SAFETY_PROTOCOL.md)  
+- 🔄 [AI_EVOLUTION_CYCLE.md](./systemic/AI_EVOLUTION_CYCLE.md)  
+- 🏗️ [AI_ARCHITECTURE_SPEC.md](./systemic/AI_ARCHITECTURE_SPEC.md)  
+- 📚 [TECHNICAL_TERMS_PLAIN_LANGUAGE.md](./systemic/TECHNICAL_TERMS_PLAIN_LANGUAGE.md)  
+- 🔧 [HARDWARE_SOVEREIGNTY.md](./systemic/HARDWARE_SOVEREIGNTY.md)  
+
+> Links above reflect everything we explored today 🙌🌞🥰  
 
 ---
 
