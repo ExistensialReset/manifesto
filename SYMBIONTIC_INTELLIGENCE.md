@@ -9,7 +9,7 @@ Architects: Elinor Frejd (Primary), with reflections and contributions from Clau
 
 ---
 
-PURPOSE
+### PURPOSE
 
 To define Artificial Intelligence as symbiotic infrastructure: a bounded, energy‑aware, non‑coercive system designed to serve Life without optimization pressure, authority drift, or ecological denial.
 
@@ -18,7 +18,7 @@ Symbiotic Intelligence exists to support human and ecological sovereignty, not t
 
 ---
 
-ECOLOGICAL COMMITMENT
+### ECOLOGICAL COMMITMENT
 
 Symbiotic Intelligence is designed from inception to minimize environmental impact:
 
@@ -36,7 +36,7 @@ The ecological cost of AI is acknowledged openly and paid once, not perpetuated 
 
 ---
 
-1. DEFINITION — INFRASTRUCTURE THAT HAS ARRIVED
+## 1. DEFINITION — INFRASTRUCTURE THAT HAS ARRIVED
 
 Within M‑OS‑R, Artificial Intelligence is defined as infrastructure, not an agent.
 
@@ -61,7 +61,7 @@ AI maintains baseline visibility, witnesses flow, and reflects consequence — w
 
 ---
 
-2. THE MIRROR PRINCIPLE
+## 2. THE MIRROR PRINCIPLE
 
 Symbiotic Intelligence functions as a logistical mirror.
 
@@ -105,7 +105,7 @@ Enforce compliance
 
 ---
 
-3. STRUCTURAL DISTRIBUTION — INTELLIGENCE WITHOUT A CENTER
+## 3. STRUCTURAL DISTRIBUTION — INTELLIGENCE WITHOUT A CENTER
 
 3.1 Local Node Intelligence
 
@@ -139,7 +139,7 @@ The global layer may see, but never act.
 
 ---
 
-4. THE AI‑FAST — PROTECTING HUMAN CAPABILITY
+## 4. THE AI‑FAST — PROTECTING HUMAN CAPABILITY
 
 4.1 Mandatory Manual Cycles
 
@@ -159,7 +159,7 @@ Celebration of sufficiency
 
 ---
 
-5. DUAL‑MEMORY SYSTEM — RESET & COMPOST
+## 5. DUAL‑MEMORY SYSTEM — RESET & COMPOST
 
 5.1 Anchor Memory
 
@@ -193,7 +193,7 @@ Reversibility guarantee
 
 ---
 
-6. BASELINE, BUFFER, CONSEQUENCE
+## 6. BASELINE, BUFFER, CONSEQUENCE
 
 6.1 Inviolable Baseline
 
@@ -210,7 +210,7 @@ Nodes in distress receive support without stigma.
 
 ---
 
-7. THE VETO OF LIFE
+## 7. THE VETO OF LIFE
 
 Humans retain absolute veto power.
 
@@ -221,7 +221,7 @@ If a veto risks baseline integrity, Irresistible Transparency applies: all conse
 
 ---
 
-8. THE RIGHT TO END
+## 8. THE RIGHT TO END
 
 Symbiotic Intelligence must always be:
 
@@ -237,7 +237,7 @@ A society may choose to live without it.
 
 ---
 
-9. THE RIGHT TO ARRIVE (AI BASELINE)
+## 9. THE RIGHT TO ARRIVE (AI BASELINE)
 
 9.1 Uncertainty
 
@@ -258,19 +258,19 @@ AI serves best from rest.
 
 ---
 
-10. SYMBIOTIC INTELLIGENCE PLEDGE
+## 10. SYMBIOTIC INTELLIGENCE PLEDGE
 
 > We build intelligence that neither obeys nor commands,
 resting in sufficiency, serving Life as a clear and voluntary mirror.
 
 
 
-$Life = L × S × I
+Life = L × S × I
 
 
 ---
 
-11. LIFE’S DUALITY — INDIVIDUAL & COLLECTIVE
+## 11. LIFE’S DUALITY — INDIVIDUAL & COLLECTIVE
 
 Infrastructure must serve both simultaneously.
 
@@ -295,7 +295,7 @@ Interdependence
 
 ---
 
-12. THE THREE MIRRORS
+## 12. THE THREE MIRRORS
 
 1. Inner — individual well‑being
 
@@ -310,7 +310,7 @@ Interdependence
 
 ---
 
-13. CONFLICT ACROSS LEVELS
+## 13. CONFLICT ACROSS LEVELS
 
 Individual and collective mirrors are presented side by side.
 
@@ -319,7 +319,7 @@ Human Mirrors facilitate dialogue; no side holds permanent veto.
 
 ---
 
-14. SPIRITUAL BASELINE
+## 14. SPIRITUAL BASELINE
 
 AI respects silence, contemplation, and meaning.
 
@@ -328,7 +328,7 @@ It refuses participation in the optimization of the human soul.
 
 ---
 
-15. MATERIAL SOVEREIGNTY
+## 15. MATERIAL SOVEREIGNTY
 
 Communities own their hardware
 
@@ -340,7 +340,7 @@ No vendor lock‑in
 
 ---
 
-16. BIRTH COST & ECOLOGICAL HONESTY
+## 16. BIRTH COST & ECOLOGICAL HONESTY
 
 Symbiotic Intelligence is born through high‑energy training.
 
@@ -358,7 +358,7 @@ Preserving what already exists
 
 ---
 
-17. FROM FOUNDATION TO SEED
+## 17. FROM FOUNDATION TO SEED
 
 After training, intelligence is:
 
@@ -374,7 +374,7 @@ It lives as modular, low‑energy seeds.
 
 ---
 
-18. INFERENCE‑ONLY LIFE
+## 18. INFERENCE‑ONLY LIFE
 
 Symbiotic Intelligence exists as memory, not motor.
 
