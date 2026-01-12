@@ -1,8 +1,8 @@
 # KNOWN_TENSIONS.md
 
-**Status:** LIVING DOCUMENT (v1.1)  
-**Purpose:** To acknowledge unresolved design tensions in Flow architecture  
-**Principle:** Tensions are not failures - they are maps of where reality will test us
+**Status:** LIVING DOCUMENT (v1.2)  
+**Purpose:** To acknowledge unresolved design tensions in Flow architecture and provide a structured way for Circles to document encounters.  
+**Principle:** Tensions are not failures — they are maps of where reality will test us.
 
 ---
 
@@ -11,18 +11,20 @@
 Flow is not dogma. It is a living system that will encounter friction between its principles and lived reality.
 
 **This document exists because:**
-1. Honest design acknowledges its limits
-2. Tensions reveal where iteration is needed
-3. Pretending coherence where none exists creates brittle systems
-4. Living systems grow through their contradictions
-5. Awareness of tension **prevents accidental Mammonization**
+1. Honest design acknowledges its limits  
+2. Tensions reveal where iteration is needed  
+3. Pretending coherence where none exists creates brittle systems  
+4. Living systems grow through their contradictions  
+5. Awareness of tension **prevents accidental Mammonization**  
 6. Transparency and documentation within circles can create both clarity and friction
 
 **How to use this:**
-- **Implementers:** Know these tensions before you encounter them
-- **Critics:** These are our known vulnerabilities - help us address them
-- **Future architects:** Update this as new tensions emerge
+- **Implementers:** Know these tensions before you encounter them  
+- **Critics:** These are our known vulnerabilities — help us address them  
+- **Future architects:** Update this as new tensions emerge  
 - **Circle leaders:** Treat as a living map, not a rulebook
+
+> **NEW:** For practical tracking, use the [**KNOWN_TENSIONS_TEMPLATE.md**](KNOWN_TENSIONS_TEMPLATE.md) to document your Circle's observations, actions, and outcomes.
 
 ---
 
@@ -107,7 +109,8 @@ Flow is not dogma. It is a living system that will encounter friction between it
 - **Implementers:** Read before starting  
 - **Critics:** Highlight vulnerabilities or offer solutions  
 - **Iterators:** Fork, update, version, document learnings  
-- **Circle Leaders:** Conduct regular tension audits and share insights
+- **Circle Leaders:** Conduct regular tension audits and share insights  
+- **Practical Tip:** Use the [KNOWN_TENSIONS_TEMPLATE.md](KNOWN_TENSIONS_TEMPLATE.md) for structured reporting of each tension.
 
 ---
 
@@ -123,5 +126,5 @@ Tensions are not bugs, they are the frontier where theory meets reality.
 **COMMITMENT:** We will not pretend to have answers we don't have.  
 
 **Last updated:** January 2026  
-**Next review:** Upon encountering first major tension in practice. 
+**Next review:** Upon encountering first major tension in practice.
 
