@@ -133,7 +133,7 @@
 **To maintain coherence:**
 - **Ritual recitation:** Regular reading of core documents (SYMBIOTIC_INTELLIGENCE.md, CULTURAL_ADAPTATION_FRAMEWORK.md)
 - **Story preservation:** Elders tell stories of pre-fracture cooperation
-- **Children's education:** Teach about the broader network, including funktionsvarierande perspectives
+- **Children's education:** Teach about the broader network, including diversifiering perspectives
 - **Hope maintenance:** Frame isolation as temporary (even if not)
 
 ### 5.3 No Forced Reunification
@@ -205,7 +205,7 @@
 ### 8.2 Children & Vulnerable Populations
 - Children born during fracture may never know networked life
 - Stories preserve memory of broader world
-- Funktionsvarierande individuals receive tailored guidance
+- Diversifie individuals receive tailored guidance
 - Frame as "different, not lesser"
 
 ### 8.3 Elder Wisdom
