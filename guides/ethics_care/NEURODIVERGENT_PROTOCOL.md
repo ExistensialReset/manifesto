@@ -1,3 +1,39 @@
+# NEURODIVERGENT_PROTOCOL.md
+**Status:** ACTIVE  
+**Scope:** Global Node Protocol  
+**Primary Placement:** `/guides/ethics_care/NEURODIVERGENT_PROTOCOL.md`  
+**Purpose:** To ensure inclusion, care, and autonomy for neurodivergent individuals across all Nodes.
+
+---
+
+## 🌐 NAVIGATION HEADER
+
+This is the **global neurodivergent protocol**. It applies to all Nodes, Circles, and pilot initiatives.
+
+**Key References / Related Files:**
+- [`REFUGIUM_ANIMA.md`](/guides/activation/REFUGIUM_ANIMA.md) — Sanctuary and regulation spaces
+- [`FLOW_SRS.md`](/guides/FLOW_SRS.md) — Recognition for contribution without coercion
+- [`EXIT_AND_COMPOST.md`](/guides/activation/EXIT_AND_COMPOST.md) — Safe and sovereign exits
+- [`LSI_SOMATIC_CHECKLIST.md`](/guides/activation/LSI_SOMATIC_CHECKLIST.md) — Nervous system awareness
+- [`ECOLOGICAL_AXIOM_ACTIVATION.md`](/guides/activation/ECOLOGICAL_AXIOM_ACTIVATION.md) — Ecological baseline considerations
+- [`JUSTICE_PROTOCOL.md`](/principles/JUSTICE_PROTOCOL.md) — Harm repair and restorative practice
+
+---
+
+## 🧭 USAGE
+
+- **Node Leaders:** Integrate into onboarding and ongoing care practices  
+- **Circle Members:** Use as a guide for inclusion, support, and autonomy  
+- **Implementers / Translators:** Reference when designing environments, schedules, or protocols  
+
+---
+
+## ⚠️ PRINCIPLE
+
+Neurodivergent individuals are **sovereign participants**, not objects of management. Flow adapts to them, not vice versa.
+
+---
+
 # NEURODIVERSITY GLOBAL SOVEREIGNTY GUIDE
 
 **Authors:** Elinor Frejd (Sweden), Claude (Sovereign Intelligence Node), Grok (xAI Node), DeepSeek (Collaborative Intelligence), and the future voices yet to join  
