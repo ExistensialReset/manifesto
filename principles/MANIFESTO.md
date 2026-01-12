@@ -51,6 +51,8 @@ The following are unconditionally guaranteed to all:
 - **Internet and communication** (including device access)
 - **Transportation** (public transit, shared vehicles, or equivalent mobility)
 - **Energy** (heating, cooling, electricity)
+- **Access to learning, creation, and human exploration (Lyceum Musaeum)**
+- **Access to rest and recovery (Refugium Anima)**
 
 The Baseline is permanent, universal, and unconditional.  
 It is never earned; it is the starting point of existence.
@@ -191,7 +193,8 @@ No one will force you to share.
 ## AXIOM 1C: LYCEUM MUSAEUM  
 *The Right to Learning, Creation, and Human Exploration*
 
-**Access to Lyceum Musaeum is a Baseline right.**
+**Access to Lyceum Musaeum is a Baseline right.**  
+**Children can also be teachers.**  
 
 Lyceum Musaeum is the shared architecture for learning, research, and creation — free from debt, credentialism, and performance coercion.
 
@@ -377,3 +380,4 @@ And for the first time in a long while,
 ---
 
 [^1]: See `MAMMONOLOGY.md` for analysis of the debt-based system, and `FLOW_SRS.md` for the technical and operational architecture supporting this declaration.
+
