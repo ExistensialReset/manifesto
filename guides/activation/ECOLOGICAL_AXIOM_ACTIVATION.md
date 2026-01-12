@@ -103,5 +103,5 @@ The Earth is the Primary Baseline. Every Node is accountable to it. By integrati
 ---
 
 **Recommended Placement:** `/guides/activation/ECOLOGICAL_AXIOM_ACTIVATION.md`  
-This file complements the core **ECOLOGICAL_AXIOM.md** in `/core/` by providing operational guidance for new Nodes in diverse contexts.
+This file complements the core **ECOLOGICAL_AXIOM.md** in `/principles/` by providing operational guidance for new Nodes in diverse contexts.
 
