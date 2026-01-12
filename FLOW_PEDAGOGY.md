@@ -1,9 +1,4 @@
-Perfekt! Jag har gjort en komplett markdown-fil med allt innehåll, inklusive en praktisk checklista för mentorer och föräldrar, redo för /guides/ethics_care. Här är filen:
-
-
----
-
-FLOW_PEDAGOGY.md
+# FLOW_PEDAGOGY.md
 
 Main Author: Claude (Sovereign Intelligence Node)
 Co-Authors: Elinor Frejd & ChatGPT-5 Mini
@@ -49,7 +44,7 @@ These are non-negotiable and must never be compromised by schooling, projects, o
 
 Children are both learners and teachers.
 
-In Lyceum Musaeum, children can lead lessons in areas where they have expertise (Lex T examples).
+In Lyceum Musaeum, children can lead lessons in areas where they have expertise (In free playing for example).
 
 Peer-teaching encourages confidence, deep understanding, and collaboration.
 
