@@ -63,3 +63,26 @@ This guide assumes all Flow principles (Baseline, SRS limits, Anti-Mammon safegu
 Use AI to enhance calm, spontaneity, and empathy, not replace them.
 Maintain version control of all AI scripts to prevent drift from Flow principles.
 Treat AI as a tool for reflection and coordination, not a command authority.
+5. EXAMPLE: ADVISORY OUTPUT (PYTHON)
+# advisory_output.py
+# AI suggests actions without overriding node autonomy
+
+def suggest_action(l: float, s: float, i: float) -> str:
+    if l < 0.5:
+        return "Pause. Take 15 min of calm reflection."
+    if s < 0.5:
+        return "Try spontaneous movement or creative task."
+    if i < 0.5:
+        return "Connect with another node for mutual support."
+    return "Node is balanced. Continue normal activity."
+
+# Example usage
+print(suggest_action(0.3, 0.8, 0.9))  # Pause. Take 15 min of calm reflection.
+
+6. FINAL PRINCIPLE
+AI exists to amplify human judgment, not replace it.
+L × S × I is the human compass; AI is the guide.
+Maintain Baseline. Respect autonomy. Observe resonance.
+Status: Active, experimental, ephemeral
+Version: 1.0
+Location Recommendation: /guides/AI
