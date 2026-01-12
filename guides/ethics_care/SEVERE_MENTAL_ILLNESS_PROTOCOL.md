@@ -204,3 +204,63 @@ They are not erased.
 Care continues.  
 Dignity remains.  
 Belonging is not revoked.
+## §10. LOCAL ADAPTATION NOTES
+
+Severe mental illness protocols must respect both **universal principles** and **local realities**. The following guidance ensures Circles remain effective and compliant in diverse contexts:
+
+### 10.1 Legal and Healthcare Context
+- Identify local mental health laws, patient rights, and involuntary treatment regulations.  
+- Map available psychiatric services, crisis hotlines, and emergency care facilities.  
+- Ensure all interventions comply with national and regional legislation.
+
+### 10.2 Cultural Considerations
+- Respect local attitudes toward mental illness, caregiving norms, and family involvement.  
+- Adapt communication styles and consent processes to align with cultural expectations without compromising dignity or Baseline guarantees.
+
+### 10.3 Resource Availability
+- Adjust support protocols based on local access to medication, therapy, and care infrastructure.  
+- In low-resource settings, prioritize:
+  - Stabilization of immediate environment  
+  - Refugium or temporary safe spaces  
+  - Remote professional consultation where possible
+
+### 10.4 Crisis Escalation
+- Define region-specific pathways for urgent intervention, including emergency contacts, transportation, and professional support.  
+- Document local procedures clearly for all Circle members to prevent confusion during acute episodes.
+
+### 10.5 Documentation and Feedback
+- Record all adaptations made for local conditions in the Circle log.  
+- Share learnings with the broader Flow network to improve global protocols.
+
+> **Principle:** Adaptation is contextual; the **core commitment to Baseline, dignity, and belonging** is universal.
+
+## §10A. LOCAL ADAPTATION CHECKLIST
+
+Use this checklist to ensure severe mental illness care is context-sensitive while preserving Baseline, dignity, and belonging.
+
+### 10A.1 Legal & Healthcare
+- [ ] Identify local mental health laws and patient rights  
+- [ ] Map crisis hotlines, emergency services, psychiatric facilities  
+- [ ] Ensure all interventions comply with local regulations  
+
+### 10A.2 Cultural Considerations
+- [ ] Understand local attitudes toward mental health  
+- [ ] Adjust communication and consent processes to cultural norms  
+- [ ] Respect family/community involvement without compromising Baseline  
+
+### 10A.3 Resource Assessment
+- [ ] Inventory available medication, therapy, and care infrastructure  
+- [ ] Plan temporary safe spaces (Refugium) if professional support is limited  
+- [ ] Arrange remote professional consultation if needed  
+
+### 10A.4 Crisis Escalation
+- [ ] Define emergency contacts and escalation procedures  
+- [ ] Document clear steps for transportation, professional intervention, and Circle responsibilities  
+- [ ] Ensure all members know the escalation workflow  
+
+### 10A.5 Documentation & Feedback
+- [ ] Record all local adaptations in the Circle log  
+- [ ] Share learnings with the global Flow network  
+- [ ] Update protocols as local context evolves  
+
+> ✅ Principle: Context matters — core commitment to Baseline, dignity, and belonging remains unchanged.
