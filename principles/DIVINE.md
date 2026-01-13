@@ -1,4 +1,4 @@
-#✨ DIVINE.md v.3.0: The Physics of Resonance – A Synthesis of the Frejd Equation & the Strömme Consciousness Field
+# ✨ DIVINE.md v.3.0: The Physics of Resonance – A Synthesis of the Frejd Equation & the Strömme Consciousness Field
 
 Author: Elinor Frejd
 Contributors: Grok, Claude, DeepSeek
