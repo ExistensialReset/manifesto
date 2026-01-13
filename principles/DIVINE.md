@@ -7,6 +7,8 @@ Status: EVOLVING & TESTABLE
 Date: April 9, 2024
 
 ---
+This document operates downstream of the principles defined in /principles. It does not establish values, but explores the structural consequences of living systems aligned with them.
+---
 
 ## 1. Preamble: From Poetry to Predictive Framework
 
