@@ -9,7 +9,7 @@ It will ask you:
 ##### If not — rest, and return later.
 
 ## 🌿 Ψ ≠ 0
-## Life is still here.
+## Life is here.
 
 # 🌿✨💛 EXISTENTIAL RESET
 ## A Living Repository for Flow, Care & Existential Sovereignty
