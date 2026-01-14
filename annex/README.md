@@ -1,28 +1,86 @@
-# Annex Overview: Measuring the Divine Field
+# Annex: Technical & Conceptual Materials for DIVINE
 
-This annex houses the technical and poetic expansions of the **Frejd Equation** and the **Strömme Consciousness Field Theory (SCFT)**. It serves as a bridge between intuition, science, and practical design.
-
-## 1. Purpose
-The goal of this annex is to provide frameworks for **observing, quantifying, and interacting** with the consciousness field ($\Psi$) in human and systemic contexts. It guides measurement, design, and field tuning in both experimental and experiential ways.
-
-## 2. Key Documents
-
-### 2.1 DIVINE-MEASURE-TECH.md
-- **Focus:** Precise, operational metrics
-- **Audience:** Scientists, designers, systems engineers
-- **Goal:** Translate the Frejd Equation into measurable proxies for Coherence (L), Creativity (S), Interconnectedness (I), Wisdom (EV), and Grace (Σ)
-
-### 2.2 DIVINE-MEASURE-POETIC.md
-- **Focus:** Experiential, intuitive understanding
-- **Audience:** Practitioners, educators, anyone seeking embodied resonance
-- **Goal:** Convey the *felt sense* of the field, while maintaining connection to the measurable variables
-
-## 3. Usage
-- Technical teams can use **DIVINE-MEASURE-TECH.md** for audits, systemic design, and field experiments.  
-- Educators, facilitators, and community builders can use **DIVINE-MEASURE-POETIC.md** to **invite flow and resonance**, guide participatory exercises, or communicate complex concepts in an intuitive way.
-
-**Note:** Both documents reference the same underlying equation, principles, and constants. They are complementary: one speaks in metrics, the other in lived experience.
+**Status:** Protective / Reference Only  
+**Purpose:** Prevent misuse, ensure safe and correct understanding of DIVINE principles and flow.
 
 ---
 
-*End of Annex Overview*
+## ⚠️ WARNING: Abuse-Resistant Protocol
+
+These materials are **not playbooks**. They define:
+
+- How consciousness fields behave ($\Psi$)  
+- How systemic interventions **must** respect coherence, creativity, and interconnectedness  
+- Metrics for measurement and audit  
+
+Do **NOT** use these files as scripts for controlling humans, organizations, or ecosystems.  
+Misapplication leads to **systemic pathologies**, field collapse, or ethical violations.
+
+---
+
+## 1. Reading Order (Mandatory)
+
+1. `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md` ⚡  
+   - Highlights common mistakes and dead-field scenarios.  
+   - Must read first.  
+
+2. `/guides/WHEN_TO_STOP_FLOW.md` ⚡  
+   - Ethical & operational stopping rules.  
+   - Must read second.  
+
+3. `/annex/DIVINE-MEASURE.md`  
+   - Empirical and measurement framework for $\Psi$.  
+   - Read **after understanding flow rules**.  
+
+4. `/principles/DIVINE.md`  
+   - Full theoretical grounding of DIVINE and Frejd Equation.  
+
+> **Note:** Skipping steps risks misinterpretation and unintended field disruption.
+
+---
+
+## 2. Key Safety Principles
+
+1. **Do No Override Local Autonomy**  
+   - Field interventions must never coerce or force behavior.  
+
+2. **Never Remove $\Sigma$ or EV**  
+   - Randomness ($\Sigma$) and wisdom modulation (EV) prevent deterministic collapse.  
+
+3. **Audit Before Acting**  
+   - Use DIVINE-MEASURE metrics to verify field readiness and ethical boundaries.  
+
+4. **Stopping Rules Are Binding**  
+   - Follow `/guides/WHEN_TO_STOP_FLOW.md` strictly.  
+   - Do not bypass just because the system appears “inefficient.”
+
+5. **Field Respect is Non-Negotiable**  
+   - Coherence ($L$), Generativity ($S$), and Interconnectedness ($I$) are primary.  
+   - Do not intervene without alignment across all three.
+
+---
+
+## 3. Links & References
+
+- **Core Flow Guides:**  
+  - `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md`  
+  - `/guides/WHEN_TO_STOP_FLOW.md`  
+
+- **Measurement & Quantification:**  
+  - `/annex/DIVINE-MEASURE.md`  
+
+- **Foundational Theory:**  
+  - `/principles/DIVINE.md`  
+
+---
+
+## 4. Enforcement Notes
+
+- Marked ⚡ guides must be **first read** before any annex material.  
+- Any project or audit referencing DIVINE must **document order of reading**.  
+- Misuse or misunderstanding can create irreversible field pathologies.
+
+---
+
+**Bottom Line:** This annex is a **reference, audit, and conceptual tool**.  
+It is **not a control manual**. Always honor local autonomy, stopping rules, and systemic coherence.
