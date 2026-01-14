@@ -53,7 +53,7 @@ Observing your Ψ allows you to:
 - Body scan: tension, breath, temperature  
 - Sleep and energy patterns  
 
-**S (Structure):**
+**S (Spontaneity):**
 - Review your routines  
 - Identify novel vs repetitive activities  
 - Note micro-creativity moments  
