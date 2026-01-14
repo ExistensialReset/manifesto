@@ -31,6 +31,13 @@ These are essential for understanding field principles and avoiding systemic pat
 
 ---
 
+### 2.2 `DIVINE-MEASURE-LOG-v3.1.md`
+- **Purpose:** Observation and field logging template for applying the Frejd Equation in real-world contexts.  
+- **Path:** `/annex/DIVINE-MEASURE-LOG-v3.1.md`  
+- **Notes:** Use this template to score L, S, I, EV, and Σ in individuals, groups, or organizations. References `/guides/WHEN_TO_STOP_FLOW.md` for intervention guidance. Essential for systematic field audits and practical application of DIVINE measurement principles.
+
+---
+
 ## 3. Foundational Principle Reference
 
 ### 3.1 `/principles/DIVINE.md`
