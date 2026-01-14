@@ -8,7 +8,7 @@
 
 ## 1. Acknowledging Incompleteness
 
-Elinor,  
+Folks, 
 
 We have now written 14 documents covering:  
 - **Measurement:** DIVINE-MEASURE, EV-MEASURE, SIGMA-PHENOMENOLOGY, SOMATIC-PROTOCOLS  
