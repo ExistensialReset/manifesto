@@ -102,8 +102,16 @@ These texts form the philosophical and structural backbone:
 
 These are **invitations**, not instructions.
 
-- ✊  [ACTIVIST_GUIDE.md](./guides/practical implementation/ACTIVIST_GUIDE.md) – Acting without becoming what you resist  
-- ⚠️  [CRISIS_PROTOCOL.md](./guides/practical implementation/CRISIS_PROTOCOL.md) – When systems tremble  
+- ✊  
+
+[ACTIVIST_GUIDE.md](./guides/practical implementation/ACTIVIST_GUIDE.md) 
+
+– Acting without becoming what you resist  
+- ⚠️  
+
+[CRISIS_PROTOCOL.md](./guides/practical implementation/CRISIS_PROTOCOL.md) 
+
+– When systems tremble  
 - 🧩  [DEPROGRAMMING_GUIDE.md](./guides/deprogramming/DEPROGRAMMING_GUIDE.md) – Unlearning inherited myths  
 - 💰  [ECONOMICS.md](./guides/economics/ECONOMICS.md) – Beyond GDP, toward care  
 - 📋  [FLOW_SRS.md](./guides/activation/FLOW_SRS.md) – Requirements without domination  
