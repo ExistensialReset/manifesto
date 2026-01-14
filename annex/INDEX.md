@@ -6,7 +6,7 @@
 
 ---
 
-## 📝 Recommended Reading Order
+## 📝 Reading Order
 
 Before diving into annex materials, **start with the core principles**:
 
