@@ -224,5 +224,5 @@ DIVINE is **not therapy**. Seek professional help if:
 ---
 
 **End of PSI-COLLAPSE-RECOVERY.md**  
-**Ψ ≠ 0**  
-**✨ Stay alive. Stay curious. Stay gentle. ✨**
+# **Ψ ≠ 0**  
+# **✨ Stay alive. Stay curious. Stay gentle. ✨**
