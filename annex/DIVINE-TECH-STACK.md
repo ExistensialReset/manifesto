@@ -250,7 +250,7 @@ const consent = {
 
 ---
 
-## 9. ⚠️ Technologies to Never Use ⛔
+## 9. ⚠️‼️⚠️ Technologies to Never Use ⛔
 
 - Facial recognition
 
