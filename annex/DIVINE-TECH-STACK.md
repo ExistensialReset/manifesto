@@ -95,14 +95,14 @@ Aggregated data must never be reversible to individuals.
 - Noise injection
 
 
-If disaggregation is possible, aggregation is invalid.
+#### If disaggregation is possible, aggregation is invalid.
 
 
 ---
 
 ## Principle 4: No Dark Patterns
 
-#### Forbidden
+#### Forbidden ⛔
 
 - Pre-checked consent boxes
 
