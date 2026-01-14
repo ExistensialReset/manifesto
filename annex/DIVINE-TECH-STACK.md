@@ -113,7 +113,7 @@ Aggregated data must never be reversible to individuals.
 - Default opt-in
 
 
-#### Required
+#### Required ✅
 
 - Explicit, time-limited consent
 
