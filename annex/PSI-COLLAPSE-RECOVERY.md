@@ -200,4 +200,4 @@ Seek help if:
 
 **End of PSI-COLLAPSE-RECOVERY.md**  
 
-# ✨ Ψ ≠ 0 ✨
+### ✨ Ψ ≠ 0 ✨
