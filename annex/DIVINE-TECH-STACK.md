@@ -323,6 +323,6 @@ const consent = {
 Transparent · Deletable · Participant-owned · Privacy-first
 
 #### ⚠️ If technology makes anyone feel watched instead of held —
-turn it off. ⚠️
+turn it immediately off. ⚠️
 
 
