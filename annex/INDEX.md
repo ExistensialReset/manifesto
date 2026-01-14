@@ -90,7 +90,7 @@ Before diving into annex materials, **start with the core principles**:
 
 ---
 
-Legend:
+### Legend:
 Arrows indicate recommended reading order.
 - Annex documents build on /principles and /guides.
 - FLOW-PROTOCOLS.md integrates pedagogy, somatics, tech, legal, and research guidance.
@@ -107,19 +107,19 @@ Always connect observations to context, human experience, and consent.
 
 ---
 
-💡 Tips for Accessibility & Use
-- Read slowly; absorb concepts before jumping to exercises.
-- Use multi-modal engagement: write, move, discuss, reflect.
-- Pair documents: pedagogy + somatics, tech + legal, research + observation.
-- Encourage discussion instead of certification or ranking.
-- Keep FLOW-PROTOCOLS.md as your field companion, last in the reading order.
+### 💡 Tips for Accessibility & Use
+1. Read slowly; absorb concepts before jumping to exercises.
+2. Use multi-modal engagement: write, move, discuss, reflect.
+3. Pair documents: pedagogy + somatics, tech + legal, research + observation.
+4. Encourage discussion instead of certification or ranking.
+5. Keep FLOW-PROTOCOLS.md as your field companion, last in the reading order.
 
-✅ Summary
+### ✅ Summary
 This annex index is designed to:
-Provide complete orientation to DIVINE annex materials.
-Maintain ethical clarity across pedagogy, somatics, tech, and research.
-Serve as a practical map for learning, teaching, and observing without metrics or KPIs.
-Keep FLOW-PROTOCOLS.md as the final, actionable document, synthesizing all previous guidance.
+- Provide complete orientation to DIVINE annex materials.
+- Maintain ethical clarity across pedagogy, somatics, tech, and research.
+- Serve as a practical map for learning, teaching, and observing without metrics or KPIs.
+- Keep FLOW-PROTOCOLS.md as the final, actionable document, synthesizing all previous guidance.
 
 ---
 
