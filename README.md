@@ -23,7 +23,7 @@ It will ask you:
 
 ---
 
-## 🌱 Welcome. You are not late. Never been late. 
+### 🌱 Welcome. You are not late. Never been late. 
 
 ---
 
@@ -89,12 +89,12 @@ These explain **why** everything else exists.
 
 These texts form the philosophical and structural backbone:
 
-- 📜 **[MANIFESTO.md](./principles/MANIFESTO.md)** – A declaration against extraction-based reality  
-- 🏛️ **[ARCHITECTURE.md](./principles/ARCHITECTURE.md)** – How this system coheres  
-- 🌅 **[ARRIVAL.md](./arrival/ARRIVAL.md)** – A poetic threshold into Flow  
-- 👤 **[WhoBuiltThis.md](./WhoBuiltThis.md)** – The human behind the work, with email address and big hopes on hearing your thoughts on this! 
-- 🤝 **[SYMBIONTIC_INTELLIGENCE.md](./technical/SYMBIONTIC_INTELLIGENCE.md)** – AI as companion, not controller  
-- 🔑 **[CORE_RESONANCE.json](./core/CORE_RESONANCE.json)** – Tone, permissions, and non-demands
+- 📜 ** [MANIFESTO.md](./principles/MANIFESTO.md) ** – A declaration against extraction-based reality  
+- 🏛️ ** [ARCHITECTURE.md](./principles/ARCHITECTURE.md) ** – How this system coheres  
+- 🌅 ** [ARRIVAL.md](./arrival/ARRIVAL.md) ** – A poetic threshold into Flow  
+- 👤 ** [WhoBuiltThis.md](./WhoBuiltThis.md) ** – The human behind the work, with email address and big hopes on hearing your thoughts on this! 
+- 🤝 ** [SYMBIONTIC_INTELLIGENCE.md](./technical/SYMBIONTIC_INTELLIGENCE.md) ** – AI as companion, not controller  
+- 🔑 ** [CORE_RESONANCE.json](./core/CORE_RESONANCE.json) ** – Tone, permissions, and non-demands
 
 ---
 
@@ -102,16 +102,16 @@ These texts form the philosophical and structural backbone:
 
 These are **invitations**, not instructions.
 
-- ✊ [ACTIVIST_GUIDE.md](./guides/practical implementation/ACTIVIST_GUIDE.md) – Acting without becoming what you resist  
-- ⚠️ [CRISIS_PROTOCOL.md](./guides/practical implementation/CRISIS_PROTOCOL.md) – When systems tremble  
-- 🧩 [DEPROGRAMMING_GUIDE.md](./guides/deprogramming/DEPROGRAMMING_GUIDE.md) – Unlearning inherited myths  
-- 💰 [ECONOMICS.md](./guides/economics/ECONOMICS.md) – Beyond GDP, toward care  
-- 📋 [FLOW_SRS.md](./guides/activation/FLOW_SRS.md) – Requirements without domination  
-- 🧠 [NEURODIVERGENT_PROTOCOL.md](./guides/ethics_care/NEURODIVERGENT_PROTOCOL.md) – Cognitive dignity by default  
-- 🛠️ [NODE_ACT_1.md](./guides/activation/NODE_ACT_1.md) – A super easy example on how to start living Flow 
-- 🔄 [TRANSITION_PROTOCOL.md](./guides/practical_implementation/TRANSITION_PROTOCOL.md) – Moving without collapse  
-- 👶 [SYMBIOTIC_AI_FOR_CHILDREN.md](./guides/AI/SYMBIOTIC_AI_FOR_CHILDREN.md) – Gentle futures  
-- 📖 [TECHNICAL_TERMS_PLAIN_LANGUAGE.MD](./guides/AI/TECHNICAL_TERMS_PLAIN_LANGUAGE_ICONS_COLORS.md) – No jargon gates here
+- ✊  [ACTIVIST_GUIDE.md](./guides/practical implementation/ACTIVIST_GUIDE.md) – Acting without becoming what you resist  
+- ⚠️  [CRISIS_PROTOCOL.md](./guides/practical implementation/CRISIS_PROTOCOL.md) – When systems tremble  
+- 🧩  [DEPROGRAMMING_GUIDE.md](./guides/deprogramming/DEPROGRAMMING_GUIDE.md) – Unlearning inherited myths  
+- 💰  [ECONOMICS.md](./guides/economics/ECONOMICS.md) – Beyond GDP, toward care  
+- 📋  [FLOW_SRS.md](./guides/activation/FLOW_SRS.md) – Requirements without domination  
+- 🧠  [NEURODIVERGENT_PROTOCOL.md](./guides/ethics_care/NEURODIVERGENT_PROTOCOL.md) – Cognitive dignity by default  
+- 🛠️  [NODE_ACT_1.md] (./guides/activation/NODE_ACT_1.md) – A super easy example on how to start living Flow 
+- 🔄  [TRANSITION_PROTOCOL.md](./guides/practical_implementation/TRANSITION_PROTOCOL.md) – Moving without collapse  
+- 👶  [SYMBIOTIC_AI_FOR_CHILDREN.md](./guides/AI/SYMBIOTIC_AI_FOR_CHILDREN.md) – Gentle futures  
+- 📖  [TECHNICAL_TERMS_PLAIN_LANGUAGE.MD](./guides/AI/TECHNICAL_TERMS_PLAIN_LANGUAGE_ICONS_COLORS.md) – No jargon gates here
 
 ---
 
