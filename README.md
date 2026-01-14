@@ -23,7 +23,7 @@ It will ask you:
 
 ---
 
-## 🌱 Welcome. You are not late.
+## 🌱 Welcome. You are not late. If feeling tired, pause and come back when you want to. 
 
 This repository is **not a product**.  
 It is **not a framework for optimization**.  
