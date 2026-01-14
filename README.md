@@ -103,9 +103,7 @@ These texts form the philosophical and structural backbone:
 These are **invitations**, not instructions.
 
 ✊
-
 [ACTIVIST_GUIDE.md](./guides/practical_implementation/ACTIVIST_GUIDE.md) 
-
 Acting without becoming what you resist  
 
 ⚠️
@@ -114,23 +112,30 @@ When systems tremble
 
 🧩  [DEPROGRAMMING_GUIDE.md](./guides/deprogramming/DEPROGRAMMING_GUIDE.md) 
 Unlearning inherited myths  
+
 💰  
 [ECONOMICS.md](./guides/economics/ECONOMICS.md) 
 Beyond GDP, toward care  
+
 📋  
 [FLOW_SRS.md](./guides/activation/FLOW_SRS.md) 
 Requirements without domination  
+
 🧠  
 [NEURODIVERGENT_PROTOCOL.md](./guides/ethics_care/NEURODIVERGENT_PROTOCOL.md)
 Cognitive dignity by default  
+
 🛠️  
 [NODE_ACT_1.md](./guides/activation/NODE_ACT_1.md)
 A super easy example on how to start living Flow 
+
 🔄  [TRANSITION_PROTOCOL.md](./guides/practical_implementation/TRANSITION_PROTOCOL.md)
 Moving without collapse  
+
 👶  
 [SYMBIOTIC_AI_FOR_CHILDREN.md](./guides/AI/SYMBIOTIC_AI_FOR_CHILDREN.md)
 Gentle futures  
+
 📖 
 [TECHNICAL_TERMS_PLAIN_LANGUAGE.MD](./guides/AI/TECHNICAL_TERMS_PLAIN_LANGUAGE_ICONS_COLORS.md)
 No jargon gates here
