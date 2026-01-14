@@ -320,9 +320,11 @@ const consent = {
 
 ### Technology for DIVINE must be:
 
-Transparent · Deletable · Participant-owned · Privacy-first
+- Transparent  
+- Deletable  
+- Participant-owned  -  Privacy-first
 
 #### ⚠️ If technology makes anyone feel watched instead of held —
-turn it immediately off. ⚠️
+turn it immediately off. ‼️⚠️
 
 
