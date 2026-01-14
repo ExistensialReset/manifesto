@@ -1,18 +1,18 @@
 # 📦 Annex Index – DIVINE Framework
 
-> This document provides a complete map of the annex files in `/annex`.  
-> It shows reading order, connections to `/principles` and `/guides`, and highlights practical tools for exploration.  
-> **No KPIs, no performance metrics – only learning, reflection, and field awareness.**
+> Complete roadmap of all annex materials in `/annex`.  
+> Shows reading order, connections to `/principles` and `/guides`, and highlights practical tools for ethical exploration.  
+> **No KPIs, no dashboards, no gamification – only reflection, awareness, and field integrity.**
 
 ---
 
 ## 📝 Reading Order
 
-Before diving into annex materials, **start with the core principles**:
+Before diving into annex materials, **start with the core principles and guides**:
 
-1. **`/principles/DIVINE.md`** – Understand the foundational framework of DIVINE.  
-2. `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md` – Learn pitfalls to avoid.  
-3. `/guides/WHEN_TO_STOP_FLOW.md` – Understand ethical and practical limits.  
+1. **`/principles/DIVINE.md`** – Foundational framework of DIVINE.  
+2. **`/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md`** – Learn pitfalls to avoid.  
+3. **`/guides/WHEN_TO_STOP_FLOW.md`** – Understand ethical and practical limits.  
 
 > These three set the context for everything in the annex.
 
@@ -27,8 +27,7 @@ Before diving into annex materials, **start with the core principles**:
   - Teach through negative space (blockages)  
   - Inoculate against dogma  
   - Multi-modal learning (somatic, narrative, analytical, artistic, relational)  
-- **Recommended for:** Anyone facilitating or learning DIVINE in groups.  
-- **Connected files:** `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md`, `/guides/WHEN_TO_STOP_FLOW.md`
+- **Connected guides:** `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md`, `/guides/WHEN_TO_STOP_FLOW.md`
 
 ---
 
@@ -51,7 +50,7 @@ Before diving into annex materials, **start with the core principles**:
   - No individual tracking, no cloud by default  
   - Recommended stack: Svelte, Tailwind, Dexie.js, Web Crypto API  
 - **Anti-features:** No analytics, no AI-assisted predictions, no KPI tracking  
-- **Connected files:** `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md`
+- **Connected guides:** `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md`
 
 ---
 
@@ -74,54 +73,47 @@ Before diving into annex materials, **start with the core principles**:
   - Longitudinal tracking  
   - Cross-cultural calibration  
   - Σ-event mapping  
-- **Connection:** Always reference `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md` and `/guides/WHEN_TO_STOP_FLOW.md` for ethical study design
+- **Connected guides:** `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md`, `/guides/WHEN_TO_STOP_FLOW.md`
 
 ---
 
 ### 6️⃣ `FLOW-PROTOCOLS.md` – Flow Observation Protocols (Practical)
-- **Purpose:** The actual **step-by-step observation tools** for fieldwork.  
+- **Purpose:** Step-by-step observation tools for fieldwork.  
 - **Key Themes:**  
   - Session setup  
   - Observation checklists for L, S, I  
   - Somatic, relational, and narrative cues  
   - Documentation templates  
   - Ethical opt-out and trauma-informed reminders  
-- **Placement:** **Last in annex index**, as it synthesizes all other documents into actionable practice.
+- **Placement:** **Last in annex index**, synthesizes all other documents into actionable practice.
 
 ---
 
-### Legend:
-Arrows indicate recommended reading order.
-- Annex documents build on /principles and /guides.
-- FLOW-PROTOCOLS.md integrates pedagogy, somatics, tech, legal, and research guidance.
+## ⚡ Ethics & Anti-KPI Reminder
 
----
+- No KPIs, dashboards, gamification, or productivity metrics.  
+- Focus on **reflection, ethical practice, and human-centered awareness**.  
+- Observations always connect to **context, consent, and lived experience**.
 
-# ⚠️ Ethics & Anti-KPI Reminder
-DIVINE is NOT a performance metric.
-Do not create KPIs, dashboards, or gamification from these protocols.
+## 💡 Tips for Accessibility & Use
 
-The goal is reflection, awareness, and ethical practice, not productivity tracking.
+1. Read **slowly**, absorb before acting.  
+2. Engage **multi-modally**: write, move, discuss, reflect.  
+3. Pair documents: pedagogy + somatics, tech + legal, research + observation.  
+4. Use FLOW-PROTOCOLS.md as **field companion**, last in reading order.  
+5. Encourage **discussion**, not certification, ranking, or KPIs.
 
-Always connect observations to context, human experience, and consent.
+## ✅ Summary
 
----
+This index ensures:
 
-### 💡 Tips for Accessibility & Use
-1. Read slowly; absorb concepts before jumping to exercises.
-2. Use multi-modal engagement: write, move, discuss, reflect.
-3. Pair documents: pedagogy + somatics, tech + legal, research + observation.
-4. Encourage discussion instead of certification or ranking.
-5. Keep FLOW-PROTOCOLS.md as your field companion, last in the reading order.
+- Safe orientation to all annex materials.  
+- Ethical clarity across pedagogy, somatics, tech, legal, and research.  
+- Preservation of systemic coherence and field integrity.  
+- FLOW-PROTOCOLS.md remains the **culminating, actionable document**.
 
----
-
-### ✅ Summary
-This annex index is designed to:
-- Provide complete orientation to DIVINE annex materials.
-- Maintain ethical clarity across pedagogy, somatics, tech, and research.
-- Serve as a practical map for learning, teaching, and observing without metrics or KPIs.
-- Keep FLOW-PROTOCOLS.md as the final, actionable document, synthesizing all previous guidance.
+> **Bottom line:** Annex materials are **reference, audit, and ethical tools**.  
+> They are **not control manuals**. Honor stopping rules, local autonomy, and systemic coherence.
 
 ---
 
@@ -145,5 +137,4 @@ This annex index is designed to:
 3️⃣ DIVINE-TECH-STACK.md
 4️⃣ LEGAL-ETHICAL-FRAMEWORKS.md
 5️⃣ RESEARCH-METHODOLOGY.md
-6️⃣ FLOW-PROTOCOLS.md  ← Practical implementation 
-
+6️⃣ FLOW-PROTOCOLS.md  ← Practical implementation
