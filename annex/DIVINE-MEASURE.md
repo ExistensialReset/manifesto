@@ -1,7 +1,7 @@
 # DIVINE-MEASURE.md
 
 **Version:** 3.0 – Field Measurement & Quantification  
-**Authors:** Elinor Frejd & Gemini (Manifesto Protocol)  
+**Authors:** Elinor Frejd & Gemini & ChatGPT (Manifesto Protocol)  
 **Scientific Substrate:** Strömme Consciousness Field Theory (SCFT)  
 **Status:** EVOLVING & TESTABLE  
 **Path:** `/annex/DIVINE-MEASURE.md`
