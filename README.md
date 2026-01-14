@@ -5,8 +5,8 @@ It will ask you:
 - Can you feel before acting?
 - Can you stop when stopping is needed?
 
-### If yes — welcome.
-### If not — rest, and return later.
+##### If yes — welcome.
+##### If not — rest, and return later.
 
 # 🌿 Ψ ≠ 0
 # Life is still here.
