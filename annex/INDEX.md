@@ -22,9 +22,9 @@ These are essential for understanding field principles and avoiding systemic pat
 
 ## 2. Measurement & Quantification
 
-### 2.1 `DIVINE-MEASURE-2026-V3.1.md`
+### 2.1 `DIVINE-MEASURE.md`
 - **Purpose:** Translates the Frejd Equation into measurable proxies for $L$, $S$, $I$, $EV$, and $\Sigma$.  
-- **Path:** `/annex/DIVINE-MEASURE-2026-V3.1.md`  
+- **Path:** `/annex/DIVINE-MEASURE.md`  
 - **Notes:** Essential for systemic audits, field tuning, and empirical testing of DIVINE principles.  
 
 ---
