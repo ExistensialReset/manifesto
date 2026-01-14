@@ -65,7 +65,7 @@ Think of it as:
 - Cook one meal slightly differently 🍳  
 
 **Journaling Prompt:**  
-> “If I were not dead inside, what would I want to do?”  
+> “If I were even more alive inside, what would I want to do?”  
 > Write freely. Delete if you want. Just get it out. 📝  
 
 ---
