@@ -161,7 +161,7 @@ Aggregated data must never be reversible to individuals.
 
 ## 5. Stop Conditions
 
-Immediately halt deployment if:
+#### Immediately halt deployment if:
 
 - Participants ask: “What happens if I don’t participate?”
 
@@ -227,7 +227,7 @@ Participant → Local Device → Aggregation (optional) → Research
 
 ## 8. Anti-Surveillance Features
 
-Consent Expiry (Conceptual)
+### Consent Expiry (Conceptual)
 
 const consent = {
   granted: true,
@@ -250,7 +250,7 @@ const consent = {
 
 ---
 
-## 9. ⚠️ Technologies to Never Use
+## 9. ⚠️ Technologies to Never Use ⛔
 
 - Facial recognition
 
