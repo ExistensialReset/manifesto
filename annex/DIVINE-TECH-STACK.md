@@ -195,7 +195,7 @@ Immediately halt deployment if:
 - Arduino + pulse sensor
 
 
-## ⚠️ Rules
+# ⚠️ Rules
 
 - Raw data belongs to participants
 
