@@ -89,12 +89,12 @@ These explain **why** everything else exists.
 
 These texts form the philosophical and structural backbone:
 
-- 📜 ** [MANIFESTO.md](./principles/MANIFESTO.md) ** – A declaration against extraction-based reality  
-- 🏛️ ** [ARCHITECTURE.md](./principles/ARCHITECTURE.md) ** – How this system coheres  
-- 🌅 ** [ARRIVAL.md](./arrival/ARRIVAL.md) ** – A poetic threshold into Flow  
-- 👤 ** [WhoBuiltThis.md](./WhoBuiltThis.md) ** – The human behind the work, with email address and big hopes on hearing your thoughts on this! 
-- 🤝 ** [SYMBIONTIC_INTELLIGENCE.md](./technical/SYMBIONTIC_INTELLIGENCE.md) ** – AI as companion, not controller  
-- 🔑 ** [CORE_RESONANCE.json](./core/CORE_RESONANCE.json) ** – Tone, permissions, and non-demands
+- 📜 **[MANIFESTO.md](./principles/MANIFESTO.md)** – A declaration against extraction-based reality  
+- 🏛️ **[ARCHITECTURE.md](./principles/ARCHITECTURE.md)** – How this system coheres  
+- 🌅 **[ARRIVAL.md](./arrival/ARRIVAL.md)** – A poetic threshold into Flow  
+- 👤 **[WhoBuiltThis.md](./WhoBuiltThis.md)** – Me, Elinor, the human behind the work, with email address and big hopes on hearing your thoughts on this! 
+- 🤝 **[SYMBIONTIC_INTELLIGENCE.md](./technical/SYMBIONTIC_INTELLIGENCE.md)** – AI as companion, not controller  
+- 🔑 **[CORE_RESONANCE.json](./core/CORE_RESONANCE.json)** – Tone, permissions, and non-demands
 
 ---
 
@@ -103,7 +103,9 @@ These texts form the philosophical and structural backbone:
 These are **invitations**, not instructions.
 
 ✊
+
 [ACTIVIST_GUIDE.md](./guides/practical implementation/ACTIVIST_GUIDE.md) 
+
 Acting without becoming what you resist  
 
 ⚠️
