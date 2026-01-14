@@ -58,13 +58,13 @@ All sensitive data remains on the local device whenever possible.
 #### Rule
 Every data object must expire automatically.
 
-#### Default lifetimes
+- #### Default lifetimes
 
-#### Observation logs: 90 days
+- #### Observation logs: 90 days
 
-#### Aggregated patterns: 6 months
+- #### Aggregated patterns: 6 months
 
-#### No permanent archives
+- #### No permanent archives
 
 
 ### Example (conceptual)
