@@ -6,17 +6,17 @@
 ---
 
 ## Table of Contents
-1. Introduction
-2. Core Principles
-3. Week 1-2: Stabilization Phase
-4. Week 3-4: Gentle Self-Reintroduction
-5. Week 4-6: Rebuilding Relational Connection
-6. Month 2-3: Existential Value Reorientation
-7. Month 3-6: Sigma (Σ) Return
-8. Long-Term Ψ Maintenance
-9. Professional Support
-10. Survivor Wisdom
-11. Final Reflections
+#### 1. Introduction
+#### 2. Core Principles
+#### 3. Week 1-2: Stabilization Phase
+#### 4. Week 3-4: Gentle Self-Reintroduction
+#### 5. Week 4-6: Rebuilding Relational Connection
+#### 6. Month 2-3: Existential Value Reorientation
+#### 7. Month 3-6: Sigma (Σ) Return
+#### 8. Long-Term Ψ Maintenance
+#### 9. Professional Support
+#### 10. Survivor Wisdom
+#### 11. Final Reflections
 
 ---
 
