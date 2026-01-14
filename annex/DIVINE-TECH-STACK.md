@@ -316,7 +316,7 @@ const consent = {
 
 ---
 
-## 13. Conclusion
+# 13. Conclusion
 
 ### Technology for DIVINE must be:
 
