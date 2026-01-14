@@ -14,8 +14,8 @@ It’s **not** a religion, a therapy, or a score to chase—it’s a **compass f
 
 Think of it as:  
 - **L**: Physical vitality & somatic presence 🫀  
-- **S**: Social/emotional resonance 🤝  
-- **I**: Intellectual curiosity & flow 🧠  
+- **I**: Social/emotional resonance 🤝  
+- **S**: Intellectual curiosity & flow 🧠  
 - **EV**: Existential value alignment 🌌  
 - **Σ**: Grace & spontaneous wonder ✨  
 
