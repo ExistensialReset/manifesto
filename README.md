@@ -1,7 +1,7 @@
 # 🌍 First Notion: 
 This repository will not tell you what to do.
 It will ask you:
-- Is it okay for you slow down?
+- Is it okay for you to slow down?
 - Do you feel before acting?
 - Can you stop when stopping is needed?
 
