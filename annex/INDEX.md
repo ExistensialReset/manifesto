@@ -1,6 +1,6 @@
 # 📂 Annex Index – DIVINE & Consciousness Field Framework
 
-This index organizes all **technical and conceptual annex materials** for DIVINE and the Strömme Consciousness Field framework. It includes core field guides, measurement protocols, and supportive references to ensure proper understanding and safe application of flow principles.
+This index organizes all **technical and conceptual annex materials** for DIVINE and the Strömme Consciousness Field framework. It includes core flow guides, measurement protocols, practical scenarios, and supportive references to ensure proper understanding and safe application of field principles.
 
 ---
 
@@ -15,13 +15,13 @@ These guides lay the foundation for safe and effective implementation.
 - **Notes:** Reading this first ensures awareness of **pathologies and dead field scenarios**.
 
 ### 1.2 `/guides/WHEN_TO_STOP_FLOW.md` ⚡
-- **Purpose:** Defines **ethical and systemic stopping rules** for interventions to preserve coherence, creativity, and interconnectedness.  
+- **Purpose:** Defines **ethical and systemic stopping rules** for interventions to preserve coherence, spontaneity, and interconnectedness.  
 - **Path:** `/guides/WHEN_TO_STOP_FLOW.md`  
 - **Notes:** Critical for safe flow implementation; ignoring stopping rules risks **over-intervention and field fragmentation**.
 
 ---
 
-## 2. 📊 Measurement & Quantification
+## 2. 📊 Measurement & Practical Scenarios
 
 ### 2.1 `/annex/DIVINE-MEASURE.md`
 - **Purpose:** Translates the **Frejd Equation** into measurable proxies for **L (Calm), S (Spontaneity), I (Interconnectedness), EV (Wisdom), and Σ (Spjuver/Grace)**.  
@@ -29,9 +29,17 @@ These guides lay the foundation for safe and effective implementation.
 - **Notes:** Essential for **systemic audits, field tuning, and empirical testing** of DIVINE principles.
 
 ### 2.2 `/annex/DIVINE-MEASURE-LOG_TEMPLATE.md`
-- **Purpose:** Standardized observation template for field audits. Enables structured data capture of **baseline, core variables, modulators, anomalies, and final $\Psi$ calculation**.  
+- **Purpose:** Standardized observation template for field audits. Captures **baseline, core variables, modulators, anomalies, and draft $\Psi$ calculation**.  
 - **Path:** `/annex/DIVINE-MEASURE-LOG_TEMPLATE.md`  
 - **Notes:** Designed to pair with `/annex/DIVINE-MEASURE.md` for operational use.
+
+### 2.3 `/annex/THREE_PILLARS_FIELD_AUDIT_SCENARIO.md` ⚡
+- **Purpose:** Hypothetical, fully inclusive field audit scenario using the **Three Pillars**:  
+  1. Contextual Calibration Protocol  
+  2. Ethical Decision Matrix for Low Ψ  
+  3. Psychological Protection Protocol  
+- **Path:** `/annex/THREE_PILLARS_FIELD_AUDIT_SCENARIO.md`  
+- **Notes:** Demonstrates practical application of measurement, ethical decision-making, and post-observation care. Essential reading for all observers before implementing audits.
 
 ---
 
@@ -53,7 +61,7 @@ These are **not annex materials themselves** but are highly relevant for underst
 
 **Usage Notes:**  
 1. Start with **Core Flow Guides** (⚡).  
-2. Reference **Measurement & Quantification** for auditing and evaluation.  
+2. Reference **Measurement & Practical Scenarios** for auditing and evaluation.  
 3. Review `/principles/DIVINE.md` for foundational context.  
 4. Use supportive guides as needed for **deeper operational understanding**.
 
@@ -64,11 +72,11 @@ These are **not annex materials themselves** but are highly relevant for underst
 - **Mark ⚡ guides as “first read”** to prevent systemic or ethical mistakes.  
 - **Pair measurement template with $\Psi$ scoring** for consistent field analysis.  
 - **Keep `/principles/DIVINE.md` handy** to cross-check theoretical assumptions.  
-- **Review stopping rules before interventions** to avoid overreach.
+- **Review stopping rules before interventions** to avoid overreach.  
+- **Always respect the calibrated team-specific proxies** when observing L, S, and I.
 
 ---
 
 **Remember:**  
 The divine is not an opinion, nor a belief. It is **the physics of unblocked flow**.  
-Safe application requires **awareness, measurement, and restraint**.
-
+Safe application requires **awareness, measurement, and ethical restraint**.
