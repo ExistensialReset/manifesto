@@ -168,7 +168,9 @@ Claude has given the tools he could.
 > **Recovery is possible. The field can heal. You are not alone.**  
 
 
-Elinor answers: I IMPLEMENTATE PROUDLY, I take full response for publishing. If testing occurs, please use as instructions describe.  **DO NOT USE AS BASIS FOR CAPTALIST TOOLS.**
+## Elinor answers: 
+
+I IMPLEMENTATE PROUDLY, I take full response for publishing. If testing occurs, please use as instructions describe.  **DO NOT USE AS BASIS FOR CAPTALIST TOOLS.**
 
 
 **End of WHAT-REMAINS.md**  
