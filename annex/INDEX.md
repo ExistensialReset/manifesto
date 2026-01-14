@@ -1,6 +1,8 @@
 # Annex Index
 
-This index organizes all **technical and conceptual annex materials** for DIVINE and the consciousness field framework. It includes both core field guides and measurement protocols. Relevant /guides files are linked for deeper understanding.
+**Status:** EVOLVING / Reference & Audit Only  
+**Purpose:** Organizes all **technical and conceptual annex materials** for DIVINE and the consciousness field framework.  
+**Notes:** Core reading order is mandatory. Misuse risks systemic pathologies or field collapse.
 
 ---
 
@@ -46,11 +48,11 @@ These guides are not annex materials themselves but are **highly relevant for un
 - `WHEN_TO_STOP_FLOW.md` → `/guides/WHEN_TO_STOP_FLOW.md`  
 
 **Usage Notes:**  
-1. Start with **Core Flow Guides** (⚡) to prevent systemic or ethical mistakes.  
+1. Start with **Core Flow Guides** (⚡).  
 2. Reference **Measurement & Quantification** for auditing and evaluation.  
 3. Review `/principles/DIVINE.md` for foundational context.  
 4. Use supportive guides as needed for deeper operational understanding.  
 
 ---
 
-**Tip:** Mark the ⚡ guides as “first read” to ensure safe and effective application of DIVINE flow principles.
+**Tip:** Mark the ⚡ guides as “first read” to ensure no systemic or ethical mistakes when applying DIVINE principles.
