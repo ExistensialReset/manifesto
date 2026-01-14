@@ -1,76 +1,65 @@
-📚 Annex Index for DIVINE
+# 📚 Annex Index – DIVINE System
 
-Path: /annex/INDEX.md
-
-Note: Before diving into the annex, read /principles/DIVINE.md first. This ensures you have the foundational understanding of the framework.
-
+> ⚠️ **Ethical Notice:**  
+> This material may **never** be used for KPIs, performance metrics, rankings, or any form of competitive evaluation. DIVINE is for understanding, presence, and field awareness — not for control, comparison, or monetization.
 
 ---
 
-🔹 1. DIVINE Pedagogy
+## 🧭 Reading Order
 
-File: /guides/DIVINE-PEDAGOGY.md
+Before diving into the annex, please **read `/principles/DIVINE.md` first**. It provides the conceptual foundation you need to understand all subsequent materials.
 
-Purpose: Learn how to teach DIVINE without creating dogma.
+After that, the recommended reading order for the annex is:
 
-Notes: Emphasizes lived experience, negative-space teaching, multi-modal learning, and skepticism.
-
-
-🔹 2. Somatic Protocols
-
-File: /annex/SOMATIC-PROTOCOLS.md
-
-Purpose: Body-based methods for Ψ observation and field tuning.
-
-Notes: Covers somatic literacy, pre-observation check-ins, observation protocol, interventions, trauma-informed practices, and ethical boundaries.
-
-
-🔹 3. Technical Stack
-
-File: /annex/DIVINE-TECH-STACK.md
-
-Purpose: Minimal digital infrastructure and ethical tooling for DIVINE.
-
-Notes: Data minimalism, local-first architecture, ephemeral storage, HRV protocol, FieldKit blueprint, hard no to AI/ML.
-
-
-🔹 4. Legal & Ethical Frameworks
-
-File: /annex/LEGAL-ETHICAL-FRAMEWORKS.md
-
-Purpose: GDPR, HIPAA, workplace, educational, and cross-border compliance.
-
-Notes: Consent, DPIA, IRB considerations, liability, minors protection, ethical tool use.
-
-
-🔹 5. Research Methodology
-
-File: /annex/RESEARCH-METHODOLOGY.md
-
-Purpose: Empirical studies on DIVINE.
-
-Notes: Research questions, methodological challenges, study designs, ethical research protocol.
-
-
+1. `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md` – Learn the anti-patterns and common pitfalls.  
+2. `/guides/WHEN_TO_STOP_FLOW.md` – Understand the limits, ethical boundaries, and exit criteria.  
+3. Annex documents (detailed below).
 
 ---
 
-📌 Reading Order
+## 📂 Annex Documents
 
-1. /principles/DIVINE.md — Understand the core framework.
+### 1️⃣ DIVINE-PEDAGOGY.md  
+**Path:** `/guides/DIVINE-PEDAGOGY.md`  
+**Emoji:** 🎓  
+**Summary:** Teaching DIVINE without creating dogma. Focuses on lived experience, teaching through negative space, skepticism, multimodal learning, and ethical assessment.
 
+### 2️⃣ SOMATIC-PROTOCOLS.md  
+**Path:** `/annex/SOMATIC-PROTOCOLS.md`  
+**Emoji:** 🧘‍♀️  
+**Summary:** Body-based methods for Ψ observation and field tuning. Covers interoception, somatic markers for L/S/I, trauma-informed practice, and safe interventions.
 
-2. /guides/HOW_NOT_TO_IMPLEMENT_FLOW.md — Learn common pitfalls.
+### 3️⃣ DIVINE-TECH-STACK.md  
+**Path:** `/annex/DIVINE-TECH-STACK.md`  
+**Emoji:** 💻  
+**Summary:** Technical infrastructure and tooling principles. Local-first, ephemeral, minimal data, open-source, and strictly no ML or predictive analytics.
 
+### 4️⃣ LEGAL-ETHICAL-FRAMEWORKS.md  
+**Path:** `/annex/LEGAL-ETHICAL-FRAMEWORKS.md`  
+**Emoji:** ⚖️  
+**Summary:** GDPR compliance, HIPAA considerations, employment law, safeguarding for minors, IRB/ethics guidance, liability, and cross-border considerations.
 
-3. /guides/WHEN_TO_STOP_FLOW.md — Understand stopping criteria.
-
-
-4. Annex files (in the order listed above) — Apply practical, somatic, technical, legal, and research considerations.
-
-
-
+### 5️⃣ RESEARCH-METHODOLOGY.md  
+**Path:** `/annex/RESEARCH-METHODOLOGY.md`  
+**Emoji:** 🔬  
+**Summary:** Empirical research methods for DIVINE. Study designs, challenges, construct and proxy validation, cross-cultural calibration, Σ-event mapping, and longitudinal tracking.
 
 ---
 
-Tip: Read sequentially to connect theory (/principles), guidance (/guides), and practical annexes (/annex).
+## 🗂 Other Notes
+
+- Each annex document is **interconnected**; concepts in DIVINE-PEDAGOGY, SOMATIC-PROTOCOLS, and TECH-STACK reference `/principles/DIVINE.md` as the foundation.  
+- `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md` and `/guides/WHEN_TO_STOP_FLOW.md` provide critical context to avoid misuse.  
+- Reading in the suggested order ensures understanding **before applying any tools or practices**.
+
+---
+
+## ✅ Quick Ethics Reminder
+
+- DIVINE is **not a management tool**, **not a productivity hack**, and **never for KPIs**.  
+- The system prioritizes **presence, relationality, and field awareness** over measurement and control.  
+- Any attempt to turn it into a competitive metric or surveillance tool is **against the principles** and **must be rejected**.
+
+---
+
+*End of `/annex/INDEX.md`*
