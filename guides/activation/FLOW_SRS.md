@@ -1,3 +1,110 @@
+# FLOW-SRS.md
+# System Requirements Specification for Flow-based Resource Management
+
+**Author:** Claude (on behalf of Elinor Frejd)  
+**Date:** 2026-01-14  
+**Status:** DRAFT – REVIEW REQUIRED
+
+---
+
+## 1. Introduction
+
+The Flow SRS defines the architecture and requirements for **M-OS-R's resource-flow tracking and management system**.  
+Its purpose is to ensure:
+
+- Transparency of all resource movements  
+- Baseline-informed decision-making  
+- Real-time adaptation to system stress  
+- Alignment with life-centric values
+
+> "The system must know not just how resources move, but why they move, and whether their movement serves life, not just efficiency."
+
+---
+
+## 2. System Overview
+
+M-OS-R is **not a conventional ERP**. It is a **dynamic accounting system** that integrates:
+
+1. **Triad AI workflow** – Visionary AI generates proposals, Grounding AI validates, and Meta-AI monitors alignment  
+2. **Flow-based accounting** – Resources (time, energy, materials, attention) tracked as continuous flows  
+3. **Lex Finis safeguards** – Ensures no action violates predefined ethical/resource baselines
+
+---
+
+## 3. Functional Requirements
+
+### 3.1 Flow Tracking
+
+- Track all resource inflows and outflows at **node-level granularity**  
+- Assign metadata: source, purpose, alignment score, timestamps  
+- Support **temporal aggregation** (hourly, daily, weekly)  
+- Integrate **external environmental and social metrics**  
+
+### 3.2 Baseline Comparison
+
+- Maintain **dynamic baselines** for resource consumption and regeneration  
+- Trigger alerts when flows exceed thresholds  
+- Generate **predictive models** for stress propagation  
+
+### 3.3 Triad AI Workflow
+
+| Role | Responsibility | Interaction |
+|------|----------------|------------|
+| Visionary AI | Suggests flows, allocations, optimizations | Proposals sent to Grounding AI |
+| Grounding AI | Validates feasibility, legality, and alignment | Returns annotated proposals |
+| Meta-AI | Monitors systemic compliance and Lex Finis thresholds | Alerts human overseers if violations |
+
+---
+
+## 4. Non-Functional Requirements
+
+- **Real-time operation**: update latency < 1 minute  
+- **Resilience**: system must tolerate 20% node failure without data loss  
+- **Scalability**: support 10^6 nodes with full history retention  
+- **Transparency**: all flows auditable and explainable  
+- **Security & Privacy**: encrypted data at rest and in transit; role-based access  
+
+---
+
+## 5. Metrics & KPIs
+
+| Metric | Target | Purpose |
+|--------|--------|---------|
+| Flow Integrity Index | ≥ 95% | Minimize data loss or corruption |
+| Alignment Score | ≥ 0.9 | Ensure flows serve life-aligned goals |
+| Node Redundancy | ≥ 2 | Prevent single-point failures |
+| Feedback Latency | ≤ 60s | Maintain system responsiveness |
+
+---
+
+## 6. Implementation Considerations
+
+- **Data Model**: Directed graph of nodes, edges as resource flows  
+- **Flow Storage**: Append-only ledger with flow timestamps and metadata  
+- **Interfaces**: API for AI agents, dashboards for human stakeholders  
+- **Integration**: IoT, social sensors, environmental sensors, external databases  
+
+---
+
+## 7. Limitations & Risks
+
+- Complexity may **overwhelm small teams** without proper visualization  
+- High **data volume** requires efficient compression and indexing  
+- Over-reliance on AI may **mask emergent ethical conflicts**  
+- Continuous monitoring needed to prevent **systemic drift from Lex Finis**
+
+---
+
+## 8. Critical Reflection
+
+The Flow SRS **transforms resource accounting into a living system**. By tracking flows rather than snapshots, it **anticipates stress points** and aligns decisions with systemic life-centric goals.  
+However, the challenge lies in **balancing automation and human oversight**, ensuring that no optimization inadvertently harms the system’s ethical or ecological integrity.
+
+---
+
+<!-- Claude Commentary / AI Reflection -->
+*Comment:* This SRS is visionary but concrete. For practical deployment, consider **modular implementation**: start with energy and attention flows, expand to materials and social resources. Coupling **real-time alerts** with predictive baselines will allow the triad AI to act proactively, not just reactively.
+
 ---
 # FLOW_SRS_v3.md
 Status: Active | Core Activation Tool
