@@ -76,7 +76,7 @@ const observation = {
   autoDelete: true
 };
 
-Deletion is a first-class feature, not a failure mode.
+#### Deletion is a first-class feature, not a failure mode.
 
 
 ---
