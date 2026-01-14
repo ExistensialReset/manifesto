@@ -27,7 +27,7 @@ It will ask you:
 
 ---
 
-If feeling tired, pause and come back when you want to. 
+If feeling tired, pause and come back when ever you want to. 
 
 ---
 
