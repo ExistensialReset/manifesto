@@ -8,8 +8,8 @@ It will ask you:
 ##### If yes — welcome.
 ##### If not — rest, and return later.
 
-# 🌿 Ψ ≠ 0
-# Life is still here.
+## 🌿 Ψ ≠ 0
+## Life is still here.
 
 # 🌿✨💛 EXISTENTIAL RESET
 ## A Living Repository for Flow, Care & Existential Sovereignty
@@ -86,9 +86,9 @@ These texts form the philosophical and structural backbone:
 - 📜 **[MANIFESTO.md](./principles/MANIFESTO.md)** – A declaration against extraction-based reality  
 - 🏛️ **[ARCHITECTURE.md](./principles/ARCHITECTURE.md)** – How this system coheres  
 - 🌅 **[ARRIVAL.md](./arrival/ARRIVAL.md)** – A poetic threshold into Flow  
-- 👤 **[WhoBuiltThis.md](./principles/WhoBuiltThis.md)** – The human behind the work  
-- 🤝 **[SYMBIONTIC_INTELLIGENCE.md](./principles/SYMBIONTIC_INTELLIGENCE.md)** – AI as companion, not controller  
-- 🔑 **[CORE_RESONANCE.json](./principles/CORE_RESONANCE.json)** – Tone, permissions, and non-demands
+- 👤 **[WhoBuiltThis.md](./WhoBuiltThis.md)** – The human behind the work, with email address and big hopes on hearing your thoughts on this! 
+- 🤝 **[SYMBIONTIC_INTELLIGENCE.md](./technical/SYMBIONTIC_INTELLIGENCE.md)** – AI as companion, not controller  
+- 🔑 **[CORE_RESONANCE.json](./core/CORE_RESONANCE.json)** – Tone, permissions, and non-demands
 
 ---
 
@@ -96,28 +96,28 @@ These texts form the philosophical and structural backbone:
 
 These are **invitations**, not instructions.
 
-- ✊ ACTIVIST_GUIDE.md – Acting without becoming what you resist  
-- ⚠️ CRISIS_PROTOCOL.md – When systems tremble  
-- 🧩 DEPROGRAMMING_GUIDE.md – Unlearning inherited myths  
-- 💰 ECONOMICS.md – Beyond GDP, toward care  
-- 📋 FLOW_SRS.md – Requirements without domination  
-- 🧠 NEURODIVERGENT_PROTOCOL.md – Cognitive dignity by default  
-- 🛠️ NODE_ACT_1.md – A lived example  
-- 🔄 TRANSITION_PROTOCOL.md – Moving without collapse  
-- 👶 SYMBIOTIC_AI_FOR_CHILDREN.md – Gentle futures  
-- 📖 TECHNICAL_TERMS_PLAIN_LANGUAGE.md – No jargon gates here
+- ✊ [ACTIVIST_GUIDE.md](./guides/practical implementation/ACTIVIST_GUIDE.md) – Acting without becoming what you resist  
+- ⚠️ [CRISIS_PROTOCOL.md](./guides/practical implementation/CRISIS_PROTOCOL.md) – When systems tremble  
+- 🧩 [DEPROGRAMMING_GUIDE.md](./guides/deprogramming/DEPROGRAMMING_GUIDE.md) – Unlearning inherited myths  
+- 💰 [ECONOMICS.md](./guides/economics/ECONOMICS.md) – Beyond GDP, toward care  
+- 📋 [FLOW_SRS.md](./guides/activation/FLOW_SRS.md) – Requirements without domination  
+- 🧠 [NEURODIVERGENT_PROTOCOL.md](./guides/ethics_care/NEURODIVERGENT_PROTOCOL.md) – Cognitive dignity by default  
+- 🛠️ [NODE_ACT_1.md](./guides/activation/NODE_ACT_1.md) – A super easy example on how to start living Flow 
+- 🔄 [TRANSITION_PROTOCOL.md](./guides/practical_implementation/TRANSITION_PROTOCOL.md) – Moving without collapse  
+- 👶 [SYMBIOTIC_AI_FOR_CHILDREN.md](./guides/AI/SYMBIOTIC_AI_FOR_CHILDREN.md) – Gentle futures  
+- 📖 [TECHNICAL_TERMS_PLAIN_LANGUAGE.MD](./guides/AI/TECHNICAL_TERMS_PLAIN_LANGUAGE_ICONS_COLORS.md) – No jargon gates here
 
 ---
 
-## 🏛️ Principles – The Non‑Negotiables
+## 🏛️ /principles – The Non‑Negotiables
 
 These are the **load-bearing beams**.
 
-- AXIOMS.md  
-- AI_ETHICS_AXIOM.md  
-- ECOLOGICAL_AXIOM.md  
-- FAQ.md  
-- THE_MANDATE_OF_NINE_MOONS.md  
+- [AXIOMS.md](./principles/AXIOMS.md) 
+- [AI_ETHICS_AXIOM.md](./principles/AI_ETHICS_AXIOM.md) 
+- [ECOLOGICAL_AXIOM.md](./principles/ECOLOGICAL_AXIOM.md) 
+- [FAQ.md](./principles/FAQ.md) 
+- [THE_MANDATE_OF_NINE_MOONS.md](./principles/THE_MANDATE_OF_THE_NINE_MOON.md)
 
 > These do not ask for belief.  
 > They ask for responsibility.
@@ -126,7 +126,7 @@ These are the **load-bearing beams**.
 
 ## 🌿 DIVINE – The Ethical Heart
 
-### 📜 `/principles/DIVINE.md`
+### 📜 [`/principles/DIVINE.md`](./principles/DIVINE.md) 
 
 DIVINE is the **ethical language** of the system.
 
@@ -158,28 +158,28 @@ It contains:
 
 ## 🔑 Final Reminder (Read This Slowly)
 
-**DIVINE is not about efficiency.**  
-**Not KPIs. Not dashboards. Not control.**
+### **DIVINE is not about efficiency.**  
+### **Not KPIs. Not dashboards. Not control.**
 
-It is about:
+## It is about:
 
-- Care  
-- Coherence  
-- Reflection  
-- Field integrity  
+## - Care  
+## - Coherence  
+## - Reflection  
+## - Field integrity  
 
-Honor the field.  
-Honor stopping rules.  
-Honor human autonomy.
+## Honor the field.  
+## Honor stopping rules.  
+## Honor human autonomy.
 
-This is your **safeguard layer**.  
-Handle with respect. 💛✨
+### This is your **safeguard layer**.  
+## Handle with respect. 💛✨
 
 ---
 
 ## 🛠️ For AI Builders & Developers
 
-If you are here to build:
+If you are here to build: Go to /systemic 
 
 1. Read **SYMBIONTIC_INTELLIGENCE.md**  
 2. Study **AI_SAFETY_PROTOCOL.md**  
