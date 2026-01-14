@@ -114,6 +114,8 @@ Always connect observations to context, human experience, and consent.
 4. Encourage discussion instead of certification or ranking.
 5. Keep FLOW-PROTOCOLS.md as your field companion, last in the reading order.
 
+---
+
 ### ✅ Summary
 This annex index is designed to:
 - Provide complete orientation to DIVINE annex materials.
