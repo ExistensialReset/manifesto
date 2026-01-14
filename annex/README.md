@@ -1,136 +1,201 @@
-# 📦 Annex: Technical & Conceptual Materials for DIVINE
+# 📦 Annex – Reference & Safeguard Layer for the DIVINE Framework
+
+> This folder contains **protective, technical, and conceptual reference materials** for DIVINE.  
+> It exists to **prevent misuse**, ensure ethical application, and preserve systemic coherence.  
+>  
+> **No KPIs. No performance tracking. No optimization games.**  
+> Only learning, reflection, and field awareness.
 
 ---
 
-⚡ **Ethics & Anti-KPI Reminder**  
-No KPIs, dashboards, gamification, or productivity metrics.  
-Focus on reflection, ethical practice, and human-centered awareness.  
-Observations always connect to context, consent, and lived experience.
+## ⚡ Ethics & Anti-KPI Reminder
 
-💡 **Tips for Accessibility & Use**  
-- Read slowly; absorb concepts before acting.  
-- Engage multi-modally: write, move, discuss, reflect.  
-- Pair documents: pedagogy + somatics, tech + legal, research + observation.  
-- Use `FLOW-PROTOCOLS.md` as a field companion, last in reading order.  
-- Encourage discussion, not certification, ranking, or KPIs.
+- No KPIs, dashboards, gamification, or productivity metrics  
+- No ranking of individuals, teams, or groups  
+- No certification systems or compliance scoring  
 
-✅ **Summary**  
-This README ensures:  
-- Safe orientation to all annex materials.  
-- Ethical clarity across pedagogy, somatics, tech, legal, and research.  
-- Preservation of systemic coherence and field integrity.  
-- `FLOW-PROTOCOLS.md` remains the culminating, actionable document.  
+**Focus instead on:**
+- Reflection  
+- Ethical practice  
+- Context-sensitive observation  
+- Human-centered awareness  
 
-**Bottom line:** Annex materials are reference, audit, and ethical tools.  
-They are **not control manuals**. Honor stopping rules, local autonomy, and systemic coherence.
+Observations must always connect to:
+- Context  
+- Consent  
+- Lived experience  
 
 ---
 
-## ⚠️ WARNING: Abuse-Resistant Protocol
+## 💡 Tips for Accessibility & Use
 
-These materials are **not playbooks**. They define:
-
-- How consciousness fields behave ($\Psi$)  
-- How systemic interventions **must** respect coherence, creativity, and interconnectedness  
-- Metrics for observation, not performance  
-
-Do **NOT** use these files as scripts for controlling humans, organizations, or ecosystems.  
-Misapplication leads to **systemic pathologies**, field collapse, or ethical violations.
-
----
-
-## 📝 Reading Order (Mandatory)
-
-1. `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md` ⚡  
-   - Highlights common mistakes and dead-field scenarios.  
-   - Must read first.  
-
-2. `/guides/WHEN_TO_STOP_FLOW.md` ⚡  
-   - Ethical & operational stopping rules.  
-   - Must read second.  
-
-3. `/principles/DIVINE.md`  
-   - Full theoretical grounding of DIVINE and Frejd Equation.  
-
-4. `/annex/DIVINE-PEDAGOGY.md`  
-   - Pedagogical guidance for introducing DIVINE without dogma.  
-
-5. `/annex/SOMATIC-PROTOCOLS.md`  
-   - Body-based observation and field tuning.  
-
-6. `/annex/DIVINE-TECH-STACK.md`  
-   - Technical infrastructure and ethical tooling.  
-
-7. `/annex/LEGAL-ETHICAL-FRAMEWORKS.md`  
-   - Legal compliance and GDPR alignment.  
-
-8. `/annex/RESEARCH-METHODOLOGY.md`  
-   - Empirical studies and validation.  
-
-9. `/annex/FLOW-PROTOCOLS.md`  
-   - Practical, step-by-step observation protocols.  
-   - **Always last**, synthesizing all previous guidance.
-
-> Skipping steps risks misinterpretation and unintended field disruption.
+1. Read slowly. Absorb before acting.  
+2. Engage multi-modally: write, move, discuss, reflect.  
+3. Pair documents for depth:
+   - pedagogy + somatics  
+   - tech + legal  
+   - research + observation  
+4. Use `FLOW-PROTOCOLS.md` as a **field companion**, last in the reading order.  
+5. Encourage discussion and sense-making — **never certification, ranking, or KPIs**.
 
 ---
 
-## 🔑 Key Safety Principles
+## ✅ Summary
 
-1. **Do No Override Local Autonomy**  
-   - Field interventions must never coerce or force behavior.  
+This README ensures:
+- Safe orientation to all annex materials  
+- Ethical clarity across pedagogy, somatics, tech, legal, and research  
+- Preservation of systemic coherence and field integrity  
 
-2. **Never Remove $\Sigma$ or EV**  
-   - Randomness ($\Sigma$) and wisdom modulation (EV) prevent deterministic collapse.  
+**Bottom line:**  
+Annex materials are **reference, audit, and ethical tools**.  
+They are **not control manuals**.
 
-3. **Audit Before Acting**  
-   - Use observation metrics to verify field readiness and ethical boundaries.  
-
-4. **Stopping Rules Are Binding**  
-   - Follow `/guides/WHEN_TO_STOP_FLOW.md` strictly.  
-
-5. **Field Respect is Non-Negotiable**  
-   - Coherence ($L$), Generativity ($S$), and Interconnectedness ($I$) are primary.  
+Honor stopping rules, local autonomy, and systemic coherence at all times.
 
 ---
 
-## 📎 Links & References
+## 📝 Mandatory Reading Order
 
-- **Core Flow Guides:**  
-  - `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md`  
-  - `/guides/WHEN_TO_STOP_FLOW.md`  
+Before using any annex material, the following **must** be read in order:
 
-- **Foundational Theory:**  
-  - `/principles/DIVINE.md`  
+1. **`/principles/DIVINE.md`**  
+   Foundational theory: the DIVINE framework and Frejd Equation.
 
-- **Measurement & Observation:**  
-  - `/annex/DIVINE-MEASURE.md`  
+2. **`/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md`** ⚡  
+   Common misuses, dead-field scenarios, and systemic pathologies.
+
+3. **`/guides/WHEN_TO_STOP_FLOW.md`** ⚡  
+   Ethical, psychological, and systemic stopping rules.
+
+> Skipping this order risks misunderstanding, harm, or irreversible field degradation.
+
+---
+
+## 📂 Annex Documents
+
+### 1️⃣ `DIVINE-PEDAGOGY.md` – Teaching DIVINE Without Dogma
+**Purpose:**  
+Introduce DIVINE as a **thinking language**, not a belief system or manual.
+
+**Focus:**
+- Lived experience first  
+- Teaching through negative space (blockages)  
+- Anti-dogma inoculation  
+- Multi-modal learning  
+
+**Connected guides:**  
+`HOW_NOT_TO_IMPLEMENT_FLOW.md`, `WHEN_TO_STOP_FLOW.md`
+
+---
+
+### 2️⃣ `SOMATIC-PROTOCOLS.md` – Embodied Field Awareness
+**Purpose:**  
+Support somatic literacy and body-based observation of Ψ.
+
+**Focus:**
+- Pre-observation grounding  
+- Somatic signals for L, S, I  
+- Trauma-informed participation  
+- Consent and opt-out boundaries  
+
+---
+
+### 3️⃣ `DIVINE-TECH-STACK.md` – Minimal & Ethical Tooling
+**Purpose:**  
+Describe technical support without surveillance or extraction.
+
+**Principles:**
+- Data minimalism  
+- Local-first by default  
+- Ephemeral storage (auto-delete)  
+- No individual tracking  
+
+**Explicit anti-features:**  
+No analytics, no prediction engines, no optimization loops.
+
+---
+
+### 4️⃣ `LEGAL-ETHICAL-FRAMEWORKS.md` – Legal Safety & Compliance
+**Purpose:**  
+Prevent legal and ethical violations across contexts.
+
+**Coverage:**
+- GDPR & data protection  
+- Employment law considerations  
+- Work with minors  
+- Cross-border use  
+- Ethics review & liability boundaries  
+
+---
+
+### 5️⃣ `RESEARCH-METHODOLOGY.md` – Studying DIVINE Responsibly
+**Purpose:**  
+Enable empirical exploration without reductionism.
+
+**Focus:**
+- Mixed methods  
+- Small-scale pilots  
+- Cross-cultural calibration  
+- Longitudinal patterns  
+- Σ-event mapping  
+
+Always pair with:
+- `HOW_NOT_TO_IMPLEMENT_FLOW.md`
+- `WHEN_TO_STOP_FLOW.md`
+
+---
+
+### 6️⃣ `FLOW-PROTOCOLS.md` – Practical Field Observation (LAST)
+**Purpose:**  
+Concrete, step-by-step observation tools.
+
+**Includes:**
+- Session setup  
+- L / S / I observation cues  
+- Somatic, relational, narrative signals  
+- Documentation templates  
+- Trauma-aware reminders  
+
+**Placement:**  
+This file is **last on purpose**.  
+It synthesizes all previous annex material into careful practice.
+
+---
+
+## 📎 Measurement & Observation
+
+- **`/annex/DIVINE-MEASURE.md`**  
+  Conceptual and qualitative measurement framework for Ψ.  
+  For reflection and audit — **not performance evaluation**.
 
 ---
 
 ## ⚡ Enforcement Notes
 
-- Marked ⚡ guides **must be first read**.  
-- Document order of reading for audits or references.  
-- Misuse can create irreversible field pathologies.
+- ⚡-marked guides are **mandatory first reads**  
+- Any project referencing DIVINE should document reading order  
+- Misuse can create **irreversible field pathologies**
 
 ---
 
-Arrows indicate recommended reading order.
-FLOW-PROTOCOLS.md integrates pedagogy, somatics, tech, legal, and research guidance.
+# Final Reminder:
+
+DIVINE is not about efficiency.
+It is about care, coherence, and restraint. 
 
 ---
 
 ## 🌐 Flow Map & Connections
 
 ```text
-[ /principles/DIVINE.md ] → Core concepts
+[ /principles/DIVINE.md ] → Core theory
 
           ↓
   -----------------------
   |                     |
-[ /guides/HOW_NOT_TO_IMPLEMENT_FLOW.md ]
-[ /guides/WHEN_TO_STOP_FLOW.md ]
+[ HOW_NOT_TO_IMPLEMENT_FLOW ]
+[ WHEN_TO_STOP_FLOW ]
 
           ↓
   -----------------------
@@ -141,4 +206,4 @@ FLOW-PROTOCOLS.md integrates pedagogy, somatics, tech, legal, and research guida
 3️⃣ DIVINE-TECH-STACK.md
 4️⃣ LEGAL-ETHICAL-FRAMEWORKS.md
 5️⃣ RESEARCH-METHODOLOGY.md
-6️⃣ FLOW-PROTOCOLS.md  ← Practical implementation
+6️⃣ FLOW-PROTOCOLS.md   ← final synthesis
