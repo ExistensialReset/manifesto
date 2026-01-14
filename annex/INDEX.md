@@ -110,7 +110,7 @@ Before diving into annex materials, **start with the core principles**:
 3️⃣ DIVINE-TECH-STACK.md
 4️⃣ LEGAL-ETHICAL-FRAMEWORKS.md
 5️⃣ RESEARCH-METHODOLOGY.md
-6️⃣ FLOW-PROTOCOLS.md  ← Practical implementation
+6️⃣ FLOW-PROTOCOLS.md  ← Practical implementation ```
 
 Legend:
 Arrows indicate reading order.
