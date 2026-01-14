@@ -14,7 +14,7 @@ It’s **not just mood, not just energy** – it’s the combination of three co
 | Symbol | Meaning | Quick Tip |
 |--------|---------|-----------|
 | **L** | **Life-force / Vitality** | Body awareness, sleep, nutrition, breath |
-| **S** | **Structure / Systemic Flow** | Habits, routines, creativity, novelty |
+| **S** | **Spontaneity/ Systemic Flow** | Habits, unsuspected routines, creativity, novelty |
 | **I** | **Interpersonal Resonance** | Connection, empathy, social engagement |
 | **EV** | **Existential Value** | Meaning, purpose, long-term vision |
 | **Σ** | **Grace / Serendipity** | Unpredictable moments of insight, joy, awe |
