@@ -1,86 +1,88 @@
-# Annex: Technical & Conceptual Materials for DIVINE
+# 📦 Annex: Technical & Conceptual Materials for DIVINE
 
 **Status:** Protective / Reference Only  
-**Purpose:** Prevent misuse, ensure safe and correct understanding of DIVINE principles and flow.
+**Purpose:** Provide safe, ethical, and reflective guidance on DIVINE principles and flow.  
+> ⚠️ These materials are **not playbooks**. They are for understanding, observation, and ethical engagement only.
 
 ---
 
-## ⚠️ WARNING: Abuse-Resistant Protocol
+## 🛡️ Core Warning: Abuse-Resistant Protocol
 
-These materials are **not playbooks**. They define:
+The annex defines:
 
 - How consciousness fields behave ($\Psi$)  
 - How systemic interventions **must** respect coherence, creativity, and interconnectedness  
-- Metrics for measurement and audit  
+- Reference frameworks for measurement and reflection
 
-Do **NOT** use these files as scripts for controlling humans, organizations, or ecosystems.  
-Misapplication leads to **systemic pathologies**, field collapse, or ethical violations.
-
----
-
-## 1. Reading Order (Mandatory)
-
-1. `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md` ⚡  
-   - Highlights common mistakes and dead-field scenarios.  
-   - Must read first.  
-
-2. `/guides/WHEN_TO_STOP_FLOW.md` ⚡  
-   - Ethical & operational stopping rules.  
-   - Must read second.  
-
-3. `/annex/DIVINE-MEASURE.md`  
-   - Empirical and measurement framework for $\Psi$.  
-   - Read **after understanding flow rules**.  
-
-4. `/principles/DIVINE.md`  
-   - Full theoretical grounding of DIVINE and Frejd Equation.  
-
-> **Note:** Skipping steps risks misinterpretation and unintended field disruption.
+> ❌ Do **not** use these files as scripts for controlling humans, organizations, or ecosystems.  
+> Misuse may cause **field collapse, systemic pathologies, or ethical violations**.
 
 ---
 
-## 2. Key Safety Principles
+## 📝 Recommended Reading Order
+
+Before opening annex materials, ensure you have the conceptual context:
+
+1. **`/principles/DIVINE.md`** – Core theory and Frejd Equation  
+2. **`/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md`** ⚡ – Common pitfalls and dead-field scenarios  
+3. **`/guides/WHEN_TO_STOP_FLOW.md`** ⚡ – Ethical and operational stopping rules  
+4. **`/annex/index.md`** – Complete map of annex documents and their connections  
+5. **Individual annex files** (pedagogy, somatics, tech, legal, research, FLOW-PROTOCOLS.md)  
+
+> ⬆ Following this order is mandatory to avoid misinterpretation or unintended field disruption.
+
+---
+
+## ⚖️ Key Safety Principles
 
 1. **Do No Override Local Autonomy**  
-   - Field interventions must never coerce or force behavior.  
+   - Interventions must never coerce or force behavior.  
 
 2. **Never Remove $\Sigma$ or EV**  
    - Randomness ($\Sigma$) and wisdom modulation (EV) prevent deterministic collapse.  
 
 3. **Audit Before Acting**  
-   - Use DIVINE-MEASURE metrics to verify field readiness and ethical boundaries.  
+   - Verify field readiness and ethical alignment using reference protocols.  
 
 4. **Stopping Rules Are Binding**  
-   - Follow `/guides/WHEN_TO_STOP_FLOW.md` strictly.  
-   - Do not bypass just because the system appears “inefficient.”
+   - `/guides/WHEN_TO_STOP_FLOW.md` is not optional.  
 
 5. **Field Respect is Non-Negotiable**  
-   - Coherence ($L$), Generativity ($S$), and Interconnectedness ($I$) are primary.  
-   - Do not intervene without alignment across all three.
+   - Coherence ($L$), Generativity ($S$), Interconnectedness ($I$) are primary.  
+   - Intervene only when all three are aligned.
 
 ---
 
-## 3. Links & References
+## 🔗 Quick Links
 
 - **Core Flow Guides:**  
   - `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md`  
   - `/guides/WHEN_TO_STOP_FLOW.md`  
 
-- **Measurement & Quantification:**  
-  - `/annex/DIVINE-MEASURE.md`  
-
 - **Foundational Theory:**  
   - `/principles/DIVINE.md`  
 
----
-
-## 4. Enforcement Notes
-
-- Marked ⚡ guides must be **first read** before any annex material.  
-- Any project or audit referencing DIVINE must **document order of reading**.  
-- Misuse or misunderstanding can create irreversible field pathologies.
+- **Annex Map & Documents:**  
+  - `/annex/index.md` – Full reading order and connections  
+  - `/annex/FLOW-PROTOCOLS.md` – Practical field protocols  
+  - Other annex files: pedagogy, somatics, tech, legal, research
 
 ---
 
-**Bottom Line:** This annex is a **reference, audit, and conceptual tool**.  
-It is **not a control manual**. Always honor local autonomy, stopping rules, and systemic coherence.
+## ⚡ Enforcement Notes
+
+- Marked ⚡ guides **must be read first**.  
+- Any project or audit referencing DIVINE must **document reading order**.  
+- Misunderstanding or skipping steps may lead to irreversible field pathologies.
+
+---
+
+### 💡 Bottom Line
+
+This annex is a **reference, audit, and conceptual tool**.  
+It is **not a control manual**. Always honor:
+
+- Local autonomy  
+- Stopping rules  
+- Systemic coherence  
+- Reflection and field awareness
