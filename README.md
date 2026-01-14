@@ -102,11 +102,11 @@ These texts form the philosophical and structural backbone:
 
 These are **invitations**, not instructions.
 
-✊  
+✊
 [ACTIVIST_GUIDE.md](./guides/practical implementation/ACTIVIST_GUIDE.md) 
 Acting without becoming what you resist  
 
-⚠️  
+⚠️
 [CRISIS_PROTOCOL.md](./guides/practical implementation/CRISIS_PROTOCOL.md) 
 When systems tremble  
 
