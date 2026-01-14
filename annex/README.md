@@ -116,6 +116,11 @@ Misapplication leads to **systemic pathologies**, field collapse, or ethical vio
 
 ---
 
+Arrows indicate recommended reading order.
+FLOW-PROTOCOLS.md integrates pedagogy, somatics, tech, legal, and research guidance.
+
+---
+
 ## 🌐 Flow Map & Connections
 
 ```text
@@ -137,7 +142,3 @@ Misapplication leads to **systemic pathologies**, field collapse, or ethical vio
 4️⃣ LEGAL-ETHICAL-FRAMEWORKS.md
 5️⃣ RESEARCH-METHODOLOGY.md
 6️⃣ FLOW-PROTOCOLS.md  ← Practical implementation
-
----
-Arrows indicate recommended reading order.
-FLOW-PROTOCOLS.md integrates pedagogy, somatics, tech, legal, and research guidance. 
