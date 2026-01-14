@@ -40,13 +40,13 @@ These are essential for understanding field principles and avoiding systemic pat
 
 ## 4. Supportive /Guides References
 
-These guides are not annex materials themselves but are **highly relevant for understanding and implementing DIVINE flow principles**:
+These guides are not annex materials themselves but are **highly relevant for understanding and implementing flow principles**:
 
 - `HOW_NOT_TO_IMPLEMENT_FLOW.md` → `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md`  
 - `WHEN_TO_STOP_FLOW.md` → `/guides/WHEN_TO_STOP_FLOW.md`  
 
 **Usage Notes:**  
-1. Start with **Core DIVINE Flow Guides** (⚡).  
+1. Start with **Core Flow Guides** (⚡).  
 2. Reference **Measurement & Quantification** for auditing and evaluation.  
 3. Review `/principles/DIVINE.md` for foundational context.  
 4. Use supportive guides as needed for deeper operational understanding.  
