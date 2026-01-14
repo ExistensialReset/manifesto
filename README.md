@@ -189,30 +189,32 @@ It contains:
 
 ---
 
-## 🔑 Final Reminder (Read This Slowly)
+### 🔑 Final Reminder (Read This Slowly)
 
-### **DIVINE is not about efficiency.**  
-### **Not KPIs. Not dashboards. Not control.**
+#### **DIVINE is not about efficiency.**  
+#### **Not KPIs. Not dashboards. Not control.**
 
-## It is about:
+#### It is about:
 
-#### - Care  
-#### - Coherence  
-#### - Reflection  
-#### - Field integrity  
+##### - Care  
+##### - Coherence  
+##### - Reflection  
+##### - Field integrity  
 
-## Honor the field.  
-## Honor stopping rules.  
-## Honor human autonomy.
+#### Honor the field.  
+#### Honor stopping rules.  
+#### Honor human autonomy.
 
-### This is your **safeguard layer**.  
-## Handle with respect. 💛✨
+#### This is your **safeguard layer**.  
+### Handle with respect. 💛✨
 
 ---
 
-## 🛠️ For AI Builders & Developers
+# 🛠️ For AI Builders & Developers 
 
-If you are here to build: Go to /systemic 
+## You are so very welcome! Feel the inspiration! 
+
+✌️ If you are here to build: Go to /systemic 
 
 1. Read **SYMBIONTIC_INTELLIGENCE.md**  
 2. Study **AI_SAFETY_PROTOCOL.md**  
