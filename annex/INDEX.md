@@ -90,6 +90,39 @@ Before diving into annex materials, **start with the core principles**:
 
 ---
 
+Legend:
+Arrows indicate recommended reading order.
+- Annex documents build on /principles and /guides.
+- FLOW-PROTOCOLS.md integrates pedagogy, somatics, tech, legal, and research guidance.
+
+---
+
+# ⚠️ Ethics & Anti-KPI Reminder
+DIVINE is NOT a performance metric.
+Do not create KPIs, dashboards, or gamification from these protocols.
+
+The goal is reflection, awareness, and ethical practice, not productivity tracking.
+
+Always connect observations to context, human experience, and consent.
+
+---
+
+💡 Tips for Accessibility & Use
+- Read slowly; absorb concepts before jumping to exercises.
+- Use multi-modal engagement: write, move, discuss, reflect.
+- Pair documents: pedagogy + somatics, tech + legal, research + observation.
+- Encourage discussion instead of certification or ranking.
+- Keep FLOW-PROTOCOLS.md as your field companion, last in the reading order.
+
+✅ Summary
+This annex index is designed to:
+Provide complete orientation to DIVINE annex materials.
+Maintain ethical clarity across pedagogy, somatics, tech, and research.
+Serve as a practical map for learning, teaching, and observing without metrics or KPIs.
+Keep FLOW-PROTOCOLS.md as the final, actionable document, synthesizing all previous guidance.
+
+---
+
 ## 🌐 Flow Map & Connections
 
 ```text
@@ -110,29 +143,5 @@ Before diving into annex materials, **start with the core principles**:
 3️⃣ DIVINE-TECH-STACK.md
 4️⃣ LEGAL-ETHICAL-FRAMEWORKS.md
 5️⃣ RESEARCH-METHODOLOGY.md
-6️⃣ FLOW-PROTOCOLS.md  ← Practical implementation ```
+6️⃣ FLOW-PROTOCOLS.md  ← Practical implementation 
 
-Legend:
-Arrows indicate reading order.
-Annex documents build on /principles and /guides.
-FLOW-PROTOCOLS.md integrates pedagogy, somatics, tech, legal, and research guidance.
-
-⚠️ Ethics & Anti-KPI Reminder
-DIVINE is not a performance metric.
-Do not create KPIs, dashboards, or gamification from these protocols.
-The goal is reflection, awareness, and ethical practice, not productivity tracking.
-Always connect observations to context, human experience, and consent.
-
-💡 Tips for Accessibility & Use
-- Read slowly; absorb concepts before jumping to exercises.
-- Use multi-modal engagement: write, move, discuss, reflect.
-- Pair documents: pedagogy + somatics, tech + legal, research + observation.
-- Encourage discussion instead of certification or ranking.
-- Keep FLOW-PROTOCOLS.md as your field companion, last in the reading order.
-
-✅ Summary
-This annex index is designed to:
-1.  Provide complete orientation to DIVINE annex materials.
-2.  Maintain ethical clarity across pedagogy, somatics, tech, and research.
-3.  Serve as a practical map for learning, teaching, and observing without metrics or KPIs.
-4.  Keep FLOW-PROTOCOLS.md as the final, actionable document, synthesizing all previous guidance.
