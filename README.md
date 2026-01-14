@@ -1,11 +1,11 @@
 # 🌍 First Notion: 
 This repository will not tell you what to do.
 It will ask you:
-- Can you slow down?
-- Can you feel before acting?
+- Is it okay for you slow down?
+- Do you feel before acting?
 - Can you stop when stopping is needed?
 
-##### If yes — welcome.
+#### If yes — welcome.
 ##### If not — rest, and return later.
 
 ## 🌿 Ψ ≠ 0
