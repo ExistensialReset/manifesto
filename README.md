@@ -157,7 +157,7 @@ These are the **load-bearing beams**.
 
 ---
 
-## 🌿 DIVINE – The Ethical Heart
+# 🌿 DIVINE – The Ethical Heart
 
 ### 📜 [`/principles/DIVINE.md`](./principles/DIVINE.md) 
 
@@ -196,10 +196,10 @@ It contains:
 
 ## It is about:
 
-## - Care  
-## - Coherence  
-## - Reflection  
-## - Field integrity  
+#### - Care  
+#### - Coherence  
+#### - Reflection  
+#### - Field integrity  
 
 ## Honor the field.  
 ## Honor stopping rules.  
