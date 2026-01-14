@@ -81,7 +81,7 @@ Deletion is a first-class feature, not a failure mode.
 
 ---
 
-### Principle 3: Opacity of Aggregation
+## Principle 3: Opacity of Aggregation
 
 #### Rule
 Aggregated data must never be reversible to individuals.
@@ -100,7 +100,7 @@ If disaggregation is possible, aggregation is invalid.
 
 ---
 
-### Principle 4: No Dark Patterns
+## Principle 4: No Dark Patterns
 
 #### Forbidden
 
