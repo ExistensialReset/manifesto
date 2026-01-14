@@ -4,7 +4,7 @@ This index organizes all **technical and conceptual annex materials** for DIVINE
 
 ---
 
-## 1. Core DIVINE Flow Guides ⚡ MUST READ FIRST
+## 1. Core Flow Guides ⚡ MUST READ FIRST
 
 These are essential for understanding field principles and avoiding systemic pathologies.
 
@@ -46,11 +46,11 @@ These guides are not annex materials themselves but are **highly relevant for un
 - `WHEN_TO_STOP_FLOW.md` → `/guides/WHEN_TO_STOP_FLOW.md`  
 
 **Usage Notes:**  
-1. Start with **Core Flow Guides** (⚡).  
+1. Start with **Core Flow Guides** (⚡) to prevent systemic or ethical mistakes.  
 2. Reference **Measurement & Quantification** for auditing and evaluation.  
 3. Review `/principles/DIVINE.md` for foundational context.  
 4. Use supportive guides as needed for deeper operational understanding.  
 
 ---
 
-**Tip:** Mark the ⚡ guides as “first read” to ensure no systemic or ethical mistakes when applying DIVINE principles.
+**Tip:** Mark the ⚡ guides as “first read” to ensure safe and effective application of DIVINE flow principles.
