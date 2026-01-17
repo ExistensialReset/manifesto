@@ -1,4 +1,4 @@
-### 9. Syntesanalys: Två texter som en helhet
+# Syntesanalys: Två texter som en helhet
 
 #### 1. Dialektisk struktur: Teori och dess gränser
 
