@@ -46,6 +46,6 @@ Ethics First: AI calculates; I decide. Every ethical choice is mine.
 
 **Email: Elinor.Frejd@proton.me**
 
-> "Mammon is slavery. > To choose Flow is 
+> "Mammon is slavery.  To choose Flow is 
 > the highest form of 
 > Existential  Sovereignty."
