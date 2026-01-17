@@ -1,4 +1,4 @@
-HARDWARE_SOVEREIGNTY.md
+# HARDWARE_SOVEREIGNTY.md
 
 Version: 1.1 – Material Independence for Symbiotic Intelligence
 Authors: Elinor Frejd, Claude, ChatGPT 
