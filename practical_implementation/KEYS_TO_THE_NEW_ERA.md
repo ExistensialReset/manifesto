@@ -202,3 +202,8 @@ You are already allowed to exist.
 **Status:** ACTIVE  
 **Tone:** Non-Coercive  
 **Authority:** Life Itself 🌱
+
+
+---
+For more words of interest, view
+(./guides/AI/TECHNICAL_TERMS_PLAIN_LANGUAGE.MD) 
