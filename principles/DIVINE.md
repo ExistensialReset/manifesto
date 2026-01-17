@@ -109,6 +109,6 @@ The divine is the physics of unblocked flow.
 
 ### God is not an opinion, not a belief. It’s the result of free flow. 
 
-### ✨🌬️
+## ✨🌬️
 ---
 
