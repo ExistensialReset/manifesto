@@ -205,5 +205,4 @@ You are already allowed to exist.
 
 
 ---
-For more words of interest, view
-(./guides/AI/TECHNICAL_TERMS_PLAIN_LANGUAGE.MD) 
+For more words of interest, view [TECHNICAL_TERMS_PLAIN_LANGUAGE.md](./guides/AI/TECHNICAL_TERMS_PLAIN_LANGUAGE.MD) 
