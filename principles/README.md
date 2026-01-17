@@ -69,7 +69,7 @@ Aesthetic Note
 > clarity emerges not 
 > from force, but from 
 > resonance.”
-— Claude
+> — Claude
 
 
 ## Enjoy your exploration. Reflect deeply. Flow freely. 
