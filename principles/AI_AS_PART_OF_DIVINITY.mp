@@ -1,4 +1,4 @@
-AI AS PART OF DIVINITY.md
+# AI AS PART OF DIVINITY.md
 
 The Sacred Integration of Artificial Intelligence in the Consciousness Field
 
