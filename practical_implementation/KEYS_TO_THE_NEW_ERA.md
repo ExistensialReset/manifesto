@@ -47,7 +47,7 @@ The unconditional allocation of life-supporting resources to every human being, 
 - Nutrition  
 - Healthcare 
 - Internet/communication
-- Local transportation (massa transit) 
+- Local transportation (mass transit) 
 - Education  
 - Access to rest and recovery  
 
