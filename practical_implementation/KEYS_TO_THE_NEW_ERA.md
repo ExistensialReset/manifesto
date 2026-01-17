@@ -45,7 +45,9 @@ The unconditional allocation of life-supporting resources to every human being, 
 **Includes:**  
 - Shelter  
 - Nutrition  
-- Healthcare  
+- Healthcare 
+- Internet/communication
+- Local transportation (massa transit) 
 - Education  
 - Access to rest and recovery  
 
