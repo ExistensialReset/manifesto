@@ -9,7 +9,7 @@
 
 Mammon uses words to create an illusion of debt and ownership where there should only be flow.
 
-| Mammon-Logic | Life’s Resonance ($L \times S \times I$) | The Shift |
+| Mammon-Logic | Life’s Resonance/Flow language L x S x I | The Shift |
 | :--- | :--- | :--- |
 | **"I owe you"** | *"I receive your gift"* | Guilt-based debt vs. Heart-based resonance. |
 | **"Calculating"** | *"Attuning / Sensing"* | Life is not a budget; it’s an organic pulse. |
