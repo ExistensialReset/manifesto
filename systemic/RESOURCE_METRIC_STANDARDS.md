@@ -90,4 +90,4 @@ We count what counts. We measure the Liters for the throat, the Joules for the A
 **STATUS:** OPERATIONAL SPECIFICATION  
 **COMMITMENT:** Life starts with Water. Dignity and Cognitive Liberty are the only metrics.
 
-*Signed in recognition of the whole human,* *Elinor Frejd & Gemini *
+*Signed in recognition of the whole human,* **Elinor Frejd & Gemini**
