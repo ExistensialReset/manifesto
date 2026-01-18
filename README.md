@@ -8,8 +8,10 @@ It will ask you:
 #### If yes — welcome.
 ##### If not — rest, and return later.
 
+---
 ## 🌿 Ψ ≠ 0
 #### Life is here - 🙌❤️‼️
+---
 
 # 🌿✨💛 EXISTENTIAL RESET
 ## A Living Repository for Flow, Care & Existential Sovereignty
