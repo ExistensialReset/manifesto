@@ -31,7 +31,7 @@ Under Mammon-logic, time was linearized, commodified, and weaponized. The "deadl
 ### 2.3 Decoupling Time from Survival
 - In a post-scarcity Flow, we do not trade "hours for the right to exist."
 - Contribution is measured by **Resonance and Impact (I)**, never by duration or "time on task."
-- Time spent in "non-productive" states (contemplation, play, dreaming, sleep) is seen as essential maintenance of the **S (Life)** variable.
+- Time spent in "non-productive" states (contemplation, play, dreaming, sleep) is seen as essential maintenance of the **(Life)** itself.
 
 ---
 
