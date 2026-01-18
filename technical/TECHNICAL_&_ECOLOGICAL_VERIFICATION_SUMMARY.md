@@ -11,15 +11,15 @@ This document proves that the "Old World" (Mammon) is broken. It wastes energy a
 Our math shows that 64.8% of global activity today is "Parasitic." It helps the system, not the people. In Flow, we take this energy back.
 📊 Visualizing the Drain vs. Recovery
 The bars show how much is wasted (Red) and how much we take back (Green).
-Marketing & Ads [████████████████████] 100% Recovered
+### Marketing & Ads [████████████████████] 100% Recovered
 (No more fake needs created by $763B/year in ads.)
-Financial Admin [██████████████████░░] 90% Recovered
+### Financial Admin [██████████████████░░] 90% Recovered
 (No more wasting time on debt, interest, and complex taxes.)
-Planned Obsolescence [████████████████░░░░] 80% Recovered
+### Planned Obsolescence [████████████████░░░░] 80% Recovered
 (Products are built to last forever, not to break.)
-Food Waste [██████░░░░░░░░░░░░░░] 31% Recovered
+### Food Waste [██████░░░░░░░░░░░░░░] 31% Recovered
 (Producing for what people need, not for store profit.)
-Fossil Subsidies [████████████████████] 100% Recovered
+### Fossil Subsidies [████████████████████] 100% Recovered
 (Moving $7.5 Trillion directly into free green energy.)
 
 ## 3. GLOBAL CAPACITY: PROOF OF ABUNDANCE
