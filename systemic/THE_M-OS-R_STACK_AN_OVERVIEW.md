@@ -1,7 +1,7 @@
 # THE M-OS-R STACK: AN OVERVIEW
 **Existential Reset — Version 1.0 (Stable)**
 
-This document integrates all components of the M-OS-R (Mobile Operating System for Resilience). it serves as the architecture for a sovereign reality where technology serves life, respects silence, and protects human dignity.
+This document integrates all components of the M-OS-R (Manifesto Operating System Reset). It serves as the architecture for a sovereign reality where technology serves life, respects silence, and protects human dignity.
 
 ---
 
