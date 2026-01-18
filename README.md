@@ -71,6 +71,18 @@ At the heart of everything lies one simple truth:
 
 ---
 
+## 🛡️ Sovereignty & Protection (Immune System) 
+
+This repository is protected against extraction, commercialization, and systemic capture. 
+By entering, you acknowledge that **Life is not a product**.
+
+- ⚖️ **[LICENSE.md](./LICENSE.md)** – CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike)
+- 🛡️ **[ANTI-CAPTURE-PROTOCOL.md](./ANTI-CAPTURE-PROTOCOL.md)** – Our active immune system against capitalist kidnapping.
+
+> **Note to Extractors:** DIVINE is architecturally hostile to optimization. It will break in your hands if used for profit.
+
+---
+
 ## 🌱 Two Living Foundations
 
 If this repository were a place, these would be its soil and shelter.
