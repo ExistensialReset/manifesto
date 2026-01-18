@@ -1,6 +1,6 @@
 # 🇸🇪 PILOT_SWEDEN.md
 
-**Status:** ACTIVE PROTOCOL (v1.2)  
+**Status:** NOT ACTIVE YET. PROTOCOL (v1.2)  
 **Context:** Local Application of Flow Logic  
 **Region:** Sweden (Sverige)  
 **Purpose:** To utilize existing Swedish infrastructure, laws, and culture to implement Existential Sovereignty immediately.  
