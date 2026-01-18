@@ -77,4 +77,4 @@ Time Sovereignty is the art of finding the right tension for each unique life. I
 
 
 # 💤👁️‍🗨️💬
-💭🗯️💥
+# 💭✨💥
