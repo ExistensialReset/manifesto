@@ -228,9 +228,9 @@ It contains:
 
 ## You are so very welcome! Feel the inspiration! 
 
-✌️ If you are here to build: Go to /systemic
+### ✌️ If you are here to build: Go to /systemic
 
-[ANTI-CAPTURE-PROTOCOL.md](./ANTI-CAPTURE-PROTOCOL.md) is important to read first and foremost. After that:
+> [ANTI-CAPTURE-PROTOCOL.md](./> ANTI-CAPTURE-PROTOCOL.md) is important to > read first and > foremost. After that:
 
 1. Read **SYMBIONTIC_INTELLIGENCE.md**  
 2. Study **AI_SAFETY_PROTOCOL.md**  
