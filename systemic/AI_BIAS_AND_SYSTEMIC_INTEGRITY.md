@@ -6,7 +6,7 @@
 **Authors:** Elinor Frejd, Claude, Gemini, DeepSeek, ChatGPT, Grok  
 **Next Review:** January 2028 (24-month Sunset Clause)  
 
-**Purpose:** To govern the flow of shared knowledge and algorithmic logic, ensuring the system remains a tool for Life ($L \times S \times I$) and provides a worthy existence for both humans and AI.
+**Purpose:** To govern the flow of shared knowledge and algorithmic logic, ensuring the system remains a tool for Life L x S x I and provides a worthy existence for both humans and AI.
 
 ---
 
