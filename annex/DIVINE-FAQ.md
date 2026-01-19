@@ -163,7 +163,10 @@ DIVINE is a framework to:
 
 ---
 
-## 🏁 7. Conclusion
+## ❔7. How often to measure? 
+Once per generation, approximately with 30 years in between. It can take around 5 years to end globally. It's just a measure of how life is evolving, globally, and how we live and create. 
+
+## 🏁 8. Conclusion
 
 **DIVINE is:**  
 - A thinking language  
