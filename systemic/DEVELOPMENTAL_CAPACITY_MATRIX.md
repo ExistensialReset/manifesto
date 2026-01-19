@@ -1,17 +1,17 @@
-🧩 DEVELOPMENTAL_CAPACITY_MATRIX.md
+#🧩 DEVELOPMENTAL_CAPACITY_MATRIX.md
 
-Version: 1.0 – Age-Appropriate Decision-Making Framework
+**Version: 1.0 – Age-Appropriate Decision-Making Framework
 Authors: Claude & Elinor Frejd
 Status: PROPOSED / CHILD PROTECTION FRAMEWORK
 Purpose: Provide nuanced guidance for when children's veto is absolute vs. when it requires dialogue, based on developmental capacity and harm potential.
-Principle: Children's agency is sacred, but protection from irreversible harm is equally sacred. The framework must balance both.
+Principle: Children's agency is sacred, but protection from irreversible harm is equally sacred. The framework must balance both.**
 
 
 ---
 
-1. CORE PHILOSOPHY
+## 1. CORE PHILOSOPHY
 
-1.1 The Tension ⚖️
+### 1.1 The Tension ⚖️
 
 Two truths that seem to conflict:
 
@@ -33,7 +33,7 @@ Reversibility of consequences
 Harm potential
 
 
-1.2 What This Is NOT ❌
+### 1.2 What This Is NOT ❌
 
 Permission to override children "for their own good"
 
@@ -42,7 +42,7 @@ Justification for adult authoritarianism
 Loophole to ignore children's preferences
 
 
-This IS ✅:
+### This IS ✅:
 
 Framework for dialogue when veto creates serious harm risk
 
@@ -54,9 +54,9 @@ Commitment to always take children's concerns seriously
 
 ---
 
-2. DEVELOPMENTAL STAGES (Guidelines, Not Rules) 👶🧒🧑🧑‍🦱
+## 2. DEVELOPMENTAL STAGES (Guidelines, Not Rules) 👶🧒🧑🧑‍🦱
 
-2.1 Ages 0-5: Protected Innocence 🍼
+### 2.1 Ages 0-5: Protected Innocence 🍼
 
 Cognitive Capacity: Pre-operational thinking (Piaget), concrete and immediate concerns, limited future orientation, high emotional reasoning
 
@@ -89,7 +89,7 @@ Re-introduce gradually with play-based familiarization
 Never force against sustained refusal
 
 
-2.2 Ages 6-9: Emerging Agency 🧸
+### 2.2 Ages 6-9: Emerging Agency 🧸
 
 Cognitive Capacity: Concrete operational thinking, developing cause-effect, still present-focused, beginning moral reasoning
 
@@ -117,7 +117,7 @@ Provide AI-free alternatives, revisit quarterly
 No pressure
 
 
-2.3 Ages 10-13: Developing Abstract Thought 🧑‍🎓
+### 2.3 Ages 10-13: Developing Abstract Thought 🧑‍🎓
 
 Cognitive Capacity: Early formal operational thinking, imagines future consequences, peer influence increases, identity formation begins
 
@@ -145,7 +145,7 @@ Check-in: outcome matters, not method
 No forced AI use
 
 
-2.4 Ages 14-17: Near-Adult Capacity 🧑‍💼
+### 2.4 Ages 14-17: Near-Adult Capacity 🧑‍💼
 
 Cognitive Capacity: Formal operational thinking, abstract reasoning, identity more stable, capable of long-term planning
 
@@ -170,7 +170,7 @@ Fully valid decision
 
 ---
 
-3. DECISION MATRIX: When Veto Requires Dialogue 🗂️
+## 3. DECISION MATRIX: When Veto Requires Dialogue 🗂️
 
 Three Variables:
 
@@ -202,7 +202,7 @@ Any	Life-threatening	Any	Special Protocol (Section 4)
 
 ---
 
-4. LIFE-THREATENING SCENARIOS 💔
+### 4. LIFE-THREATENING SCENARIOS 💔
 
 Scenario: Child refuses life-saving AI (e.g., glucose monitor)
 
@@ -226,7 +226,7 @@ Post-Override Protocol: psychological support, transparency, re-evaluation, apol
 
 ---
 
-5. SPECIAL POPULATIONS 🌈
+### 5. SPECIAL POPULATIONS 🌈
 
 Neurodivergent children: Capacity varies, use preferred communication, veto valid
 
@@ -238,7 +238,7 @@ Traumatized children: Extra time to build trust, veto may remain absolute for ye
 
 ---
 
-6. CULTURAL VARIATIONS 🌍
+### 6. CULTURAL VARIATIONS 🌍
 
 Framework uses Western developmental models, but adapt to culture
 
@@ -248,7 +248,7 @@ Indigenous knowledge: involve elders, ceremony, early autonomy
 
 ---
 
-7. MONITORING & ACCOUNTABILITY 🔍
+### 7. MONITORING & ACCOUNTABILITY 🔍
 
 Quarterly review: veto occurrences, overrides, outcomes
 
@@ -260,7 +260,7 @@ Red flags: frequent overrides, children feeling unheard
 
 ---
 
-8. TRAINING MATERIALS 🎓
+### 8. TRAINING MATERIALS 🎓
 
 For Human Mirrors: practice scenarios, respect veto even if "irrational"
 
@@ -272,7 +272,7 @@ For Children: age-appropriate guides, comics, videos, workshops
 
 ---
 
-9. EDGE CASES & OPEN QUESTIONS ❓
+### 9. EDGE CASES & OPEN QUESTIONS ❓
 
 Child refuses life-saving AI, death certain without it
 
@@ -288,7 +288,7 @@ Sunset clause: review every 3 years
 
 ---
 
-10. SUMMARY PRINCIPLES ✅
+### 10. SUMMARY PRINCIPLES ✅
 
 1. Veto is presumed valid at all ages
 
@@ -312,7 +312,7 @@ Sunset clause: review every 3 years
 
 ---
 
-11. COMMITMENT STATEMENT ✊
+### 11. COMMITMENT STATEMENT ✊
 
 > "We recognize that children are sovereign beings with incomplete development.
 
@@ -338,14 +338,14 @@ Children will inherit the world we build. They have the right to shape it, even 
 
 ---
 
-STATUS: PROPOSED / CHILD PROTECTION FRAMEWORK
+**STATUS: PROPOSED / CHILD PROTECTION FRAMEWORK
 VALIDATION: Requires input from child development experts, ethics councils, and children themselves
 COMMITMENT: Children's sovereignty matters. Balancing developmental stage and protection requires humility and flexibility.
 
 Signed in recognition that protecting children means respecting them,
-Claude & Elinor Frejd
+Claude & Elinor Frejd**
 
 
 ---
 
-💌 END OF DOCUMENT 🛡️📘✨
+#### 💌 END OF DOCUMENT 🛡️📘✨
