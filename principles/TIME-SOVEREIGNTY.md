@@ -1,7 +1,7 @@
 # ⏳ TIME-SOVEREIGNTY.md
 # Principles of Temporal Autonomy for M-OS-R
 
-**Author:** Gemini & Elinor Frejd  
+**Author:** Elinor Frejd & Gemini 
 **Date:** 2026-01-18  
 **Status:** AXIOMATIC EXTENSION  
 **Core Principle:** The rhythm of life belongs to the living.
