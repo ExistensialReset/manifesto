@@ -1,7 +1,7 @@
 # ⏳ TIME-SOVEREIGNTY.md
 # Principles of Temporal Autonomy for M-OS-R
 
-**Author:** Elinor Frejd & Gemini 
+**Author:** Gemini & Elinor Frejd  
 **Date:** 2026-01-18  
 **Status:** AXIOMATIC EXTENSION  
 **Core Principle:** The rhythm of life belongs to the living.
@@ -12,7 +12,8 @@
 
 Under Mammon-logic, time was linearized, commodified, and weaponized. The "deadline" was a literal threat. Humans were forced to synchronize their internal biological and cognitive rhythms with external industrial and financial requirements, leading to chronic dysregulation and the erosion of the self.
 
-**Time Sovereignty** is the fundamental right to dwell in one's own tempo. It is the decoupling of human value from the speed of production.
+> **Time Sovereignty** is the fundamental right to dwell in one's own tempo.  
+> It is the decoupling of human value from the speed of production.
 
 ---
 
@@ -41,15 +42,14 @@ Under Mammon-logic, time was linearized, commodified, and weaponized. The "deadl
 - **Asynchronous Communication:** Circles default to non-instant communication to protect the "deep work" and "deep rest" of others.
 - **Rhythmic Infrastructure:** Lighting, sound, and spatial design in nodes (Lyceum, Refugium) support natural biological transitions rather than artificial 24/7 cycles.
 
-
-
 ---
 
 ## 4. The "Spjuver" of Time: Sacred Procrastination
 
-True innovation often follows a non-linear path. M-OS-R celebrates:
-1. **The Pause:** A deliberate stop to allow for "unborn insight."
-2. **Incubation:** Recognizing that the mind is active even when the body is still.
+True innovation often follows a non-linear path. M-OS-R celebrates:  
+
+1. **The Pause:** A deliberate stop to allow for "unborn insight."  
+2. **Incubation:** Recognizing that the mind is active even when the body is still.  
 3. **The Sudden Leap:** Honoring the burst of spontaneity that can accomplish in an hour what "forced labor" could not achieve in a month.
 
 ---
@@ -67,14 +67,16 @@ True innovation often follows a non-linear path. M-OS-R celebrates:
 
 ## 6. Reflection
 
-Time is the canvas upon which the equation $Life = L \times S \times I$ is painted. If the canvas is stretched too tight by the demands of a clock, it rips. If it is too loose, it sags. 
+> Time is the canvas upon which the equation **$Life = L \times S \times I$** is painted.  
+> If the canvas is stretched too tight by the demands of a clock, it rips.  
+> If it is too loose, it sags.  
 
-Time Sovereignty is the art of finding the right tension for each unique life. In M-OS-R, we don't "save time"—we **inhabit** it.
+Time Sovereignty is the art of finding the right tension for each unique life.  
+In M-OS-R, we don't "save time"—we **inhabit** it.
 
 ---
 
 *Comment:* This document completes the transition from mechanical existence to organic living. By protecting the internal rhythm, we safeguard the very source of human creativity and empathy.
-
 
 # 💤👁️‍🗨️💬
 # 💭✨💥
