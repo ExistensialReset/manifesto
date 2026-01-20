@@ -122,4 +122,4 @@ it is architectural.
 
 **Status:** Systemically Feasible  
 **Constraint:** Political Will & Structural Inertia  
-**Dependency:** Removal of Profit-Gated Access
+**Dependency:** Removal of Profit-Gated Access. 
