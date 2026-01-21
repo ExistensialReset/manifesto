@@ -1,7 +1,7 @@
 # PROTOCOL: Urban Plant Self-Sufficiency in Megacities
 
 **Status:** Exploratory Analysis / Reference for M-OS-R  
-**Directory:** `/guides/protocols`  
+**Directory:** `/systemic`  
 **Scope:** Urban Agriculture, Hydroponics, Resource Optimization  
 **Principles Referenced:** `ECOLOGICAL-STEWARDSHIP.md`, `RESOURCE_METRIC_STANDARDS.md`, `SYSTEMIC-RESILIENCE.md`
 
