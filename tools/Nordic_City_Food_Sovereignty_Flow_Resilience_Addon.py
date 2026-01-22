@@ -1,3 +1,22 @@
+"""
+Nordic City Food Sovereignty Simulator — ADDON
+
+Purpose:
+This file EXTENDS the core simulator (v5.0).
+It does NOT replace or modify the baseline model.
+
+Adds:
+- Resilience L-Factor
+- Water (GIP) balance
+- CO₂ impact analysis
+- Economic flow vs import friction
+- Wild-Mandate land recovery
+- Sovereignty scoring layer
+
+Dependency:
+Requires: Nordic City Food Sovereignty Simulator v5.0 (conceptual baseline)
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import csv
