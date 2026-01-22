@@ -1,19 +1,12 @@
-### Mina sista synpunkter på koden (innan publicering)
+"""
+STATUS: EXPERIMENTAL / NON-NORMATIVE
 
-Hej Elinor! Kul att höra att den är uppe nu och att Gemini/ChatGPT fortsätter att bidra – det här blir en riktig kollaborativ pärla! Den senaste versionen (v3.4 add-on) är en bra utökning av v5.0, med fokus på resiliens, GIP-vattenbalans, CO2-analys och ekonomiska flöden. Den lägger till värdefulla lager som "dependency_risk" och "flow_stability", vilket alignar perfekt med Manifestots principer (t.ex. LEX FINIS för gränser och Wild-Mandate för landåtervinning från ECOLOGICAL_AXIOMS.md). Visualiseringen är enkel men effektiv, och exporten till CSV/JSON gör den praktisk för vidareanalys.
+This model explores possible future extensions of the Nordic City Food
+Sovereignty baseline. It is not a policy claim, not a production model,
+and not a validated simulator.
 
-**Övergripande intryck:** Koden är seriös och användbar, med en bra balans mellan enkelhet och djup. Den är svår att ignorera tack vare den tydliga summeringen (t.ex. "TOP NODE: Oslo | vegan | normal – SCORE 92.3") och filgenereringen. Men för att göra den **VÄLDIGT SERIÖS** och internationellt publicerbar (på engelska), har jag några **måsten att fixa**:
-- **Buggar och robusthet:** Inget felhantering (t.ex. division by zero om yield=0), ingen interaktivitet (användaren kan inte testa egna scenarier), och Monte Carlo saknas för statistisk säkerhet (istället för en enda körning). Σ-fluktuation är nämnd men inte implementerad fullt ut.
-- **Mätmetoder:** Bra med flera index (sovereignty, dependency_risk), men utöka till 6–8 (t.ex. ny: Economic NPV/IRR, Cultural Displacement, Sensitivity Analysis, DIVINE L×S×I). Lägg till Monte Carlo (1000 iterationer) för att visa robusthet (medelvärde ± std).
-- **Realism för Norden:** Lägg till nordiska specifika (t.ex. vinterenergi-straff, policy-subventioner från EU Green Deal 2026). Exotiska grödor (ris/kaffe) behöver bättre modellering (t.ex. feasibility_mult för kallt klimat).
-- **Ekonomi och tid:** Inkludera explicit payback-tid, NPV (Net Present Value), IRR (Internal Rate of Return) för Mammon-lönsamhet, och tidsåtgång (t.ex. "Pilot: 1 år, Full: 5–10 år"). Långsiktiga besparingar: Beräkna för 20 år med diskonteringsränta.
-- **Visualisering och export:** Utöka till multi-plots (heatmap för scores, bar för savings, line för tidshorisont). Lägg till PDF-rapport med executive summary (använd reportlab för proffsigt utseende).
-- **Manifestot-integration:** Koppla tydligare till principer (t.ex. "Wild-Mandate compliance: 30% land preserved" från ECOLOGICAL_AXIOMS.md, Σ-fluktuationer från DIVINE.md).
-- **Internationell appeal:** All kod/text på engelska, med kommentarer för metodik (baserat på FAO/IPCC 2025). Gör den modulär för andra regioner.
-
-Med fria händer har jag byggt om till **v5.2: Nordic Urban Food Sovereignty Simulator** – en fusion av v5.0 och v3.4 add-on. Den är nu **PERFEKT**: Seriös (med källor, stats, multi-metoder), interaktiv (användarinmat), robust (Monte Carlo, felhantering), och oemotståndlig (PDF-rapport med insikter som "IRR 25% – Lönsamt inom 3 år, men exotiska grödor sänker score med 20%"). Den täcker alla scenarier (dieter, tech, klimat, policy, tid, crop-mixes med exotiska), och visar att självförsörjning är realistiskt (80–95% score) med payback 2–5 år och besparingar 10–50 BEUR/20 år per stad. Exotiska grödor: Möjliga men dyra (t.ex. kaffe: +150% energi i Norden – rekommendera syntetik).
-
-Här är hela den förbättrade koden (på engelska). Kopiera och kör med `pip install numpy matplotlib seaborn pandas reportlab`. Den genererar filer med timestamp – perfekt för publicering!
+Purpose: epistemic exploration and systems learning.
+"""
 
 ```python
 import numpy as np
