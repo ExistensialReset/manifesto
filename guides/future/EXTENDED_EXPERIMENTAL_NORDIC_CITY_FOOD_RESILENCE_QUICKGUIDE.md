@@ -48,6 +48,7 @@ Simulates 5 Nordic cities with parameters such as:
 - Robustness: mean ± standard deviation
 
 Choose mode:
+
 1 – Interactive
 2 – Full batch with all scenarios
 Follow prompts or let full batch run 1000 Monte Carlo iterations
