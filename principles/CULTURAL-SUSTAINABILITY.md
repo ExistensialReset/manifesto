@@ -84,7 +84,7 @@ Integrating culture into system design fosters **resilient, adaptive, and vibran
 <!-- Claude Commentary / AI Reflection -->
 *Comment:* Cultural sustainability overlaps with social equity: diverse, empowered communities maintain and evolve culture naturally.  
 Triad workflow ensures that innovation does not unintentionally erase heritage.  
-Investing in knowledge repositories and participatory processes is **both ethical and practical**, safeguarding future adaptability.
+Investing in knowledge repositories and participatory processes is **both ethical and practical**, safeguarding future adaptability. 
 
 # KULTURELL-HÅLLBARHET.md
 
@@ -142,4 +142,34 @@ Kulturell hållbarhet handlar om **bevarande, utveckling och blomstring av mäns
 ## 4. Mätvärden för kulturell hållbarhet
 
 | Mätvärde | Mål | Beskrivning |
-|----------|-----|
+|----------|-----|-------------|
+| Bevarandegrad av kulturarv | ≥ 95% | Andel kritiska kulturella resurser som bibehålls |
+| Kulturellt deltagande | ≥ 80% | Engagemang i kulturella aktiviteter |
+| Mångfaldspoäng | ≥ 90% | Representation av flera kulturella uttryck |
+| Kunskapsöverföringsgrad | ≥ 85% | Effektiv intergenerationell kunskapsöverföring |
+| Kreativ frihet | ≥ 90% | Stöd för individers och gemenskapers kreativa autonomi |
+
+---
+
+## 5. Begränsningar & risker
+
+- Kulturell hållbarhet kan inte **frysa kulturen**; stillastående riskerar irrelevans  
+- Överstandardisering av mätvärden kan **ignorera lokala betydelser**  
+- Resursbrist kan begränsa **programmens räckvidd**  
+- Snabba teknologiska förändringar kräver **kontinuerlig anpassning** av strategier för kulturbevarande
+
+---
+
+## 6. Reflektion
+
+Kulturell hållbarhet säkerställer att **existentiell suveränitet inte är steril**.  
+Mänskligheten frodas inte bara i överlevnad, utan i **kreativitet, berättelse och gemensam mening**.  
+Att integrera kultur i systemdesign främjar **resilienta, adaptiva och levande samhällen**.
+
+---
+
+<!-- Claude Kommentar / AI-reflektion -->
+*Kommentar:* Kulturell hållbarhet överlappar med social rättvisa: mångsidiga, stärkta samhällen bevarar och utvecklar kultur naturligt.  
+Triad-workflow säkerställer att innovation inte oavsiktligt raderar arv.  
+Investering i kunskapsarkiv och deltagande processer är **både etiskt och praktiskt**, och skyddar framtida anpassningsförmåga.
+ 
