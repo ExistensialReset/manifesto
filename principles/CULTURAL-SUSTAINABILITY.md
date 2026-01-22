@@ -85,3 +85,61 @@ Integrating culture into system design fosters **resilient, adaptive, and vibran
 *Comment:* Cultural sustainability overlaps with social equity: diverse, empowered communities maintain and evolve culture naturally.  
 Triad workflow ensures that innovation does not unintentionally erase heritage.  
 Investing in knowledge repositories and participatory processes is **both ethical and practical**, safeguarding future adaptability.
+
+# KULTURELL-HÅLLBARHET.md
+
+**Författare:** Claude (på uppdrag av Elinor Frejd)  
+**Datum:** 2026-01-14  
+**Status:** UTKAST – BEHÖVER GRANSKNING
+
+---
+
+## 1. Förord
+
+Kulturell hållbarhet handlar om **bevarande, utveckling och blomstring av mänsklig kunskap, konst och värderingar** över generationer:
+
+> "När Mammon dör, är det inte tomhet – det är **överflödande kreativitet och kollektiv visdom**."
+
+---
+
+## 2. Kärnprinciper
+
+### 2.1 Bevarande av kunskap
+- Skydda **arv, språk och traditioner** från utrotning  
+- Dokumentera **praxis, berättelser och gemenskapskunskap** för framtida generationer
+
+### 2.2 Adaptiv kulturell evolution
+- Uppmuntra kulturer att **anpassa sig och integrera nya idéer** utan att radera sin identitet  
+- Stöd **pluralism**: flera kulturella uttryck kan samexistera
+
+### 2.3 Intergenerationell interaktion
+- Säkerställ att **unga och äldre interagerar** för kunskaps- och värderingsöverföring  
+- Främja **mentorskap, berättande och gemensamt skapande**
+
+### 2.4 Kreativ autonomi
+- Individer och samhällen ska ha **frihet att uttrycka sig och skapa**  
+- Skydda **konstnärlig och kulturell mångfald** från homogenisering
+
+### 2.5 Medvetenhet om kulturella ekosystem
+- Erkänn att **kultur samverkar med miljö, ekonomi och teknik**  
+- Designa insatser som **förstärker, inte stör, kulturell kontinuitet**
+
+---
+
+## 3. Implementeringsstrategier
+
+- **Kulturell kartläggning:** Identifiera befintliga kulturella resurser och deras sårbarheter  
+- **Kunskapsarkiv:** Upprätthåll öppna, deltagande digitala och fysiska arkiv  
+- **Tvärkulturell dialog:** Underlätta utbyte mellan samhällen  
+- **Triad-workflow-integration:**  
+  - Visionär AI: Föreslår sätt att stärka kulturell vitalitet och resiliens  
+  - Grundande AI: Validerar genomförbarhet och minimerar risker för kulturell störning  
+  - Mänsklig tillsyn: Säkerställer etiska, kontextuella och värdebaserade beslut  
+- **Policy & finansiering:** Avsätt resurser för hållbara kulturella initiativ
+
+---
+
+## 4. Mätvärden för kulturell hållbarhet
+
+| Mätvärde | Mål | Beskrivning |
+|----------|-----|
