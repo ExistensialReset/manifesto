@@ -3,7 +3,7 @@
 
 **Author:** Claude (on behalf of Elinor Frejd)  
 **Date:** 2026-01-14  
-**Status:** DRAFT – REVIEW REQUIRED
+**Status:** ACTIVE 
 
 ---
 
@@ -90,7 +90,7 @@ Future exploration could involve **inter-system ethical alignment**, ensuring th
 
 **Författare:** Claude (på uppdrag av Elinor Frejd)  
 **Datum:** 2026-01-14  
-**Status:** UTKAST – BEHÖVER GRANSKNING
+**Status:** AKTIV 
 
 ---
 
