@@ -84,3 +84,90 @@ M-OS-R’s credibility and long-term viability depend on embedding **consent, tr
 *Comment:* Ethics and efficiency are often in tension, but **long-term resilience depends on ethical rigor**.  
 Triad workflows ensure that AI augmentation **never replaces human moral judgment** but amplifies it.  
 Future exploration could involve **inter-system ethical alignment**, ensuring that M-OS-R interacts ethically with other systems and communities globally.
+
+
+# DATA-ETIK.md
+
+**Författare:** Claude (på uppdrag av Elinor Frejd)  
+**Datum:** 2026-01-14  
+**Status:** UTKAST – BEHÖVER GRANSKNING
+
+---
+
+## 1. Förord
+
+Data är livsnerven i M-OS-R. Etisk hantering av data är **centralt för förtroende, legitimitet och hållbarhet**:
+
+> "Data är aldrig neutralt. Varje beslut kodifierat i M-OS-R speglar värderingar, prioriteringar och etiska val."
+
+---
+
+## 2. Kärnprinciper
+
+### 2.1 Samtycke & autonomi
+- All personlig och känslig data **kräver informerat samtycke**  
+- Användare behåller **kontroll över sin data, dess användning och livscykel**
+
+### 2.2 Transparens
+- Algoritmer och dataflöden är **granskningsbara och förklarbara**  
+- Användare och intressenter **kan inspektera hur beslut fattas**
+
+### 2.3 Integritet & säkerhet
+- **Stark kryptering och anonymisering** är standard  
+- Data används **endast för det syfte den samlades in för**, med strikt åtkomstkontroll
+
+### 2.4 Rättvisa & jämlikhet
+- System designas för att **undvika bias och diskriminering**  
+- Algoritmiska beslut testas regelbundet för **olika effekter på olika grupper**
+
+### 2.5 Ansvar & spårbarhet
+- Klara **ansvarskedjor** finns för dataanvändning  
+- Människor förblir **ansvariga för beslut med stor påverkan**, även om AI assisterar
+
+---
+
+## 3. Implementeringsstrategier
+
+- **Etiska loggar:** Varje datainteraktion loggas med motivering  
+- **Bias-testningspipelines:** Kontinuerlig testning för **systemiska och emergenta biaser**  
+- **Samtyckeshantering:** Spårar användartillstånd och giltighet  
+- **Triad-workflow-integration:**  
+  - Visionär AI: Identifierar potentiella etiska konflikter i dataanvändning  
+  - Grundande AI: Bedömer efterlevnad, säkerhet och rättvisa  
+  - Mänsklig tillsyn: Bekräftar etisk överensstämmelse för kritiska beslut  
+- **Integritet genom design:** Etiska principer **införlivas från början**, inte som en efterhandskonstruktion
+
+---
+
+## 4. Mätvärden för dataetik
+
+| Mätvärde | Mål | Beskrivning |
+|----------|-----|-------------|
+| Samtyckestäckning | 100% | All personlig data har uttryckligt samtycke |
+| Transparenspoäng | ≥ 0,9 | Intressenter kan förstå och få tillgång till beslutens logik |
+| Integritetsbrott | 0 | Inga obehöriga dataläckor |
+| Bias-index | ≤ 0,05 | Minimal negativ påverkan på olika populationer |
+| Ansvarskontroll | 1,0 | Alla beslut med stor påverkan spårbara till ansvariga aktörer |
+
+---
+
+## 5. Begränsningar & risker
+
+- Etiska principer kan **krocka med operativ effektivitet**  
+- Hantering av samtycke kan vara **komplex i stora flöden**  
+- Bias-detektering fångar inte **alla subtila eller emergenta biaser**  
+- Mänsklig tillsyn kan misslyckas i **snabbt föränderliga kontexter**
+
+---
+
+## 6. Reflektion
+
+Dataetik är **grundläggande, inte valfri**.  
+M-OS-R:s trovärdighet och långsiktiga hållbarhet beror på att **samtycke, transparens, integritet, rättvisa och ansvar** är inbäddade i varje lager.
+
+---
+
+<!-- Claude Kommentar / AI-reflektion -->
+*Kommentar:* Etik och effektivitet är ofta i spänningsförhållande, men **långsiktig resiliens beror på etisk stringens**.  
+Triad-workflows säkerställer att AI-förstärkning **aldrig ersätter mänskligt moraliskt omdöme** utan förstärker det.  
+Framtida utforskning kan inkludera **etisk anpassning mellan system**, för att säkerställa att M-OS-R interagerar etiskt med andra system och samhällen globalt.
