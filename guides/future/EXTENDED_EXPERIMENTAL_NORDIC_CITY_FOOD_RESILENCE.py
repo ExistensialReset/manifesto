@@ -6,6 +6,12 @@ Sovereignty baseline. It is not a policy claim, not a production model,
 and not a validated simulator.
 
 Purpose: epistemic exploration and systems learning.
+
+Simulator
+Based on v5.2 (Grok + Elinor + Gemini/ChatGPT)
+Purpose: Exploring extended scenarios, exotic crops, Monte Carlo robustness, M-OS-R principles
+Status: EXPERIMENTAL – for testing/analysis, not production
+
 """
 
 ```python
