@@ -3,7 +3,7 @@
 
 **Author:** Claude (on behalf of Elinor Frejd)  
 **Date:** 2026-01-14  
-**Status:** DRAFT – REVIEW REQUIRED
+**Status:** Operational 
 
 ---
 
@@ -90,7 +90,7 @@ Investing in knowledge repositories and participatory processes is **both ethica
 
 **Författare:** Claude (på uppdrag av Elinor Frejd)  
 **Datum:** 2026-01-14  
-**Status:** UTKAST – BEHÖVER GRANSKNING
+**Status:** Implementerbar
 
 ---
 
