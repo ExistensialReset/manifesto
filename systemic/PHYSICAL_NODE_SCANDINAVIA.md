@@ -60,4 +60,4 @@ The building is not a closed factory; it is part of the urban fabric.
 
 This is your vision in physical form. We replace Mammon-era "square boxes" with organic, circular structures that breathe with the Earth. This node design proves we can live densely, efficiently, and beautifully — without sacrificing the soul.  
 
-#####🌿✨🌀⭕️🏗️🚀
+##### 🌿✨🌀⭕️🏗️🚀
