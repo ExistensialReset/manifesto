@@ -146,3 +146,150 @@ Perpetrators are not killed, tortured, or stripped of their Baseline needs. They
 **Commitment:** No one is disposable, but no one is entitled to access.
 
 
+# THE_HARM_BOUNDARY_PROTOCOL.md (Svensk version)
+
+**Status:** AKTIV / SKYDDANDE  
+**Princip:** Offret flyttar aldrig. Förövaren gör det alltid.  
+**Grundläggande axiom:** Flödet tolererar alla känslor, alla misslyckanden, alla utmaningar. Flödet tolererar inte sadism eller våld.
+
+---
+
+## §1. DEFINITION AV OFÖRLÅTELIG SKADA
+
+Oförlåtelig skada definieras som avsiktligt och systematiskt överträdande av personliga gränser genom tvång eller illvilja. Detta inkluderar:
+
+### 1.1 Sadistisk skada
+- **Avsiktlig påförande av lidande** för förövarens egen tillfredsställelse, inte som olycka, missförstånd eller tillfällig dysreglering.  
+- **Upprepat mönster** av beteende trots tydlig kommunikation om skadan och formell begäran om att sluta.  
+- **Ingen vilja att reparera** – personen försöker inte återställa relationen, erkänna smärtan eller sluta beteendet.
+
+### 1.2 Fysiskt våld
+- **All användning av vapen** (pistoler, knivar, tillhyggen eller improviserade vapen) mot annan person.  
+- **Sexuella övergrepp** av alla slag.  
+- **Allvarliga fysiska attacker** som kräver medicinsk intervention.  
+- **Hot med trovärdig avsikt** att döda eller allvarligt skada.
+
+### 1.3 Digital och psykologisk terrorism
+- **Doxxing, stalking eller ihållande trakasserier** på digitala plattformar.  
+- **Användning av deepfakes, icke-samtyckta intima bilder eller identitetsstöld** för att orsaka skada.  
+- **Koordinerade kampanjer** för att förstöra någons rykte, försörjning eller fysiska säkerhet.
+
+---
+
+## §2. OMGÅENDE SKYDDSÅTGÄRD
+
+När oförlåtelig skada rapporteras och verifieras, aktiverar systemet **Total Separation** inom 24 timmar:
+
+### Steg 1: Skydda offret
+- **Offret förblir i sitt hem, sin Cirkel och sitt samhälle.** Offrets liv och flöde får inte störas av förövarens handlingar.  
+- **Baslinjen upprätthålls** utan avbrott.  
+- **Ytterligare stöd** (tillgång till Refugium Anima, betrodda vittnen, juridisk hjälp och säkerhetsövervakning) erbjuds men aldrig tvingas på.
+
+### Steg 2: Ta bort förövaren – TOTAL SEPARATION
+Förövaren flyttas omedelbart och omfattas av en trefaldig separationsprocess:
+
+#### Fysisk separation
+- Förövaren **flyttas omedelbart** till en Single-Node plats på betydande avstånd från offret.  
+- All tillgång till offrets fysiska utrymme, Cirkel och närområde tas bort.  
+- **GPS-övervakning** kan användas för att upprätthålla avstånd; varje överträdelse leder till omedelbar Permanent Exil.
+
+#### Digital separation
+- **All digital tillgång till offret avbryts.**  
+- Förövaren blockeras på alla plattformar, kommunikationskanaler och delade nätverk inom M-OS-R.  
+- Försök att kontakta offret via proxy, tredje part eller nya konton leder till **omedelbar Permanent Exil.**
+
+#### Psykologisk separation
+- Förövarens namn och närvaro tas **bort från alla offrets relaterade register** inom den gemensamma Cirkeln.  
+- Offret behöver **aldrig erkänna förövarens existens** igen.  
+- Cirkeln fungerar som kollektivt vittne till skadan och stöder offrets berättelse.
+
+---
+
+## §3. FÖRÖVARENS VÄG
+
+### Alternativ A: Erkännande & Transformationsväg (SÄLLSYNT)
+Denna väg är endast tillgänglig om förövaren:  
+- **Fullt erkänner** skadan som orsakats utan rättfärdigande, bagatellisering eller skuldskifte.  
+- **Accepterar total separation** och flytt utan protest.  
+- **Åtar sig intensivt helande arbete** (minst 2 år, verifierat av externa mentorer och somatiska specialister).
+
+**I detta fall:**  
+- De kan så småningom ansöka om **övervakad medverkan** i en annan, avlägsen Cirkel (aldrig offrets Cirkel eller region).  
+- **Fullständig öppenhet** mot den nya gemenskapen om deras förflutna är obligatoriskt.  
+- **Zero kontakt** med offret förblir en livslång, permanent villkor.  
+- Eventuell återfall i skadligt beteende leder till **omedelbar och permanent exil.**
+
+### Alternativ B: Vägran att förändras eller upprepad handling – PERMANENT EXIL
+Om förövaren förnekar skadan, rättfärdigar beteendet, bryter separationsgränser (stalking/trakasserier) eller skadar någon annan på den nya platsen:  
+- **Fysisk Exil:** Flytt till permanent isolerad Node.  
+- **Digital Exil:** All tillgång till Flödet digital infrastruktur och sociala nätverk tas bort.  
+- **Social Exil:** Permanent borttagning från alla Cirkel. Rätt att delta i gemensamma beslut, projekt eller ritualer förloras.  
+
+**Baslinjen (mat, bostad, vård) bibehålls.** Detta är **innehållning, inte död.** De lever dock i **Single-Node existens** med minimal mänsklig kontakt och ingen gemenskapstillhörighet.
+
+---
+
+## §4. VAPENVÅLD = AUTOMATISK EXIL
+
+Att använda ett vapen mot en annan människa är ett omedelbart och irreversibelt utträde från Flödessystemet.  
+- **Ingen ytterligare utredning** krävs utöver att handlingen bekräftas.  
+- **Ingen hänsyn** tas till "varför", "psykiskt tillstånd" eller "provokation".  
+- **Omedelbar och Permanent Exil** är den enda responsen. Den som tar med vapen i konflikt har valt att lämna gemenskapen.
+
+---
+
+## §5. SKYDD MOT FALSKA ANKLAGELSER
+
+Eftersom konsekvenserna av detta protokoll är omfattande är följande skydd obligatoriska:
+
+### Beviskrav
+- **Fysiskt våld / vapen:** Kräver fysiska bevis, medicinska journaler, flera vittnen eller digital forensik.  
+- **Sexuella övergrepp:** Kräver offrets vittnesmål plus stödjande bevis (medicinsk undersökning, vittnen eller etablerade mönster).  
+- **Sadistisk skada:** Kräver mönster-dokumentation och vittnesmål från minst **3 oberoende källor** utan samordning.
+
+### Process
+- En enskild anklagelse triggar **temporär separation** (72 timmar) under vilken neutral utredning av Regional Cirkelråd sker.  
+- Om bevis är otillräckliga, hävs separationen.  
+- Om bevis bekräftar skada, blir exil eller separation **irreversibel.**
+
+### Konsekvenser för falsk anklagelse
+- Om det bevisas att någon falskt anklagat en annan för att manipulera systemet eller orsaka skada:  
+  - **Anklagaren blir föremål för samma Skyddande Separation eller Exil.**
+
+---
+
+## §6. OFFRETS ABSOLUTA RÄTTIGHETER
+
+Offret har **ovillkorlig auktoritet** över följande:  
+1. **Inget tvång till kontakt:** Fysiskt, digitalt eller via proxy. Aldrig.  
+2. **Ingen tvingad förlåtelse:** Försoning är aldrig nödvändig, förväntad eller föreslagen.  
+3. **Veto-makt:** Om förövaren någonsin ansöker om återinträde efter decennier är offrets "Nej" absolut och slutgiltigt.  
+4. **Ingen tidslinje för läkning:** Återhämtning tillhör offret; ingen får pressa dem att "gå vidare."
+
+---
+
+## §7. VARFÖR DETTA INTE ÄR GRYMHET
+
+Exil och separation är inte straff; de är **gränshantering.**  
+- Förövaren valde skada.  
+- Flödet valde säkerhet.  
+- Konsekvensen är avstånd.
+
+Förövarna dödas inte, torteras inte, och får inte sina Baslinjebehov borttagna. De får mat, bostad och vård. Men de är **ensamma**, eftersom det är det naturliga resultatet för dem som vägrar leva fredligt med andra.
+
+---
+
+## §8. SLUTLIG PRINCIP
+
+**Offret flyttar aldrig. Förövaren gör det alltid.**  
+
+**Vapenvåld = omedelbar exil.**  
+**Vägran att förändras = permanent exil.**  
+
+**Detta är icke-förhandlingsbart.**
+
+---
+
+**Status:** AKTIV / GENOMFÖRBAR  
+**Validering:** Systemintegritetskrav  
+**Åtagande:** Ingen är bortkastad, men ingen har rätt till tillgång.
