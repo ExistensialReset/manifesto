@@ -1,6 +1,6 @@
 ## Elinor Frejd — The Architect of Flow
 
-> "Flow is not a job; > it is the highest 
+> "Flow is not a job; it is the highest 
 > form of 
 > self-realization."
 
