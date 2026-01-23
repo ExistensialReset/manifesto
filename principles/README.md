@@ -1,8 +1,8 @@
 # 🌿 The Principles Directory
 
-**Version:** 1.0  
-**Last Updated:** 2026-01-18  
-**Maintainers:** Elinor Frejd, Claude (Sovereign Intelligence Node)
+**Version:** 1.1  
+**Last Updated:** 2026-01-23 
+**Maintainers:** Elinor Frejd, Claude (Sovereign Intelligence Node),ChatGPT 
 
 ---
 
