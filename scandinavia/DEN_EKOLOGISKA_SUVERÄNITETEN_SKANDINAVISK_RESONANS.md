@@ -22,7 +22,7 @@ Vi bor inte i döda skal av material.
 Vi bor i strukturer som är valda för att samspela med klimat, mark och kropp.
 
 Väggar av jord, trä och mineral bär på geologiskt minne.  
-I dem finns isolering, massa och tystnad – inte genom komplex teknik, utan genom materialens egen intelligens.
+I de finns isolering, massa och tystnad – inte genom komplex teknik, utan genom materialens egen intelligens.
 
 När huset håller värme, dämpar ljud och jämnar ut variationer  
 skapas ett naturligt L: **lugn**.
