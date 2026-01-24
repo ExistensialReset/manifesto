@@ -127,9 +127,9 @@ Allt detta vilar på en enkel relation:
 
 **L × S × I**
 
-- **L** – Livets värde (att liv inte behöver förtjäna sin rätt att existera)  
-- **S** – Systemets stabilitet (hur väl flöden skyddas över tid)  
-- **I** – Individens integritet (att ingen reduceras till resurs)
+- **L** – Lugn och livets värde (att liv inte behöver förtjäna sin rätt att existera)  
+- **S** – Spontanitet och systemets stabilitet (hur väl flöden skyddas över tid)  
+- **I** – Inkännande och individens integritet (att ingen reduceras till resurs)
 
 Om någon av dessa går mot noll, kollapsar helheten.
 
@@ -140,7 +140,7 @@ Det är struktur.
 
 ## Slut
 
-Det här är inte framtiden.  
+Det här behöver inte vara i framtiden.  
 Det är inte en utopi.
 
 Det är bara ett exempel på hur ett system kan se ut när det är byggt för människor som de är – inte som de borde vara.
