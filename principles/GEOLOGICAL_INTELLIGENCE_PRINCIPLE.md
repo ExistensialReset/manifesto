@@ -1,6 +1,6 @@
 # GEOLOGICAL INTELLIGENCE PRINCIPLE (GIP)
 
-**Directory:** `/systemic`  
+**Directory:** `/principles`  
 **Status:** Mandatory Engineering Constraint  
 **Depends on:** `/principles/NON-HARM_BASELINE.md`  
 **Version:** 1.0
