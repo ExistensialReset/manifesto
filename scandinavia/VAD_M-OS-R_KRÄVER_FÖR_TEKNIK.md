@@ -198,4 +198,4 @@ Det kräver **teknik som vet när den ska kliva åt sidan**.
 Spontanitet är inte ineffektivitet.  
 Det är ett tecken på att systemet är tryggt.
 
-🦋
+🦋🤖💬
