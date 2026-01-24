@@ -188,7 +188,7 @@ Alla krav ovan kan reduceras till en relation:
 **L × S × I**
 
 - **L – Lugn & livets okränkbarhet**  
-- **S – Stabilitet över tid, inte topprestanda**  
+- **S – Spontanitet och stabilitet över tid, inte topprestanda**  
 - **I – Inkännande & integritet för individen**
 
 Om någon faktor pressas mot noll  
