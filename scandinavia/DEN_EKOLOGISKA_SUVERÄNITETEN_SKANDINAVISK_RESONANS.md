@@ -83,6 +83,10 @@ Det är ett försök att leva i takt.
 
 ---
 
+![HELIX_NODE – EKOLOGISK_BOSTAD_FÖR_EXISTENTIELL_SUVERÄNITET](HELIX_NODE.png)
+
+---
+
 *Denna text är en resonans, inte ett krav.*  
 *Den beskriver en riktning, inte en specifikation.*
 
