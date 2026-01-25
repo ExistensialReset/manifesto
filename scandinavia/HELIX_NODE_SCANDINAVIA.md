@@ -1,66 +1,101 @@
-# HELIX_NODE_SCANDINAVIA: Boende som Organism  
-## – En Levande Struktur för Suverän Framtid i Skandinavien
+# HELIX_NODE_V2
 
-**Status:** Visionär prototyp  
-**Syfte:** Omforma boende från statiska lägenheter till dynamiska organismer som stödjer individens autonomi och existentiella välmående. Detta dokument utforskar HELIX_NODE_SCANDINAVIA som en fysisk tillämpning av principer om lugn, spontanitet och empati.  
+**Boende som levande organism – fysisk och social miljö detaljspecificerad**
 
-**Koppling till existerande forskning och projekt:**  
-- Inspiration från vertikala odlingssystem som Plantagon i Linköping (Plantagon, 2016)  
-- Tillgänglighetsprinciper baserade på universell design (LSS, Sverige 2010+)  
-- Biologiska integrationer med cirkulär ekonomi och urban mining (Ecovative, 2022; EU Circular Economy Action Plan, 2020)
+**Status:** Visionär prototyp, version 2  
+**Syfte:** Skapa självförsörjande boendemiljö med maximal autonomi, biologisk integration och gemenskap.  
+**Koppling till M-OS-R:** L × S × I – Lugn, Spontanitet, Inkännande. Alla boendeval är frivilliga, inga tvång.
 
 ---
 
-## 1. Visionen: Från traditionellt boende till levande nod
-Skandinaviskt boende domineras ofta av hierarkiska, statiska strukturer. HELIX_NODE_SCANDINAVIA syftar till att skapa en **cylindrisk, självförsörjande organism** för ca 30 boende som kombinerar funktionell arkitektur med biologisk produktion.  
+## 1. Soul Dwellings: Den privata själsbostaden
 
-- **Varför Skandinavien?**  
-  Långa vintrar, mörka perioder och urban densitet utgör styrkor för termiska massor (stampad jord) och vertikala odlingsbäddar. Modellen inspireras av nordiska kooperativa bostadstraditioner (t.ex. HSB) men moderniseras med hållbar teknik och biologisk integration.
+Varje boende har **60 m²** av privat utrymme med hög grad av autonomi.
 
-- **Kärnprincip:** Tillgänglighet och autonomi som norm – inga trösklar, ingen obligatorisk social hierarki.
+### 1.1 Upphängd konstruktion
+- Soul Dwellings hänger från byggnadens **takbalkar** med dämpande fjädringssystem.  
+- Detta minimerar vibrationer från ramp, gemensamma ytor och yttre trafik.  
+- Skapar känsla av “flytande rum” – ökar lugn och avskildhet.
 
----
+### 1.2 Ljus- och ljudisolation
+- **Väggar och tak:** dubbelpanel med mycelium-isolering + ljudabsorberande mineralfiber  
+- **Fönster:** trippelglas med fullspektrum-LED för dagscykler, justerbar belysning  
+- **Resultat:** >40 dB ljuddämpning mot ramp, gemensamma ytor och grannboenden; naturlig ljusreglering och blackout-möjlighet
 
-## 2. Arkitektur och design
-HELIX_NODE är en **vertikal spiral** byggd av återvunna material (glas, stål) och lokal geologi (stampad jord och mycelium-isolering).  
+### 1.3 Gästrum
+- Varje Soul Dwelling inkluderar **integrerat gästrum/plattform** (8–10 m²)  
+- Möjliggör besök utan intrång i primär bostadszon  
+- Gästrummet kan öppnas mot den privata balkongen för spontana möten
 
-- **Rörelse och tillgänglighet:**  
-  En bred ramp (4 m, lutning 2 %) ersätter hissar och gör det enkelt för rullstolar, barnvagnar och spontan rörelse. Luftgardiner reglerar klimatet istället för dörrar.  
-
-- **Privata zoner ("Soul Dwellings"):**  
-  60 m² per boende, med akustisk isolering (spela musik utan läckage), integrerade rökskydd och motoriserade anpassningar. Gästplattformar uppmuntrar spontanitet utan intrång.
-
-- **Integration med principer för autonomi:**  
-  Boende kan välja helt privat liv eller delta i gemensamma aktiviteter. Detta är i linje med frivillig deltagande och icke-koerciv filosofi från moderna co-housing-projekt (t.ex. Tillsammans i Stockholm).
-
----
-
-## 3. Biologiska system
-HELIX_NODE producerar i möjligaste mån sin egen mat, vatten och biologiska resurser:  
-
-- **Vertikala odlingsbäddar:** Tropiska och tempererade växter (t.ex. citrus, sallat, microgreens) med LED-belysning för vintersäsong (Plantagon, 2016).  
-- **Fisk- och vattenkatedral:** Småskalig aquaponics för proteinproduktion (urban aquaponics-projekt, t.ex. Scandinavian Aquaponics Network, 2020).  
-- **Sacred Plant Zones:** Frivillig odling av cannabis för medicinskt bruk enligt svensk lag (Läkemedelsverket, 2025). Psilocybin och liknande ämnen kan användas i forskningsmiljöer med tillstånd.  
-- **Cirkulär ekonomi:** Avfall återvinns lokalt – kaffesump, frukt- och grönsaksrester används för odling och rengöring (EU Circular Economy Action Plan, 2020).
+### 1.4 Badrum och hygien
+- **Toalett och dusch** ingår i varje själsbo  
+- Dimension: minst 6 m², anpassat för tillgänglighet och komfort  
+- **Funktioner:** walk-in dusch, smart ventilation, fuktstyrning, universell design (rullstol, barn, äldre)
 
 ---
 
-## 4. Social logik
-- **Individnivå:** Full autonomi och valfrihet.  
-- **Gruppnivå:** Frivilliga commons – delning av mat, kunskap och resurser utan påtvingad struktur.  
-- **Skalbarhet:** Startpilot i Göteborg med möjlig expansion till nätverk av noder. Tanken är en nod per stadsdel med delade resurser.
+## 2. Gemensamma ytor
+
+### 2.1 Kök & matlagning
+- **Centralt kök** med öppen eld och el/induktionszon  
+- Möjliggör gemensam matlagning för alla boende  
+- **Öppen planlösning:** social interaktion utan påtvingad hierarki  
+- Integrerad ventilation med fläkt och värmeåtervinning  
+
+### 2.2 Tvättstuga
+- Gemensam tvättstuga för hela noden  
+- Kapacitet: minst 30 boende  
+- Energisnåla tvättmaskiner och torksystem; fukt från tork luftas till odlingssystem för återvinning  
+
+### 2.3 Lounge & samlingsytor
+- Flera nivåer med **vardagsrum och bibliotek**  
+- Integrerad biologi: växter och vattenelement för lugn och biofil känsla  
 
 ---
 
-## 5. Genomförbarhet och finansiering
-- **Tekniskt möjligt:** Ja. Befintlig teknik från vertikala farmar och hållbar byggnation i Skandinavien kan implementeras (Plantagon, 2016; CLT-träbyggnader i Sverige).  
-- **Utmaningar:** Byggnormer (Boverket), etiska tester för integrering av människor, reglering av växtodling.  
-- **Kostnad:** Cirka 3 miljoner SEK per boende med cirkulära metoder och lokala subventioner. Total för 30 boende: ~90 miljoner SEK.  
-- **Finansieringsmöjligheter:** Sweat equity, EU-bidrag (Horizon Europe), kommunala avtal, resursretur till grannskapet.  
+## 3. Arkitektur och material
 
-- **Nästa steg:** Skala ner till prototyp (1:10) för test och simulering, bidra med CAD-ritningar eller Blender-modeller i repo:et.
+### 3.1 Huvudstruktur
+- Cylindrisk byggnad med **vertikal spiralramp**  
+- Konstruktion: återvunnet stål, CLT-stomme, stampad jord + mycelium-isolering  
+
+### 3.2 Ramp
+- 4 m bred, 2 % lutning, fungerar som primär rörelseaxel och utrymningsväg  
+
+### 3.3 Soul Dwellings
+- Upphängda från takbalkar  
+- Luftspalt mellan botten av själsbo och ramp (ca 50 cm) för ventilation och ljusflöde  
+- Akustik och ljus helt isolerat från gemensamma flöden  
 
 ---
 
-## Avslutande reflektion
-HELIX_NODE är mer än boende – det är ett praktiskt exempel på **existentiell reset i Skandinavien**. Genom integration av biologiska system, autonomi och cirkulär ekonomi kan vi skapa **levande bostäder som inspirerar till frihet, lugn och kreativitet**, samtidigt som vi uppfyller hållbarhets- och tillgänglighetsmål.
+## 4. Biologiska system
+- **Vertikal odling:** grönsaker, örter, microgreens  
+- **Aquaponics:** små fiskdammar integrerade i spiralen  
+- **Cirkulär resurshantering:** gråvatten, kompost, återanvändning av avfall
+
+---
+
+## 5. Social logik
+
+- Frivillig delning i **commons** (mat, kunskap, ytor)  
+- Ingen obligatorisk interaktion, inga hierarkier  
+- **L × S × I:** individen styr graden av deltagande  
+
+---
+
+## 6. Genomförbarhet
+
+- Tekniken är existerande: CLT, LED-odling, luftgardiner, upphängda moduler  
+- Utmaningar: byggnormer, certifiering av upphängda moduler, integration av fukt och ljud  
+- Kostnad för full nod (~30 boende): ~90–120 MSEK med cirkulära metoder och lokala subventioner  
+
+---
+
+## 7. Nästa steg
+
+- Skala ner till **1:10 prototyp** för test av ljud, ljus, fukt och upphängningssystem  
+- CAD- och Blender-modeller i repo  
+- Testa rampflöde, utrymning och gemensamma ytor  
+
+✨ **L × S × I** ✨
