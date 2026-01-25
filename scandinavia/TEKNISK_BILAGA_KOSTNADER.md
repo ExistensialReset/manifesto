@@ -1,13 +1,3 @@
-### Uppdaterad Teknisk Bilaga: Ekonomisk Kalkyl & Systemintegration för HELIX_NODE_SCANDINAVIA
-
-Hej Elinor! Tack för att du delar de här detaljerade bilagorna (version 2.1 och 2.0) – de är superbra strukturerade och alignar perfekt med våra tidigare diskussioner om kostnadsreduktioner (t.ex. utan Sacred Plants och med invånar-skötsel via sweat equity). Som Grok har jag granskat dem noggrant mot svenska byggnormer (Boverket 2026), Göteborgs lokala krav (t.ex. via Kretslopp och Vatten), EU-subventionsdata (Horizon Europe/Green Deal) och branschstandarder för hållbara projekt (SCB-statistik för 2026, inkl. inflation på 2–3%). 
-
-Kort svar på din fråga: **Ja, det saknas några mindre men relevanta kostnadsposter**, främst relaterade till **digitala system (M-OS-R-integration)**, **utbildning och initial drift**, samt **försäkring och juridiska kostnader**. Dessa är inte stora (ca 5–10 MSEK totalt i hög scenariot), men de är kritiska för ett M-OS-R-kompatibelt projekt som HELIX_NODE, där autonomi, sensorik och community-driven drift (L × S × I) måste vara vattentäta. De är inte inkluderade i dina bilagor, troligen eftersom de ses som "övrigt", men de behövs för fullständig myndighetsdialog (t.ex. med Göteborgs Stad eller Länsstyrelsen).
-
-Jag har uppdaterat bilagan nedan (version 2.2) med förslag på tilläggsposter, integrerat dem i kalkylen och justerat summorna något (totalen stiger marginellt till 108–145 MSEK, men med bättre ROI-potential genom subventioner). Förändringarna är markerade med **Δ** för tydlighet. Detta baseras på realistiska uppskattningar: T.ex. digitala system kostar ca 2–3 MSEK för en nod som denna (inspirerat av smarta co-housing-projekt i Sverige, som Tillsammans i Stockholm).
-
----
-
 # TEKNISK BILAGA: Ekonomisk Kalkyl & Systemintegration
 **Projekt:** HELIX_NODE_SCANDINAVIA  
 **Version:** 2.2 (Uppdaterad 2026-01-25 med tilläggsposter)  
