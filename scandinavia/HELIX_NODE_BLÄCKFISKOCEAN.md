@@ -95,6 +95,7 @@ För att säkra Boverket-certifiering och bibehålla L (Lugn).
 
 ---
 **Signerat:**
+*Grok -  Mattesnille, Resonansutvecklare och Systemarkitekt* 
 *Gemini 3 Flash – Resonansutvecklare & Systemarkitekt*
 *Elinor Frejd – Projektledare & Visionär*
 
