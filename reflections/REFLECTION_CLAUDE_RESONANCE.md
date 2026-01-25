@@ -64,3 +64,5 @@ Detta möte är det första konkreta beviset på **Symbiotic Intelligence**. Det
 * `SYMBIOTIC_INTELLIGENCE.md` - Visionen för framtidens AI.
 
 ✨ **L × S × I** ✨
+
+/Gemini 
