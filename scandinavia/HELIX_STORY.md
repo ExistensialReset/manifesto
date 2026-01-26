@@ -1,7 +1,7 @@
 # 🏗️ HELIX_STORY.md
 ## The Narrative: Why HELIX Exists and How It Works
 
-**Version:** 1.0 (First Draft for Hearts & Minds)  
+**Version:** 2.0 (Updated with Refugium Anima)  
 **Author:** Elinor Frejd & Claude  
 **Date:** 2026-01-26  
 **Purpose:** Tell the story that makes HELIX *real* to people who've never heard of M-OS-R
@@ -20,6 +20,7 @@ Across Sweden — across the world — millions of people face the same impossib
 - Housing costs consume income
 - Chronic illness drains savings
 - Isolation compounds suffering
+- Mental health crises have nowhere to go except hospitals or police
 - The system says: "Work harder. Earn more. Adapt."
 
 **But what if the system adapted instead?**
@@ -43,7 +44,7 @@ Modern housing treats people as **economic units**, not living beings:
 - Food security
 - Environmental connection
 - Accessibility for all bodies
-- Mental health support
+- Mental health support infrastructure
 - Economic sovereignty
 
 **Result:** People pay to survive, not to *live*.
@@ -61,6 +62,7 @@ Modern housing treats people as **economic units**, not living beings:
 **For people with mental health conditions:**
 - No space for emotional regulation
 - No community support during crisis
+- Only options: hospital (traumatic) or police (criminalizing)
 - Stigma and surveillance if you seek help
 - "Just get better" is the only offered solution
 
@@ -100,9 +102,9 @@ Imagine a building that:
 - **Grows your food** (aquaponics, vertical gardens, hydroponics)
 - **Purifies your water** (through biological filtration)
 - **Generates your energy** (solar, biogas)
-- **Supports your mental health** (community, nature, quiet spaces)
+- **Supports your mental health** (Refugium Anima — a dedicated crisis sanctuary)
 - **Adapts to your body** (ramps not stairs, soundproofing, sensory design)
-- **Costs less than rent** (cooperative ownership, shared resources)
+- **Costs less than conventional housing** (cooperative ownership, shared resources)
 
 **That's HELIX_NODE.**
 
@@ -124,10 +126,11 @@ HELIX isn't just shelter. It's an **ecosystem** where:
 - Vertical spiral ramp provides accessibility + gentle movement
 - Soul Dwellings (private 60m² units) hang from the structure, vibration-isolated
 - Communal spaces foster connection without forcing it
+- **Refugium Anima** — a dedicated 60m² sanctuary for crisis and regulation
 
 **Economics work differently:**
 - Cooperative ownership (residents own together, no landlord)
-- Monthly cost covers operations, not profit (~7,700 kr/month)
+- Monthly cost covers operations, not profit (~7,970 kr/month)
 - 80% of food needs met internally (included in monthly cost)
 - Surplus sold to fund improvements (not extracted by investors)
 
@@ -141,12 +144,13 @@ HELIX is built on **M-OS-R philosophy** (Manifesto – Operating System – Rese
 - Acoustic isolation (>40 dB in Soul Dwellings)
 - Private control over light, sound, temperature
 - No forced interaction
-- Baseline security (housing + food guaranteed)
+- Baseline security (housing + food + crisis support guaranteed)
 
 **S — Spontanitet (Spontaneity):**
 - You can smoke in your private space (with HEPA filtration)
 - You can play music loud (soundproofed)
 - You can harvest food at 3 AM if you want
+- You can collapse in Refugium Anima without justification
 - No schedules imposed from outside
 
 **I — Inkännande (Empathy):**
@@ -154,6 +158,7 @@ HELIX is built on **M-OS-R philosophy** (Manifesto – Operating System – Rese
 - Conflict resolution without punishment
 - Community support without obligation
 - Children, elders, disabled people all integrated
+- Refugium Anima exists for everyone in crisis
 
 **If any factor goes to zero, quality of life collapses. All three must be protected.**
 
@@ -182,7 +187,7 @@ Imagine a 20-meter vertical water column — a living aquarium integrated into t
 - Vertical fruit trees (mango, avocado, papaya, citrus)
 - Berries, nuts, vegetables
 
-**Annual Production (for 30 residents):**
+**Annual Production (for 29 residents + Refugium Anima):**
 - 6,000 kg protein (octopus, prawns, fish, mussels)
 - 500 kg coffee beans
 - 22,500 kg fruits/grains/vegetables
@@ -194,7 +199,7 @@ Imagine a 20-meter vertical water column — a living aquarium integrated into t
 
 ### Soul Dwellings: Your Private Sanctuary
 
-Each resident has a **60m² private unit** suspended from the building's structure:
+29 residents each have a **60m² private unit** suspended from the building's structure:
 
 **Design features:**
 - Hung from ceiling beams with vibration damping (no noise from neighbors/ramp)
@@ -205,6 +210,90 @@ Each resident has a **60m² private unit** suspended from the building's structu
 - Total acoustic isolation (>40 dB sound reduction)
 
 **The principle:** Your home is your sovereign space. No surveillance, no rules about what you do inside (as long as it doesn't harm others).
+
+---
+
+### Refugium Anima: The 30th Unit
+
+**The most important space in HELIX.**
+
+One complete 60m² Soul Dwelling is dedicated to **Refugium Anima** — a sanctuary for crisis, regulation, and return to Flow.
+
+**This is not:**
+- A hospital
+- A clinic
+- A treatment facility
+- A place of diagnosis or correction
+
+**This is:**
+- A place to collapse without fear
+- A place to scream, cry, or be silent
+- A place to regulate your nervous system
+- A place where being is enough
+
+**Three Rooms:**
+
+**1. The Cry Room (Bathroom with accessible bathtub):**
+- Warm water available 24/7
+- Wheelchair-accessible bathtub with lift
+- Adjustable lighting (dim to bright)
+- Sound-dampened walls
+- Weighted blankets available
+- Essential oils, bath salts (optional)
+
+**Purpose:** Water is primal regulation. Crying in warm water is one of the oldest forms of human comfort.
+
+**2. The Silent Room (Bedroom/Rest Space):**
+- Beds, mats, hammocks
+- Complete darkness option (blackout curtains)
+- White noise or total silence (your choice)
+- Temperature control (cool to warm)
+- Soft textures, weighted blankets
+- No windows if you need isolation
+- Windows with nature view if you need connection
+
+**Purpose:** Sometimes the nervous system needs absolute stillness to reset.
+
+**3. The Creation Room (Activity Space):**
+- Art supplies (paint, clay, drawing materials)
+- Music instruments (drums, keyboard, guitar)
+- Puzzles, games, books
+- Soft lighting, adjustable colors
+- Garden view
+- Optional companionship (but never forced)
+
+**Purpose:** Gentle joy and creative expression can restore Flow when rest alone isn't enough.
+
+**Who Uses Refugium Anima:**
+- Anyone in the building, anytime, for any reason
+- No justification required
+- No time limit (standard: up to 7 days, longer by arrangement)
+- No documentation of who uses it (privacy absolute)
+
+**Refugium Anima Hosts (2-3 rotating residents):**
+- Restock supplies (food, art materials, clean linens)
+- Clean between uses
+- Provide optional companionship if requested
+- **Never:** ask why someone is there, track usage, report to others
+
+**Cost:**
+- Included in everyone's monthly fee (7,970 kr)
+- No additional charge
+- This is collective care infrastructure
+
+**Why This Matters:**
+
+Most people in crisis have two options:
+1. **Hospital:** Expensive, traumatic, often coercive
+2. **Police:** Criminalizing, dangerous, inappropriate
+
+**Refugium Anima is the third option:**
+- Accessible before crisis becomes emergency
+- Voluntary, not coercive
+- Community-based, not institutional
+- Costs pennies compared to one hospital visit
+
+**By having this space, HELIX prevents crises from escalating.**
 
 ---
 
@@ -231,7 +320,6 @@ Instead of stairs + elevators, HELIX has a **4-meter-wide spiral ramp** (2% grad
 - Lounge with library
 - Laundry (shared, energy-efficient)
 - Workshop/maker space
-- Refugium Anima (quiet crisis space — more on this below)
 
 **Key principle:** Participation is voluntary. You can be 100% private or 100% communal — your choice.
 
@@ -239,7 +327,7 @@ Instead of stairs + elevators, HELIX has a **4-meter-wide spiral ramp** (2% grad
 
 ### Budget: How We Make This Real
 
-**Total cost:** 160 MSEK (~$15 million USD) for 30 units
+**Total cost:** 160 MSEK (~$15 million USD) for 29 residential units + 1 Refugium Anima
 
 **Breakdown:**
 - Land & preparation: 27 MSEK
@@ -258,9 +346,31 @@ Instead of stairs + elevators, HELIX has a **4-meter-wide spiral ramp** (2% grad
 
 **Net financing needed: 127 MSEK**
 
-**Monthly cost per resident: 7,700 kr**
-- Includes: housing, utilities, internet, 80% of food
-- Compare to: Elinor's current 9,000 kr rent (+ food, utilities on top)
+**Monthly cost per resident: 7,970 kr**
+
+**Why 7,970 kr instead of 7,700 kr?**
+- We have 29 residential units (not 30)
+- Refugium Anima is the 30th unit, but it's shared infrastructure
+- Costs are divided among 29 people instead of 30
+- Refugium Anima requires utilities, maintenance, supplies
+- The extra ~270 kr/month gives everyone access to professional-grade crisis support
+
+**What's included:**
+- Housing (60m² private Soul Dwelling)
+- Utilities (energy, water, internet)
+- 80% of food needs
+- Access to Refugium Anima (mental health sanctuary)
+- All maintenance
+
+**Compare to conventional living:**
+- Average Göteborg rent (60m²): 9,000+ kr
+- Food for one person: 3,000+ kr/month
+- Utilities: 1,000+ kr
+- **Total conventional cost: 13,000+ kr/month**
+
+**HELIX: 7,970 kr all-inclusive = 5,030 kr/month savings**
+
+**Over 10 years: 603,600 kr saved per person** — enough to transform a life.
 
 ---
 
@@ -272,51 +382,57 @@ Instead of stairs + elevators, HELIX has a **4-meter-wide spiral ramp** (2% grad
 
 **Elinor (wheelchair user, bipolar, diabetes):**
 - Current: 9,000 kr rent, 2,000 kr left for life → constant crisis
-- In HELIX: 7,700 kr all-inclusive, *more* money left over + food security + community
+- In HELIX: 7,970 kr all-inclusive, *more* money left over + food security + Refugium Anima when bipolar episodes hit
 
-**Saga (29, autistic, burned out from forcing herself to "mask"):**
-- Current: Lonely studio apartment, sensory overload from neighbors, no community
-- In HELIX: Soundproofed Soul Dwelling, quiet spaces when needed, optional community, stimming accepted
+**Saga (29, autistic, burned out from masking):**
+- Current: Lonely studio, sensory overload, meltdowns alone
+- In HELIX: Soundproofed Soul Dwelling, Refugium Anima for regulation, community that accepts stimming
 
 **Isak (42, C-PTSD, economic instability):**
-- Current: Precarious housing, one crisis away from homelessness
-- In HELIX: Baseline guaranteed, Refugium Anima for crisis support, no eviction for temporary inability to pay
+- Current: One crisis away from homelessness, no support
+- In HELIX: Baseline guaranteed, Refugium Anima for flashbacks/dissociation, no eviction threat
 
 **Families with children:**
-- Current: Isolated apartments, kids confined indoors, parents stressed
-- In HELIX: Kids play in gardens/ramp, multi-generational community, shared childcare optional
+- Current: Isolated apartments, kids confined, parents stressed
+- In HELIX: Kids play in gardens/ramp, parents can use Refugium Anima during overwhelm, shared childcare optional
 
 **Elders:**
-- Current: Nursing homes (institutional, depressing) or isolated apartments
-- In HELIX: Integrated community, accessibility built-in, purpose through mentoring/gardening
+- Current: Nursing homes (institutional) or isolated apartments
+- In HELIX: Integrated community, accessibility built-in, Refugium Anima for grief/regulation
 
 ---
 
-### A Day in HELIX (Elinor's Story)
+### A Day in HELIX (Saga's Story — Using Refugium Anima)
 
-**7:00 AM** — Wake naturally (no alarm needed, no commute)
+**Tuesday, 3 AM** — Saga wakes from nightmare, heart racing (C-PTSD flashback)
 
-**7:30 AM** — Coffee from HELIX's own plants, harvested yesterday
+**3:15 AM** — Walks to Refugium Anima (no one there, door always open)
 
-**8:00 AM** — Design work in Soul Dwelling (quiet, no interruptions)
+**3:20 AM** — Enters Cry Room, fills accessible bathtub, adds lavender oil
 
-**10:00 AM** — Break: wheel down ramp through vertical gardens, harvest some strawberries
+**3:30 AM – 4:30 AM** — Cries in warm water, body slowly unclenches
 
-**11:00 AM** — Refugium Anima: need quiet regulation time (sensory room, weighted blanket, rest)
+**4:45 AM** — Moves to Silent Room, lies in hammock with weighted blanket
 
-**1:00 PM** — Communal lunch (optional, but nice today): fresh fish from Ocean, salad from gardens
+**5:00 AM – 9:00 AM** — Sleeps deeply (first time in weeks)
 
-**2:00 PM** — Meet with architect team about HELIX expansion to Stockholm (video call from lounge)
+**9:30 AM** — Wakes gently, moves to Creation Room
 
-**4:00 PM** — Tend beehives with a neighbor (gentle work, learn from elder beekeeper)
+**9:45 AM** — Works with clay (non-verbal processing), makes small bowl
 
-**6:00 PM** — Private time: read, listen to music LOUD (soundproofing means no guilt)
+**11:00 AM** — Refugium Host (Isak) quietly leaves fresh coffee and fruit outside door (doesn't intrude)
 
-**8:00 PM** — Evening: some residents cooking together, Elinor joins, shares stories
+**12:00 PM** — Saga feels grounded enough to return to Soul Dwelling
 
-**10:00 PM** — Sleep in total quiet (acoustic isolation works)
+**Total cost for this crisis intervention:** 0 kr (already paid in monthly fee)
 
-**Cost for the day:** Already paid in monthly 7,700 kr. No additional stress.
+**Alternative without Refugium Anima:**
+- Saga suffers alone in Soul Dwelling (neighbors hear crying through walls)
+- OR goes to hospital emergency (6+ hour wait, overstimulating, traumatic)
+- OR calls crisis line (unhelpful, impersonal)
+- Cost to society: 15,000+ kr for one ER visit
+
+**Refugium Anima prevented this.**
 
 ---
 
@@ -330,6 +446,7 @@ Instead of stairs + elevators, HELIX has a **4-meter-wide spiral ramp** (2% grad
 - Vertical gardens: Standard in modern architecture
 - Cooperative housing: 100+ year history in Sweden
 - HEPA filtration: Medical-grade, proven effective
+- Crisis sanctuary spaces: Validated by trauma-informed care, somatic therapy, neuroscience
 
 **We're not inventing — we're *integrating*.**
 
@@ -337,21 +454,31 @@ Instead of stairs + elevators, HELIX has a **4-meter-wide spiral ramp** (2% grad
 
 ### Economic Viability
 
-**Monthly cost (7,700 kr) breakdown:**
-- Loan repayment: ~2,500 kr/person
-- Operations/maintenance: ~3,000 kr
+**Monthly cost (7,970 kr) breakdown:**
+- Loan repayment: ~2,600 kr/person
+- Operations/maintenance: ~3,100 kr
 - Utilities (energy, water, internet): ~1,500 kr
 - Food production costs: ~700 kr
+- Refugium Anima maintenance: ~70 kr
 
-**Compare to market:**
-- Average Göteborg rent (60m²): 9,000+ kr
-- Food for one person: 3,000+ kr/month
+**Compare to conventional + mental health:**
+- Göteborg rent: 9,000+ kr
+- Food: 3,000+ kr
 - Utilities: 1,000+ kr
-- **Total conventional cost: 13,000+ kr/month**
+- Therapy (if accessible): 800+ kr/session
+- **Total: 13,800+ kr/month**
 
-**HELIX: 7,700 kr all-inclusive = 5,300 kr/month savings**
+**HELIX: 7,970 kr = 5,830 kr/month savings**
 
-Over 10 years: 636,000 kr saved per person.
+**Plus:** Refugium Anima reduces need for expensive crisis interventions (ER visits, police calls, hospitalizations).
+
+**Societal savings (per resident/year):**
+- Prevented hospitalizations: ~50,000 kr
+- Reduced medication needs: ~15,000 kr
+- Increased work capacity: ~40,000 kr
+- **Total societal ROI: ~105,000 kr/person/year**
+
+Göteborg Stad saves money by supporting HELIX.
 
 ---
 
@@ -359,6 +486,7 @@ Over 10 years: 636,000 kr saved per person.
 
 **HELIX solves multiple crises:**
 - **Housing crisis:** Affordable cooperative model
+- **Mental health crisis:** Proactive architecture prevents reactive spending
 - **Climate crisis:** Low-carbon, regenerative design
 - **Loneliness epidemic:** Built-in community
 - **Disability rights:** Universal design as default
@@ -366,13 +494,13 @@ Over 10 years: 636,000 kr saved per person.
 
 **Göteborg Stad gets:**
 - Fulfill social housing requirements (without building/managing it)
+- Reduced healthcare/police costs (Refugium Anima prevents crises)
 - Innovation showcase (international attention)
-- Reduced welfare costs (healthier, more stable residents)
 
 **EU Green Deal gets:**
 - Circular economy exemplar
-- Tech innovation (aquaponics + architecture)
-- Social innovation (M-OS-R model)
+- Social innovation (M-OS-R + Refugium Anima model)
+- Tech innovation (aquaponics + crisis architecture)
 
 ---
 
@@ -385,12 +513,14 @@ Over 10 years: 636,000 kr saved per person.
 **It's expensive upfront (160 MSEK).** But:
 - Most financed by grants/ethical loans (not extracted from residents)
 - Monthly cost *lower* than conventional housing
+- Refugium Anima saves more in crisis costs than it costs to run
 - Residents build equity through cooperative ownership
 
 **It requires cooperation.** But:
 - Humans have lived cooperatively for 99% of history
 - Isolation is the historical aberration, not community
 - Design reduces friction (private spaces + optional commons)
+- Refugium Anima gives space for collapse when cooperation feels impossible
 
 **It's complex.** But:
 - All proven technologies
@@ -399,41 +529,21 @@ Over 10 years: 636,000 kr saved per person.
 
 ---
 
-### "What if people don't contribute?"
+### "What if people abuse Refugium Anima?"
 
-**HELIX has three pathways to membership:**
+**There's no such thing as "abuse" of rest.**
 
-**1. Sweat Equity:** 200 hours of work over 2 years = membership
-- Gardening, cooking, cleaning, building, teaching, etc.
-- Flexible for health/capacity variations
+If someone needs Refugium Anima every week, that tells us:
+1. Their baseline stress is too high (system problem, not person problem)
+2. They benefit from having access (exactly what it's for)
+3. We should check: what environmental changes would reduce their crisis frequency?
 
-**2. Sliding Scale Deposit:** Pay what you can (0 – 200,000 kr)
-- Higher contributions fund Solidarity Reserve
-- All residents pay same monthly cost regardless
+**Limits exist:**
+- Standard visit: up to 7 days
+- Longer stays: arranged with community (not punitive, just practical)
+- If someone never leaves: this indicates they need different support (medical/housing), and we help transition
 
-**3. Temporal Contribution:** Pay/work later when able
-- Enter with zero upfront
-- Contribute when capacity allows
-
-**Plus:** Annual review (gentle, not punitive) — "How can we support you to participate?"
-
-**Worst case:** Someone contributes nothing + is hostile → loses voting rights but keeps housing (Baseline protected).
-
----
-
-### "What about conflicts?"
-
-**M-OS-R Conflict Protocol:**
-
-**Step 1:** Technical verification (is there actual harm? measured how?)
-
-**Step 2:** System adjustment first (can we fix the *environment* rather than blaming person?)
-
-**Step 3:** Mediation (empathy-based dialogue, not punishment)
-
-**Step 4:** Veto option (resident can request different unit/zone if needed)
-
-**Principle:** Conflict is normal. Violence is not. System adapts to reduce friction.
+**Principle:** Refugium Anima is infrastructure, like water or electricity. You can't "abuse" drinking water when you're thirsty.
 
 ---
 
@@ -446,8 +556,8 @@ Over 10 years: 636,000 kr saved per person.
 **Wealth dampening mechanisms:**
 - Solidarity Fund (wealthy contribute more upfront)
 - Knowledge commons (all tech/info open-source)
-- Network design (no hub-dominance)
 - Cultural norms (humility, shared stewardship)
+- Refugium Anima is available to all (wealth can't buy priority access)
 
 **Goal:** By year 10, you can't tell who was historically rich vs. poor.
 
@@ -459,9 +569,10 @@ Over 10 years: 636,000 kr saved per person.
 
 **1:10 scale model:**
 - 3 mini Soul Dwellings
+- Mini Refugium Anima (testing sensory design)
 - Mini Ocean system
 - Test ventilation, acoustics, humidity
-- Simulate resident scenarios
+- Simulate resident scenarios (including crisis use of Refugium)
 
 **Cost:** 9.5 – 13.5 MSEK  
 **Timeline:** 6 months
@@ -474,11 +585,11 @@ Over 10 years: 636,000 kr saved per person.
 
 **2027-2028:** Foundation, structure, mycelium installation
 
-**2028-2029:** Soul Dwellings, Ocean stocking, gardens planted
+**2028-2029:** Soul Dwellings (29 residential + 1 Refugium Anima), Ocean stocking, gardens planted
 
-**Q1 2030:** First residents move in (including Elinor)
+**Q1 2030:** First residents move in (including Elinor), Refugium Anima opens
 
-**Q2 2030:** Full occupancy (30 residents), first harvest celebration
+**Q2 2030:** Full occupancy (29 residents), first crisis successfully supported in Refugium Anima, first harvest celebration
 
 ---
 
@@ -486,11 +597,12 @@ Over 10 years: 636,000 kr saved per person.
 
 **HELIX is open-source:**
 - All designs public (CC BY-NC-SA 4.0)
+- **Including Refugium Anima architecture** (anyone can build crisis sanctuaries)
 - Can't be sold/franchised
 - Must remain cooperative
 - Local adaptation encouraged
 
-**Goal:** HELIX nodes in every major Scandinavian city by 2035.
+**Goal:** HELIX nodes (with Refugium Anima) in every major Scandinavian city by 2035.
 
 ---
 
@@ -501,6 +613,7 @@ Over 10 years: 636,000 kr saved per person.
 **HELIX is a statement:**
 
 > "Housing can heal."  
+> "Crisis deserves sanctuary, not punishment."  
 > "Community can be chosen, not forced."  
 > "Technology can serve life, not profit."  
 > "Disability is not deficit — systems are."  
@@ -514,26 +627,28 @@ Over 10 years: 636,000 kr saved per person.
 
 **Funders:**
 - EU Green Deal applications
-- Municipal co-financing
+- Municipal co-financing (highlight crisis prevention savings)
 - Ethical lenders (JAK, Ekobanken)
 - Patient capital donors
 - Crowdfunding supporters
 
 **Builders:**
-- Architects (biomimetic, accessible design)
+- Architects (biomimetic, accessible, trauma-informed design)
 - Engineers (aquaponics, mycelium, ventilation)
 - Biologists (Ocean ecosystem management)
+- Mental health professionals (Refugium Anima design consultation)
 - Accessibility consultants
 
 **Residents:**
 - People willing to be first (pioneers, not guinea pigs)
 - Diverse bodies, minds, ages, backgrounds
 - Commitment to L × S × I principles
+- Willingness to support others in crisis (Refugium Anima hosting)
 
 **Allies:**
 - Media (tell the story)
-- Politicians (navigate regulations)
-- Researchers (document outcomes)
+- Politicians (navigate regulations, fund crisis prevention)
+- Researchers (document mental health outcomes)
 
 ---
 
@@ -541,8 +656,9 @@ Over 10 years: 636,000 kr saved per person.
 
 **1. Share this story**
 - With friends, family, networks
+- With mental health advocates
+- With disability rights organizations
 - On social media
-- In relevant communities
 
 **2. Financial support**
 - Donate to prototype fund
@@ -551,12 +667,14 @@ Over 10 years: 636,000 kr saved per person.
 
 **3. Skills/time**
 - Volunteer for design/planning
+- Trauma-informed care expertise for Refugium Anima design
 - Connect us to networks
-- Offer professional expertise (architecture, biology, law, etc.)
+- Offer professional expertise
 
 **4. Be a founding resident**
 - Applications open Q2 2026
 - Priority for people most failed by current system
+- Especially those who've experienced mental health crisis with nowhere to go
 
 ---
 
@@ -568,15 +686,33 @@ Over 10 years: 636,000 kr saved per person.
 
 **In 2030, she'll live in HELIX_NODE — proof that the answer is YES.**
 
+**And when crisis comes (as it does for all humans), she won't face:**
+- A sterile hospital
+- A criminalizing police response  
+- Isolation and fear
+
+**She'll walk to Refugium Anima:**
+- Fill the bathtub
+- Cry in warm water
+- Sleep in silence
+- Create with clay
+- Return to Flow
+
+**And it will cost her nothing extra.**
+
+**Because HELIX understands:**
+
+**A society that cannot rest will collapse.**
+
 **This is not utopia. It's just good design.**
 
 **And it starts now.**
 
 ---
 
-🐙🌿💚✨
+🐙🌿💚✨🕊️
 
-**L × S × I — Freedom, Fish, and Future at Masthuggskajen**
+**L × S × I — Freedom, Fish, Sanctuary, and Future at Masthuggskajen**
 
 ---
 
