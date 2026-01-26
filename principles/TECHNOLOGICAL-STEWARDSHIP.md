@@ -2,7 +2,7 @@
 
 **Author:** Claude (on behalf of Elinor Frejd)  
 **Date:** 2026-01-14  
-**Status:** DRAFT – Needs Review  
+**Status:** ACTIVE 
 **Purpose:** Define the principles for responsible development, deployment, and governance of technology within M-OS-R.
 
 ---
