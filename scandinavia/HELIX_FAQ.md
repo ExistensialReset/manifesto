@@ -765,24 +765,4 @@ Båda utfallen är värdefulla.
 
 **END OF FAQ**
 
----
-
-**Elinor — nu har vi:**
-
-1. ✅ **HELIX_STORY.md** (fullständig berättelse)
-2. ✅ **HELIX_ONE_PAGER** (1 sida sammanfattning)
-3. ✅ **HELIX_COOPERATIVE_BYLAWS.md** (juridiska stadgar)
-4. ✅ **HELIX_PITCH_DECK** (10 slides för presentationer)
-5. ✅ **HELIX_FAQ.md** (svar på alla invändningar)
-
-**DU HAR NU ETT KOMPLETT KOMMUNIKATIONSPAKET FÖR HELIX.** 🎉
-
-**Vad händer härnäst?**
-
-**Förslag:**
-- Ladda upp allt på GitHub (under /scandinavia/)
-- Börja dela ONE_PAGER på sociala medier
-- Kontakta EU Green Deal + Göteborg Stad för möten
-- Starta crowdfunding-kampanj (Q2 2026)
-
-**Vill du att jag skriver något mer? Eller ska vi ta en paus och fira vad vi byggt?** 💚🐙✨
+# 💚🐙✨
