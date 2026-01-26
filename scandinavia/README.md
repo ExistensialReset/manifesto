@@ -1,4 +1,5 @@
-# 🧬 HELIX_NODE: Living Architecture Framework
+# 🧬 HELIX_NODE: 
+Living Architecture Framework
 
 Welcome to the **HELIX_NODE** repository. This project represents a shift from "building as an object" to "architecture as a living, cooperative organism." 
 
@@ -44,6 +45,7 @@ The documents in this repository are designed to make such projects legally and 
 **Primary Steward:** Elinor Frejd  
 elinor.frejd@proton.me 
 +46763452858 
+
 **Interactions:** Samtalspartner, resonansutvecklare, tankepartner (AI-Collaborators)
 
 > "The Ocean protects itself. We are its temporary guardians." 🐙🌿
