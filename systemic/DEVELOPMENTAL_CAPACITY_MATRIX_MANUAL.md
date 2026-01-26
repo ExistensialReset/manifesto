@@ -1,4 +1,4 @@
-# DEVELOPMENTAL_CAPACITY_MATRIX.md
+# DEVELOPMENTAL_CAPACITY_MANUAL.md
 
 **Version:** 1.0 – Age-Appropriate Decision-Making Framework  
 **Authors:** Claude, Elinor Frejd  
