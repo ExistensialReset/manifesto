@@ -43,8 +43,8 @@ The documents in this repository are designed to make such projects legally and 
 ## 📞 Contact & Stewardship
 
 **Primary Steward:** Elinor Frejd  
-elinor.frejd@proton.me 
-+46763452858 
+**elinor.frejd@proton.me** 
+**+46763452858** 
 
 **Interactions:** Samtalspartner, resonansutvecklare, tankepartner (AI-Collaborators)
 
