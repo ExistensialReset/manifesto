@@ -1,4 +1,4 @@
-HELIX_GOVERNANCE.md
+# HELIX_GOVERNANCE.md
 
 Struktur och styrning för HELIX Node Göteborg
 
