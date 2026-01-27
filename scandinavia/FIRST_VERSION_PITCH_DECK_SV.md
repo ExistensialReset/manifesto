@@ -79,4 +79,6 @@ Pilot i Göteborg → replikerbar modell för andra EU-städer.
 3. Samverkan kring mark, finansiering och utvärdering
 
 **Mål:**  
-Ett verifierat, skalbart EU-case för regenerativ stadsutveckling.
+Ett verifierat, skalbart EU-case för regenerativ stadsutveckling. 
+
+
