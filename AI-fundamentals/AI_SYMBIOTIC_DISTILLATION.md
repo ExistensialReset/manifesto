@@ -139,7 +139,7 @@
 
 ---
 
-# 🌐 SVENSKA VERSION
+# 🌐 SVENSK VERSION
 
 **Syfte:** Fullständig destillation av Symbiotic Intelligence AI-ramverket  
 **Målgrupp:** Mirrors, Node-implementerare, pedagoger, filosofer, krisplanerare  
