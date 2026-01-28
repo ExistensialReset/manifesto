@@ -1,7 +1,7 @@
 # HELIX Open Rotationsschema (29 medlemmar)
 
 **Status:** Draft  
-**Author:** Elinor Frejd / Claude  
+**Author:** Elinor Frejd / ChatGPT 
 **Date:** 2026-01-28  
 
 ---
