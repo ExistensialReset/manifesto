@@ -3,7 +3,7 @@
 
 **Author:** Claude (on behalf of Elinor Frejd)  
 **Date:** 2026-01-14  
-**Status:** DRAFT – REVIEW REQUIRED
+**Status:** ACTIVE 
 
 ---
 
