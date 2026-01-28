@@ -27,7 +27,7 @@ No pre-existing coercive mechanism, debt instrument, or hierarchical claim may p
 ## AXIOM 7: IRREVERSIBLE BOUNDARY
 These axioms are ontological constraints. No human, council, AI, or external entity may override or reinterpret them. Violation of an axiom constitutes a structural failure.
 
-FINAL STATEMENT: No system may impose urgency that exceeds human capacity for deliberation. Artificial deadlines that force rushed decisions violate Flow.
+## FINAL STATEMENT: No system may impose urgency that exceeds human capacity for deliberation. Artificial deadlines that force rushed decisions violate Flow.
 
 ---
 
