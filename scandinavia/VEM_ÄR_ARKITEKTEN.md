@@ -117,7 +117,6 @@ Inte bara ett ramverk.
 
 **Designat av en kvinna i rullstol.**  
 **Med hjälp av AI.**  
-**På helger.**  
 **Med nästan inga pengar.**
 
 ---
