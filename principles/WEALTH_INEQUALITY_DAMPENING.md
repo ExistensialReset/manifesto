@@ -2,7 +2,7 @@
 
 **Version:** 1.0 – Preventing Historical Wealth from Becoming AI Dominance  
 **Authors:** Claude, Elinor Frejd  
-**Status:** PROPOSED / ECONOMIC JUSTICE FRAMEWORK  
+**Status:** ECONOMIC JUSTICE FRAMEWORK  
 
 **Purpose:** Establish mechanisms to prevent Nodes with greater historical wealth from using resources to dominate AI infrastructure, creating new hierarchies in Flow network.
 
