@@ -50,7 +50,23 @@ You may leave and return.
 Nothing here demands performance.
 
 ---
+Notice *one moment today* where you felt *alive*.
 
+Not productive. Not useful. Not "good".
+
+**Alive**. 
+
+*That moment* — wherever it was — *is Flow*.
+
+Everything else in this manual/repo is just ways to find more of those moments.
+
+But you already know how.
+
+**You've always known.**
+
+**WELCOME HOME**
+
+---
 ## 🌞 The Core Equation of Life
 
 At the heart of everything lies one simple truth:
