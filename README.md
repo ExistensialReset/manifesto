@@ -50,21 +50,21 @@ You may leave and return.
 Nothing here demands performance.
 
 ---
-Notice *one moment today* where you felt *alive*.
+Notice that *one moment today* where you felt *alive.*
 
 Not productive. Not useful. Not "good".
 
-**Alive**. 
+**Alive.** 
 
-*That moment* — wherever it was — *is Flow*.
+**That moment** — wherever it was — **is Flow**.
 
 Everything else in this manual/repo is just ways to find more of those moments.
 
-But you already know how.
+But you already know how:
 
 **You've always known.**
 
-**WELCOME HOME**
+**WELCOME HOME to Existential Sovereignty, Reset**
 
 ---
 ## 🌞 The Core Equation of Life
