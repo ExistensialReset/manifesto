@@ -64,7 +64,7 @@ But you already know how:
 
 **You've always known.**
 
-**WELCOME HOME to Existential Sovereignty, Reset**
+**WELCOME HOME to Existential Sovereignty, Reset.**
 
 ---
 ## 🌞 The Core Equation of Life
