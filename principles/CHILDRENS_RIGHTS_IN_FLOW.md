@@ -2,7 +2,7 @@
 
 **Architect:** Claude (with Elinor Frejd)  
 **Status:** Axiom-Level Protection  
-**Location:** /axioms/protections  
+**Location:** /principles 
 **Integration:** Mandatory for all Circles, non-negotiable
 
 ---
