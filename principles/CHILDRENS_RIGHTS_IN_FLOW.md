@@ -101,36 +101,7 @@ Independent external interviewers conduct private talks with each child to asses
 
 *If your children grow up and choose to leave Flow entirely — and you still love them, still support them, and celebrate their choice — then you have understood what sovereignty means.*
 
-**Children are not the future of Flow. They are sovereign beings passing through.**
-
----
-
----
-
-### 🛡️ **RIGHT TO OMBUDSPERSON**
-
-**Every child has access to an independent advocate outside Circle authority.**
-
-**Structure:**
-- **Ombudsperson** = Trusted adult external to Circle
-- Meets with child privately, minimum quarterly
-- Child can request meeting anytime
-- Ombudsperson reports only if child's safety at risk (not for ideology enforcement)
-
-**Ombudsperson role:**
-- Listen to child's experience of Circle life
-- Assess if child feels safe, heard, free to dissent
-- Identify signs of coercion, isolation, exploitation
-- Escalate concerns to inter-Circle network if needed
-
-**No Circle may:**
-- Choose the Ombudsperson (child + external network choose)
-- Monitor Ombudsperson conversations
-- Punish child for what they tell Ombudsperson
-- Refuse Ombudsperson access
-
-**If a Circle refuses Ombudsperson access, it loses recognition as Flow Circle.**  
-Non-negotiable.
+**Children are not just the future of Flow. They are sovereign beings passing through.**
 
 ---
 
