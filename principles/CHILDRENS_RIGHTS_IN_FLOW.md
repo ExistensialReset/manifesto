@@ -307,8 +307,8 @@ Even with these rights. Even with good intentions.
 If you cannot do this, you are not practicing Flow.  
 You are practicing control with better aesthetics.
 
-**Children are not the future of Flow.**  
-**Children are sovereign beings passing through.**
+**Children are not just the future of Flow, even though they actually are.**  
+**Children are sovereign beings raised by you and the Circle to be the future of this planet.**
 
 Flow's task is to protect their unfolding —  
 not to shape them into "good Flow citizens."
