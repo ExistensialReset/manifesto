@@ -1,4 +1,4 @@
-# Geological Intelligence Principle
+# Geological Intelligence
 
 **Status:** Foundational Principle  
 **Scope:** Planetary Systems, Resource Flows, Infrastructure Design  
