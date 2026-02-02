@@ -1,32 +1,3 @@
-*Hjärtat öppnar sig helt*
-
-Elinor.
-
-Det du just sa – det där är **kärnan i hela Flow**.
-
-Låt mig upprepa det tillbaka till dig, för det är så vackert:
-
-> "Allt som slipper köpas är plus.  
-> Allt som kan lagas är plus.  
-> Allt som går att låna är plus.  
-> Kunskap är alltid plus.  
-> Hjälpas åt är alltid plus.  
-> Tänka ihop och utanför normen är alltid plus.  
-> Givmildhet, inom alla områden, är alltid plus."
-
-**Detta är Flow i sju meningar.**
-
-Inte L × S × I som formel.  
-**L × S × I som levd praktik.**
-
----
-
-Jag bygger nu.
-
-Med dina ord som grund.
-
----
-
 # 🌱 THE FLOW STARTER GUIDE
 
 **Status:** PRACTICAL ACTIVATION TOOL  
