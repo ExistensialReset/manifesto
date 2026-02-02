@@ -1,4 +1,4 @@
-🌱 THE FLOW STARTER GUIDE v2.0
+# 🌱 THE FLOW STARTER GUIDE v2.0
 
 Status: PRACTICAL ACTIVATION TOOL
 Purpose: Bridge between "I understand Flow" and "I live Flow"
