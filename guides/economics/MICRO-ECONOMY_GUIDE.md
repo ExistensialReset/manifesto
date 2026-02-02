@@ -418,23 +418,22 @@ If truly incompatible:
 
 **Try this progression:**
 
-PART VI: DECISION-MAKING & GUARDING AGAINST ECONOMIC COERCION
+## PART VI: DECISION-MAKING & GUARDING AGAINST ECONOMIC COERCION
 
 Because sharing money requires clear processes, and because power imbalances can emerge even with the best intentions.
 
 ---
 
-DECISION-MAKING IN SHARED ECONOMY
+### DECISION-MAKING IN SHARED ECONOMY
 
-The Core Principle: Transparency Trumps Consensus
+**The Core Principle:** Transparency Trumps Consensus
 
 In money matters, waiting for unanimous agreement often means the most conservative or anxious member controls everything. This creates hidden resentment.
 
 Instead, use a tiered system based on impact:
 
 ---
-
-TIER 1: SMALL EXPENSES (Under 500 kr/person or 10% of pooled fund)
+### TIER 1: SMALL EXPENSES (Under 500 kr/person or 10% of pooled fund)
 
 Example: Groceries, minor repairs, household supplies
 
@@ -448,7 +447,7 @@ Rule of thumb: If you're buying something for shared use, and it's under this th
 
 ---
 
-TIER 2: MEDIUM EXPENSES (500-2000 kr/person or 10-30% of pooled fund)
+### TIER 2: MEDIUM EXPENSES (500-2000 kr/person or 10-30% of pooled fund)
 
 Example: New appliance, bulk food purchase, shared vehicle repair
 
@@ -465,7 +464,7 @@ Process:
 
 ---
 
-TIER 3: LARGE EXPENSES (Over 2000 kr/person or 30%+ of pooled fund)
+### TIER 3: LARGE EXPENSES (Over 2000 kr/person or 30%+ of pooled fund)
 
 Example: Moving to new house, major renovation, investing in community business
 
@@ -488,7 +487,7 @@ Important: Large expenses should be rare. If your group is constantly facing Tie
 
 ---
 
-THE MONTHLY MONEY MEETING (Essential Maintenance)
+#### THE MONTHLY MONEY MEETING (Essential Maintenance)
 
 Schedule it: Same day each month, after a shared meal.
 
@@ -505,13 +504,13 @@ Keep it light: Have snacks. Laugh. Money talk shouldn't feel like a board meetin
 
 ---
 
-RECOGNIZING AND RESPONDING TO ECONOMIC COERCION
+### RECOGNIZING AND RESPONDING TO ECONOMIC COERCION
 
 Money can become a weapon, even unconsciously. Here's how to spot and stop it.
 
 ---
 
-RED FLAGS: When Sharing Becomes Harmful
+#### RED FLAGS: When Sharing Becomes Harmful
 
 Subtle signs:
 
@@ -530,7 +529,7 @@ Blatant signs:
 
 ---
 
-RESPONSE PROTOCOL: Four Levels of Intervention
+### RESPONSE PROTOCOL: Four Levels of Intervention
 
 LEVEL 1: EARLY PATTERN (First occurrence)
 
@@ -548,7 +547,7 @@ Possible resolution:
 
 ---
 
-LEVEL 2: PATTERN CONTINUES OR ESCALATES
+### LEVEL 2: PATTERN CONTINUES OR ESCALATES
 
 Action:
 
@@ -570,7 +569,7 @@ Possible resolution:
 
 ---
 
-LEVEL 3: COERCIVE OR MANIPULATIVE BEHAVIOR
+### LEVEL 3: COERCIVE OR MANIPULATIVE BEHAVIOR
 
 Action:
 
@@ -585,7 +584,7 @@ Critical rule: The victim(s) never lose Baseline. They keep housing. The perpetr
 
 ---
 
-LEVEL 4: ECONOMIC VIOLENCE (Threats, extortion, theft)
+### LEVEL 4: ECONOMIC VIOLENCE (Threats, extortion, theft)
 
 Action:
 
@@ -600,7 +599,7 @@ Important: Economic violence is real violence. It triggers the same protective r
 
 ---
 
-PREVENTION: Building Immune Systems
+### PREVENTION: Building Immune Systems
 
 Monthly questions for the Circle to ask:
 
@@ -617,7 +616,7 @@ Structural protections:
 
 ---
 
-HEALING AFTER ECONOMIC HARM
+### HEALING AFTER ECONOMIC HARM
 
 If coercion has occurred and been addressed:
 
@@ -642,7 +641,7 @@ For the Circle:
 
 ---
 
-INTEGRATION WITH OTHER FLOW DOCUMENTS
+### INTEGRATION WITH OTHER FLOW DOCUMENTS
 
 Remember: Your micro-economy doesn't exist in isolation.
 
@@ -655,7 +654,7 @@ When in doubt, consult:
 
 ---
 
-FINAL REMINDER
+## DON'T YOU FORGET, MY FRIENDS:
 
 Money is the last frontier of Mammon's programming.
 
