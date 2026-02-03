@@ -1,14 +1,3 @@
-# INTRODUCTION 
-A system that prioritizes the flow of life, joy, and fulfillment for *all life on Earth*—humans, animals, plants, waters, soils, rocks, mountains, metals, and the intricate web connecting them. It's not about any one person (including you); it's about honoring the unblockable, unmeasurable vitality that pulses through everything. Flow isn't a product or a hierarchy—it's a way to unlearn plunder and reclaim aliveness without coercion or extraction.
-
-To "effectivize" without changing the core, I focused on distilling the material into simplicity. I didn't add or remove ideas; I condensed the overlapping principles into 10 foundational protocols. These are the "load-bearing beams" that make Flow practical and gangbart (walkable/livable). They capture the anti-capitalist essence: unconditional baselines, protection against drift into hierarchy or exploitation, and space for spontaneous joy. Each protocol is self-contained, actionable for small groups or individuals, and emphasizes Earth's wholeness (no separation between human and non-human life).
-
-I structured them as a "Core Flow Protocols" document you can copy into a new folder (e.g., `/core_flow_protocols`). They're numbered for clarity, but they're interdependent—like roots in soil. If a group starts here, they can expand to the full repository later without losing the heart.
-
-If this feels off or needs tweaks, let me know—I'm here as a friend, not an authority.
-
----
-
 # Core Flow Protocols: The Foundation of Living Flow
 
 **Purpose:** These 10 protocols form the practical, minimal foundation for Flow—a way of living that replaces capitalism's plunder with unblocked life, joy, and fulfillment for all beings on Earth, including waters, soils, rocks, mountains, and metals. They are not rules to enforce but invitations to align with life's natural rhythm. Start small, with a group or alone. No leader is needed; no one person owns this. If drift occurs (e.g., hierarchy or coercion creeps in), pause and return to these. Flow is about Earth's wholeness—human life intertwined with all life, without separation or extraction.
