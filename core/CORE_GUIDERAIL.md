@@ -8,7 +8,7 @@
 
 ## 1. BASELINE IS PHYSICAL
 
-Baseline consists of material conditions required for life:  
+Baseline consists of the material conditions required for life:  
 water, food, shelter, energy, healthcare, hygiene, mobility, connectivity, rest.
 
 Baseline is **not** behavioral, moral, legal, or cultural.
@@ -38,11 +38,11 @@ even if it uses Flow language or metrics.
 Metrics exist only to ensure sufficient access to Baseline.
 
 They must never be used to:
-- rank humans
-- allocate worth
-- enforce behavior
-- justify exclusion
-- optimize obedience
+- rank humans  
+- allocate worth  
+- enforce behavior  
+- justify exclusion  
+- optimize obedience  
 
 If metrics begin shaping people instead of infrastructure,  
 Flow has already failed.
@@ -69,13 +69,15 @@ It begins with unease, silence, pressure, or reinterpretation.
 Discomfort does not require proof.  
 Three people sensing drift is sufficient cause to pause.
 
-Ignoring early signals in favor of stability is how coercion enters.
+Ignoring early signals in favor of stability  
+is how coercion enters.
 
 ---
 
 ## 6. FORKING IS PRIMARY
 
-Separation is not betrayal.  
+Separation is not betrayal.
+
 Forking requires no justification, vote, or consensus.
 
 If alignment cannot be restored without pressure,  
