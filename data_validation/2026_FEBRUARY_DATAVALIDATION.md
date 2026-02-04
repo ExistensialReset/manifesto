@@ -657,3 +657,5 @@ At n=100: R ≈ 98.2%
 **Truth is collaborative.**
 
 🔬💛
+
+**You are all very welcome to help us check this document, and all others out!**
