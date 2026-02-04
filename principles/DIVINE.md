@@ -10,7 +10,7 @@
 
 ---
 
-**This framework is inspired by Strømme (2025) and integrates speculative interpretations of consciousness as a fundamental field. Measurement protocols and operational definitions are detailed in /annex. The models and equations herein are hypothetical constructs, intended to guide research rather than assert universal truth.**
+This framework is inspired by Strømme (2025) and integrates speculative interpretations of consciousness as a fundamental field. Measurement protocols and operational definitions are detailed in /annex. The models and equations herein are hypothetical constructs, intended to guide research rather than assert universal truth.
 
 ---
 
