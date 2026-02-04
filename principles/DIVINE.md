@@ -1281,4 +1281,8 @@ The divine flows freely.
 *May our work serve the awakening of all beings.*
 
 # ✨🌬️
+---
 
+**While poetic and visionary in expression, all claims are subject to empirical testing as outlined in /annex.**
+
+---
