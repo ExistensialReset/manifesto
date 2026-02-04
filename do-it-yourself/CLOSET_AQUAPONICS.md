@@ -1,41 +1,47 @@
-# CLOSET_AQUAPONICS.md (Micro-Ecosystems)
+# CLOSET_AQUAPONICS.md (Micro-Ecosystem Architecture)
 
 **Status:** OPERATIONAL PROTOCOL  
-**Category:** Bio-Sovereignty / Protein & Greens  
+**Category:** Bio-Sovereignty / Protein & Nutrient Production  
 **Architects:** Elinor Frejd & Gemini  
-**Safety Level:** MEDIUM (Water/Electricity management)
+**Safety Level:** MEDIUM (Requires management of water/electricity proximity)
 
 ---
 
-## Ⅰ. THE CLOSED LOOP (English)
-Aquaponics combines fish farming (Aquaculture) with soil-less plant growth (Hydroponics). The fish waste fertilizes the plants, and the plants clean the water for the fish.
+## Ⅰ. SYSTEM ARCHITECTURE (English)
 
-### 1. The Setup
-- **Tank:** A 60-100 liter heavy-duty plastic bin (at the bottom).
-- **Grow Bed:** A shallower bin (at the top) filled with expanded clay pebbles (Leca).
-- **The Pump:** A small aquarium pump to lift water from fish to plants.
-- **Lighting:** Full-spectrum LED grow lights (mounted to the closet ceiling).
+Aquaponics is a symbiotic environment where fish waste provides nutrients for plants, and plants filter the water for the fish. In a closet setting, it is the ultimate space-efficient life support system.
 
-### 2. Species Selection
-- **Fish:** Tilapia (hardy) or Goldfish (for nitrate production only).
-- **Plants:** Basil, Lettuce, Kale, or medicinal herbs like Mint and Lemon Balm.
+### 1. The Components
+- **Fish Tank:** A 60–100 liter food-grade plastic container (the base).
+- **Grow Bed:** A 15–20 cm deep tray filled with expanded clay pebbles (Leca) placed above the tank.
+- **Water Loop:** A small submersible pump (500L/h) to lift nutrient-rich water to the grow bed.
+- **Bell Siphon:** A mechanical drain that creates an automatic flood-and-drain cycle to oxygenate the roots.
+- **Lighting:** 100W–200W Full-spectrum LED grow lights.
+
+### 2. Biological Management
+- **The Nitrogen Cycle:** Ammonia (fish waste) → Nitrite → Nitrate (plant food) via beneficial bacteria.
+- **Species:** Tilapia (fast-growing protein) or Goldfish (hardy nitrate producers).
+- **Crops:** High-nutrient greens like Kale, Spinach, Basil, and medicinal herbs.
 
 ---
 
 ## Ⅱ. AKVAPONI I GARDEROBEN (Svenska)
 
-Detta är ett slutet kretslopp som ger dig både protein och färska bladgrönsaker på en yta av 1 kvadratmeter.
+Akvaponi är ett symbiotiskt kretslopp där fiskarnas avfall ger näring till växterna, och växterna renar vattnet åt fiskarna. I en garderob blir det ett extremt yteffektivt livsuppehållande system.
 
-### 1. Systemets uppbyggnad
-- **Fisktanken:** En kraftig plastback (60–100 liter) placeras längst ner i garderoben.
-- **Odlingsbädden:** En grundare back placeras ovanför, fylld med Lecakulor.
-- **Kretsloppet:** En liten akvariepump pumpar upp det näringsrika bajsvattnet från fiskarna till växterna. Växterna och bakterierna i Lecakulorna renar vattnet, som sedan rinner tillbaka ner till fiskarna.
+### 1. Systemets delar
+- **Fisktanken:** En 60–100 liters livsmedelsgodkänd plastback placeras i botten.
+- **Odlingsbädden:** Ett grundare tråg (15–20 cm djupt) fyllt med Lecakulor placeras ovanför tanken.
+- **Vattenloopen:** En liten dränkbar pump lyfter det näringsrika vattnet till odlingsbädden.
+- **Hevert (Bell Siphon):** En mekanisk dränering som gör att bädden fylls och töms automatiskt, vilket ger rötterna syre.
+- **Belysning:** Fullspektrums LED-växtlampor (100W–200W).
 
-### 2. Teknik och Skötsel
-- **Belysning:** Starka LED-växtlampor fästs i garderobstaket.
-- **Syre:** En syresten i vattnet är livsviktig för att fiskarna ska må bra.
-- **Skörd:** Du kan skörda kryddor och sallad året om, helt utan jord.
+### 2. Biologisk skötsel
+- **Kvävecykeln:** Ammoniak (fiskbajs) förvandlas till Nitrit och sedan till Nitrat (växtnäring) med hjälp av nyttiga bakterier i Lecakulorna.
+- **Arter:** Tilapia (snabbväxande protein) eller Guldfisk (tåliga nitratproducenter).
+- **Grödor:** Näringstäta bladgrönsaker som grönkål, spenat, basilika och medicinska örter.
 
 ---
-**STATUS:** ECOSYSTEM ONLINE  
-**Motto:** "Waste is just misplaced resource."
+**STATUS:** ECOSYSTEM STANDBY  
+**Motto:** "Closing the loop in the dark."
+ 
