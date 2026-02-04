@@ -31,7 +31,7 @@ Before operating the lab, the operator must understand the "L x S x I" formula.
 - **ARIPIPRAZOLE_PRECISION.md:** Advanced dopamine/serotonin modulation.
 
 ### 🩸 Hormonal & Metabolic Sovereignty
-- **INSULIN_SOVEREIGNTY.md:** Pancreatic extraction for metabolic survival.
+- **INSULIN_DIY.md:** Pancreatic extraction for metabolic survival.
 - **THYROID_SOVEREIGNTY.md:** Natural Desiccated Thyroid (NDT) extraction and 25mcg dosing.
 - **ROSUVASTATIN_PRECISION.md:** Advanced cardiovascular maintenance (Cholesterol).
 - **ESOMEPRAZOLE_PRECISION.md:** Gastric acid regulation and ulcer treatment.
