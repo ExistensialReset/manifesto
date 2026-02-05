@@ -1,179 +1,81 @@
-# 📎 APPENDIX: GREEN LABS  
-**Contextual, Ethical & Systemic Rationale**
+# APPENDIX: GREEN LABS
 
-**Related directory:** /green-labs  
-**Status:** Contextual Appendix / Ethical Framing  
-**Scope:** Why this archive exists, how it should be read, and what it is NOT
-
----
-
-## PURPOSE OF THIS APPENDIX
-
-This appendix exists to ensure that the contents of `/green-labs` are not misread.
-
-Without context, documentation of medical recipes can appear reckless, illegal, or irresponsible.
-
-With context, they become what they actually are:
-
-**artifacts of systemic failure**.
-
-This appendix provides that context.
+**Status:** Informational / Contextual  
+**Date:** February 5, 2026  
+**Author:** Elinor Frejd  
+**Scope:** Educational, access-oriented, ethical framework
 
 ---
 
-## WHAT GREEN LABS IS — AND IS NOT
+## Ⅰ. Purpose
 
-### What it IS
+Green Labs exists to **ensure access to essential medicines and compounds** in contexts where commercial availability is limited, restricted, or cost-prohibitive. Its intent is **not to encourage unsafe practices**, but to document **knowledge, techniques, and processes** transparently, preserving access in extreme circumstances.
 
-- A **witness archive** documenting what people do when denied access to essential medication
-- A **pressure signal** showing where healthcare systems fail in practice
-- A **moral indictment** of price-gated survival
-- A **research artifact** relevant to Flow, Baseline design, and Justice-as-Repair
+Key principles:
 
-### What it is NOT
-
-- Not a recommendation
-- Not medical advice
-- Not a tutorial program
-- Not a substitute for professional healthcare
-- Not an endorsement of unsupervised self-medication
-
-The presence of information does not equal encouragement.
+- **Equity:** No individual should lack access to necessary medication due to cost or systemic scarcity.  
+- **Education:** Documentation is intended for learning, research, and safe handling.  
+- **Autonomy:** Knowledge empowers communities to take care of their own wellbeing responsibly.  
+- **Safety First:** Emphasis on safe environments, personal protection, and adherence to legal constraints.
 
 ---
 
-## THE CORE PROBLEM: ACCESS FAILURE
+## Ⅱ. Scope of Content
 
-People do not document how to produce medication at home because it is fun, edgy, or efficient.
+The Green Labs repository includes:
 
-They do it because:
+1. **Educational guides** on chemical and biological principles.  
+2. **Techniques for synthesis and preparation**, strictly for informational purposes.  
+3. **References to regulatory standards and safety protocols.**  
 
-- Medication is unaffordable
-- Supply chains break
-- Insurance coverage fails
-- Patents and pricing block access
-- Gatekeeping creates life-threatening delays
-
-This is not hypothetical.
-
-In many regions:
-- There is no effective cost ceiling
-- There is no emergency fallback
-- There is no universal guarantee
-
-**When the system withdraws care, people improvise care.**
-
-Green Labs exists at that fracture point.
+> No instructions or materials are promoted for unlicensed production outside of research, study, or emergency preparedness contexts.
 
 ---
 
-## ON PERSONAL MEDICATION CONTEXTS
+## Ⅲ. Ethical Considerations
 
-Some materials in this directory originate from **individual lived medical contexts**.
-
-This matters.
-
-- Bodies differ
-- Conditions differ
-- Dosage tolerance differs
-- Risk profiles differ
-
-What one person survives may seriously harm another.
-
-Therefore:
-
-**Nothing in Green Labs is portable by default.**
-
-Any attempt to universalize this material is a category error.
+1. **Legality:** Users are responsible for understanding and complying with local laws.  
+2. **Risk Awareness:** All laboratory work carries inherent risk; Green Labs emphasizes *knowledge before action*.  
+3. **Privacy and Anonymity:** No identifying data of users or participants is collected.  
+4. **Humanitarian Orientation:** The repository focuses on **ensuring human access to vital compounds**, not profit or exploitation.
 
 ---
 
-## HARM ACKNOWLEDGEMENT
+## Ⅳ. Relation to M-OS-R and Flow Principles
 
-It must be stated clearly:
+Green Labs is aligned with the broader ethos of **M-OS-R**:
 
-Self-production or unsupervised modification of medication carries real risk.
-
-- Incorrect synthesis
-- Contamination
-- Dosage errors
-- Adverse interactions
-- Long-term damage
-
-This appendix does not deny that risk.
-
-Instead, it asks the upstream question:
-
-> Why are people being pushed into these risks in the first place?
-
-Risk created by exclusion is not chosen freely.
+- **Baseline Security (L):** Ensuring individuals have access to life-essential resources.  
+- **Spontaneity & Empowerment (S):** Knowledge empowers creative, self-directed problem solving.  
+- **Integration & Care (I):** Supports community resilience and wellbeing, reducing dependency on centralized systems.
 
 ---
 
-## ETHICAL POSITION
+## Ⅴ. Guidance for Users
 
-Health is not a consumer good.
-Medication is not a luxury.
-Survival should not depend on purchasing power.
-
-A society that forces people to reverse-engineer their own treatment
-has already failed its ethical obligations.
-
-Green Labs does not celebrate that failure.
-
-It records it.
+- **Educational Use:** Study the techniques and principles safely, in a controlled environment.  
+- **Simulation:** Model processes digitally or conceptually before any physical implementation.  
+- **Ethical Reflection:** Ask *“Am I prioritizing safety, legality, and community wellbeing?”* before acting.  
+- **Documentation:** Track learning outcomes, safety measures, and improvements without publishing sensitive details publicly.
 
 ---
 
-## RELATION TO FLOW / M-OS-R
+## Ⅵ. Disclaimer
 
-Within the M-OS-R framework, `/green-labs` functions as:
+Green Labs is **informational only**. The authors **do not condone illegal activity** or unsafe experimentation. Users assume full responsibility for any actions taken in the real world.  
 
-- Evidence of **Baseline violation**
-- Justification for **decommodified medicine**
-- Input to **Justice-as-Repair modeling**
-- A reminder of what happens under Mammon Logic
-- A constraint signal for future system design
-
-In a functioning Flow system:
-
-- Essential medication is universally accessible
-- This directory becomes unnecessary
-- These files become historical artifacts
-
-**Obsolescence is the success condition.**
+The repository’s core goal is to **preserve knowledge, support education, and ensure equitable access** in line with post-scarcity ethics.
 
 ---
 
-## HOW THIS MATERIAL SHOULD BE READ
+## VII. Future Direction
 
-Readers are asked to engage with Green Labs as:
-
-- Sociotechnical documentation
-- Ethical evidence
-- Failure analysis
-- Survival testimony
-
-Not as instructions.
-
-Not as advice.
-
-Not as an invitation.
+- Expand safe educational content: simulations, models, and videos.  
+- Develop partnerships with ethical educational initiatives.  
+- Integrate more deeply with M-OS-R nodes to ensure knowledge remains **accessible, secure, and contextually responsible**.
 
 ---
 
-## FINAL STATEMENT
-
-Green Labs exists because people were left without options.
-
-If this archive makes you uncomfortable,
-direct that discomfort toward the systems that made it necessary.
-
-The goal is not to normalize emergency knowledge.
-
-The goal is to remove the emergency.
-
----
-
-**If Flow works, this appendix becomes a relic.**  
-**That is the desired outcome.**
+**Status:** Active / Educational  
+**Confidence Level:** High (for knowledge preservation and ethics)  
+**Next Review:** June 2026
