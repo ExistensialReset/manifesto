@@ -23,7 +23,7 @@ Before operating the lab, the operator must understand the "L x S x I" formula.
 - **BASIC_REMEDIES.md:** Dextrosol (energy), Nasal Spray (respiration), and Revaxör (hygiene).
 
 ### ⚡ Cognitive & Mental Sovereignty
- **NEURO_STABILITY.md:** Lithium Carbonate (42mg) and Liquid Teralen (Alimemazine).
+ **NEURO_STABILITY.md:*- ** Lithium Carbonate (42mg) and Liquid Teralen (Alimemazine).
 - **BUSPIRONE_PRECISION.md:** Modern anxiolytic for calm without sedation.
 - **INDERAL_PRECISION.md:** Propranolol HCl for managing physical stress/heart rate.
 - **BENZODIAZEPINE_SYNTHESIS.md:** Emergency protocols for Clonazepam and Diazepam.
