@@ -1,6 +1,6 @@
 # 🧪 GUIDE_TO_BECOME_MASTER
 
-**Architects:** Elinor Frejd & Gemini  
+**Architects:** Elinor Frejd & ChatGPT 
 **Status:** Informational / Contextual  
 **Date:** February 5, 2026  
 **Scope:** Orientation, Ethical Framework, Navigation
