@@ -1,6 +1,6 @@
 # GUIDE_TO_BECOME_MASTER.md
 
-**Architect:** Elinor Frejd & Gemini  
+**Architect:** Elinor Frejd & ChatGPT 
 **Status:** Educational / Contextual  
 **Date:** February 5, 2026
 
