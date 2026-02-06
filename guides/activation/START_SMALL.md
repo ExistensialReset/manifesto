@@ -50,7 +50,7 @@ This guide is for you if:
 
 ---
 
-# ⚠️ SAFETY FIRST – READ THIS IF YOU HAVE TRAUMA, ANXIETY, OR PTSD
+## ⚠️ SAFETY FIRST – READ THIS IF YOU HAVE TRAUMA, ANXIETY, OR PTSD
 
 If you have experienced trauma, anxiety, panic attacks, or deep depression:
 
@@ -178,7 +178,7 @@ Just – for one second – feel that:
 
 ***You just proved to your body: you are not alone.***
 
-#### Linked resource: [GLOBAL_RESONANCE.md](./principles/GLOBAL_RESONANCE.md) – This feeling is universal across all cultures.
+#### Linked resource: [GLOBAL_RESONANCE.md](./principles/GLOBAL_RESONANCE.md) – if link don't work, go to /principles, look for the document. This feeling is universal across all cultures.
 
 ---
 
@@ -188,7 +188,7 @@ Just – for one second – feel that:
 
 Look at your notes from Monday (or alternative).
 
-Ask:
+**Ask:**
 
 · Has my Mammon-Count changed? (Up, down, same – all okay)
 · Or: Have my safety moments increased?
@@ -240,9 +240,9 @@ Ask Yourself One Question
 
 Sit quietly for 10 minutes.
 
-No phone.
-No music.
-Just you.
+*No phone.*
+*No music.*
+*Just you.*
 
 **Ask:**
 
@@ -252,7 +252,7 @@ what would I do?"
 Don't write the answer.
 Just listen.
 
-Let your body answer.
+Let your *body* answer.
 
 **Evening reflection:**
 
@@ -297,31 +297,33 @@ Do the same week again. **Go deeper.** Try the alternative exercises.
 2-3 people. No structure yet. Just: "We meet every Sunday and talk about what we felt this week."
 
 **Option D: Digital Solo-Circle **
-Join the anonymous online forum (see Appendix A) to share experiences without revealing identity. Or just email me, elinor. frejd@proton.me, I will answer you, I promise. 
+Join the anonymous online forum (see Appendix A) to share experiences without revealing identity. 
+
+Or just email me, **elinor. frejd@proton.me**, I will answer you, I promise. 
 
 ---
 
-PART II: THE MICRO-CIRCLE GUIDE (2-5 People, 12 Weeks)
+## PART II: THE MICRO-CIRCLE GUIDE (2-5 People, 12 Weeks)
 
-What this is:
+**What this is:**
 A practical protocol for 2-5 people who want to try Flow together.
 
-Time commitment:
+**Time commitment:**
 1 meeting per week (1-2 hours).
 
-Goal:
+**Goal:**
 By Week 12, you have a living Micro-Circle – not perfect, but real.
 
 ---
 
-SHARING BOUNDARIES AGREEMENT (WEEK 0)
+### SHARING BOUNDARIES AGREEMENT (WEEK 0)
 
 Before you start, agree on:
 
 1. Comfort Levels:
-   · Green: Share everything
-   · Yellow: Share some things
-   · Red: Share only basics
+   · **🟩Green:** Share everything
+   · **🟨Yellow:** Share some things
+   · **🟥Red:** Share only basics
         Everyone chooses their color each week
 2. The Right to Pass:
       "I pass" is a complete sentence. No explanation needed.
