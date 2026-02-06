@@ -144,6 +144,22 @@ Be the crack in the wall where the light gets in.
 
 ---
 
+**IF YOU SKIPPED ANY STEP, ANY TIME:**
+
+**That's data too.**
+***Not failure.*** **Information.**
+
+**Ask yourself:**
+- Was it too much? → Try half the time tomorrow.
+- Did I forget? → Set a reminder.
+- Didn't feel safe? → That's okay. Try when you do.
+- Didn't want to? → That's also okay. No obligation.
+
+**You can return to this step – or skip it entirely.
+Flow adapts to you. Not the other way around.**
+
+---
+
 **Reminder:**  
 This is Day 1.  
 There is no Day 1.5 you can fail.
