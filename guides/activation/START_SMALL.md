@@ -8,7 +8,9 @@ Core Principle: Start where you are. Use what you have. Do what you can. No perf
 ---
 
 **IF YOU DIDN'T DO ANY STEP ON ANY DAY:**
+
 **Options:**
+
 Try a lighter version tomorrow. 
 **Example:** Day 1 felt too hard? Just count 3 fears instead of all.
 Skip to next day. 
