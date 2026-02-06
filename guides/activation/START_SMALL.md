@@ -125,7 +125,7 @@ Not "self-care routine".
 
 ***You just proved to your body: fear is not constant.***
 
-#### Linked resource: [REFUGIUM_ANIMA.md](./principles/REFUGIUM_ANIMA.md) – This is your future sanctuary. Today you found a micro-refugium.
+#### Linked resource: [REFUGIUM_ANIMA.md](./principles/REFUGIUM_ANIMA.md) – if link don't work: go to /principles and look for this document. This is your future sanctuary. Today you found a micro-refugium.
 
 ---
 
