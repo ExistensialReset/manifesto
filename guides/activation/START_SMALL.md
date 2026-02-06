@@ -64,7 +64,7 @@ Listen to your nervous system.**
 
 ---
 
-## PART I: THE FIRST 7 DAYS (SOLO)
+### PART I: THE FIRST 7 DAYS (SOLO)
 
 **What this is:**
 A week of micro-experiments to feel what Flow is – not just understand it.
@@ -298,16 +298,23 @@ Just email me, **elinor.frejd@proton.me**, I will answer you, I promise.
 
 Not ready for 1-2 hour meetings?
 Try this gradual bridge:
+
 #### Weeks 1-4: Solo + Digital
+
 #### Continue 7-day solo practice
 Post once per week to elinor.frejd@proton.me (or journal)
+
 #### Weeks 5-8: Find ONE Other Person
+
 Not a full Circle – just one trusted person
 Meet for **20-30 minutes weekly**
 **Share:** "How was your week's practice?"
 No structure. Just presence.
+
 #### Weeks 9-12: Decide Next Step
-Ready for full Micro-Circle? → Start #### PART II
+Ready for full Micro-Circle? → Start 
+
+## PART II
 **Want to stay one-on-one? → That's valid too**
 **Prefer digital/solo? → That's also Flow
 Remember: Circles are not mandatory.**
@@ -429,7 +436,6 @@ Practice graduated sharing:
 ---
 
 ### WEEKS 4-12: Establish Sustainable Rhythm
-
 Meeting structure (60-90 minutes):
 
 1. Check-in with Comfort Colors (15 min)
@@ -500,7 +506,7 @@ For those building alone or between Circles.
 
 ---
 
-### APPENDIX A: DIGITAL SOLO-CIRCLE
+## APPENDIX A: DIGITAL SOLO-CIRCLE
 
 **What it is:** Anonymous online space to share Flow experiences.
 
@@ -598,14 +604,14 @@ And they will understand what it cost and what it gives to you.
 
 ---
 
-### PART IV: THE PLUS PRINCIPLE – WITHOUT PERFECTION
+## PART IV: THE PLUS PRINCIPLE – WITHOUT PERFECTION
 
 Everything that doesn't need to be bought – is plus.
 But sometimes you buy things – and that's still okay.
 
 ---
 
-### THE ANTI-PERFECTION CLAUSE
+## THE ANTI-PERFECTION CLAUSE
 
 Flow is not about being perfectly anti-consumerist.
 Flow is about awareness and choice.
@@ -624,7 +630,7 @@ Flow is conscious choice, not perfect purity.
 
 ---
 
-### PLUS PRINCIPLE IN PRACTICE – GRADUATED
+## PLUS PRINCIPLE IN PRACTICE – GRADUATED
 
 Start with **Level 1 (Easy):**
 
@@ -669,7 +675,7 @@ Your worth is not your anti-consumption score."
 
 ---
 
-### PART V: TRANSITION CHECKPOINTS WITH VISUAL TRACKING
+## PART V: TRANSITION CHECKPOINTS WITH VISUAL TRACKING
 
 Track your progress simply:
 
@@ -699,13 +705,13 @@ Week 9-12: 🟡🟡⚪⚪ (2 consistent sharings)
 
 ---
 
-### PART VI: WHEN IT GETS HARD – EXPANDED SUPPORT
+## PART VI: WHEN IT GETS HARD – EXPANDED SUPPORT
 
 It will get hard. Here's your toolbox:
 
 ---
 
-#### HARD MOMENT 1: Loneliness
+### HARD MOMENT 1: Loneliness
 
 "I'm the only one trying this."
 
@@ -721,7 +727,7 @@ I will surely cheer you up!
 
 ---
 
-#### HARD MOMENT 2: Guilt & Perfectionism
+### HARD MOMENT 2: Guilt & Perfectionism
 
 "I should be better at this."
 
@@ -734,7 +740,7 @@ I will surely cheer you up!
 
 ---
 
-#### HARD MOMENT 3: Doubt
+### HARD MOMENT 3: Doubt
 
 "Is this even real?"
 
@@ -747,7 +753,7 @@ I will surely cheer you up!
 
 ---
 
-#### HARD MOMENT 4: Mammon Pulls You Back
+### HARD MOMENT 4: Mammon Pulls You Back
 
 "I need to stop this and focus on survival."
 
@@ -760,7 +766,7 @@ I will surely cheer you up!
 
 ---
 
-#### HARD MOMENT 5: Circle Conflict
+### HARD MOMENT 5: Circle Conflict
 
 "This is getting tense."
 
@@ -772,7 +778,7 @@ I will surely cheer you up!
 
 ---
 
-#### HARD MOMENT 6: Burnout
+### HARD MOMENT 6: Burnout
 
 "I'm tired of trying."
 
@@ -785,7 +791,7 @@ I will surely cheer you up!
 
 ---
 
-#### HARD MOMENT 7: Your Circle Dissolved
+### HARD MOMENT 7: Your Circle Dissolved
 
 "Our Circle ended. Did I fail?"
 
@@ -834,34 +840,34 @@ They come. They teach. They go.
 
 ---
 
-### PART VII: LINKED RESOURCES GUIDE
+## PART VII: LINKED RESOURCES GUIDE
 
 When you need more:
 
 Feeling Read This For
-Alone [GLOBAL_RESONANCE.md] Universal human experience
-Unsafe [CHILDREN'S_RIGHTS_IN_FLOW.md] Protection protocols
-Conflicted [THE_HARM_BOUNDARY_PROTOCOL.md] Serious conflict guidance
-Tired [REFUGIUM_ANIMA.md] Sacred rest principles
-Doubting [AXIOMS.md] Foundational truths
-Perfectionist [EPISTEMOLOGICAL_PLURALISM.md] Many true ways
-Stuck [THE_MANDATE_OF_NINE_MOONS.md] Deep conflict resolution
+- Alone [GLOBAL_RESONANCE.md] Universal human experience
+- Unsafe [CHILDREN'S_RIGHTS_IN_FLOW.md] Protection protocols
+- Conflicted [THE_HARM_BOUNDARY_PROTOCOL.md] Serious conflict guidance
+- Tired [REFUGIUM_ANIMA.md] Sacred rest principles
+- Doubting [AXIOMS.md] Foundational truths
+- Perfectionist [EPISTEMOLOGICAL_PLURALISM.md] Many true ways
+- Stuck [THE_MANDATE_OF_NINE_MOONS.md] Deep conflict resolution
 
 ---
 
-### PART VIII: FOR PARENTS & CAREGIVERS
+## PART VIII: FOR PARENTS & CAREGIVERS
 
 Flow with children looks different:
 
 Modified 7 Days with Kids:
 
-Day 1: Notice when your child feels safe (not you)
-Day 2: Find 1 minute of calm WITH your child
-Day 3: Do something pointless TOGETHER
-Day 4: See each other fully (parent sees child, child sees parent)
-Day 5: Notice patterns in family fear/safety
-Day 6: Give freely within family (no "you owe me")
-Day 7: Ask child: "What would we do if we weren't afraid?"
+**Day 1:** Notice when your child feels safe (not you)
+**Day 2:** Find 1 minute of calm WITH your child
+**Day 3:** Do something pointless TOGETHER
+**Day 4:** See each other fully (parent sees child, child sees parent)
+**Day 5:** Notice patterns in family fear/safety
+**Day 6:** Give freely within family (no "you owe me")
+**Day 7:** Ask child: "What would we do if we weren't afraid?"
 
 **Key adaptations:**
 
@@ -872,7 +878,7 @@ Day 7: Ask child: "What would we do if we weren't afraid?"
 
 ---
 
-### PART IX: FINAL WORDS – REVISED
+## PART IX: FINAL WORDS – REVISED
 
 You don't need to do this perfectly.
 You don't need to do this fast.
@@ -881,9 +887,9 @@ You don't need to do this at all.
 But if you want to try:
 
 **Start where you are.**
-Use what you have.
-Do what you can.
-**Stop when you need to.**
+**Use what you have.**
+**Do what you can.**
+***Stop when you need to.***
 
 ***Every conscious choice counts.
 Every moment of awareness.
@@ -894,15 +900,15 @@ Every breath taken without guilt.***
 
 Not theory.
 Practice.
-Imperfect, human, alive practice.
+**Imperfect, human, alive practice.**
 
 ---
 
-Welcome.
+# Welcome.
 
-You are not alone.
+## You are not alone.
 
-Even if it feels like it.
+### Even if it feels like it.
 
 # 🌱💛✨
 
