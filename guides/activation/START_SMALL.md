@@ -36,7 +36,7 @@ You just need:
 
 ---
 
-⚠️ SAFETY FIRST – READ THIS IF YOU HAVE TRAINA, ANXIETY, OR PTSD
+⚠️ SAFETY FIRST – READ THIS IF YOU HAVE TRAUMA, ANXIETY, OR PTSD
 
 If you have experienced trauma, anxiety, panic attacks, or deep depression:
 
