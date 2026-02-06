@@ -294,7 +294,7 @@ Do the same week again. **Go deeper.** Try the alternative exercises.
 **Option D: Digital Solo-Circle**
 Join the anonymous online forum (see Appendix A) to share experiences without revealing identity. 
 
-Or just email me, **elinor. frejd@proton.me**, I will answer you, I promise. 
+Or just email me, **elinor.frejd@proton.me**, I will answer you, I promise. 
 
 **Option E: HYBRID PATH (Not Ready for Full Circle Yet)**
 
