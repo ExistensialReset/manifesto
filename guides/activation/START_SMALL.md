@@ -335,12 +335,13 @@ By Week 12, you have a living Micro-Circle – not perfect, but real.
 Before you start, agree on:
 
 1. Comfort Levels:
- · **🟩Green:** Share everything
+· **🟩Green:** Share everything
  
 · **🟨Yellow:** Share some things
    
 · **🟥Red:** Share only basics
-        **Everyone chooses their color each week**
+        
+**Everyone chooses their color each week**
 2. The Right to Pass:
       "I pass" is a complete sentence. No explanation needed.
 3. Confidentiality:
@@ -504,20 +505,20 @@ For those building alone or between Circles.
 
 **What it is:** Anonymous online space to share Flow experiences.
 
-**How to use:**
+This option doesn't exist yet, because I don't know how to build a website, and I don't have any money to build it for either... But! I have an email and you can write me your thoughts every day or week and 
 
-1. Visit [flow-solo-circle.net] (fictional – would need to be built)
-2. Choose a random username
-3. Share: "Week 1, Day 3: I did something pointless today"
-4. Read others' shares
-5. No replies, no advice – just witnessing
+I will publish it hear on this github repo, anonymously of course, under a new map that is called /circle_experiences 
+
+My email is elinor.frejd@proton.me 
+
+ Read others' shares
+ No replies, no advice – just witnessing
 
 **Safety rules:**
 
 · No personal details
-· No asking for money
+· No asking for money, no use, I have no money...
 · No giving advice unless tag says "[Advice Welcome]"
-· Moderators remove extractive behavior
 
 ---
 
@@ -564,7 +565,7 @@ What felt hard?
 
 No guilt. Just curiosity."
 
-Then post anonymously to Digital Solo-Circle:
+Then email me and I will post anonymously to /circle_ongoing:
 "Week [X]: I did [Y]. It felt [Z]."
 
 ---
