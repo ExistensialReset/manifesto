@@ -784,6 +784,55 @@ I will surely cheer you up!
 
 ---
 
+#### HARD MOMENT 7: Your Circle Dissolved
+
+"Our Circle ended. Did I fail?"
+
+**Toolbox:**
+
+**Truth:** Most Circles dissolve within 6 months. This is normal.
+
+**Common reasons:**
+- Life changes (moving, illness, work)
+- Mismatched expectations
+- Natural completion
+- Unresolvable conflict (even with protocol)
+- People just drift
+
+**What to do:**
+
+1. **Acknowledge it explicitly**
+   Don't ghost. Say clearly: "This Circle is ending."
+
+2. **Reflect together (if possible)**
+   - What worked?
+   - What didn't?
+   - What did we learn?
+
+3. **Release without guilt**
+   No one owes anyone continuation.
+   Circles are experiments, not marriages.
+
+4. **Decide your next step**
+   - Try again with different people?
+   - Return to solo practice?
+   - Email Elinor?
+   - Rest for a while?
+
+**Remember:**
+
+**If your Circle ended – you still learned something.**
+
+**That's success, not failure.**
+
+Most Circles are meant to be temporary.
+
+Like seasons.
+
+They come. They teach. They go.
+
+---
+
 ### PART VII: LINKED RESOURCES GUIDE
 
 When you need more:
@@ -822,7 +871,7 @@ Day 7: Ask child: "What would we do if we weren't afraid?"
 
 ---
 
-#### PART IX: FINAL WORDS – REVISED
+### PART IX: FINAL WORDS – REVISED
 
 You don't need to do this perfectly.
 You don't need to do this fast.
@@ -858,7 +907,7 @@ Even if it feels like it.
 
 ---
 
-Status: ACTIVE STARTER GUIDE v2.0
+Status: ACTIVE STARTER GUIDE v2.5
 Changes: Trauma-sensitive options, anti-perfection clause, graduated sharing, digital support, conflict protocols, visual tracking, resource links
 Core: You owe nothing. You deserve to exist. Flow is when life flows – imperfectly, humanly, beautifully.
 
