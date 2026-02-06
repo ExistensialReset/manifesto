@@ -200,8 +200,7 @@ Look at your notes from Monday (or alternative).
 
 ---
 
-### DAY 6 – Saturday:
-Give Without Getting Back
+### DAY 6 – Saturday: Give Without Getting Back
 
 **What to do:**
 
@@ -230,8 +229,7 @@ No thanks needed.
 
 ---
 
-### DAY 7 – Sunday: 
-Ask Yourself One Question
+### DAY 7 – Sunday: Ask Yourself One Question
 
 **What to do:**
 
