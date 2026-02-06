@@ -77,8 +77,7 @@ By Sunday, you will have felt L, S, and I in your body – not as theory, but as
 
 ---
 
-### DAY 1 – Monday:
-See Your Mammon-Grip (ALTERNATIVE: Track Safety)
+### DAY 1 – Monday: See Your Mammon-Grip (ALTERNATIVE: Track Safety)
 
 **STANDARD VERSION:**
 Carry a small notebook. Every time you feel fear today – write it down.
@@ -95,8 +94,7 @@ Carry a small notebook. Every time you feel fear today – write it down.
 
 ---
 
-### DAY 2 – Tuesday:
-Find One (1) Minute of Calm
+### DAY 2 – Tuesday: Find One (1) Minute of Calm
 
 **What to do:**
 
