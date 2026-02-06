@@ -335,9 +335,11 @@ By Week 12, you have a living Micro-Circle – not perfect, but real.
 Before you start, agree on:
 
 1. Comfort Levels:
-   · **🟩Green:** Share everything
-   · **🟨Yellow:** Share some things
-   · **🟥Red:** Share only basics
+ · **🟩Green:** Share everything
+ 
+· **🟨Yellow:** Share some things
+   
+· **🟥Red:** Share only basics
         **Everyone chooses their color each week**
 2. The Right to Pass:
       "I pass" is a complete sentence. No explanation needed.
