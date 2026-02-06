@@ -333,6 +333,7 @@ By Week 12, you have a living Micro-Circle – not perfect, but real.
 Before you start, agree on:
 
 1. Comfort Levels:
+
 · **🟩Green:** Share everything
  
 · **🟨Yellow:** Share some things
