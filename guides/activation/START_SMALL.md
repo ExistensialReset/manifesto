@@ -143,7 +143,7 @@ Not "self-care routine".
 
 **That is S (Spontanitet/Spontaneity).**
 
-You just proved to your body: life is not only productivity.
+***You just proved to your body: life is not only productivity.***
 
 ---
 
@@ -291,10 +291,8 @@ Do the same week again. **Go deeper.** Try the alternative exercises.
 **Option C: Start a Micro-Circle**
 2-3 people. No structure yet. Just: "We meet every Sunday and talk about what we felt this week."
 
-**Option D: Digital Solo-Circle**
-Join the anonymous online forum (see Appendix A) to share experiences without revealing identity. 
-
-Or just email me, **elinor.frejd@proton.me**, I will answer you, I promise. 
+**Option D: Digital Solo-Circle** 
+**Just email me, **elinor.frejd@proton.me**, I will answer you, I promise. 
 
 **Option E: HYBRID PATH (Not Ready for Full Circle Yet)**
 
