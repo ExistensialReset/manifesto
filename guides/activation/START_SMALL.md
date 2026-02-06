@@ -297,6 +297,7 @@ Join the anonymous online forum (see Appendix A) to share experiences without re
 Or just email me, **elinor. frejd@proton.me**, I will answer you, I promise. 
 
 **Option E: HYBRID PATH (Not Ready for Full Circle Yet)**
+
 Not ready for 1-2 hour meetings?
 Try this gradual bridge:
 Weeks 1-4: Solo + Digital
@@ -313,6 +314,7 @@ Want to stay one-on-one? → That's valid too
 Prefer digital/solo? → That's also Flow
 Remember: Circles are not mandatory.
 Flow can be lived entirely solo if needed.
+
 ---
 
 ## PART II: THE MICRO-CIRCLE GUIDE (2-5 People, 12 Weeks)
