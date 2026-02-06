@@ -162,5 +162,6 @@ Flow adapts to you. Not the other way around.**
 
 **Reminder:**  
 This is Day 1.  
-There is no Day 1.5 you can fail.
-There is only continuation, pause, or rest — never failure. 🌌❤️🌬️
+There is **no Day** you can fail.
+There is only continuation, pause, or rest — never failure. 
+# 🌌❤️🌬️
