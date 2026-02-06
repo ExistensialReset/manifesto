@@ -149,8 +149,7 @@ You just proved to your body: life is not only productivity.
 
 ---
 
-### DAY 4 – Thursday: 
-See One Human
+### DAY 4 – Thursday: See One Human
 
 **What to do:**
 
