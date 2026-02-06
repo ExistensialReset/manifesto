@@ -456,7 +456,7 @@ Each person shares color and:
 
 ---
 
-#### CONFLICT PROTOCOL FOR MICRO-CIRCLES
+### CONFLICT PROTOCOL FOR MICRO-CIRCLES
 
 **If tension arises:**
 
