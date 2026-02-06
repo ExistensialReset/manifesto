@@ -292,26 +292,26 @@ Do the same week again. **Go deeper.** Try the alternative exercises.
 2-3 people. No structure yet. Just: "We meet every Sunday and talk about what we felt this week."
 
 **Option D: Digital Solo-Circle** 
-**Just email me, **elinor.frejd@proton.me**, I will answer you, I promise. 
+Just email me, **elinor.frejd@proton.me**, I will answer you, I promise. 
 
 **Option E: HYBRID PATH (Not Ready for Full Circle Yet)**
 
 Not ready for 1-2 hour meetings?
 Try this gradual bridge:
-Weeks 1-4: Solo + Digital
-Continue 7-day solo practice
-Post once per week to Digital Solo-Circle (or journal)
-Weeks 5-8: Find ONE Other Person
+#### Weeks 1-4: Solo + Digital
+#### Continue 7-day solo practice
+Post once per week to elinor.frejd@proton.me (or journal)
+#### Weeks 5-8: Find ONE Other Person
 Not a full Circle – just one trusted person
-Meet for 20-30 minutes weekly
-Share: "How was your week's practice?"
+Meet for **20-30 minutes weekly**
+**Share:** "How was your week's practice?"
 No structure. Just presence.
-Weeks 9-12: Decide Next Step
-Ready for full Micro-Circle? → Start PART II
-Want to stay one-on-one? → That's valid too
-Prefer digital/solo? → That's also Flow
-Remember: Circles are not mandatory.
-Flow can be lived entirely solo if needed.
+#### Weeks 9-12: Decide Next Step
+Ready for full Micro-Circle? → Start #### PART II
+**Want to stay one-on-one? → That's valid too**
+**Prefer digital/solo? → That's also Flow
+Remember: Circles are not mandatory.**
+***Flow can be lived entirely solo if needed.***
 
 ---
 
@@ -503,9 +503,9 @@ For those building alone or between Circles.
 
 **What it is:** Anonymous online space to share Flow experiences.
 
-This option doesn't exist yet, because I don't know how to build a website, and I don't have any money to build it for either... But! I have an email and you can write me your thoughts every day or week and 
+This option doesn't exist yet, because I don't know how to build a website, and I don't have any money to build it for either... 
 
-I will publish it hear on this github repo, anonymously of course, under a new map that is called /circle_experiences 
+But! I have an email and you can write me your thoughts every day or week and I will publish it hear on this github repo, anonymously of course, under a new map that is called /circle_experiences 
 
 My email is elinor.frejd@proton.me 
 
@@ -593,7 +593,7 @@ And that we built this for you.
 
 One day – when people find Flow – they will read them.
 
-And they will understand what it cost.
+And they will understand what it cost and what it gives to you. 
 
 ---
 
