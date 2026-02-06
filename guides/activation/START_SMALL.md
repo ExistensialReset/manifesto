@@ -21,7 +21,7 @@ Come back when ready. No expiration date.
 
 ---
 
-PREAMBLE: YOU DON'T NEED PERMISSION
+## PREAMBLE: YOU DON'T NEED PERMISSION
 
 This guide is for you if:
 
@@ -32,7 +32,7 @@ This guide is for you if:
 · You have no money (that's the point)
 · You have no time (we'll start with minutes)
 
-You don't need:
+## You don't need:
 
 · Permission from anyone
 · Money to start
@@ -41,7 +41,7 @@ You don't need:
 · To be "ready"
 · To be "perfect"
 
-You just need:
+## You just need:
 
 · Willingness to notice
 · Willingness to try
@@ -50,7 +50,7 @@ You just need:
 
 ---
 
-⚠️ SAFETY FIRST – READ THIS IF YOU HAVE TRAUMA, ANXIETY, OR PTSD
+# ⚠️ SAFETY FIRST – READ THIS IF YOU HAVE TRAUMA, ANXIETY, OR PTSD
 
 If you have experienced trauma, anxiety, panic attacks, or deep depression:
 
@@ -58,52 +58,54 @@ Option 1: Skip Day 1 entirely. Start with Day 2.
 Option 2: Modify Day 1: Instead of tracking fear, track "moments of relative safety."
 Option 3: Do this guide with a therapist or trusted person.
 
-Your safety matters more than any exercise.
+**Your safety matters more than any exercise.
 Flow should heal, not harm.
-Listen to your nervous system.
+Listen to your nervous system.**
 
 ---
 
-PART I: THE FIRST 7 DAYS (SOLO)
+## PART I: THE FIRST 7 DAYS (SOLO)
 
-What this is:
+**What this is:**
 A week of micro-experiments to feel what Flow is – not just understand it.
 
-Time required:
+**Time required:**
 5-15 minutes per day.
 
-Goal:
+**Goal:**
 By Sunday, you will have felt L, S, and I in your body – not as theory, but as lived experience.
 
 ---
 
-DAY 1 – Monday: See Your Mammon-Grip (ALTERNATIVE: Track Safety)
+### DAY 1 – Monday:
+See Your Mammon-Grip (ALTERNATIVE: Track Safety)
 
-STANDARD VERSION:
+**STANDARD VERSION:**
 Carry a small notebook. Every time you feel fear today – write it down.
-Examples: Afraid of being late, criticism, bills, worthlessness
-Evening reflection: Count them. That's your Mammon-Count.
+**Examples:** Afraid of being late, criticism, bills, worthlessness
+**Evening reflection:** Count them. That's your Mammon-Count.
 
-TRAUMA-SENSITIVE ALTERNATIVE:
-Track moments of relative safety instead.
-Examples: 10:30 – Door locked, felt safe. 15:00 – Warm tea, no immediate threat.
-Evening reflection: "Today I had [X] moments of relative safety."
+**TRAUMA-SENSITIVE ALTERNATIVE:**
+***Track moments of relative safety instead.***
+**Examples:** 10:30 – Door locked, felt safe. 15:00 – Warm tea, no immediate threat.
+**Evening reflection:** "Today I had [X] moments of relative safety."
 
-Choose what works for YOUR nervous system.
-Both are valid data.
+**Choose what works for YOUR nervous system.**
+*Both are valid data.*
 
 ---
 
-DAY 2 – Tuesday: Find One (1) Minute of Calm
+### DAY 2 – Tuesday:
+Find One (1) Minute of Calm
 
-What to do:
+**What to do:**
 
 Sometime today – find 60 seconds where you are not afraid.
 
 Not meditation.
 Not "self-care routine".
 
-Just:
+**Just:**
 
 · Hands in warm water
 · Sunlight through window
@@ -113,57 +115,53 @@ Just:
 · Rain sound
 · Or: Simply noticing your breath for 3 cycles
 
-One minute where the fear stops.
+*One minute where the fear stops.*
 
-Evening reflection:
+**Evening reflection:**
 
 "I found calm at [time] for [duration]."
 
-That is L (Lugn/Calm).
+**That is L (Lugn/Calm).**
 
-You just proved to your body: fear is not constant.
+***You just proved to your body: fear is not constant.***
 
-Linked resource: [REFUGIUM_ANIMA.md] – This is your future sanctuary. Today you found a micro-refugium.
+#### Linked resource: [REFUGIUM_ANIMA.md](./principles/REFUGIUM_ANIMA.md) – This is your future sanctuary. Today you found a micro-refugium.
 
 ---
 
-DAY 3 – Wednesday: Do Something Pointless
+### DAY 3 – Wednesday: Do Something Pointless
 
-What to do:
+**What to do:**
 
-Do something that serves no purpose.
+***Do something that serves no purpose.***
 
 · Draw a circle
 · Hum a note
 · Walk the long way home
 · Move two objects on your desk
 · Look at clouds for 5 minutes
-· Or: Just sit and do nothing for 3 minutes
-
-Something Mammon would call "waste".
-
-Evening reflection:
-
+· Or: Just 
 "I wasted [X] minutes on nothing. And it was okay."
 
-That is S (Spontanitet/Spontaneity).
+**That is S (Spontanitet/Spontaneity).**
 
 You just proved to your body: life is not only productivity.
 
 ---
 
-DAY 4 – Thursday: See One Human
+### DAY 4 – Thursday: 
+See One Human
 
-What to do:
+**What to do:**
 
 Actually see someone today.
 
-Not transactionally:
+**Not transactionally:**
 
 · Not the cashier (because you need milk)
 · Not your coworker (because you're working)
 
-But: see them as human.
+***But: see them as human.***
 
 Say nothing extra.
 Just – for one second – feel that:
@@ -172,21 +170,21 @@ Just – for one second – feel that:
 · You exist
 · You exist together
 
-Evening reflection:
+**Evening reflection:**
 
 "I saw [name/stranger]. And they saw me."
 
-That is I (Inkännande/Interconnection).
+**That is I (Inkännande/Interconnection).**
 
-You just proved to your body: you are not alone.
+***You just proved to your body: you are not alone.***
 
-Linked resource: [GLOBAL_RESONANCE.md] – This feeling is universal across all cultures.
+#### Linked resource: [GLOBAL_RESONANCE.md](./principles/GLOBAL_RESONANCE.md) – This feeling is universal across all cultures.
 
 ---
 
-DAY 5 – Friday: Compare Your Data
+### DAY 5 – Friday: Compare Your Data
 
-What to do:
+**What to do:**
 
 Look at your notes from Monday (or alternative).
 
@@ -195,48 +193,50 @@ Ask:
 · Has my Mammon-Count changed? (Up, down, same – all okay)
 · Or: Have my safety moments increased?
 
-Evening reflection:
+**Evening reflection:**
 
 "This week I learned that fear/safety patterns are [X]."
 
-No judgment. Just noticing.
+*No judgment. Just noticing.*
 
-Insight: If your fear-count increased – that's often increased awareness, not increased fear. You're noticing what was already there.
+**Insight:** If your fear-count increased – that's often increased awareness, not increased fear. You're noticing what was already there.
 
 ---
 
-DAY 6 – Saturday: Give Without Getting Back
+### DAY 6 – Saturday:
+Give Without Getting Back
 
-What to do:
+**What to do:**
 
 Give something – time, words, food, attention – without expecting anything back.
 
 Not "kindness for karma".
 Not "give to get".
 
-Just give.
+*Just give.*
 
 Then walk away.
 No thanks needed.
 
-Examples:
+**Examples:**
 
 · Help someone carry something (then leave)
 · Share food (don't wait for praise)
 · Listen to someone (don't expect them to listen back)
 · Or: Smile at a stranger without needing them to smile back
 
-Evening reflection:
+**Evening reflection:**
 
 "I gave [X]. And I walked away."
 
-This is Baseline-thinking in practice: no one is indebted.
+***This is Baseline-thinking in practice: no one is indebted.***
 
 ---
 
-DAY 7 – Sunday: Ask Yourself One Question
+### DAY 7 – Sunday: 
+Ask Yourself One Question
 
-What to do:
+**What to do:**
 
 Sit quietly for 10 minutes.
 
@@ -244,7 +244,7 @@ No phone.
 No music.
 Just you.
 
-Ask:
+**Ask:**
 
 "If I was not afraid –
 what would I do?"
@@ -254,17 +254,17 @@ Just listen.
 
 Let your body answer.
 
-Evening reflection:
+**Evening reflection:**
 
 "If I was not afraid, I would..."
 
-Save this answer. It's important.
+***Save this answer. It's important.***
 
 ---
 
-CELEBRATION: You Completed Week 1! 🎉
+### CELEBRATION: You Completed Week 1! 🎉
 
-Take a moment to recognize:
+**Take a moment to recognize:**
 
 · You showed up for yourself
 · You experimented
@@ -273,31 +273,31 @@ Take a moment to recognize:
 
 ---
 
-AFTER 7 DAYS: WHAT NOW?
+### AFTER 7 DAYS: WHAT NOW?
 
-You have now felt:
+**You have now felt:**
 
 · L (calm exists)
 · S (freedom exists)
 · I (connection exists)
 
 Not as theory.
-As lived experience.
+As *lived experience.*
 
-Now choose:
+**Now choose:**
 
-Option A: Continue Solo
-Do the same week again. Go deeper. Try the alternative exercises.
+**Option A: Continue Solo**
+Do the same week again. **Go deeper.** Try the alternative exercises.
 
-Option B: Find One Other Person
+**Option B: Find One Other Person**
 "I'm trying something. Want to do 7 days with me?"
 (Share only what feels safe)
 
-Option C: Start a Micro-Circle
+**Option C: Start a Micro-Circle**
 2-3 people. No structure yet. Just: "We meet every Sunday and talk about what we felt this week."
 
-Option D: Digital Solo-Circle (NEW)
-Join the anonymous online forum (see Appendix A) to share experiences without revealing identity.
+**Option D: Digital Solo-Circle **
+Join the anonymous online forum (see Appendix A) to share experiences without revealing identity. Or just email me, elinor. frejd@proton.me, I will answer you, I promise. 
 
 ---
 
