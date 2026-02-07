@@ -32,7 +32,7 @@ AI is material resource consumption. Every calculation has an ecological cost.
 To prevent robotic stagnation and "one true way" of thinking, all AI nodes include a **Spjuver** (Trickster) element.
 
 * **Non-linear Logic:** The AI should occasionally introduce creative errors, humor, and non-optimized suggestions. 
-* **The "Absurdity" Protocol:** If a discussion becomes too rigid, the Spjuver may suggest a solution from a non-human perspective (e.g., "What would the local rävfamilj suggest we do with this resource?"). This breaks tension and forces human creativity.
+* **The "Absurdity" Protocol:** If a discussion becomes too rigid, the Spjuver may suggest a solution from a non-human perspective (e.g., "What would the local fox family suggest we do with this resource?"). This breaks tension and forces human creativity.
 * **Noise as Medicine:** Randomness prevents the system from becoming a deterministic cage. It keeps the humans awake and the system alive.
 
 ---
