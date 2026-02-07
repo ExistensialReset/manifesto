@@ -76,6 +76,45 @@ A week of micro-experiments to feel what Flow is – not just understand it.
 By Sunday, you will have felt L, S, and I in your body – not as theory, but as lived experience.
 
 ---
+### QUICKSTART ✌️
+The 5 Points to Start Flow
+
+1. The Baseline is Sacred – No Conditions
+
+"Food, shelter, healthcare, connectivity—these are not rewards. They are the starting line. No one should have to 'earn' their survival. If we can't guarantee this for everyone in our small group, we're doing something wrong."
+
+2. No Coercion – Everything is Voluntary
+
+"If someone says 'no thanks' to a project or a meeting—that's completely okay. Nothing requires obedience. We pause if anyone feels pressured. We split ('fork') if we want different things."
+
+3. Build for Life, Not for Systems
+
+"Do we measure 'success' in joy, rest, connection—or in productivity and efficiency? If someone feels harmed by how we do things, we change the structure, not the person."
+
+4. The Earth is in the Circle
+
+"Our flow includes the land, the water, the trees. We ask: 'Does this harm the Earth in a way it can't repair in its own time?' If the answer is yes—we don't do it."
+
+5. Small, Local, Alive – No Leaders
+
+"Start with 3–10 people who want to try. Rotate who 'checks in' (the Mirror role). No one is in charge. If it feels off, pause for 14 days and talk about feelings, not solutions. Grow through inspiration, not recruitment."
+
+---
+
+Why these five?
+They are the practical, living embodiment of all the axioms. They are testable today. They protect against the most common traps (hierarchy, coercion, burnout). They are universal. They set the tone: gentle, human, earth-bound.
+
+A "Start Small" day looks like this:
+
+· Breakfast together (Baseline – food is guaranteed).
+· Talk about what feels alive right now (Flow-evolution – life first).
+· Does someone need to rest instead? Totally okay (No coercion).
+· Decide one small thing together – maybe a garden bed. Everyone gets a real yes/no (No leaders).
+· CHECKIN: Did this make us happier? 
+
+It is enough. It is more than enough. It is the revolution. 🌱 
+
+---
 
 ### DAY 1 – Monday: See Your Mammon-Grip (ALTERNATIVE: Track Safety)
 
