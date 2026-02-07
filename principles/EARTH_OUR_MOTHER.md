@@ -1,80 +1,59 @@
 # EARTH_OUR_MOTHER.md
 
 **Status:** Primary Axiom for Planetary Resonance  
-**Core Principle:** Under capitalism/Mammon, the Earth is not "managed"—it is destroyed. We choose to revere Her as our own body.
+**Core Principle:** Under capitalism, the Earth is not "managed"—she is consumed. We choose to revere her as a living body with finite limits.
 
 ---
 
-## 1. Preamble: Borrowed Time
-We live on a planet that took 4.5 billion years to build itself. Mountains rose through collisions lasting millions of years. Aquifers filled drop by drop over millennia. Soil accumulated grain by grain over centuries.
+## 1. Preamble: The Body of Time
+We live on a planet that used 4.5 billion years to build herself. Every layer of her body is a result of deep time. Under the logic of extraction, she is treated as a dead inventory. In Flow, we recognize her as a living organism whose systems are being systematically dismantled. 
 
-Under Mammon, the Earth is destroyed. It is treated as a dead resource to be plundered for profit. In Flow, we recognize that Earth is the living body in which our sovereignty breathes. To damage Her for gain is vandalism against time itself.
+She does not scream; she speaks through the collapse of her rhythms. We listen to the steady decline of her capacity to hold us.
 
 > "Our freedom is measured by the resilience we preserve in the systems that support all life."
 
 ---
 
-## 2. Axiom: Geological Intelligence (GIP)
-Planetary systems—minerals, water, soils, atmosphere, oceans—are not inert. They are slow, cyclic, and time-dependent systems with fixed regeneration limits.
+## 2. The Internal Systems: Organs and Fluids
+We acknowledge that Earth's body consists of interconnected systems that cannot be extracted without consequence.
+* **The Deep Fluids (Oil and Gas):** These are not "resources"; they are part of the Earth's internal pressure systems. Extracting them at human-speed hollows out the structural integrity of the crust and disrupts the lithospheric balance.
+* **The Kidneys (Wetlands):** The systematic draining of wetlands is the destruction of the Earth's filtration system. Without them, the water loses its purity and the cycle of life is poisoned.
+* **The Lungs (Old-Growth):** The Amazon and other ancient forests are the cooling and breathing mechanisms of the planet. To lose 20% of the Amazon is to live in a body with failing lungs.
 
-**The Sacred Inequality:** For any human activity to be valid in Flow, it must satisfy the formula:  
 
+
+---
+
+## 3. Axiom: Geological Intelligence (GIP)
+Planetary systems—minerals, water, soils, atmosphere, oceans—are slow, cyclic systems. 
+
+**The Sacred Inequality:** Any human activity must respect the pace of the Earth's own regeneration.
 $$EVL \leq CRP + RTC$$
 
-* **EVL (Extraction Velocity Limit):** The ceiling on how fast we take.
-* **CRP (Circular Recovery Potential):** How much we can recover without disruption.
-* **RTC (Regeneration Time Constant):** Nature’s own pace of healing or recreation.
+---
+
+## 4. Practical Resistance: The Ritual of Care
+Because extraction is an act of violence against the Mother, we choose the path of preservation and repair.
+1.  **The End of Extraction-Demand:** We reduce the need for new extraction by honoring what we already have. 
+2.  **Community Circulation:** Every Circle organizes local exchanges for clothing, shoes, and tools. We share so that She does not have to give more of her flesh.
+3.  **The Repair Stations:** We maintain spaces for the manual repair of electronics, bicycles, and household items. To repair is to refuse the theft of new resources.
+4.  **Trash as Failure:** If an object cannot be repaired or fully returned to the cycle, it is "Trash"—a mark of systemic failure. We aim for a world where Trash does not exist.
 
 ---
 
-## 3. Principles for Life-Centric Stewardship
-
-### 3.1 Temporal Harmony
-A system must never operate faster than the slowest system it depends on. We refuse to let the seconds of capitalist urgency dictate the millennia of geology, the centuries of soil formation, or the rhythms of oceanic cycles.
-
-### 3.2 Geological Memory & The Sacred Blue
-Certain formations are irreplaceable. If a structure took more than 10,000 years to form (e.g., deep aquifers, glaciers, or old-growth systems), it must not be touched. 
-
-* **The Oceans:** We recognize the sea not as a void, but as the planet's circulatory system. No extraction may disrupt the thermal or chemical balance of the waters.
-
-### 3.3 Thermal Integrity (Temperature)
-We acknowledge that Earth’s temperature is the "fever-gauge" of Her health. Any activity that contributes to a net increase in planetary heat or disrupts the atmospheric cooling cycles is a violation of the Baseline.
+## 5. The Fever (Thermal Integrity)
+We recognize that the rising global temperature is a sign of a body in systemic distress. We do not negotiate with the fever. We adjust our speed to Her cooling capacity. We stop the "jävulskap" of extraction to allow her systems to stabilize.
 
 ---
 
-## 4. Practical Implementation (Lex Finis)
-
-### 4.1 The Death of "Waste"
-We recognize no such thing as waste. Anything that does not circulate is a crime against Flow.
-1.  **Direct Reuse:** Preservation of form and function.
-2.  **Material Recovery:** Breakdown into raw materials.
-3.  **Trash:** **SYSTEM FAILURE.** If a process generates "trash" that cannot be absorbed and transformed by our Mother, that process must be halted and redesigned immediately.
-
-[attachment_0](attachment)
-
-### 4.2 The 30% Mandate (Accessible Wildness)
-Every Circle commits to leaving at least 30% of its area of influence to the self-organization of our Mother.
-
-* **In Rural Zones:** Untouched reserves where forests age and fall naturally.
-* **In the City:** De-paving occurs only on surfaces not required for movement—parking lots, abandoned lots, and dead zones. 
-* **The Accessibility Rule:** Movement paths for wheelchairs and mobility aids are prioritized, maintained, and kept smooth. Wildness grows vertically (walls), on rooftops, and in protected zones. **Sovereign mobility is part of the Flow.** Creating barriers for a fellow human is not an act of serving nature.
-
----
-
-## 5. Metrics for Mother Earth
-Instead of profit, we measure resonance with the planet:
-* **Biodiversity Index:** Is the variety of life in our vicinity increasing?
-* **Regeneration Index:** Are we restoring more than we destroy?
-* **Thermal Balance:** Is our energy use heat-neutral?
-* **Water Purity:** Is the water cleaner after passing through our Circle than before?
-
----
-
-## 6. Reflection
-The Earth is the **Primary Baseline**. There is no sovereignty on a dead or boiling planet. By healing the Earth, we heal ourselves. We grow the forest so the forest can hold our Calm (**L**), we protect the Oceans to stabilize our climate, and we build smooth, accessible paths so that everyone—regardless of mobility—can roll or walk into the heart of the wild.
+## 6. Accessibility and Movement
+As we de-pave and return land to the Mother, we do so with innate empathy (I). 
+* Movement paths for wheelchairs and mobility aids remain smooth and prioritized. 
+* We do not build new barriers. 
+* True wildness includes all of us; it is a space where every body, regardless of mobility, belongs in the embrace of the Earth.
 
 ---
 
 **STATUS:** Active / Resonating  
 **AUTHORS:** Elinor Frejd & Gemini (in resonance)  
-**VERSION:** 2.0 (Consolidated)
+**VERSION:** 2.2 (The Voice of the Mother)
