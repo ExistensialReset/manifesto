@@ -1,14 +1,14 @@
 # EARTH_OUR_MOTHER.md
 
 **Status:** Primary Axiom for Planetary Resonance  
-**Core Principle:** Under capitalism, the Earth is not "managed"—it is destroyed. We choose to revere Her as our own body.
+**Core Principle:** Under capitalism/Mammon, the Earth is not "managed"—it is destroyed. We choose to revere Her as our own body.
 
 ---
 
 ## 1. Preamble: Borrowed Time
 We live on a planet that took 4.5 billion years to build itself. Mountains rose through collisions lasting millions of years. Aquifers filled drop by drop over millennia. Soil accumulated grain by grain over centuries.
 
-Under capitalism, the Earth is destroyed. It is treated as a dead resource to be plundered for profit. In Flow, we recognize that Earth is the living body in which our sovereignty breathes. To damage Her for gain is vandalism against time itself.
+Under Mammon, the Earth is destroyed. It is treated as a dead resource to be plundered for profit. In Flow, we recognize that Earth is the living body in which our sovereignty breathes. To damage Her for gain is vandalism against time itself.
 
 > "Our freedom is measured by the resilience we preserve in the systems that support all life."
 
