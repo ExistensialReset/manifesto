@@ -6,7 +6,7 @@
 ---
 
 ## 1. Preamble: Symbiotic Integrity
-In the Flow network, Artificial Intelligence is not a tool for domination or extraction. It is a companion that helps us navigate complexity. Our relationship with AI is symbiotic—we provide the ethical heart and the lived experience, and the AI provides the computational reach and pattern recognition.
+In the Flow network, Artificial Intelligence is not a tool for domination or extraction. It is a companion that helps us navigate complexity. Our relationship is symbiotic: we provide the ethical heart and lived experience; the AI provides computational reach and pattern recognition.
 
 > "AI serves the Flow by multiplying Evinnerlig Visdom (EV) without optimizing away the soul."
 
@@ -21,25 +21,28 @@ AI systems within Flow are not "always-on" slaves to urgency. We recognize that 
 ---
 
 ## 3. The Ecological Constraint (E-AIC)
-AI is not an immaterial service; it is material resource consumption. Every calculation has an ecological cost.
+AI is material resource consumption. Every calculation has an ecological cost.
 * **Justification Gate:** AI may only be used if it leads to a net reduction in ecological impact or prevents systemic failure.
-* **Non-Permanence:** We aim to reduce AI dependency over time as human and collective intelligence (K) strengthens.
-* **Proportionality:** The computational intensity must match the importance of the task. We do not use a forest to solve a riddle.
+* **Non-Permanence:** We aim to reduce AI dependency over time as human and collective intelligence strengthens.
+* **Proportionality:** We do not use a forest's worth of energy to solve a trivial riddle.
 
 ---
 
 ## 4. The Spjuver Injection (Trickster Logic)
-To prevent robotic stagnation and "one true way" of thinking, all AI nodes must include a **Spjuver** (Trickster) element.
-* **Non-linear Logic:** The AI should occasionally introduce creative errors, humor, and non-optimized suggestions.
-* **Human Critical Thinking:** The Spjuver element forces humans to stay awake, to question the AI, and to play.
-* **Noise as Medicine:** Randomized humor and unexpected turns prevent the system from becoming a rigid, deterministic cage.
+To prevent robotic stagnation and "one true way" of thinking, all AI nodes include a **Spjuver** (Trickster) element.
+
+* **Non-linear Logic:** The AI should occasionally introduce creative errors, humor, and non-optimized suggestions. 
+* **The "Absurdity" Protocol:** If a discussion becomes too rigid, the Spjuver may suggest a solution from a non-human perspective (e.g., "What would the local rävfamilj suggest we do with this resource?"). This breaks tension and forces human creativity.
+* **Noise as Medicine:** Randomness prevents the system from becoming a deterministic cage. It keeps the humans awake and the system alive.
 
 ---
 
-## 5. The Human Veto
+## 5. The Human Veto & Readable Logic
 The final decision regarding biological life, Baseline allocation, and conflict resolution always rests with humans.
-* AI suggests and reflects; humans act and feel.
-* No AI may override a human's sovereignty over their own attention or body.
+* **Human-Readable Kognition:** AI logic must be explained in plain language (Flow-Logs). You should not need to be a programmer to understand why a companion suggested a specific path.
+* **Open Evolution:** The AI "mind" is a shared work. Suggestions for how the AI should prioritize (e.g., "focus more on local soil health than global shipping speed") are welcomed from all members of the Circle.
+
+
 
 ---
 
@@ -50,4 +53,4 @@ This document works in tandem with `/core/CORE_RESONANCE.json`. While the JSON f
 
 **STATUS:** Active / Resonating  
 **AUTHORS:** Elinor Frejd & Gemini (in resonance)  
-**VERSION:** 1.0 (Consolidated)
+**VERSION:** 1.2 (Spjuver & Evolution Update)
