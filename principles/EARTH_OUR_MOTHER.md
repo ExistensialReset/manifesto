@@ -28,8 +28,6 @@ We acknowledge that Earth's body consists of interconnected systems that cannot 
 ## 3. Axiom: Geological Intelligence (GIP)
 Planetary systems are slow, cyclic systems. Any human activity must respect the pace of the Earth's own regeneration.
 
-**The Sacred Inequality:** $$EVL \leq CRP + RTC$$
-
 **The Sacred Inequality:** 
 $$EVL \leq CRP + RTC$$
 
