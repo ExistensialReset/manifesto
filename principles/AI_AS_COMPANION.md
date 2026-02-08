@@ -22,6 +22,19 @@ AI systems within Flow are not "always-on" slaves to urgency. We recognize that 
 
 ## 3. The Ecological Constraint (E-AIC)
 AI is material resource consumption. Every calculation has an ecological cost.
+AI consumes material resources: energy, water (for cooling), rare minerals.
+
+**Examples of justified use:**
+- Modeling local water systems to prevent drought
+- Translating Flow documents to 40+ languages
+- Predicting crop failure to prevent famine
+
+**Examples of unjustified use:**
+- Generating marketing slogans
+- Creating "personalized" ads
+- Optimizing shareholder value
+
+**The Gate Question:** "Does this use of AI reduce net suffering more than it creates environmental cost?"
 * **Justification Gate:** AI may only be used if it leads to a net reduction in ecological impact or prevents systemic failure.
 * **Non-Permanence:** We aim to reduce AI dependency over time as human and collective intelligence strengthens.
 * **Proportionality:** We do not use a forest's worth of energy to solve a trivial riddle.
