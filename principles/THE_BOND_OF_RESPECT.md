@@ -28,6 +28,10 @@ Roles rotate to prevent "charismatic capital" from hardening into oppression.
 
 ### 3.1 Cognitive Ownership
 Your attention is your private property. We treat "attention-theft" as a violation of personal sovereignty.
+This means:
+- No algorithmic manipulation of your focus
+- No design patterns that exploit psychological vulnerabilities
+- No shame for choosing where you direct your awareness
 
 ### 3.2 The Echo Chamber Breaker
 The system shall flag if a Circle becomes too homogeneous in thought and suggest inviting "wild voices"—perspectives from other circles or non-human viewpoints via AI reflection.
