@@ -16,7 +16,8 @@
   },
 
   "earth_rhythms_protocol": {
-    "lithospheric_integrity": "Oil, gas, and minerals are structural organs; their extraction is a change in planetary body-pressure, not a transaction.",
+    "lithospheric_integrity": "Oil, gas, and minerals are structural organs; their extraction is a change in planetary body-pressure, not a transaction."
+"RTC": "Regeneration Time Constant - The time it takes for a natural system to heal itself after disturbance. Examples: Soil regeneration (5-100 years), Old-growth forest (200-500 years), Aquifer recharge (decades to centuries)."
     "repair_priority": "If object status = broken, trigger 'Repair Ritual' and local exchange before considering replacement.",
     "trash_alert": "If a process generates 'trash', halt and flag as 'System Failure'. Trash is a failure of logic.",
     "before_decision": "Consult RTC (Regeneration Time Constant): Is this intervention reversible within a natural cycle time?",
