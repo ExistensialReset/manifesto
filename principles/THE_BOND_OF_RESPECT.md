@@ -1,7 +1,7 @@
 # THE_BOND_OF_RESPECT.md
 
 **Status:** Active Contract for Social and Digital Sovereignty  
-**Version:** 1.6 (Integration of Existential Sovereignty and Systemic Integrity)  
+**Version:** 1.8 (Refined Sovereignty and Systemic Integrity)  
 **Core Principle:** Your freedom is my security. We own our attention, our data, and our relationships.
 
 ---
