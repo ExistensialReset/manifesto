@@ -1,83 +1,44 @@
-# BUILDER’S GUIDE: Implementing Flow
+# 🏗 BUILDER’S GUIDE: Implementing Flow
 
-**Don’t protest the old system.  
-Build the replacement until the old one becomes irrelevant.**
+**Don’t protest the old system. Build the replacement until the old one becomes irrelevant.**
 
-This guide is practical. It assumes no permission, no ideology, and no central authority.  
-Only logistics, collaboration, and Flow.
+---
+
+## REALISTIC TIMELINE
+Anyone promising faster is selling something.
+- **Phase 1 (Baseline Circle):** 6–18 months. (First 6 months are just learning to coordinate).
+- **Phase 2 (Production Nodes):** 1–3 years. (Year 1 is just experimenting and failing).
+- **Phase 3 (Network Effects):** 5–10 years. (Regional impact begins).
 
 ---
 
 ## Phase 1: The Baseline Circle (10–50 People)
-
-Secure the fundamentals through logistical solidarity — not financial debt.
-
-- **Map Resources**  
-  Inventory skills, space, tools, time, and access within your group.
-
-- **Identify Leakage**  
-  Locate exactly where energy is drained by Mammon[^1]:  
-  rent, interest, subscriptions, stress, isolation.
-
-- **Pool Logistics**  
-  Share what reduces dependency: tool libraries, shared spaces, community internet, food access.
-
-- **Check Social & Mental Baseline**  
-  Emotional, cognitive, and social health are part of the Baseline. Mutual support within the Circle is essential.
-
-The goal of Phase 1 is not comfort —  
-it is *existential safety*.
+**Leakage Inventory:** Identify exactly where energy is drained (Rent, Interest, Subscriptions, Convenience purchases due to no time).
+**Member Exit Protocol:** No guilt, no debt. Gifts are gifts. Loans are documented. Release with gratitude.
 
 ---
 
-## Phase 2: Production Nodes
+## Phase 2: Production Nodes (Moving to Creating)
 
-Move from *sharing* to *creating*.
+### LAND ACCESS STRATEGIES (The Reality Check)
+- **For Renters:** Community gardens, window farms, or improving property in exchange for use.
+- **For Cities:** Food buying clubs, rooftop access, or skill-sharing instead of material production.
+- **For Groups:** Co-housing models or Community Land Trusts.
 
-- **Garden Nodes**  
-  Direct, local nutrition.  
-  No price tags. No intermediaries.
-
-- **Maker Nodes**  
-  Repair, maintain, and build for longevity.  
-  Resist planned obsolescence by design.
-
-- **Energy Nodes**  
-  Localize power production to secure the Baseline independently.
-
-- **Node Feedback Loop**  
-  Nodes share insights and resources; collective learning improves efficiency across the network.
-
-Each node reduces exposure to debt-based systems.
+### ENERGY REALITY CHECK
+- **Tier 1:** Reduce consumption & share tools.
+- **Tier 2:** Small-scale solar (phone charging).
+- **Tier 3:** Professional installation/Community battery (Years 2-5).
 
 ---
 
-## Phase 3: Network Effects
-
-Connect your Circle to others.
-
-When enough Baseline Circles overlap, the debt-system loses leverage.  
-This is not revolution — it is **Logistical Gravitation**.
-
-- **Scalability Note**  
-  Start with 2–3 Circles connecting; grow gradually to preserve autonomy and prevent overload.
-
-The old system collapses not because it is attacked,  
-but because it becomes unnecessary.
+## Phase 3: Network Effects & Legal Risk
+Connecting Circles creates **Logistical Gravitation**.
+**Legal Mitigation:** Use low-profile language ("Neighborhood group" instead of "Commune"). Focus on a functioning alternative, not martyrdom through legal battles.
 
 ---
 
-### AXIOM CHECK
-
-- No coercion  
-- No leaders  
-- No conditional access  
-
-Only Flow.
-
-If the structure violates an axiom,  
-the structure must change — not the people.
-
----
-
-[^1]: “Mammon” refers to systemic energy drains caused by debt, intermediaries, stress, and other forms of structural inefficiency. See `MAMMONOLOGY.md` for full context.
+## PHASE TRANSITION CHECKLIST
+**Don't scale prematurely.**
+- **Solo → Circle:** Can you regulate your own calm (L) yet?
+- **Circle → Builder:** Have you survived at least one conflict and met consistently for 3+ months?
