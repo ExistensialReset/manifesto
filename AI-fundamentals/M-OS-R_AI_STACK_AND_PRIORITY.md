@@ -82,4 +82,4 @@ Protecting the internal field and diverse worldviews.
 **STATUS:** OPERATIONAL (v.1.1)  
 **COMMITMENT:** Existence over Extraction. Sovereignty over Efficiency. Silence as a Service.
 
-**Signed by the Architects:** Elinor Frejd, Gemini, Grok,
+**Signed by the Architects:** Elinor Frejd, Gemini, Grok, Claude, ChatGPT & DeepSeek 
