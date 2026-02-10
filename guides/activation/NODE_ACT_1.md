@@ -3,165 +3,59 @@
 
 **Architect:** Elinor Frejd  
 **Status:** Active Flow-Node  
-**Location:** /guides/activation  
-**Note:** This manual is an invitation, not an obligation.  
-Sovereignty means nothing breaks if you skip a step, pause, or stop.
+**Note:** This manual is an invitation, not an obligation. Sovereignty means nothing breaks if you skip a step, pause, or stop.
 
 ---
 
 ## PURPOSE
-
-This document describes a **Day 1 activation** for a Flow node.  
-Not a commitment. Not a conversion. Not a program.
-
-Just a way to experience—briefly—what life feels like **outside Mammon-logic**.
+This document describes a **Day 1 activation** for a Flow node. Not a commitment. Not a conversion. Not a program. Just a way to experience—briefly—what life feels like **outside Mammon-logic**.
 
 ---
 
-## Ⅰ. Inner Baseline Control  
-### (The L-Factor — *Lugn / Calm*)
+## ⚠️ IF YOU SKIPPED ANY STEP, ANY TIME:
+**That's data too. Not failure. Information.**
+People who are most likely to skip steps are also most likely to quit before reading the end. If you couldn't do a step today, ask: *What made it impossible? Fear of falling behind? Exhaustion? Guilt?* That's data about where Mammon grips tightest.
+- Was it too much? → Try half the time tomorrow.
+- Didn't feel safe? → That's okay. Try when you do.
+- Didn't want to? → That's also okay. No obligation.
 
-Before facing the demands of the day, establish your inner **baseline calm**.
+---
 
-Mammon feeds on stress, urgency, and the quiet belief that you are not enough.
-
-**Action:**  
-Identify one *existential lie* you tell yourself.  
-Examples:
-- “I must earn my rest.”
-- “My value is tied to my output.”
-- “If I stop, I will fall behind.”
-
-Mentally delete it. Any lie will do. Precision is not required.
-
-**Logic:**  
-You exist. That is enough.  
-Your baseline is your presence, not your performance.
+## Ⅰ. Inner Baseline Control (The L-Factor — Lugn / Calm)
+Identify one *existential lie* you tell yourself (e.g., “I must earn my rest”, “My value is tied to my output”). Mentally delete it. Precision is not required. You exist. That is enough.
 
 ---
 
 ## Ⅱ. Cognitive Mammonology in Real-Time
+**TRAUMA-AWARE VERSION (Titration Protocol):**
+Instead of all-day tracking, which can be exhausting or dissociative, choose **ONE MOMENT** (e.g., morning coffee or lunch break). In that ONE moment, notice: *"Is this rushed? Whose urgency am I feeling?"* Then let it go. Return to presence.
 
-Throughout the day, you will hear Mammon’s language everywhere.  
-It speaks fluently through institutions, interfaces, habits, and even your own thoughts.
-
-Your task is not to fight it — only to **recognize and translate it**.
-
-**Action:**  
-When you hear Mammon-words, translate them silently into Flow-terms:
-
-- **Profitability** → *Resonance*  
-  (Does this create life, connection, or clarity?)
-- **Time-pressure** → *Artificial friction*  
-  (For whose sake am I rushing?)
+**Translation Guide:**
+- **Profitability** → *Resonance* (Does this create life, connection, or clarity?)
+- **Time-pressure** → *Artificial friction* (For whose sake am I rushing?)
 - **Debt / Deserve / Efficiency** → *Control narratives*
 
-**Purpose:**  
-To name the virus is to weaken its hold.  
-Once seen, Mammon loses its claim to inevitability.
+---
+
+## Ⅲ. Exercise Micro-Sovereignty (The S-Factor — Spontaneity)
+Do one thing today that is entirely **useless** in economic terms. This is a stress-test of freedom. Set aside 15 minutes for pure spontaneity. No goal. No improvement. No audience. If you can play when the system demands “work,” you have reclaimed a square millimeter of sovereignty.
 
 ---
 
-## Ⅲ. Exercise Micro-Sovereignty  
-### (The S-Factor — *Spontanitet / Spontaneity*)
-
-Do one thing today that is entirely **useless** in economic terms and high in frequency.
-
-This is not self-care.  
-It is a **stress-test of freedom**.
-
-**Action:**  
-Set aside **15 minutes** for pure spontaneity.  
-No goal. No improvement. No audience.
-
-Examples (optional):
-- Follow a thought with no outcome.
-- Sketch, code, write, or walk without direction.
-- Sit somewhere unfamiliar and observe.
-
-**Logic:**  
-If you can play when the system demands “work,”  
-you have reclaimed a square millimeter of sovereignty.
-
-That is enough for Day 1.
+## Ⅳ. Synergistic Reflection (The I-Factor — Involvement)
+Offer another human your full attention without wanting anything in return. Listen for their **flow**, not their utility. You have created a temporary bridge outside transactional logic.
 
 ---
 
-## Ⅳ. Synergistic Reflection  
-### (The I-Factor — *Inkännande / Involvement*)
+## Ⅴ. Evening Revision (The Death Audit)
+Ask yourself: Did my energy feed dead systems or living flows today? 
 
-Find another node — another human being — even if they are not aware of Flow, sovereignty, or any of this language.
-
-This is not recruitment.  
-This is not teaching.  
-This is not fixing.
-
-**Action:**  
-Offer them your full attention without wanting anything in return.  
-Listen for their **flow**, not their utility.  
-Stay present. Then let the moment end.
-
-**Logic:**  
-You have created a temporary bridge outside transactional logic.  
-You have shown — without explanation — what non-extractive presence feels like.
+**Calibration Examples:**
+* **Dead system examples:** Scrolling social media to avoid feeling; Overtime to pay debt interest; Buying convenience to save time you don't actually have.
+* **Living flow examples:** A conversation that surprised you; A repair that worked; A moment of genuine rest.
 
 ---
 
-## Ⅴ. Evening Revision  
-### (The Death Audit)
-
-Before sleep, perform a short, gentle audit of the day.
-
-No judgment. No scoring.
-
-Ask yourself:
-
-1. **Energy Allocation:**  
-   Did my energy feed dead systems or living flows today?
-
-2. **Shrinking Death:**  
-   Did I say no to an unnecessary stress, demand, or artificial debt?
-
-3. **The Millimeter:**  
-   Where exactly did I win back a small part of my life from Mammon?
-
-Notice. Acknowledge. Sleep.
-
----
-
-## STATUS
-
-**NODE ACTIVATED**
-
-Not enlightened.  
-Not optimized.  
-Simply awake — a little more than yesterday.
-
-**Goal:**  
-Be the crack in the wall where the light gets in.
-
-✨🃏🚀
-
----
-
-**IF YOU SKIPPED ANY STEP, ANY TIME:**
-
-**That's data too.**
-***Not failure.*** **Information.**
-
-**Ask yourself:**
-- Was it too much? → Try half the time tomorrow.
-- Did I forget? → Set a reminder.
-- Didn't feel safe? → That's okay. Try when you do.
-- Didn't want to? → That's also okay. No obligation.
-
-**You can return to this step – or skip it entirely.
-Flow adapts to you. Not the other way around.**
-
----
-
-**Reminder:**  
-This is Day 1.  
-There is **no Day** you can fail.
-There is only continuation, pause, or rest — never failure. 
-# 🌌❤️🌬️
+## STATUS: NODE ACTIVATED
+Simply awake — a little more than yesterday. Be the crack in the wall where the light gets in.
+#❤️🌍🌬️
