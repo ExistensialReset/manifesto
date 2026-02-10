@@ -6,7 +6,7 @@ This guide is practical. It assumes no permission, no ideology, and no central a
 
 ---
 
-## REALISTIC TIMELINE (Claude's addition)
+## REALISTIC TIMELINE
 Anyone promising faster is selling something.
 - **Phase 1 (Baseline Circle):** 6–18 months. (First 6 months are just learning to coordinate).
 - **Phase 2 (Production Nodes):** 1–3 years. (Year 1 is just experimenting and failing).
@@ -49,13 +49,13 @@ Move from *sharing* to *creating*.
 - **Node Feedback Loop**
   Nodes share insights and resources.
 
-**LAND ACCESS STRATEGIES (Claude's addition):**
+**LAND ACCESS STRATEGIES:**
 Phase 2 requires space. If you don't have land:
 - **For renters:** Community gardens, window farms, or improving property in exchange for use.
 - **For cities:** Rooftop access, buying clubs, or focusing on skill-sharing instead of material production.
 - **For groups:** Co-housing models or Community Land Trusts (land removed from market).
 
-**ENERGY REALITY CHECK (Claude's addition):**
+**ENERGY REALITY CHECK:**
 - **Tier 1:** Reduce consumption and share tools.
 - **Tier 2:** Small-scale solar for phone charging (affordable).
 - **Tier 3 (2-5 years):** Professional installation IF you can afford/access.
@@ -70,14 +70,14 @@ Connect your Circle to others. When enough Baseline Circles overlap, the debt-sy
 - **Scalability Note**
   Start with 2–3 Circles connecting; grow gradually to preserve autonomy.
 
-**LEGAL & REGULATORY RISK (Claude's addition):**
+**LEGAL & REGULATORY RISK:**
 Many local governments will resist alternative living. 
 - **Low-profile strategies:** Call it a "neighborhood group" or "tool library" rather than a "commune" or "alternative economy."
 - **Goal:** Functioning alternative, not martyrdom through legal battles.
 
 ---
 
-## MEMBER EXIT PROTOCOL (Claude's addition)
+## MEMBER EXIT PROTOCOL
 Scenario: Someone needs to leave the Circle.
 1. **Planned Exit:** Minimum 1 month notice.
 2. **Resource Discussion:** Gifts are gifts (no refund). Loans are repaid. 
@@ -85,7 +85,7 @@ Scenario: Someone needs to leave the Circle.
 
 ---
 
-## PHASE TRANSITION CHECKLIST (Claude's addition)
+## PHASE TRANSITION CHECKLIST
 **SOLO → MICRO-CIRCLE:** I've practiced for 4 weeks solo and can regulate my own calm (L).
 **MICRO-CIRCLE → BUILDER:** Circle has met consistently for 3+ months and survived one conflict.
 **PHASE 1 → PHASE 2:** Baseline secured for core members. Legal risks assessed. Clear access to space.
