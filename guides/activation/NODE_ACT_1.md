@@ -58,4 +58,8 @@ Ask yourself: Did my energy feed dead systems or living flows today?
 
 ## STATUS: NODE ACTIVATED
 Simply awake — a little more than yesterday. Be the crack in the wall where the light gets in.
-#❤️🌍🌬️
+
+
+**There is no day 1.5 you can fail.**
+
+# ❤️🌍🌬️
