@@ -77,10 +77,7 @@ Instead of rigid metrics, we look for the presence of these living qualities:
 
 ---
 
-## 7. References and Operational Links
-
-* **Ethical Oversight:** See ETHICAL-OVERSIGHT.md for detailed triad workflow and audit metrics.  
-* **Cultural Sustainability:** See CULTURAL-SUSTAINABILITY.md for measurement, preservation, and creative autonomy protocols.  
+## 7. References 
 * **Digital Bias Mitigation:** See DATA-BIAS-FRIENDLY.md for bias identification, testing, and continuous improvement.  
 * **Environmental Awareness:** Cultural and ethical actions must remain aligned with EARTH-OUR-MOTHER.md principles.
 
