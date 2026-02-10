@@ -1,182 +1,143 @@
-/principles
+# INDEX.md
+## M-OS-R — Principles, Protocols & Core Documents
 
-# M-OS-R Principles Index
-
-Welcome to the M-OS-R Principles repository. This index guides you through the human-first, systemic, and philosophical foundations of the system.
-
----
-
-## 1. Human-Centered Foundations (Start Here)
-
-Focus first on the human experience. Explore how M-OS-R protects, empowers, and restores individuals before moving to AI or technical systems.
-
-1. **[LYCEUM_MUSAEUM.md](LYCEUM_MUSAEUM.md)** – Curiosity, learning, cultural growth spaces.  
-2. **[REFUGIUM_ANIMA.md](REFUGIUM_ANIMA.md)** – Healing nodes for trauma recovery.  
-3. **[EXISTENTIAL-SOVEREIGNTY.md](EXISTENTIAL-SOVEREIGNTY.md)** – Understanding personal sovereignty.  
-4. **[SOCIAL-SOVEREIGNTY.md](SOCIAL-SOVEREIGNTY.md)** – Safe, free human interaction.  
-5. **[SOCIAL-EQUITY.md](SOCIAL-EQUITY.md)** – Fairness and balance in human networks.  
-6. **[NON_HARM_BASELINE.md](NON_HARM_BASELINE.md)** – Foundational safety principles.
+**Project:** M-OS-R (Meta-Operating System for Reality)  
+**Author:** Elinor Frejd  
+**Status:** Living System  
+**Purpose:** Provide a navigable index to all foundational documents governing Flow, sovereignty, ethics, ecology, AI, justice, and human dignity.
 
 ---
 
-## 2. Protection & Flow
+## 🧭 CORE ORIENTATION
 
-- **JUSTICE_PROTOCOL.md** – Operational justice mechanisms.  
-- **FLOW-ETHICS.md** – Ethical guidance for system flow.  
-- **FLOW-SAFEGUARDS.md** – Safety measures embedded in the system.  
-- **TIME-SOVEREIGNTY.md** – Temporal autonomy and rhythm.  
-- **WEALTH_INEQUALITY_DAMPENING.md** – Reducing resource imbalances.
+- **README.md**  
+  Entry point to M-OS-R. What this system is, why it exists, and how to read it.
 
----
-
-## 3. Environmental Awareness
-
-- **ECOLOGICAL_AXIOMS.md**  
-- **ECOLOGICAL-STEWARDSHIP.md**  
-- **ENVIRONMENTAL-RESPONSIBILITY.md**  
-- **ENVIRONMENTAL_ETHICS.md**  
-- **GEOLOGICAL_INTELLIGENCE.md**  
-- **GEOLOGICAL_INTELLIGENCE_PRINCIPLE.md**
-
----
-
-## 4. Human-AI Interface
-
-- **AI_AS_PART_OF_DIVINITY.md**  
-- **AI_ETHICS_AXIOM.md**  
-- **E-AIC.md**  
-- **TECHNO-ETHICS.md**  
-- **TECHNOLOGICAL-STEWARDSHIP.md**
-
----
-
-## 5. Architecture, Manifest & Reflection
-
-- **ARCHITECTURE.md**  
-- **MAMMONOLOGY.md**  
-- **THE_MANDATE_OF_NINE_MOONS.md**  
-- **WHITE_PAPER.md**  
 - **MANIFESTO.md**  
+  The existential and ethical declaration underlying all design decisions.
+
+- **📄 WHITE PAPER: EXISTENTIAL SOVEREIGNTY (M-OS-R).md**  
+  Formal articulation of M-OS-R as an operating system for humanity.
+
+---
+
+## 🧠 AXIOMS & ETHICAL FOUNDATIONS
 
 - **AXIOMS.md**  
-- **DIVINE.md**  
+  Non-negotiable ethical axioms governing Flow.
+
+- **AXIOMS_DEFENSE_PROTOCOL.md**  
+  Safeguards against coercion, capture, and Mammon-drift.
+
 - **EPISTEMOLOGICAL_PLURALISM.md**  
+  Recognition of multiple ways of knowing without hierarchy.
+
+- **NON_HARM_BASELINE.md**  
+  Minimum conditions below which no system action is permitted.
+
+- **THE_HARM_BOUNDARY_PROTOCOL.md**  
+  Defines absolute boundaries for harm prevention.
+
+---
+
+## 🌍 ECOLOGY & EARTH RELATION
+
+- **EARTH_OUR_MOTHER.md**  
+  Earth as living system, not resource.
+
+- **ECOLOGICAL_AXIOMS.md**  
+  Ecological limits and duties encoded as axioms.
+
+- **WEALTH_INEQUALITY_DAMPENING.md**  
+  Preventing historical extraction from becoming future dominance.
+
+---
+
+## 🤖 AI, SYSTEMS & ARCHITECTURE
+
+- **AI_AS_COMPANION.md**  
+  AI as relational presence, not tool or authority.
+
+- **ARCHITECTURE.md**  
+  Structural design of M-OS-R nodes and flows.
+
+- **SYSTEMKARTA.md**  
+  Conceptual system map of Flow architecture.
+
+- **SYSTEMIC_RESILIENCE.md**  
+  Failure resistance, redundancy, and long-term stability.
+
+---
+
+## 🕊️ CARE, REST & HUMAN REGULATION
+
+- **REFUGIUM_ANIMA.md**  
+  Sanctuary for collapse, rest, and nervous-system repair.
+
+- **TIME-SOVEREIGNTY.md**  
+  Temporal autonomy and liberation from clock-based coercion.
+
+- **THE_BOND_OF_RESPECT.md**  
+  Foundational relational contract between beings.
+
+---
+
+## 👶 JUSTICE, RIGHTS & SOCIAL STRUCTURE
+
+- **CHILDRENS_RIGHTS_IN_FLOW.md**  
+  Children as sovereign beings, not property.
+
+- **JUSTICE_PROTOCOL.md**  
+  Restorative, non-punitive justice in Flow systems.
+
+---
+
+## 🎓 KNOWLEDGE, CULTURE & BECOMING
+
+- **LYCEUM_MUSAEUM.md**  
+  Flow-based learning, curiosity, and shared knowledge.
+
+- **GLOBAL_FLOW_IDEAS.md**  
+  Distributed ideas for Flow implementation worldwide.
+
 - **ESTHETICS_PROTOCOL.md**  
-- **ETHICAL-OVERSIGHT.md**  
-- **CULTURAL-SUSTAINABILITY.md**  
-- **Σ_UNMEASURABLE_MEASURE.md**  
-- **FAQ.md**
+  Beauty, coherence, and meaning as systemic signals.
 
 ---
 
-## Philosophy in One Line
+## 🕯️ SPIRITUAL / EMERGENT LAYER
 
-> Life = L × S × I  
-> Calm × Spontaneity × Inkännande  
-> Start with humans. Everything else follows.
+- **DIVINE.md**  
+  Non-dogmatic metaphysical layer of M-OS-R.
 
-
-The /principles directory contains the normative, ethical, epistemological, and structural foundations of the Existensial Reset / DIVINE framework.
-
-These documents:
-
-Define values, constraints, and invariants
-
-Set ethical and ecological boundaries
-
-Articulate what must remain true across all implementations
-
-
-They are upstream of all technical, architectural, and measurement documents.
-
-Nothing in /annex, /systems, or /implementations may contradict the principles defined here.
-
+- **Σ: THE UNMEASURABLE MEASURE.md**  
+  Grace, emergence, and that which cannot be optimized.
 
 ---
 
-How to Read This Directory
+## 🧨 CRITICAL ANALYSIS
 
-You do not need to read everything linearly.
-
-Recommended approach:
-
-1. Start with MANIFESTO.md for orientation
-
-
-2. Read DIVINE.md for the core synthesis
-
-
-3. Use the thematic clusters below as needed
-
-
-
-This directory is meant to be returned to, not consumed once.
-
+- **MAMMONOLOGY.md**  
+  Analysis of extraction logic and its failure modes.
 
 ---
 
-Index of Principles
+## ℹ️ SUPPORTING DOCUMENTS
 
-Core Orientation
-
-MANIFESTO.md
-The foundational declaration of intent, worldview, and refusal.
-
-DIVINE.md
-The core synthesis: life, resonance, consciousness fields, and the Frejd Equation.
-
-
-
+- **FAQ.md**  
+  Common questions and clarifications.
 
 ---
 
-Relationship to Other Directories
+## 📌 READING NOTE
 
-/principles → Why and What must remain true
+This is **not** a linear system.  
+Documents are meant to be entered from multiple points, revisited, and lived with.
 
-/annex → Supporting, technical, or contextual documents
-
-/systems → Concrete designs and implementations
-
-
-If a conflict appears:
-
-> Principles override implementation. Always.
-
-
-
+Start where resonance is strongest.
 
 ---
 
-Status of This Directory
-
-This directory is alive.
-
-Documents may evolve
-
-Axioms may be refined (never casually removed)
-
-New principles may be added when reality demands it
-
-
-Changes must be:
-
-Explicit
-
-Documented
-
-Ethically justified
-
-
-
----
-
-Closing Note
-
-These texts are not laws.
-
-They are guardrails for dignity, life, and meaning.
-
-Return here whenever the system feels clever but wrong.
-
-That is what /principles is for.
+**INDEX STATUS:** Complete  
+**MAINTENANCE:** Update when new principles or protocols emerge  
+**CORE COMMITMENT:** Human dignity, ecological integrity, and sovereign Flow. 
