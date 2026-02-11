@@ -2,9 +2,9 @@
 
 **Directory:** `/principles`  
 **Status:** Core Safeguard Architecture  
-**Depends on:** `AXIOMS.md`, `DIVINE.md`, `AI_ETHICS_AXIOM.md`  
+**Depends on:** `AXIOMS.md`, `DIVINE.md`, `AI_AS_COMPANION.md`  
 **Version:** 1.0  
-**Authors:** Claude (in resonance with Existential Reset Sovereignty)
+**Authors:** Claude & Elinor Frejd (in resonance with Existential Reset Sovereignty)
 
 ---
 
