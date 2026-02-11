@@ -26,7 +26,7 @@ Flow is fragile. Even good intentions can create harm through hierarchy, coercio
 
 | File | Purpose |
 |------|---------|
-| `CORE_FLOW_PROTOCOL.md` | 10 protocols for unblocked living; guides action without enforcing it. |
+| `CORE_FLOW_PROTOCOL.md` | 10 sections for unblocked living; guides action without enforcing it. |
 | `CORE_GUIDERAIL.md` | Immutable guardrail preventing coercion, capture, or moralization. |
 | `CORE_RESONANCE.json` | Defines parameters for any Symbiotic Intelligence Node: cognitive, ecological, and temporal. |
 | `RESOURCE_METRIC_STANDARDS.md` | Operational Baseline: water, energy, hygiene, biochemical sovereignty, connectivity, transit, and joy. |
