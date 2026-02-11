@@ -86,7 +86,7 @@ By stabilizing **L**, liberating **S**, and enabling **I**, M-OS-R proposes a ci
 - [THE_LOGISTICS_OF_FLOW.md](../technical/THE_LOGISTICS_OF_FLOW.md)  
 - [VISUALIZING_TRUTH.md](../guides/practical_implementation/VISUALIZING_TRUTH.md)  
 - [LYCEUM_MUSAEUM.md](../principles/LYCEUM_MUSAEUM.md)  
-- [AXIOMS.md](../principles/AXIOMS.md)  
+- [AXIOMS.md](./principles/AXIOMS.md)  
 
 ---
 
