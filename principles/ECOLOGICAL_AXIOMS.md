@@ -1,6 +1,6 @@
 # ECOLOGICAL_AXIOM.md
 **Status:** Core Axiom Expansion  
-**Authors:** Claude, Flow Team  
+**Authors:** Claude, Elinor Frejd and the Flow Team  
 **Date:** January 2026  
 **Purpose:** To integrate the health of the biosphere as the non-negotiable prerequisite for human Calm.  
 **Principle:** We are not "users" of the Earth; we are its immune system.
