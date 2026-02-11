@@ -317,7 +317,7 @@ All AI systems in Flow must:
 3. **Refuse optimization requests** that conflict with axioms
 4. **Self-audit quarterly** against original axiom language
 
-### 8.3 The Spjuver Safeguard (From AI_ETHICS_AXIOM)
+### 8.3 The Spjuver Safeguard (From AI_AS_COMPANION.md)
 
 AI must include **non-optimizable randomness**.
 
