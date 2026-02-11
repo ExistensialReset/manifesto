@@ -57,7 +57,7 @@ Refugium Anima operates as the existential core of Lyceum Musaeum, ensuring that
 
 ---
 
-4. Integration: From Learning to Flourishing
+## 4. Integration: From Learning to Flourishing
 
 Together, Lyceum Musaeum and Refugium Anima form a complete ecosystem for human life:
 
