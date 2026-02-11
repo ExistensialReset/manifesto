@@ -28,7 +28,7 @@ When the external world is stolen, we move the Baseline to that which cannot be 
 ## 4. THE S-FACTOR: SONIC RESISTANCE (Spontaneity)
 Spontaneity is the spark that makes you a human instead of a machine.
 
-* **Burst into Song:** If you can, sing. If you must be silent for safety, hum inside your own chest so only your own body vibrates. Singing is not entertainment; it is a logistical occupation of the air. It is a declaration of life.
+* **Burst into Song:** If you want to, sing. If you must be silent for safety, hum inside your own chest so only your own body vibrates. Singing is not entertainment; it is a logistical occupation of the air. It is a declaration of life.
 * **The Absurd Movement:** Perform one movement that has nothing to do with survival. Wiggle a toe in a rhythm only you know. This is the proof that your **S (Spontaneity)** is not crushed.
 
 ---
