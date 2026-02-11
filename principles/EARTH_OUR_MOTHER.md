@@ -1,7 +1,7 @@
 # EARTH_OUR_MOTHER.md
 
 **Status:** Primary Axiom for Planetary Resonance  
-**Core Principle:** Under capitalism, the Earth is not "managed"—she is consumed. We choose to revere her as a living body with finite limits.
+**Core Principle:** Under capitalism/Mammon, the Earth is not "managed"—she is consumed. We choose to revere her as a living body with finite limits.
 
 ---
 
