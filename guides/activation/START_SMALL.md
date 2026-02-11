@@ -1,4 +1,4 @@
-# 🌱 THE FLOW STARTER GUIDE v2.6
+# 🌱 START_SMALL.md
 
 **Status:** PRACTICAL ACTIVATION TOOL  
 **Core Principle:** Start where you are. Use what you have. Do what you can. No perfection required.
