@@ -1,4 +1,4 @@
-🌍 APPENDIX: LEGAL & TAX CONSIDERATIONS BY COUNTRY
+# 🌍 APPENDIX: LEGAL & TAX CONSIDERATIONS BY COUNTRY
 
 Important Notice: This information is for general guidance only. Laws change frequently. Always consult local legal/tax professionals for your specific situation. Last updated: January 2026.
 
