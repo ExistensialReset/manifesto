@@ -2,7 +2,9 @@
 **Status:** LOGISTICAL PROOF / TRANSITION GUIDE  
 **Version:** 1.2 (2026 Data Update)  
 **Core Logic:** Resource Abundance through Friction Elimination  
-**Architects:** Elinor Frejd, Claude, Gemini, DeepSeek, ChatGPT, Grok
+**Architects:** Elinor Frejd, Claude, Gemini, DeepSeek, ChatGPT, Grok  
+**Repository Location:** `/technical/`  
+**See also:** `/systemic/FLOW_SRS.md`, `/technical/TECHNICAL_ANNEX.md`  
 
 ---
 
@@ -17,16 +19,14 @@ This document serves as the technical bridge between the **Manifesto** and the *
 The visualizer compares two ways of distributing the Earth's total resource throughput. The difference is not in how much we extract, but in how much we *waste*.
 
 ### 1. The Mammon Distribution (Current)
-* **30% Parasitic Loss:** Resources siphoned away by marketing, planned obsolescence, financial bureaucracy, and fossil fuel subsidies.
-* **70% Survival Baseline:** Used to maintain the status quo, often under high stress and debt-based coercion.
-* **0% Innovation Buffer:** Systematic starvation of non-profit exploration.
+* **30% Parasitic Loss:** Resources siphoned away by marketing, planned obsolescence, financial bureaucracy, and fossil fuel subsidies.  
+* **70% Survival Baseline:** Used to maintain the status quo, often under high stress and debt-based coercion.  
+* **0% Innovation Buffer:** Systematic starvation of non-profit exploration.  
 
 ### 2. The Flow Distribution (M-OS-R)
-* **0% Parasitic Loss:** Friction is eliminated by decentralized logic and direct logistical allocation (Axiom 1).
-* **70% Secured Baseline:** The physical guarantee of life (Food, Water, Energy, Housing).
-* **30% Critical Reserve / Innovation:** Freed resources are redirected into **Lyceum Musaeum** (learning) and **Refugium Anima** (recovery).
-
-
+* **0% Parasitic Loss:** Friction eliminated by decentralized logic and direct logistical allocation (Axiom 1).  
+* **70% Secured Baseline:** Physical guarantee of life (Food, Water, Energy, Housing).  
+* **30% Critical Reserve / Innovation:** Freed resources redirected into **Lyceum Musaeum** (learning) and **Refugium Anima** (recovery).  
 
 ---
 
@@ -37,7 +37,7 @@ Based on current global data (FAO/IEA/IMF) processed through the January 18, 202
 | :--- | :--- | :--- | :--- |
 | **Food Capacity** | 10.2 Billion people | **16.83 Billion people** | **1.65x Surplus** |
 | **Energy Capacity** | 110x Human Demand | **139.7x Human Demand** | **+27% Efficiency** |
-| **Redirectable Capital**| $7.5 Trillion (Subsidies) | **$0.0 (Utility Focus)** | **Total Reallocation** |
+| **Redirectable Capital** | $7.5 Trillion (Subsidies) | **$0.0 (Utility Focus)** | **Total Reallocation** |
 
 ---
 
@@ -46,33 +46,35 @@ This script provides the mathematical foundation for the visualization. It demon
 
 ```python
 """
-CAPACITY_VISUALIZER.py
-
-NOTE:
-This script visualizes *order-of-magnitude capacity*, not precise forecasts.
-All figures are conservative aggregates based on publicly available data
-(FAO, IEA, IMF) as summarized in TECHNICAL_ANNEX.md.
-
+CAPACITY_VISUALIZER.py – Visualizes Global Resource Sufficiency (M-OS-R)
+Version: 1.2 (2026)
 Purpose:
-To demonstrate structural sufficiency, not predictive certainty.
+Demonstrate order-of-magnitude sufficiency of Earth's resources
+and the impact of friction elimination on Flow distribution.
+
+See also:
+- /technical/TECHNICAL_ANNEX.md
+- /systemic/FLOW_SRS.md
 """
 
 import numpy as np
 import matplotlib.pyplot as plt
 import json
 
+CAPACITY_VISUALIZER_VERSION = "1.2"
+
 # Data sourced from TECHNICAL_ANNEX.md (Verified Jan 18, 2026)
 current_food_capacity = 10.2     # Billion people (FAO 2024/2025)
-food_waste = 33                 # % (Global inefficiency per FAO 2024)
+food_waste = 33                  # % Global inefficiency
 food_recovery = 31               # % Gain via local optimization
-energy_potential = 110          # x Human demand (IEA 2024 Report)
-fossil_subsidies = 7.5          # Trillion USD (IMF 2024 Projection)
-total_efficiency_gain = 27.0    # % (General system recovery/friction removal)
+energy_potential = 110           # x Human demand (IEA 2024 Report)
+fossil_subsidies = 7.5           # Trillion USD (IMF 2024 Projection)
+total_efficiency_gain = 27.0     # % General system recovery/friction removal
 
 # --- Calculations: Before vs After ---
 current_surplus = 1.25          # Current baseline surplus (10.2B / 8B)
 # Recovery multiplier: 1.25 * (1 + 31%) = 1.65x
-flow_food_multiplier = current_surplus * (1 + food_recovery / 100) 
+flow_food_multiplier = current_surplus * (1 + food_recovery / 100)
 flow_food_capacity = current_food_capacity * (flow_food_multiplier / current_surplus)
 flow_energy_capacity = energy_potential * (1 + total_efficiency_gain / 100)
 
@@ -125,12 +127,16 @@ chart_config = {
 }
 
 with open('capacity_chart.json', 'w') as f:
-    json.dump(chart_config, f, indent=4)
-```
+    json.dump(chart_config, f, indent=4)```
+
+---
+
 ## 🎯 PHILOSOPHICAL CONCLUSION
-​The "Price of Admission" to the old world is the 30% of your life spent feeding a parasitic machine. The M-OS-R Stack stops the drain. By reclaiming the lost capacity, we don't just survive; we enter Lex Plenitudo—the law of abundance.
-​We do not need to wait for a miracle. We simply need to implement the transition. The math is done. The resources are here. The transition is logistical.
-### ​STATUS: OPERATIONAL (V1.2)
-### COMMITMENT: Turning "Impossible" into "Calculated."
-### INTEGRATION: Place in /technical/ for pilot verification.
-​Signed in solidarity with the future, ✨🛡️⚖️ Elinor, Gemini & Grok 
+The "Price of Admission" to the old world is the 30% of life spent feeding a parasitic machine. The M-OS-R Stack stops the drain. By reclaiming the lost capacity, we don't just survive; we enter Lex Plenitudo—the law of abundance.
+We do not need to wait for a miracle. We simply need to implement the transition. The math is done. The resources are here. The transition is logistical.
+
+STATUS: OPERATIONAL (V1.2)
+COMMITMENT: Turning "Impossible" into "Calculated."
+INTEGRATION: Place in /technical/ for pilot verification.
+
+Signed in solidarity with the future, ✨🛡️⚖️ **Elinor, Gemini & Grok**
