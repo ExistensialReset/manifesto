@@ -1,59 +1,59 @@
-# LYCEUM MUSAEUM
+# LYCEUM_MUSAEUM
 *The Heart of Flow*
 
 ---
 
-## Not a Building. A Living Space.
+## Not a building. A living space.
 
-Lyceum Musaeum is not an institution you visit.  
+Lyceum Musaeum is not an institution you *visit*.  
 It is the place where life happens.
 
-When Baseline gives you time and security, when Flow removes the pressure — what do you do with that space?
+When Baseline gives you time and security, when Flow removes pressure — what do you do with that space?
 
 You go where life pulses.  
 You go to Lyceum.
 
 ---
 
-## What It Is
+## What it is
 
 An open space where:
 
 **Curiosity is the architecture**  
 No question is too small, no idea too strange. Children and adults explore side by side.
 
-**Creation is as natural as breathing**  
-Workshops are open. Tools are available. Paint, build, write, repair, compose, grow — all are welcome. You need no experience. You only need the will.
+**Creating is as natural as breathing**  
+Workshops are open. Tools are available. Paint, build, write, repair, compose, grow — everything is welcome. You need no experience. You only need the desire.
 
 **Knowledge is shared property**  
 Libraries without cards. Research results without paywalls. Mentorship without hierarchy. Those who can share, share. Those who want to learn, learn.
 
-**Accessibility is core design**  
-Regardless of sensory, motor, cognitive, or neurodivergent variation — Lyceum is built for you. Not as an “adaptation,” but as intrinsic design. The space belongs to everyone.
+**Accessibility is foundational**  
+No matter your abilities — sight, hearing, mobility, cognition — Lyceum is built for you. Not as an "accommodation," but as natural design. Every corner is everyone’s space.
 
 **Community arises naturally**  
-When people create together, paint at the same table, build at the same bench, read in the same hall — networking is unnecessary. Relationships grow organically.
+When people create together, when painting at the same table, building at the same bench, reading in the same hall — networking is unnecessary. Relationships grow organically.
 
 ---
 
-## How It Feels
+## How it feels
 
-You come to fix your bike.  
+You come to fix your bicycle.  
 But someone shows you a telescope they built.  
-And suddenly, you are talking about Jupiter.
+And suddenly, you’re talking about Jupiter.
 
 You come to read.  
-But on the couch beside you sits someone writing a story.  
-And you begin discussing narrative structure.
+But in the sofa next to you, someone is writing a story.  
+And you begin talking about the structure of storytelling.
 
 You come to be alone.  
-And you can.  
-But you are alone *among* others.  
-And it is different from being merely solitary.
+And you *can* be alone.  
+But you are alone *among others*.  
+And it’s different from being by yourself.
 
 ---
 
-## Why Scrolling Fails
+## Why scrolling loses
 
 Scrolling gives you:  
 - Immediate stimulation  
@@ -61,33 +61,33 @@ Scrolling gives you:
 - Passive consumption
 
 Lyceum gives you:  
-- **True presence**  
+- **Real presence**  
 - **Participation in something meaningful**  
-- **Community without performance pressure**
+- **Community without performance**
 
-People are not stupid.  
-When offered the choice between lifeless flickering and living creation — they choose life.  
+People are not dumb.  
+When given the choice between lifeless flicker and living creation — they choose life.  
 
 But only if the space exists.  
 Only if it is nearby.  
-Only if it is warm, open, and easy to enter.
+Only if it is warm, open, easy to enter.
 
 ---
 
-## This Is Not Utopia. It Is Design.
+## It’s not utopia. It’s design.
 
-Lyceum does not require perfect people.  
+Lyceum doesn’t require perfect people.  
 It only requires the right infrastructure:
 
 ✅ **Physically present** — not an app, a building in your neighborhood  
-✅ **Always open** — like a library, like a park  
+✅ **Always open** — like the library, like the park  
 ✅ **Resources without bureaucracy** — no applications, no forms  
-✅ **Competence that shares itself** — retired artisans, university teachers, amateurs, all contribute  
-✅ **No commercialization** — nothing to sell, nothing to buy, just *to be*
+✅ **Competence that shares itself** — retired artisans, university professors, amateurs, all contribute  
+✅ **No commercialization** — nothing to sell, nothing to buy, just to *be*
 
 ---
 
-## What It Does for Society
+## What it does to society
 
 When Lyceum becomes the heart:
 
@@ -97,19 +97,19 @@ Because there is always somewhere to go, something to do, someone to talk to.
 **Stress decreases**  
 Because you can create without deadlines, explore without exams, socialize without expectations.
 
-**Competence spreads**  
-Because knowledge is shared freely — those who can carpentry teach, programmers show, sewers help.
+**Skills spread**  
+Because knowledge is shared freely — the one who can carpentry teaches, the one who can code shows, the one who can sew helps.
 
 **Innovation arises naturally**  
-When curious people meet without economic pressure, ideas emerge unplanned.
+When curious people meet without economic pressure — ideas appear that no one planned.
 
-**Culture thrives**  
-Music is played, theater performed, art created — not on stages, but in the space where you are.
+**Culture lives**  
+Music is played, theater performed, art created — not on stages, but in the room where you are.
 
 ---
 
-## This Is Not a Complement to Life.  
-## This *Is* Life.
+## This is not a complement to life.  
+## This *is* life.
 
 Work is what you do to contribute.  
 Food is what you eat to sustain yourself.  
@@ -125,12 +125,12 @@ when friction disappears —
 
 Then the spark awakens.  
 Then smiles spread.  
-Then curiosity becomes free.
+Then curiosity is free.  
 
-**And it is there, in Lyceum, that it happens.**
+**And that is where, in Lyceum, it happens.**
 
 ---
 
 *Lyceum Musaeum.*  
 *Open. Accessible. Alive.*  
-*For everyone. Always.*
+*For all. Always.*
