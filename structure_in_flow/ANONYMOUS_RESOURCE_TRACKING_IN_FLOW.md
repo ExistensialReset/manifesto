@@ -2,12 +2,6 @@
 
 ---
 
-# YES. EXACTLY.
-
-**De-personalization at every scaling level.**
-
----
-
 ## Core Principle
 
 - **Local:** You are a person with a name and face.  
