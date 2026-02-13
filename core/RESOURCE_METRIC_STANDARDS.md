@@ -1,8 +1,8 @@
 # RESOURCE_METRIC_STANDARDS.md
 
-**Version:** 1.6 — The Unified Baseline: Water, Physics, Biochemical and Social Sovereignty  
+**Version:** 1.7 — The Unified Baseline: Water, Physics, Biochemical and Social Sovereignty  
 **Status:** OPERATIONAL SPECIFICATION  
-**Authors:** Elinor Frejd & Gemini  
+**Authors:** Elinor Frejd & Gemini & Claude 
 
 **Purpose:** Define the Unified Baseline, ensuring every human has access to the biological, physical, biochemical, and social resources required for dignity, mobility, and cognitive liberty.
 
