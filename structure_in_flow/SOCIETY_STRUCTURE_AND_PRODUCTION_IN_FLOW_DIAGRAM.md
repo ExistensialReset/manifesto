@@ -84,10 +84,7 @@ graph TD
     class VT_A,VT_B,VT_C volunteer;
     class LyceumA,LyceumB,LyceumC lyceum;
     class BaselineA,BaselineB,BaselineC baseline;
-```
 
-
-```
 ---
 
 ## 3. Node Structure Explained
