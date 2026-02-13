@@ -51,4 +51,4 @@ They connect people with tools, workshops, seminars, and knowledge resources.
 - Digital scheduling system for workshops, labs, and home visits
 - Fully accessible for all functional abilities
 - Local fabrication tools and resources available
-- Peer recognition and social credit for contribution and master. 
+- Peer recognition and social credit for contribution and master
