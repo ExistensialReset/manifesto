@@ -2,7 +2,7 @@
 
 **Version:** 1.1  
 **Status:** OPERATIONAL GUIDELINE  
-**Authors:** Elinor Frejd & Gemini  
+**Authors:** Elinor Frejd & Claude 
 
 **Purpose:** Ensure that all protocols can be safely and effectively activated by trained personnel.
 
