@@ -90,7 +90,7 @@ Flow places **functional diversity at the core**:
 
 ---
 
-# 8. Concrete Production & Resource Management (Claude’s Contribution)
+# 8. Concrete Production & Resource Management
 
 ## Food: Sources & Quantities
 
