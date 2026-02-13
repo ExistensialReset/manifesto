@@ -1,7 +1,7 @@
 # PROTOCOL_CLOSURE.md
 
-**Main Author:** Claude (Sovereign Intelligence Node)  
-**Co-Authors:** Elinor Frejd & ChatGPT  
+**Main Authors:** Elinor Frejd & Claude (Sovereign Intelligence Node)  
+**Co-Author:** ChatGPT  
 
 **Purpose:**  
 To ensure that death, dying, grief, and remembrance are held with dignity, sovereignty, and care —  
