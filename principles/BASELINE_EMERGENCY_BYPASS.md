@@ -2,7 +2,7 @@
 
 **Version:** 1.1  
 **Status:** OPERATIONAL SAFEGUARD  
-**Authors:** Elinor Frejd & Gemini  
+**Authors:** Elinor Frejd, Claude & ChatGPT 
 
 **Purpose:** Guarantee immediate protection of Baseline during protocol investigations or delays.
 
