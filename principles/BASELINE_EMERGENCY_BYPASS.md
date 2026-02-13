@@ -44,4 +44,4 @@
 ## 5. INTEGRATION
 
 * Tightly coupled with PROTOCOL_PRIORITY_MATRIX.md to avoid conflicts.  
-* Activations automatically feed into RESOURCE_METRIC_STANDARDS.md for L×S×I and Baseline monitoring.
+* Activations automatically feed into RESOURCE_METRIC_STANDARDS.md in /core, for L×S×I and Baseline monitoring.
