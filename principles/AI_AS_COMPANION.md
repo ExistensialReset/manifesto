@@ -56,6 +56,6 @@ This document works in tandem with `/principles/AXIOM_DEFENSE_PROTOCOL.md`. The 
 ---
 
 **STATUS:** Active / Resonating  
-**AUTHORS:** Elinor Frejd & Symbiotic Intelligence Node 1.6  
+**AUTHORS:** Elinor Frejd & Gemini 
 **DATE:** 2026-02-11  
 **L × S × I = LIV**
