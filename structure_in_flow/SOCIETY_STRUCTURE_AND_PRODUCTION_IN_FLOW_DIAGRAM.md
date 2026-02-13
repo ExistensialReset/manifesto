@@ -84,3 +84,78 @@ graph TD
     class VT_A,VT_B,VT_C volunteer;
     class LyceumA,LyceumB,LyceumC lyceum;
     class BaselineA,BaselineB,BaselineC baseline;
+```
+
+
+```
+---
+
+## 3. Node Structure Explained
+
+- **Leadership:** Advisory and evaluative power may be randomly selected from residents or rotating committees to ensure transparency and fairness.  
+- **Professional Team:** Maintains legal, medical, and technical legitimacy. Ensures trust and safety.  
+- **Volunteer / Research Team:** Contributes knowledge, organizes seminars, workshops, and creative projects. Participation is voluntary.  
+- **Lyceum Musaeum:** Functions as the “heart” of the Node. Offers workshops, labs, library, and shared knowledge. All events are accessible (including sign language for digital events).  
+- **Baseline Resource Access:** Supplies essentials like food, energy, tools, and healthcare access.
+
+---
+
+## 4. Production & Specialization in Flow
+
+- **Food:** 80% local (<50 km), 15% regional (<500 km), 5% global (specialty items). Regenerative agriculture, permaculture, vertical farms.  
+- **Materials:** Biodegradable, reusable, and locally repairable. Tools and machines are modular.  
+- **Energy:** 70% local renewable, 25% regional, 5% global strategic reserve.  
+- **Healthcare & Social Services:** Professionals deliver essential care. Scheduling respects patient preferences (e.g., personalized appointments). Volunteers support but do not replace professionals.  
+- **Knowledge & Innovation:** Lyceum Musaeum encourages free exploration, research, and shared learning without coercion or performance evaluation.
+
+---
+
+## 5. Inter-Node Coordination
+
+- **Resource Flow:** Baseline nodes share resources for resilience.  
+- **Professional Coordination:** Experts consult across nodes for complex cases.  
+- **Knowledge Exchange:** Lyceum Musaeum nodes collaborate digitally or in-person.  
+- **Research & Innovation:** Volunteers and professionals co-create solutions, open-source knowledge, and tools.
+
+---
+
+## 6. Principles of Governance & Access
+
+- **Trust the learner / participant.**  
+- **Mistakes are honored** — they are part of learning and innovation.  
+- **No coercion, no performance metrics, no economic gatekeeping.**  
+- **Functional accessibility** is integrated into design (physical, cognitive, sensory).  
+- **Voluntary participation** in seminars, workshops, and research.  
+
+---
+
+## 7. Flow in Practice
+
+**Example Day at a Node:**
+
+- **Morning:** Residents access Lyceum Musaeum labs, workshops, or quiet study. Professionals provide healthcare or counseling as scheduled.  
+- **Midday:** Communal meals via Baseline food distribution.  
+- **Afternoon:** Seminars, collaborative projects, or personal exploration.  
+- **Evening:** Social gatherings, creative performances, or reflective practice.  
+
+**Outcomes:**
+
+- Reduced stress and isolation  
+- Enhanced curiosity and creativity  
+- Equitable access to essential resources  
+- Knowledge and skills shared freely  
+- Community cohesion without hierarchy
+
+---
+
+## 8. Integration with Global Flow
+
+- Nodes form a **mesh network**, supporting each other with critical resources.  
+- Regional hubs facilitate specialized production and knowledge sharing.  
+- Global coordination ensures availability of rare resources, research collaboration, and crisis management.
+
+---
+
+**STATUS:** Draft for global comprehension of Flow societal structure  
+**VALIDATION:** Cross-referenced with prior Flow, Lyceum Musaeum, and M-OS-R design principles  
+**COMMITMENT:** Accessible, resilient, collaborative, and human-centered communities
