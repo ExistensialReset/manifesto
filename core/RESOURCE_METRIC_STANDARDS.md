@@ -88,6 +88,19 @@ Baseline ensures no human is left in the cold, isolated, or in chemical/psycholo
 
 ---
 
+SOCIAL BASELINE = RIGHT TO ACCESS, NOT REQUIREMENT TO USE
+
+✅ Access to Lyceum Musaeum (or equivalent communal space)
+✅ Access to communication tools (phone, internet, mail)
+✅ Right to leave Node freely (no imprisonment)
+✅ Protection from systematic exclusion/bullying
+
+❌ NOT: Mandatory participation
+❌ NOT: Measured interaction frequency
+❌ NOT: "You must be social to be healthy" 
+
+---
+
 **STATUS:** OPERATIONAL SPECIFICATION  
 **COMMITMENT:** Life starts with Water. Dignity, Cognitive Liberty, and Social Connection are mandatory Baseline metrics.  
 
