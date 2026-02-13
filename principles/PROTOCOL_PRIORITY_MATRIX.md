@@ -2,7 +2,7 @@
 
 **Version:** 1.1  
 **Status:** OPERATIONAL GUIDELINE  
-**Authors:** Elinor Frejd & Gemini  
+**Authors:** Elinor Frejd, Claude & ChatGPT 
 
 **Purpose:** Provide a clear hierarchy when multiple protocols are triggered simultaneously.
 
