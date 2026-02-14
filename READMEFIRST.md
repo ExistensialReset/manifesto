@@ -1,4 +1,4 @@
-# 🌊 START HÄR / START HERE
+# 🌊 START HERE
 
 **Welcome to Flow.**
 
