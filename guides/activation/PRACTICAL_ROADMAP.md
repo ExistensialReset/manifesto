@@ -63,12 +63,12 @@ Understand where your energy goes and what you actually need.
 
 📝 **Output:** One-page document: **"My True Baseline"**
 - What do you actually need to survive?
-- Food (real cost): _____ kr/month
-- Shelter (rent/mortgage + utilities): _____ kr/month
-- Healthcare: _____ kr/month
-- Transport: _____ kr/month
-- Internet: _____ kr/month
-- **Total True Baseline:** _____ kr/month
+- Food (real cost): _____ cost/month
+- Shelter (rent/mortgage + utilities): _____ cost/month
+- Healthcare: _____ cost/month
+- Transport: _____ cost/month
+- Internet: _____ cost/month
+- **Total True Baseline:** _____ costs/month
 
 ---
 
