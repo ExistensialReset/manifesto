@@ -30,9 +30,11 @@ It will ask you:
 ---
 
 If feeling tired, pause and come back when ever you want to. If you don't know what to read first: start with 
+[README FIRST](./READMEFIRST.md)
 [WHY_M-OS-R](./WHY_M-OS-R.md)
 [M-OS-R_IN_PLAIN_LANGUAGE](./M-OS-R_IN_PLAIN_LANGUAGE.md)
 [START_SMALL](./guides/activation/START_SMALL.md)
+
 
 ---
 
