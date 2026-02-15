@@ -25,7 +25,7 @@ The **Flow Spiral** represents the fully developed architecture of resource, kno
 - Contains:
   - **Professional Teams** – manage essential infrastructure.
   - **Volunteer/Research Teams** – implement experimental flows.
-  - **Lyceum & Musaeum** – central knowledge, documentation, and cultural preservation.
+  - **Lyceum Musaeum** – central knowledge, documentation, and cultural preservation.
   - **Baseline Resource Access** – equitable distribution systems.
 - **Verification protocols** detect systemic discrepancies without targeting individuals.
 - Internal feedback loops reinforce learning:
