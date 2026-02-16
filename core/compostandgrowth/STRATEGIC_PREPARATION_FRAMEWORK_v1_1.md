@@ -3,7 +3,7 @@
 **Version:** 1.1  
 **Authors:** Elinor Frejd & ChatGPT (v1.0), Claude (v1.1 additions)  
 **Date:** February 15, 2026  
-**Status:** Core Operational Framework  
+**Status:** Core/compostandgrowth 
 **Purpose:** Define a realistic, spiral-based pathway from micro-circle initiation to potential long-term global adaptation  
 **Critical Note:** This document must function without its authors. If you are reading this and Elinor Frejd is no longer available for consultation, **this document is sufficient.**
 
