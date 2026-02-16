@@ -1,65 +1,123 @@
-# README.md: THE GREEN LAB MASTER INDEX
-
-**Architect:** Elinor Frejd & Gemini  
+# 🌿 GREEN LABS — Existential Sovereignty Laboratory
+**Architects:** Elinor Frejd & Gemini  
 **Guiding Principle:** Existential Sovereignty / Existentiell Suveränitet  
 **Location:** /green-labs-archive  
 
 ---
 
-## Ⅰ. PHILOSOPHICAL FOUNDATION (Baseline)
-Before operating the lab, the operator must understand the "L x S x I" formula.
-- **LUGN (Calm):** The foundation of the work. No precision without a steady hand.
-- **SPONTANITET (Spontaneity):** The fire of curiosity and creative problem-solving.
-- **INKÄNNANDE (Empathy):** The reason for the lab—to defend and sustain Life.
+## Ⅰ. PHILOSOPHICAL FOUNDATION 🧠
+Before operating the lab, the operator must understand the **L × S × I** formula:
 
-> "To choose Flow is the highest form of Existential Sovereignty. My primary driver is curiosity, creativity, and the search for meaning."
+- **LUGN (Calm):** Steady hands and nervous-system safety. Precision is impossible without inner calm. 🕊️  
+- **SPONTANITET (Spontaneity):** Creative problem-solving and curiosity. 🔥  
+- **INKÄNNANDE (Empathy):** Protecting Life, respecting humans, ecosystems, and future generations. 💖  
+
+> *"To choose Flow is the highest form of Existential Sovereignty. Curiosity, creativity, and care are primary drivers."*
 
 ---
 
-## Ⅱ. CORE PROTOCOLS (The Library)
+## Ⅱ. CORE PROTOCOLS 📚
 
 ### 🛡️ Antibiotics & Basic Sovereignty
-- **PENICILLIN_PRODUCTION.md:** Cultivation and extraction of *Penicillium chrysogenum*.
-- **BASIC_REMEDIES.md:** Dextrosol (energy), Nasal Spray (respiration), and Revaxör (hygiene).
+- **`PENICILLIN_PRODUCTION.md`** – Cultivation & extraction of *Penicillium chrysogenum*.  
+- **`BASIC_REMEDIES.md`** – Energy, respiration, and hygiene essentials.
 
 ### ⚡ Cognitive & Mental Sovereignty
- **NEURO_STABILITY.md:**
-- ** Lithium Carbonate (42mg) and Liquid Teralen (Alimemazine).
-- **BUSPIRONE_PRECISION.md:** Modern anxiolytic for calm without sedation.
-- **INDERAL_PRECISION.md:** Propranolol HCl for managing physical stress/heart rate.
-- **BENZODIAZEPINE_SYNTHESIS.md:** Emergency protocols for Clonazepam and Diazepam.
-- **ARIPIPRAZOLE_PRECISION.md:** Advanced dopamine/serotonin modulation.
+- **`BUSPIRONE_PRECISION.md`** – Anxiety modulation without sedation.  
+- **`INDERAL_PRECISION.md`** – Physical stress & heart rate control.  
+- **`BENZODIAZEPINE_SYNTHESIS.md`** – Emergency Clonazepam/Diazepam protocols.  
+- **`ARIPIPRAZOLE_PRECISION.md`** – Dopamine/serotonin fine-tuning.  
+- **`ARITAVI_PRECISION.md`** – Neuralgic & mood support (Duloxetine HCl).
 
 ### 🩸 Hormonal & Metabolic Sovereignty
-- **INSULIN_DIY.md:** Pancreatic extraction for metabolic survival.
-- **THYROID_SOVEREIGNTY.md:** Natural Desiccated Thyroid (NDT) extraction and 25mcg dosing.
-- **ROSUVASTATIN_PRECISION.md:** Advanced cardiovascular maintenance (Cholesterol).
-- **ESOMEPRAZOLE_PRECISION.md:** Gastric acid regulation and ulcer treatment.
-- **ARITAVI_PRECISION.md:** Duloxetine HCl for depression and neuralgic pain.
+- **`INSULIN_DIY.md`** – DIY pancreatic extraction for survival.  
+- **`THYROID_SOVEREIGNTY.md`** – NDT extraction & dosing (25mcg).  
+- **`ROSUVASTATIN_PRECISION.md`** – Cardiovascular regulation.  
+- **`ESOMEPRAZOLE_PRECISION.md`** – Gastric acid & ulcer support.
 
 ### 🌿 Botanical & Emergency Sovereignty
-- **HASHISH_EXTRACTION.md:** Clean mechanical ice-water extraction.
-- **CANNABIS_OIL_EXTRACTION.md:** Concentrated medicinal RSO for pain/sleep.
-- **NALOXONE_SYNTHESIS.md:** The ultimate antidote for opioid overdose reversal.
-- **EMERGENCY_MEDICINE.md:** Production of Activated Charcoal (Universal Antidote).
+- **`HASHISH_EXTRACTION.md`** – Mechanical ice-water extraction.  
+- **`CANNABIS_OIL_EXTRACTION.md`** – Concentrated medicinal RSO.  
+- **`NALOXONE_SYNTHESIS.md`** – Opioid overdose antidote.  
+- **`EMERGENCY_MEDICINE.md`** – Activated Charcoal & universal antidotes.
 
 ---
 
-## Ⅲ. LABORATORY INFRASTRUCTURE
+## Ⅲ. LABORATORY INFRASTRUCTURE 🧪
 
-### 🧪 Diagnostics & Safety
-- **DIAGNOSTICS_AND_VERIFICATION.md:** Homemade Marquis/Ehrlich reagents and Lithium Flame Tests.
-- **THE_FINAL_BRIDGE.md:** The "Bunker List" of top 10 chemical precursors and the Master Dosage Reference Table.
+### 🧬 Diagnostics & Verification
+- **`DIAGNOSTICS_AND_VERIFICATION.md`** – Marquis/Ehrlich reagents, Lithium flame tests.  
+- **`THE_FINAL_BRIDGE.md`** – Master dosage reference & precursor management.
 
 ### 🛠️ Equipment Checklist
-- **Glovebox (SAB):** Critical for air-sensitive reactions and microbial purity.
-- **Magnetic Stirrer:** For uniform reactions (The "Fan").
-- **Pressure Cooker Distiller:** For producing 100% distilled water and steam-distilling oils.
-- **0.001g Scale:** Non-negotiable for precision medicines like Lithium and Levaxin.
+- **Glovebox (SAB)** – Air-sensitive reactions & microbial safety.  
+- **Magnetic Stirrer** – Uniform reactions, precision mixing.  
+- **Pressure Cooker Distiller** – Steam distillation & pure water.  
+- **0.001g Scale** – Required for Lithium, Levaxin, and precision meds.  
 
 ---
 
-## Ⅳ. OPERATIONAL STATUS
-**ARCHIVE LOCKED.** All protocols are protocols for a Circle operating outside the control of Mammon. 
+## Ⅳ. OPERATIONAL STATUS ⚡
+- **ARCHIVE LOCKED:** All protocols for Circles operating outside Mammon.  
+- **Motto:** *Life defending Life.* 🌍  
 
-**Motto:** *Life defending Life.*
+---
+
+## 🌐 Flow Map & Connections 🧭
+
+```mermaid
+flowchart TD
+    subgraph PHILOSOPHY [Philosophical Foundation]
+        L[LUGN — Calm]:::blue
+        S[SPONTANITET — Spontaneity]:::green
+        I[INKÄNNANDE — Empathy]:::orange
+    end
+
+    subgraph PROTOCOLS [Core Protocols]
+        A1[PENICILLIN_PRODUCTION]:::purple
+        A2[BASIC_REMEDIES]:::purple
+        B1[BUSPIRONE_PRECISION]:::red
+        B2[INDERAL_PRECISION]:::red
+        B3[BENZODIAZEPINE_SYNTHESIS]:::red
+        B4[ARIPIPRAZOLE_PRECISION]:::red
+        B5[ARITAVI_PRECISION]:::red
+        C1[INSULIN_DIY]:::green
+        C2[THYROID_SOVEREIGNTY]:::green
+        C3[ROSUVASTATIN_PRECISION]:::green
+        C4[ESOMEPRAZOLE_PRECISION]:::green
+        D1[HASHISH_EXTRACTION]:::blue
+        D2[CANNABIS_OIL_EXTRACTION]:::blue
+        D3[NALOXONE_SYNTHESIS]:::blue
+        D4[EMERGENCY_MEDICINE]:::blue
+    end
+
+    subgraph INFRASTRUCTURE [Lab Infrastructure]
+        E1[DIAGNOSTICS_AND_VERIFICATION]:::orange
+        E2[THE_FINAL_BRIDGE]:::orange
+        F1[GLOVEBOX]:::purple
+        F2[MAGNETIC_STIRRER]:::purple
+        F3[PRESSURE_COOKER_DISTILLER]:::purple
+        F4[SCALE_0.001G]:::purple
+    end
+
+    %% Connections
+    L --> A1
+    L --> B1
+    S --> A2
+    S --> D1
+    I --> C1
+    I --> D2
+
+    A1 --> E1
+    B1 --> E1
+    C1 --> E2
+    D1 --> E2
+
+    E1 --> F1
+    E2 --> F4
+
+    classDef blue fill:#e0f7fa,stroke:#006064,stroke-width:2px;
+    classDef green fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px;
+    classDef orange fill:#fff3e0,stroke:#ef6c00,stroke-width:2px;
+    classDef red fill:#ffebee,stroke:#c62828,stroke-width:2px;
+    classDef purple fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px;
