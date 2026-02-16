@@ -42,9 +42,8 @@ Welcome to the **M-OS-R Core Repository** – the heart of the system that orche
 
 ## 📈 Core Flow Overview
 
-```mermaid 
+```mermaid
 flowchart TD
-
     A[Input and Data Collection] --> B[Validation and Guardrails]
     B --> C[Flow Routing]
     C --> D[Resonance Alignment]
@@ -65,7 +64,9 @@ flowchart TD
     class E orange
     class F orange
     class G red```
- Entry Strategy Flow 
+ 
+## 🛡 Entry Strategy Flow 
+```mermaid 
 flowchart TD
     ES1["Identify Opportunity"] --> ES2["Validate & Guardrails"]
     ES2 --> ES3["Design Flow 🔄"]
@@ -76,9 +77,10 @@ flowchart TD
     class ES1,ES2 blue
     class ES3 purple
     class ES4 green
-    class ES5,ES6 orange
+    class ES5,ES6 orange```
 
-  Strategic Preparation Framework
+ ## 🎯 Strategic Preparation Framework 
+```mermaid 
 flowchart TD
     SP1["Baseline Analysis"] --> SP2["Resource Metrics"]
     SP2 --> SP3["Political Realism Layer"]
@@ -87,9 +89,11 @@ flowchart TD
 
     class SP1,SP2,SP5 orange
     class SP3 purple
-    class SP4 green
+    class SP4 green```
 
- Class Definition (Colors) 
+## 🎨 Class Definition (Colors) 
+
+```mermaid 
 flowchart LR
 
     Core[Core Architecture]
@@ -113,4 +117,4 @@ flowchart LR
     class Strategy layer
     class Deployment layer
     class Governance layer
-    class Metrics layer
+    class Metrics layer```
