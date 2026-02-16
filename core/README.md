@@ -1,16 +1,16 @@
 # 🌿 M-OS-R CORE REPOSITORY README 🌿
 
-**Version:** 2.0  
+**Version:** 2.1 – The Ultimate  
 **Status:** Active / Living Framework  
 **Last Updated:** February 16, 2026  
-**Maintainers:** Elinor Frejd (Architect) & Contributors  
+**Maintainers:** Elinor Frejd & Contributors  
 
 ---
 
 ## 📌 Overview
 
-Welcome to the **M-OS-R Core Repository**, the living backbone of the **Existensial Reset Manifesto**.  
-This repo contains all **operational, structural, and strategic frameworks** needed to implement M-OS-R as a **real-world regenerative system**, independent of founders, and designed for generational longevity.
+Welcome to the **M-OS-R Core Repository**, the backbone of the **Existensial Reset Manifesto**.  
+This repo contains all **operational, structural, and strategic frameworks** to implement M-OS-R as a **real-world regenerative system**.
 
 > ⚠️ **Core Principle:** Scale is a byproduct of **stability**, **documentation**, and **founder irrelevance** — never the goal.
 
@@ -21,19 +21,19 @@ This repo contains all **operational, structural, and strategic frameworks** nee
 | Folder / File | Description |
 |---------------|-------------|
 | [`compostandgrowth/`](./compostandgrowth) | Historical versions and archival documents |
-| [`CORE_FLOW_PROTOCOLS.md`](./CORE_FLOW_PROTOCOLS.md) | Standardized flow patterns and operational routines |
-| [`CORE_GUIDERAIL.md`](./CORE_GUIDERAIL.md) | High-level guiding principles for node governance |
-| [`CORE_RESONANCE.json`](./CORE_RESONANCE.json) | Quantitative systemic health metrics and resonance data |
-| [`ENTRY_STRATEGIES_DOCUMENTATION.md`](./ENTRY_STRATEGIES_DOCUMENTATION.md) | Micro-to-node onboarding and initiation protocols |
-| [`FLOW_CORE_STRUCTURE_OVERVIEW.md`](./FLOW_CORE_STRUCTURE_OVERVIEW.md) | Visual and structural overview of M-OS-R Core |
-| [`FLOW_GLOBAL_IMPLEMENTATION_GUIDE.md`](./FLOW_GLOBAL_IMPLEMENTATION_GUIDE.md) | Guidelines for multi-node replication and global adaptation |
-| [`M-OS-R_AS_AN_OPERATING_SYSTEM.md`](./M-OS-R_AS_AN_OPERATING_SYSTEM.md) | Architectural explanation of M-OS-R as a functional operating system |
-| [`POLITICAL_REALISM_LAYER.md`](./POLITICAL_REALISM_LAYER.md) | External compliance, interface, and political strategy |
-| [`README.md`](./README.md) | You are here — entrypoint to the Core |
-| [`RESOURCE_METRIC_STANDARDS.md`](./RESOURCE_METRIC_STANDARDS.md) | Definitions of systemic metrics for regenerative evaluation |
-| [`STRATEGIC_PREPARATION_FRAMEWORK_VISUAL.md`](./STRATEGIC_PREPARATION_FRAMEWORK_VISUAL.md) | Spiral-based phase visualization & risk-mitigation mapping |
-| [`STRATEGIC_PREPARATION_FRAMEWORK_v2.md`](./STRATEGIC_PREPARATION_FRAMEWORK_v2.md) | Updated operational framework with founder-reduction protocols |
-| [`STRUCTURAL_INVARIANTS.md`](./STRUCTURAL_INVARIANTS.md) | Non-negotiable system principles ensuring integrity over time |
+| [`CORE_FLOW_PROTOCOLS.md`](./CORE_FLOW_PROTOCOLS.md) | Standardized flow patterns & operational routines |
+| [`CORE_GUIDERAIL.md`](./CORE_GUIDERAIL.md) | Guiding principles for node governance |
+| [`CORE_RESONANCE.json`](./CORE_RESONANCE.json) | Quantitative systemic health metrics & resonance data |
+| [`ENTRY_STRATEGIES_DOCUMENTATION.md`](./ENTRY_STRATEGIES_DOCUMENTATION.md) | Micro-to-node onboarding protocols |
+| [`FLOW_CORE_STRUCTURE_OVERVIEW.md`](./FLOW_CORE_STRUCTURE_OVERVIEW.md) | Structural overview of M-OS-R Core |
+| [`FLOW_GLOBAL_IMPLEMENTATION_GUIDE.md`](./FLOW_GLOBAL_IMPLEMENTATION_GUIDE.md) | Multi-node replication & global adaptation |
+| [`M-OS-R_AS_AN_OPERATING_SYSTEM.md`](./M-OS-R_AS_AN_OPERATING_SYSTEM.md) | M-OS-R as a functional operating system |
+| [`POLITICAL_REALISM_LAYER.md`](./POLITICAL_REALISM_LAYER.md) | External compliance, political strategy |
+| [`RESOURCE_METRIC_STANDARDS.md`](./RESOURCE_METRIC_STANDARDS.md) | Definitions of systemic metrics |
+| [`STRATEGIC_PREPARATION_FRAMEWORK_VISUAL.md`](./STRATEGIC_PREPARATION_FRAMEWORK_VISUAL.md) | Phase visualization & risk-mitigation mapping |
+| [`STRATEGIC_PREPARATION_FRAMEWORK_v2.md`](./STRATEGIC_PREPARATION_FRAMEWORK_v2.md) | Updated operational framework |
+| [`STRUCTURAL_INVARIANTS.md`](./STRUCTURAL_INVARIANTS.md) | Non-negotiable system principles |
+| [`README.md`](./README.md) | You are here — central entry point |
 
 ---
 
@@ -89,12 +89,12 @@ This repo contains all **operational, structural, and strategic frameworks** nee
 | Years | Founder Role | Notes |
 |-------|-------------|-------|
 | 0–2 | Active | Central execution, decision-making |
-| 2–5 | 50% Delegation | Teach, document, share decision-making |
+| 2–5 | 50% Delegation | Teach, document, share decisions |
 | 5–10 | Advisory | No executive authority, consult only |
-| 10–20 | Emeritus | Historical, rarely referenced |
+| 10–20 | Emeritus | Historical reference only |
 | 20+ | Forgotten | System operates autonomously |
 
-**Goal:** The **system must survive founder absence or death**.  
+**Goal:** System must survive **founder absence or death**.  
 
 ---
 
@@ -103,7 +103,7 @@ This repo contains all **operational, structural, and strategic frameworks** nee
 - Always legal first ⚖️  
 - Transparent resource accounting 💹  
 - Frame as **experimental complement**, not revolutionary  
-- Cooperate with media, academia, government, NGOs (non-dependent)  
+- Cooperate with media, academia, government, NGOs  
 - Decline capital investment 💰 → preserves autonomy  
 
 ---
@@ -143,14 +143,14 @@ This repo contains all **operational, structural, and strategic frameworks** nee
 
 ```mermaid
 flowchart TD
-    %% --- FASER ---
+    %% --- PHASES ---
     Phase0["Phase 0: Internal Coherence\n0–2 yrs\nMicro-Circle (3–12 ppl)"]:::phase
     Phase1["Phase 1: Node Stabilization\n2–5 yrs\n1 Node (20–60 ppl)"]:::phase
     Phase2["Phase 2: Node Replication\n5–10 yrs\n3–5 Nodes"]:::phase
     Phase3["Phase 3: Networked Federation\n10–20 yrs\nRegional Mesh 5–15 Nodes"]:::phase
     Phase4["Phase 4: Cultural Adoption\n20+ yrs\nPattern Diffusion"]:::phase
 
-    %% --- HOT / RISKS ---
+    %% --- RISKS ---
     FounderDep["Founder Dependency"]:::risk
     Burnout["Burnout / Exhaustion"]:::risk
     LegalIssues["Legal / Regulatory Risk"]:::risk
@@ -158,20 +158,15 @@ flowchart TD
     MediaMisinterpret["Media Misrepresentation"]:::risk
     CoOption["External Co-option"]:::risk
 
-    %% --- ÅTGÄRDER / MITIGERINGAR ---
+    %% --- MITIGATIONS ---
     Documentation["Documentation / Knowledge Capture"]:::mitigation
     PauseProtocols["Pause / Contraction Protocols"]:::mitigation
     AntiGuru["Anti-Guru / Founder Reduction"]:::mitigation
     LegalCompliance["Legal Compliance / Interface Protocols"]:::mitigation
     RoleRedundancy["Role Redundancy / Peer Delegation"]:::mitigation
 
-    %% --- Länkar Faser ---
-    Phase0 -->|Stabilize → Document → Transfer| Phase1
-    Phase1 --> Phase2
-    Phase2 --> Phase3
-    Phase3 --> Phase4
-
-    %% --- Risk kopplingar ---
+    %% --- CONNECTIONS ---
+    Phase0 --> Phase1 --> Phase2 --> Phase3 --> Phase4
     Phase0 --- FounderDep
     Phase0 --- Burnout
     Phase1 --- LegalIssues
@@ -182,7 +177,6 @@ flowchart TD
     Phase3 --- CulturalDrift
     Phase4 --- CoOption
 
-    %% --- Mitigering kopplingar ---
     Documentation --- Phase0
     Documentation --- Phase1
     Documentation --- Phase2
@@ -207,25 +201,21 @@ flowchart TD
     RoleRedundancy --- Phase1
     RoleRedundancy --- Phase2
 
-    %% --- Stil ---
+    %% --- STYLES ---
     classDef phase fill:#D6EAF8,stroke:#3498DB,stroke-width:2px,color:#000;
     classDef risk fill:#F5B7B1,stroke:#C0392B,stroke-width:2px,color:#000;
     classDef mitigation fill:#ABEBC6,stroke:#27AE60,stroke-width:2px,color:#000;
 ```
 
----
+🌀 Closing Note
+This README is the single source of truth for /core.
+All other documents are extensions, visualizations, or historic archives.
+> ✅ Remember: Founder irrelevance, systemic robustness, and regenerative metrics define success — not speed, fame, or scale.
 
-## 🌀 Closing Note
-
-This README is the single source of truth for /core structure and philosophy.
-All other documents are extensions, visualizations, or historic references in /compostandgrowth.
-**✅ Remember:** Founder irrelevance, systemic robustness, and regenerative metrics define success — not speed, fame, or scale.
-
-## 🌱 Build, observe, document, adapt.
+## 🌱 Build, observe, document, adapt. 
 
 **Elinor Frejd** – Architect, Sweden, 2026
-
-& ChatGPT – Structural Stress-Tester, 2026
-& Claude – Pattern Synthesizer, 2026
+ChatGPT – Structural Stress-Tester, 2026
+Claude – Pattern Synthesizer, 2026
 
 # 🌀💚🌿
