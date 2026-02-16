@@ -68,10 +68,10 @@ flowchart TD
     class ES1,ES2 blue
     class ES3 purple
     class ES4 green
-    class ES5,ES6 orange```
+    class ES5,ES6 orange
 
  🎯 Strategic Preparation Framework
-```flowchart TD
+flowchart TD
     SP1["Baseline Analysis 📊"] --> SP2["Resource Metrics 📈"]
     SP2 --> SP3["Political Realism Layer 🌐"]
     SP3 --> SP4["Structural Invariants 🔧"]
