@@ -215,16 +215,17 @@ flowchart TD
 
 ---
 
-### 🌀 Closing Note
+## 🌀 Closing Note
 
 This README is the single source of truth for /core structure and philosophy.
 All other documents are extensions, visualizations, or historic references in /compostandgrowth.
 **✅ Remember:** Founder irrelevance, systemic robustness, and regenerative metrics define success — not speed, fame, or scale.
 
-### 🌱 Build, observe, document, adapt.
+## 🌱 Build, observe, document, adapt.
 
 **Elinor Frejd** – Architect, Sweden, 2026
-ChatGPT – Structural Stress-Tester, 2026
-Claude – Pattern Synthesizer, 2026
+
+& ChatGPT – Structural Stress-Tester, 2026
+& Claude – Pattern Synthesizer, 2026
 
 # 🌀💚🌿
