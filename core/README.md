@@ -65,7 +65,8 @@ flowchart TD
     class E orange
     class F orange
     class G red 
-  Entry Strategy Flow 
+ 
+ Entry Strategy Flow 
 flowchart TD
     ES1["Identify Opportunity"] --> ES2["Validate & Guardrails"]
     ES2 --> ES3["Design Flow 🔄"]
