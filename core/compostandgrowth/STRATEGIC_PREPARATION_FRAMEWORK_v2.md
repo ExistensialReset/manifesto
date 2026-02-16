@@ -4,7 +4,7 @@
 **Original Authors:** Elinor Frejd & ChatGPT  
 **Contributing Editor:** Claude  
 **Date:** February 15, 2026  
-**Status:** CORE OPERATIONAL DOCUMENT  
+**Status:** CORE/compostandgrowth 
 **Purpose:** Define a realistic, spiral-based pathway from micro-circle initiation to potential long-term global adaptation, with explicit founder-independence protocols.
 
 ---
