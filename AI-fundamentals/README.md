@@ -70,7 +70,8 @@ flowchart LR
 
     Foundation --> Safety --> Implementation --> HumanInteraction --> Index
 ```
-Legend:
+#### Legend:
+
 🧠 Foundational Concepts → Core ideas & ethics
 🛡️ Safety & Risk → Protect integrity & coherence
 🛠️ Implementation → Technical stack & architecture
