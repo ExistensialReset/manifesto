@@ -78,7 +78,8 @@ flowchart TD
     class ES1,ES2 blue
     class ES3 purple
     class ES4 green
-    class ES5,ES6 orange```
+    class ES5,ES6 orange
+```
 
  ## 🎯 Strategic Preparation Framework 
 ```mermaid 
@@ -90,7 +91,8 @@ flowchart TD
 
     class SP1,SP2,SP5 orange
     class SP3 purple
-    class SP4 green```
+    class SP4 green
+```
 
 ## 🎨 Class Definition (Colors) 
 
@@ -118,4 +120,5 @@ flowchart LR
     class Strategy layer
     class Deployment layer
     class Governance layer
-    class Metrics layer```
+    class Metrics layer
+```
