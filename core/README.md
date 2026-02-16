@@ -42,21 +42,21 @@ Welcome to the **M-OS-R Core Repository** – the heart of the system that orche
 
 ## 📈 Core Flow Overview
 
-```mermaid
+```mermaid 
+
 flowchart TD
-    A[Input & Data Collection 📥] --> B[Validation & Guardrails ✅]
-    B --> C[Flow Routing 🔄]
-    C --> D[Resonance Alignment 🌱]
-    D --> E[Strategic Preparation 📊]
-    E --> F[Global Deployment 🌍]
-    F --> G[Feedback Loop 🔁]
+    A[Input and Data Collection] --> B[Validation & Guardrails]
+    B --> C[Flow Routing]
+    C --> D[Resonance Alignment]
+    D --> E[Strategic Preparation]
+    E --> F[Global Deployment]
+    F --> G[Feedback Loop]
 
     class A,B blue
     class C purple
     class D green
     class E,F orange
     class G red
-
  🛡 Entry Strategy Flow 
 flowchart TD
     ES1["Identify Opportunity 🔍"] --> ES2["Validate & Guardrails ✅"]
