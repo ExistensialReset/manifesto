@@ -44,12 +44,12 @@ Welcome to the **M-OS-R Core Repository** – the heart of the system that orche
 
 ```mermaid
 flowchart TD
-    A["Input & Data Collection 📥"] --> B["Validation & Guardrails ✅"]
-    B --> C["Flow Routing 🔄"]
-    C --> D["Resonance Alignment 🌱"]
-    D --> E["Strategic Preparation 📊"]
-    E --> F["Global Deployment 🌍"]
-    F --> G["Feedback Loop 🔁"]
+    A[Input & Data Collection 📥] --> B[Validation & Guardrails ✅]
+    B --> C[Flow Routing 🔄]
+    C --> D[Resonance Alignment 🌱]
+    D --> E[Strategic Preparation 📊]
+    E --> F[Global Deployment 🌍]
+    F --> G[Feedback Loop 🔁]
 
     class A,B blue
     class C purple
