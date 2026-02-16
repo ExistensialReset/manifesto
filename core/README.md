@@ -104,7 +104,7 @@ classDef blue fill:#dcedf2,stroke:#0d3b66,stroke-width:2px,color:#0d3b66
 classDef purple fill:#f0d9ff,stroke:#9b59b6,stroke-width:2px,color:#4b0082
 classDef orange fill:#ffe6a1,stroke:#e67e22,stroke-width:2px,color:#b35f00
 classDef red fill:#ffb3b3,stroke:#c0392b,stroke-width:2px,color:#7f1d1d```
-```flowchart LR
+flowchart LR
     FlowProtocols[Flow Protocols 🔄]:::purple --> Guardrails[Guardrails 🛡️]:::blue
     Guardrails --> ResourceMetrics[Resource Metrics 📊]:::orange
     ResourceMetrics --> StrategicPrep[Strategic Prep Framework 🧩]:::green
@@ -116,4 +116,4 @@ classDef green fill:#a8e6cf,stroke:#379683,stroke-width:2px,color:#054f38
 classDef blue fill:#dcedf2,stroke:#0d3b66,stroke-width:2px,color:#0d3b66
 classDef purple fill:#f0d9ff,stroke:#9b59b6,stroke-width:2px,color:#4b0082
 classDef orange fill:#ffe6a1,stroke:#e67e22,stroke-width:2px,color:#b35f00
-classDef red fill:#ffb3b3,stroke:#c0392b,stroke-width:2px,color:#7f1d1d```
+classDef red fill:#ffb3b3,stroke:#c0392b,stroke-width:2px,color:#7f1d1d
