@@ -69,3 +69,10 @@ flowchart LR
     Index[🧩 Index & Reference]
 
     Foundation --> Safety --> Implementation --> HumanInteraction --> Index
+```
+Legend:
+🧠 Foundational Concepts → Core ideas & ethics
+🛡️ Safety & Risk → Protect integrity & coherence
+🛠️ Implementation → Technical stack & architecture
+🌱 Human Interaction → Cultural & human-aligned protocols
+🧩 Index → People & operational reference 
