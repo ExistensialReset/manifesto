@@ -58,7 +58,7 @@ Observations **must always connect to:**
 
 Before engaging with annex materials, read **in order**:
 
-1. **`/principles/DIVINE.md`** 🌟 – Foundational theory: DIVINE framework & Frejd Equation.  
+1. **`/ethos/DIVINE.md`** 🌟 – Foundational theory: DIVINE framework & Frejd Equation.  
 2. **`/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md`** ⚡ – Common misuses, dead-field scenarios, and systemic pathologies.  
 3. **`/guides/WHEN_TO_STOP_FLOW.md`** ⚡ – Ethical, psychological, and systemic stopping rules.  
 
