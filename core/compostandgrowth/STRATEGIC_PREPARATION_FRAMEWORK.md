@@ -1,6 +1,6 @@
 # STRATEGIC_PREPARATION_FRAMEWORK.md  
 **Version:** 0.1  
-**Status:** Core  
+**Status:** Core/compostandgrowth 
 **Purpose:** Define a realistic, spiral-based pathway from micro-circle initiation to potential long-term global adaptation.
 
 ---
