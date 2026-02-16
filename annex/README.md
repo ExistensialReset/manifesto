@@ -1,101 +1,198 @@
-# 📦 ANNEX – DIVINE Reference & Safeguard Layer ✨
+# 📦 Annex – Reference & Safeguard Layer for the DIVINE Framework ✨
 
-> **Protecting the DIVINE framework from misuse, extraction, and commodification.**  
-> Reflection, ethical practice, and field integrity – **no KPIs, no gamification, no dashboards.**
-
----
-
-## 🛡️ Core Principles
-
-💖 **Care over efficiency**  
-🧩 **Coherence over shortcuts**  
-🪞 **Reflection over measurement**  
-🌌 **Field integrity over scalability**  
-❌ No KPIs, leaderboards, or productivity metrics  
-
-> **Mandatory Reading Order:**  
-> 1. `/principles/DIVINE.md` – Foundational theory 🌟  
-> 2. `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md` – Dead-field prevention ⚡  
-> 3. `/guides/WHEN_TO_STOP_FLOW.md` – Stopping rules ⏳  
+> This folder contains **protective, conceptual, and practical reference materials** for DIVINE.  
+> Purpose: **prevent misuse, preserve systemic coherence, and ensure ethical practice**.  
+>  
+> **No KPIs. No dashboards. No optimization games.**  
+> Only **reflection, awareness, and field integrity**.
 
 ---
 
-## 📂 Annex Documents Overview
+## 🔑 Final Reminder
 
-### 1️⃣ Ethics & Safety 🛡️
-- [`WHEN-TO-STOP.md`](./WHEN-TO-STOP.md) – Ethical & systemic stopping rules ⏳  
-- [`HOW-NOT-TO.md`](./HOW-NOT-TO.md) – Common pitfalls & dead-field scenarios ⚡  
-- [`DIVINE-PSYCHOLOGICAL-SAFETY-PROTOCOL.md`](./DIVINE-PSYCHOLOGICAL-SAFETY-PROTOCOL.md) – Trauma-informed participation 🧠  
-- [`OBSERVER-TRAUMA.md`](./OBSERVER-TRAUMA.md) – Observer safeguards 🛡️  
-- [`DIVINE-ETHICAL-DECISION-MATRIX.md`](./DIVINE-ETHICAL-DECISION-MATRIX.md) – Ethical decision framework ⚖️  
-- [`FAILURE-RECOVERY.md`](./FAILURE-RECOVERY.md) – Recovery protocols 🔄  
-- [`PSI-COLLAPSE-RECOVERY.md`](./PSI-COLLAPSE-RECOVERY.md) – Field collapse interventions ⚡  
-- [`DIVINE_LIMITATIONS_AND_FAILURE_MODES.md`](./DIVINE_LIMITATIONS_AND_FAILURE_MODES.md) – Known limitations ⚠️  
-- [`DIVINE_FAILURE_CASE_SIMULATIONS.md`](./DIVINE_FAILURE_CASE_SIMULATIONS.md) – Simulation exercises 🧪  
+DIVINE is **not about efficiency, KPIs, or control**.  
+It is about:  
+💖 **Care**  
+🧩 **Coherence**  
+🪞 **Reflection**  
+🌌 **Field integrity**  
 
-### 2️⃣ Measurement & Phenomenology 📏
-- [`DIVINE-MEASURE.md`](./DIVINE-MEASURE.md) – Conceptual measurement framework 📝  
-- [`DIVINE-MEASURE-LOG-v3.1.md`](./DIVINE-MEASURE-LOG-v3.1.md) – Observation log 📊  
-- [`DIVINE-MEASURE-POETIC.md`](./DIVINE-MEASURE-POETIC.md) – Poetic, reflective measurement ✨  
-- [`EV-MEASURE.md`](./EV-MEASURE.md) – Event & variation measurement ⚡  
-- [`SIGMA_PHENOMOLOGY.md`](./SIGMA_PHENOMOLOGY.md) – Σ / Grace phenomenology 🌌  
-
-### 3️⃣ Cultural & Contextual Calibration 🌱
-- [`CULTURAL-CALIBRATION.md`](./CULTURAL-CALIBRATION.md) – Local context & culture tuning 🌍  
-- [`DIVINE-CONTEXTUAL-CALIBRATION-PROTOCOL.md`](./DIVINE-CONTEXTUAL-CALIBRATION-PROTOCOL.md) – Applied calibration protocols 🛠️  
-- [`INDIGENOUS-WISDOM.md`](./INDIGENOUS-WISDOM.md) – Traditional knowledge guidance 🪶  
-
-### 4️⃣ Applied Practice 🏗️
-- [`PEDAGOGY.md`](./PEDAGOGY.md) – Teaching DIVINE as a thinking language 🎓  
-- [`SOMATIC-PROTOCOLS.md`](./SOMATIC-PROTOCOLS.md) – Body-based observation 🧘‍♀️  
-- [`DIVINE-TECH-STACK.md`](./DIVINE-TECH-STACK.md) – Minimal & ethical tooling 💻  
-- [`THREE_PILLARS_FIELD_AUDIT_SCENARIO.md`](./THREE_PILLARS_FIELD_AUDIT_SCENARIO.md) – Field audit scenario 🕵️  
-- [`DIVINE-FIELD-AUDIT-SCENARIO.md`](./DIVINE-FIELD-AUDIT-SCENARIO.md) – Practical field audit 🛠️  
-
-### 5️⃣ Meta & Long-Term Stewardship 🔮
-- [`FINAL META-DOKUMENT: WHAT-REMAINS.md`](./FINAL%20META-DOKUMENT:%20WHAT-REMAINS.md) – Reflections on enduring practices ⏳  
-- [`DIVINE-FAQ.md`](./DIVINE-FAQ.md) – Common questions & clarifications ❓  
+**Honor the field, honor stopping rules, and honor human autonomy.**  
+This is your **safeguard layer**. Handle with respect.
 
 ---
 
-## 💡 Tips for Use
-1. Read **slowly**, absorb before acting 🐢  
-2. Engage **multi-modally**: write, move, discuss, reflect 🎨  
-3. Pair documents for depth: pedagogy + somatics, tech + legal, research + observation 🔗  
-4. **FLOW-PROTOCOLS.md** is the last, actionable field companion 🛠️  
-5. Encourage **discussion**, never certification, scoring, or KPIs 💬  
+## ⚡ Ethics & Anti-KPI Reminder
+
+- 🚫 No KPIs, dashboards, gamification, or productivity metrics  
+- 🚫 No ranking of individuals, teams, or groups  
+- 🚫 No certifications, compliance scores, or leaderboards  
+
+**Focus instead on:**  
+🪄 Reflection & sense-making  
+🛡 Ethical and trauma-informed practice  
+🌐 Context-sensitive observation  
+🫂 Human-centered awareness  
+
+Observations **must always connect to:**  
+📍 Context  
+📍 Consent  
+📍 Lived experience  
 
 ---
 
-## 🌐 Annex Flow Map & Connections 🧭
+## 💡 Tips for Accessibility & Use
+
+1. 🐢 Read **slowly**, absorb before acting.  
+2. 🎨 Engage **multi-modally**: write, move, discuss, reflect.  
+3. 🔗 Pair documents for depth:  
+   - pedagogy + somatics  
+   - tech + legal  
+   - research + observation  
+4. 📖 Use `FLOW-PROTOCOLS.md` as a **field companion**, last in reading order.  
+5. 💬 Encourage **discussion and reflection**, never ranking or KPIs.  
+
+---
+
+## 📝 Mandatory Reading Order
+
+Before engaging with annex materials, read **in order**:
+
+1. **`/principles/DIVINE.md`** 🌟 – Foundational theory: DIVINE framework & Frejd Equation.  
+2. **`/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md`** ⚡ – Common misuses, dead-field scenarios, and systemic pathologies.  
+3. **`/guides/WHEN_TO_STOP_FLOW.md`** ⚡ – Ethical, psychological, and systemic stopping rules.  
+
+> Skipping this order risks misunderstanding, harm, or irreversible field degradation.
+
+---
+
+## 📂 Annex Documents
+
+### 1️⃣ `DIVINE-PEDAGOGY.md` – Teaching DIVINE Without Dogma 🏫
+**Purpose:** Introduce DIVINE as a **thinking language**, not a belief system or manual.  
+
+**Focus:**  
+- 🌱 Lived experience first  
+- 🕳 Teaching through negative space (blockages)  
+- 🛡 Anti-dogma inoculation  
+- 🎭 Multi-modal learning  
+
+**Connected guides:**  
+`HOW_NOT_TO_IMPLEMENT_FLOW.md`, `WHEN_TO_STOP_FLOW.md`
+
+---
+
+### 2️⃣ `SOMATIC-PROTOCOLS.md` – Embodied Field Awareness 🧘
+**Purpose:** Support somatic literacy and body-based observation of Ψ.  
+
+**Focus:**  
+- 🌬 Pre-observation grounding  
+- 🫁 Somatic signals for L, S, I  
+- 🛡 Trauma-informed participation  
+- ✅ Consent and opt-out boundaries  
+
+---
+
+### 3️⃣ `DIVINE-TECH-STACK.md` – Minimal & Ethical Tooling 💻
+**Purpose:** Describe technical support without surveillance or extraction.  
+
+**Principles:**  
+- 📉 Data minimalism  
+- 🏠 Local-first by default  
+- ⏳ Ephemeral storage (auto-delete)  
+- 🚫 No individual tracking  
+
+**Explicit anti-features:**  
+No analytics, no prediction engines, no optimization loops.
+
+---
+
+### 4️⃣ `LEGAL-ETHICAL-FRAMEWORKS.md` – Legal Safety & Compliance ⚖️
+**Purpose:** Prevent legal and ethical violations across contexts.  
+
+**Coverage:**  
+- 🛡 GDPR & data protection  
+- ⚖️ Employment law considerations  
+- 👶 Work with minors  
+- 🌍 Cross-border use  
+- 📝 Ethics review & liability boundaries  
+
+---
+
+### 5️⃣ `RESEARCH-METHODOLOGY.md` – Studying DIVINE Responsibly 🔬
+**Purpose:** Enable empirical exploration without reductionism.  
+
+**Focus:**  
+- 🧪 Mixed methods  
+- 🏃 Small-scale pilots  
+- 🌐 Cross-cultural calibration  
+- 📅 Longitudinal patterns  
+- Σ-event mapping  
+
+**Always pair with:**  
+- `HOW_NOT_TO_IMPLEMENT_FLOW.md`  
+- `WHEN_TO_STOP_FLOW.md`  
+
+---
+
+### 6️⃣ `FLOW-PROTOCOLS.md` – Practical Field Observation (LAST) 🛠️
+**Purpose:** Concrete, step-by-step observation tools.  
+
+**Includes:**  
+- 🏗 Session setup  
+- 📊 L / S / I observation cues  
+- 🩰 Somatic, relational, narrative signals  
+- 📝 Documentation templates  
+- 🛡 Trauma-aware reminders  
+
+**Placement:**  
+This file is **last on purpose**, synthesizing all previous annex material into careful practice.
+
+---
+
+## 📎 Measurement & Observation 📏
+
+- **`/annex/DIVINE-MEASURE.md`** – Conceptual and qualitative measurement framework for Ψ.  
+  For **reflection and audit** — not performance evaluation.  
+
+---
+
+## 🌐 Flow Map & Connections 🧭
 
 ```mermaid
 flowchart TD
-    %% Core principles
-    A[/principles/DIVINE.md/]:::core --> B[/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md/]:::ethics
-    A --> C[/guides/WHEN_TO_STOP_FLOW.md/]:::ethics
+    style A fill:#e3f2fd,stroke:#1e88e5,stroke-width:2px
+    style B fill:#f3e5f5,stroke:#8e24aa,stroke-width:2px
+    style C fill:#e8f5e9,stroke:#43a047,stroke-width:2px
+    style D fill:#fff3e0,stroke:#fb8c00,stroke-width:2px
+    style E fill:#ffebee,stroke:#e53935,stroke-width:2px
 
-    %% Ethics & Safety
-    B --> D1[DIVINE-PEDAGOGY.md 🏫]:::practice
-    B --> D2[SOMATIC-PROTOCOLS.md 🧘‍♀️]:::practice
-    B --> D3[DIVINE-TECH-STACK.md 💻]:::practice
-    C --> D4[DIVINE-ETHICAL-DECISION-MATRIX.md ⚖️]:::ethics
-    C --> D5[RESEARCH-METHODOLOGY.md 🔬]:::measurement
+    A["/principles/DIVINE.md 🌟 Core Theory"] --> B["/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md ⚡ Misuse Prevention"]
+    A --> B
+    B --> C["/guides/WHEN_TO_STOP_FLOW.md ⏳ Stopping Rules"]
+    C --> D["DIVINE-PEDAGOGY.md 🏫 Teaching Framework"]
+    D --> E["SOMATIC-PROTOCOLS.md 🧘 Body & Field Awareness"]
+    E --> F["DIVINE-TECH-STACK.md 💻 Minimal Ethical Tech"]
+    F --> G["LEGAL-ETHICAL-FRAMEWORKS.md ⚖️ Legal & Ethical Safety"]
+    G --> H["RESEARCH-METHODOLOGY.md 🔬 Empirical Studies"]
+    H --> I["FLOW-PROTOCOLS.md 🚦 Practical Field Protocols (LAST)"]
 
-    %% Field Practice & Final Protocol
-    D1 --> E[DIVINE-FIELD-AUDIT-SCENARIO.md 🚦]:::practice
-    D2 --> E
-    D3 --> E
-    D4 --> E
-    D5 --> E
-    E --> F[FLOW-PROTOCOLS.md 🛠️ final synthesis]:::meta
+    classDef core fill:#e0f7fa,stroke:#006064,stroke-width:2px;
+    classDef guide fill:#fce4ec,stroke:#880e4f,stroke-width:2px;
+    classDef annex fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px;
+    classDef last fill:#fff3e0,stroke:#ef6c00,stroke-width:2px;
 
-    %% Class definitions
-    classDef core fill:#fff3e0,stroke:#fb8c00,stroke-width:2px,color:#000,font-weight:bold;
-    classDef ethics fill:#e3f2fd,stroke:#1e88e5,stroke-width:2px,color:#1e88e5,font-weight:bold;
-    classDef measurement fill:#e8f5e9,stroke:#43a047,stroke-width:2px,color:#43a047,font-weight:bold;
-    classDef culture fill:#fff8e1,stroke:#fbc02d,stroke-width:2px,color:#f57f17,font-weight:bold;
-    classDef practice fill:#f3e5f5,stroke:#8e24aa,stroke-width:2px,color:#8e24aa,font-weight:bold;
-    classDef meta fill:#ffebee,stroke:#e53935,stroke-width:2px,color:#b71c1c,font-weight:bold;
+    class A core
+    class B guide
+    class C guide
+    class D annex
+    class E annex
+    class F annex
+    class G annex
+    class H annex
+    class I last
 ```
-## Ψ ≠ 0 – the field protects itself. 
+> Bottom line: Annex materials are reference, audit, and ethical tools, not control manuals.
+Honor stopping rules, local autonomy, and systemic coherence.
+
+# Ψ ≠ 0 The field protects itself. 
