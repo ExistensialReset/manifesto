@@ -1,149 +1,62 @@
-# ✨ Key Principles:
-- Reflection over measurement
-- Consent over compliance
-- Field integrity over productivity
-- Practical, ethical, and inclusive application
+# 📦 ANNEX INDEX  
+## Containment & Field Integrity Layer ✨
 
-# 📦 Annex Index – DIVINE Framework
-
-> Complete roadmap of all annex materials in `/annex`.  
-> Shows reading order, connections to `/principles` and `/guides`, and highlights practical tools for ethical exploration.  
-> **No KPIs, no dashboards, no gamification – only reflection, awareness, and field integrity.** ✨
+This folder protects DIVINE from distortion, extraction, reduction, and institutional capture.  
+All files are in the root of `/annex`. No subfolders needed.
 
 ---
 
-## 📝 Recommended Reading Order
+## 1️⃣ ETHICS & SAFETY 🛡️
 
-Before diving into annex materials, **start with the core principles and guides**:
-
-1. **`/principles/DIVINE.md`** – Foundational framework of DIVINE. 📖  
-2. **`/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md`** – Learn pitfalls to avoid. ⚠️  
-3. **`/guides/WHEN_TO_STOP_FLOW.md`** – Understand ethical and practical limits. ⏳  
-
-> These three set the **ethical and conceptual context** for everything in the annex.
-
----
-
-## 📂 Annex Documents
-
-### 1️⃣ `DIVINE-PEDAGOGY.md` – Teaching DIVINE Without Dogma 🏫
-- **Purpose:** Pedagogical approach for introducing DIVINE as a **thinking language**, not a manual.  
-- **Key Themes:**  
-  - Start with **lived experience**  
-  - Teach through **negative space** (blockages)  
-  - Inoculate against dogma  
-  - **Multi-modal learning**: somatic, narrative, analytical, artistic, relational  
-- **Connected guides:** `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md`, `/guides/WHEN_TO_STOP_FLOW.md`
+- [`WHEN-TO-STOP.md`](./WHEN-TO-STOP.md) – Ethical & systemic stopping rules ⏳  
+- [`HOW-NOT-TO.md`](./HOW-NOT-TO.md) – Common pitfalls and dead-field scenarios ⚡  
+- [`DIVINE-PSYCHOLOGICAL-SAFETY-PROTOCOL.md`](./DIVINE-PSYCHOLOGICAL-SAFETY-PROTOCOL.md) – Trauma-informed participation 🧠  
+- [`OBSERVER-TRAUMA.md`](./OBSERVER-TRAUMA.md) – Safeguards for field observers 🛡️  
+- [`DIVINE-ETHICAL-DECISION-MATRIX.md`](./DIVINE-ETHICAL-DECISION-MATRIX.md) – Ethical decision-making framework ⚖️  
+- [`FAILURE-RECOVERY.md`](./FAILURE-RECOVERY.md) – Recovery strategies for collapsed sessions 🔄  
+- [`PSI-COLLAPSE-RECOVERY.md`](./PSI-COLLAPSE-RECOVERY.md) – Field collapse protocols ⚡  
+- [`DIVINE_LIMITATIONS_AND_FAILURE_MODES.md`](./DIVINE_LIMITATIONS_AND_FAILURE_MODES.md) – Known limitations & failure scenarios ⚠️  
+- [`DIVINE_FAILURE_CASE_SIMULATIONS.md`](./DIVINE_FAILURE_CASE_SIMULATIONS.md) – Simulation exercises for resilience 🧪  
 
 ---
 
-### 2️⃣ `SOMATIC-PROTOCOLS.md` – Body-Based Ψ Observation & Field Tuning 🧘‍♀️
-- **Purpose:** Guide to somatic literacy and **embodied observation**.  
-- **Key Themes:**  
-  - Pre-observation **body check-ins**  
-  - **Somatic markers** for L, S, I  
-  - Movement, breath, and presence exercises  
-  - **Trauma-informed practice**  
-  - Ethical boundaries for **consent and participation**  
+## 2️⃣ MEASUREMENT & PHENOMENOLOGY 📏
+
+- [`DIVINE-MEASURE.md`](./DIVINE-MEASURE.md) – Conceptual measurement framework 📝  
+- [`DIVINE-MEASURE-LOG-v3.1.md`](./DIVINE-MEASURE-LOG-v3.1.md) – Practical log for observations 📊  
+- [`DIVINE-MEASURE-POETIC.md`](./DIVINE-MEASURE-POETIC.md) – Poetic, reflective measurement ✨  
+- [`EV-MEASURE.md`](./EV-MEASURE.md) – Event & variation measurement ⚡  
+- [`SIGMA_PHENOMOLOGY.md`](./SIGMA_PHENOMOLOGY.md) – Theoretical phenomenology of Σ/Grace 🌌  
 
 ---
 
-### 3️⃣ `DIVINE-TECH-STACK.md` – Technical Infrastructure & Tooling 💻
-- **Purpose:** Minimal, ethical tech for supporting DIVINE observations.  
-- **Key Themes:**  
-  - **Data minimalism** and local-first architecture  
-  - Ephemeral default: auto-delete after 7 days  
-  - **No individual tracking**, no cloud by default  
-  - Recommended stack: Svelte, Tailwind, Dexie.js, Web Crypto API  
-- **Anti-features:** No analytics, no AI-assisted predictions, no KPI tracking  
-- **Connected guides:** `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md`
+## 3️⃣ CULTURAL & CONTEXTUAL CALIBRATION 🌱
+
+- [`CULTURAL-CALIBRATION.md`](./CULTURAL-CALIBRATION.md) – Local context & culture tuning 🌍  
+- [`DIVINE-CONTEXTUAL-CALIBRATION-PROTOCOL.md`](./DIVINE-CONTEXTUAL-CALIBRATION-PROTOCOL.md) – Applied calibration protocols 🛠️  
+- [`INDIGENOUS-WISDOM.md`](./INDIGENOUS-WISDOM.md) – Guidance from traditional knowledge 🪶  
 
 ---
 
-### 4️⃣ `LEGAL-ETHICAL-FRAMEWORKS.md` – Legal Compliance & GDPR Alignment ⚖️
-- **Purpose:** Ensure ethical use and legal safety in all contexts.  
-- **Key Themes:**  
-  - GDPR, HIPAA, and employment law considerations  
-  - **Parental consent** and safeguarding for minors  
-  - IRB/ethics review guidance  
-  - Liability mitigation and participation waivers  
-  - Cross-border and international considerations  
+## 4️⃣ APPLIED PRACTICE 🏗️
+
+- [`PEDAGOGY.md`](./PEDAGOGY.md) – Teaching DIVINE as a thinking language 🎓  
+- [`SOMATIC-PROTOCOLS.md`](./SOMATIC-PROTOCOLS.md) – Body-based observation & field tuning 🧘‍♀️  
+- [`DIVINE-TECH-STACK.md`](./DIVINE-TECH-STACK.md) – Minimal & ethical technology 💻  
+- [`THREE_PILLARS_FIELD_AUDIT_SCENARIO.md`](./THREE_PILLARS_FIELD_AUDIT_SCENARIO.md) – Field audit scenario overview 🕵️  
+- [`DIVINE-FIELD-AUDIT-SCENARIO.md`](./DIVINE-FIELD-AUDIT-SCENARIO.md) – Practical audit exercise 🛠️  
 
 ---
 
-### 5️⃣ `RESEARCH-METHODOLOGY.md` – Empirical Studies & Validation 🔬
-- **Purpose:** Guides research on DIVINE in small groups and real contexts.  
-- **Key Themes:**  
-  - Mixed-methods **pilot studies**  
-  - Physiological validation (**HRV**)  
-  - Longitudinal tracking  
-  - **Cross-cultural calibration**  
-  - Σ-event mapping  
-- **Connected guides:** `/guides/HOW_NOT_TO_IMPLEMENT_FLOW.md`, `/guides/WHEN_TO_STOP_FLOW.md`
+## 5️⃣ META & LONG-TERM STEWARDSHIP 🔮
+
+- [`FINAL META-DOKUMENT: WHAT-REMAINS.md`](./FINAL%20META-DOKUMENT:%20WHAT-REMAINS.md) – Reflections on what endures over time ⏳  
+- [`DIVINE-FAQ.md`](./DIVINE-FAQ.md) – Common questions and clarifications ❓  
 
 ---
 
-### 6️⃣ `FLOW-PROTOCOLS.md` – Flow Observation Protocols (Practical) 🚦
-- **Purpose:** Step-by-step observation tools for **fieldwork**.  
-- **Key Themes:**  
-  - Session setup  
-  - Observation checklists for **L, S, I**  
-  - Somatic, relational, and narrative cues  
-  - Documentation templates  
-  - Ethical opt-out and trauma-informed reminders  
-- **Placement:** **Last in annex index**, synthesizes all other documents into actionable practice.
+## 🔗 Notes
 
----
-
-## ⚡ Ethics & Anti-KPI Reminder
-
-- ❌ No KPIs, dashboards, gamification, or productivity metrics  
-- ✅ Focus on **reflection, ethical practice, and human-centered awareness**  
-- 🌱 Observations always connect to **context, consent, and lived experience**
-
----
-
-## 💡 Tips for Accessibility & Use
-
-1. Read **slowly**, absorb before acting  
-2. Engage **multi-modally**: write, move, discuss, reflect  
-3. Pair documents: pedagogy + somatics, tech + legal, research + observation  
-4. Use **FLOW-PROTOCOLS.md** as field companion, last in reading order  
-5. Encourage **discussion**, not certification, ranking, or KPIs  
-
----
-
-## ✅ Summary
-
-This index ensures:  
-- Safe orientation to all annex materials  
-- Ethical clarity across **pedagogy, somatics, tech, legal, and research**  
-- Preservation of **systemic coherence and field integrity**  
-- **FLOW-PROTOCOLS.md** remains the **culminating, actionable document**  
-
-> **Bottom line:** Annex materials are **reference, audit, and ethical tools**, **not control manuals**.  
-> Honor stopping rules, local autonomy, and systemic coherence.
-
----
-
-## 🌐 Flow Map & Connections
-
-```text
-[ /principles/DIVINE.md ] → Core concepts
-
-          ↓
-  -----------------------
-  |                     |
-[ /guides/HOW_NOT_TO_IMPLEMENT_FLOW.md ]
-[ /guides/WHEN_TO_STOP_FLOW.md ]
-
-          ↓
-  -----------------------
-  |        Annex        |
-  -----------------------
-1️⃣ DIVINE-PEDAGOGY.md         🏫 Teaching framework
-2️⃣ SOMATIC-PROTOCOLS.md      🧘‍♀️ Body & field tuning
-3️⃣ DIVINE-TECH-STACK.md      💻 Minimal ethical tech
-4️⃣ LEGAL-ETHICAL-FRAMEWORKS.md ⚖️ Legal & ethical safety
-5️⃣ RESEARCH-METHODOLOGY.md   🔬 Empirical & cross-cultural studies
-6️⃣ FLOW-PROTOCOLS.md         🚦 Practical field protocols
+- **No KPIs. No dashboards. No gamification.** Only reflection, ethical awareness, and field integrity.  
+- Recommended reading order: Ethics & Safety → Measurement & Phenomenology → Cultural Calibration → Applied Practice → Meta & Stewardship.  
+- Last step: Practical exercises in `DIVINE-FIELD-AUDIT-SCENARIO.md` and `FLOW-PROTOCOLS.md` synthesize the framework.
