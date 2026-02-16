@@ -1,221 +1,119 @@
-# 🌿 M-OS-R CORE REPOSITORY README 🌿
+# 🖥️🌿 /core – M-OS-R Operating System Core
 
-**Version:** 2.1 – The Ultimate  
-**Status:** Active / Living Framework  
-**Last Updated:** February 16, 2026  
-**Maintainers:** Elinor Frejd & Contributors  
-
----
-
-## 📌 Overview
-
-Welcome to the **M-OS-R Core Repository**, the backbone of the **Existensial Reset Manifesto**.  
-This repo contains all **operational, structural, and strategic frameworks** to implement M-OS-R as a **real-world regenerative system**.
-
-> ⚠️ **Core Principle:** Scale is a byproduct of **stability**, **documentation**, and **founder irrelevance** — never the goal.
+**Version:** 1.0  
+**Status:** ACTIVE  
+**Last Updated:** 2026-02-16  
+**Maintainer:** Elinor Frejd  
 
 ---
 
-## 🗂 Repository Structure
+## 🌟 Overview
 
-| Folder / File | Description |
-|---------------|-------------|
-| [`compostandgrowth/`](./compostandgrowth) | Historical versions and archival documents |
-| [`CORE_FLOW_PROTOCOLS.md`](./CORE_FLOW_PROTOCOLS.md) | Standardized flow patterns & operational routines |
-| [`CORE_GUIDERAIL.md`](./CORE_GUIDERAIL.md) | Guiding principles for node governance |
-| [`CORE_RESONANCE.json`](./CORE_RESONANCE.json) | Quantitative systemic health metrics & resonance data |
-| [`ENTRY_STRATEGIES_DOCUMENTATION.md`](./ENTRY_STRATEGIES_DOCUMENTATION.md) | Micro-to-node onboarding protocols |
-| [`FLOW_CORE_STRUCTURE_OVERVIEW.md`](./FLOW_CORE_STRUCTURE_OVERVIEW.md) | Structural overview of M-OS-R Core |
-| [`FLOW_GLOBAL_IMPLEMENTATION_GUIDE.md`](./FLOW_GLOBAL_IMPLEMENTATION_GUIDE.md) | Multi-node replication & global adaptation |
-| [`M-OS-R_AS_AN_OPERATING_SYSTEM.md`](./M-OS-R_AS_AN_OPERATING_SYSTEM.md) | M-OS-R as a functional operating system |
-| [`POLITICAL_REALISM_LAYER.md`](./POLITICAL_REALISM_LAYER.md) | External compliance, political strategy |
-| [`RESOURCE_METRIC_STANDARDS.md`](./RESOURCE_METRIC_STANDARDS.md) | Definitions of systemic metrics |
-| [`STRATEGIC_PREPARATION_FRAMEWORK_VISUAL.md`](./STRATEGIC_PREPARATION_FRAMEWORK_VISUAL.md) | Phase visualization & risk-mitigation mapping |
-| [`STRATEGIC_PREPARATION_FRAMEWORK_v2.md`](./STRATEGIC_PREPARATION_FRAMEWORK_v2.md) | Updated operational framework |
-| [`STRUCTURAL_INVARIANTS.md`](./STRUCTURAL_INVARIANTS.md) | Non-negotiable system principles |
-| [`README.md`](./README.md) | You are here — central entry point |
+`/core` is the central engine of **M-OS-R**, the **systemic operating system** that integrates flow management, resource metrics, and strategic guidance. This is where the architecture, governance, and foundational protocols live.  
+
+Key functions:
+
+- 🧩 **Flow orchestration** – manage and synchronize all system flows  
+- 📊 **Resource standards** – define, measure, and baseline resources  
+- 🛡️ **Governance & guardrails** – enforce ethical, ecological, and operational integrity  
+- 🌍 **Global integration** – connect strategy to ecological and political realities  
 
 ---
 
-## 💡 Core Principles
+## 📂 Folder & File Structure
 
-1. **Spiral > Speed** 🌀 – Progress is depth-first, not breadth-first  
-2. **Robustness > Expansion** 💚 – Structural integrity comes before scale  
-3. **Founder Irrelevance** 👤🚫 – System functions independently of any individual  
-4. **Pause → Stabilize → Integrate → Continue** ⏸️➡️✅ – Contraction is adaptive, not failure  
-5. **Document Everything** 📝 – Knowledge capture is survival  
-
----
-
-## 📊 Systemic Metrics
-
-**Never Measure** ❌  
-- Individual worth  
-- Emotional conformity  
-- Productivity tempo  
-- Ideological alignment  
-- Social ranking  
-
-**Always Measure** ✅  
-- Resource regeneration rates 🌱  
-- Recovery capacity ⚡  
-- Conflict resolution time ⏱️  
-- Role redundancy 🔄  
-- Energy sustainability ♻️  
-- Baseline security 🛡️  
-- Trust stability 🤝  
-- Documentation quality 📚  
-
-> Metrics focus on **systemic health**, not personal surveillance.
+| File / Folder | Last Update | Description |
+|---------------|------------|-------------|
+| [`compostandgrowth`](./compostandgrowth) | 1 hour ago | Organic growth modules and compost logic |
+| [`CORE_FLOW_PROTOCOLS.md`](./CORE_FLOW_PROTOCOLS.md) | last week | Standardized system-wide flow protocols |
+| [`CORE_GUIDERAIL.md`](./CORE_GUIDERAIL.md) | 2 weeks ago | Operational guardrails & safety boundaries |
+| [`CORE_RESONANCE.json`](./CORE_RESONANCE.json) | 5 days ago | JSON defining resonance scores for system alignment |
+| [`ENTRY_STRATEGIES_DOCUMENTATION.md`](./ENTRY_STRATEGIES_DOCUMENTATION.md) | 16 hours ago | Guidelines for entry points into flows and nodes |
+| [`FLOW_CORE_STRUCTURE_OVERVIEW.md`](./FLOW_CORE_STRUCTURE_OVERVIEW.md) | 15 hours ago | Diagrammatic overview of core flow architecture |
+| [`FLOW_GLOBAL_IMPLEMENTATION_GUIDE.md`](./FLOW_GLOBAL_IMPLEMENTATION_GUIDE.md) | 15 hours ago | Global implementation instructions for flow modules |
+| [`M-OS-R_AS_AN_OPERATING_SYSTEM.md`](./M-OS-R_AS_AN_OPERATING_SYSTEM.md) | 2 days ago | Full OS-level explanation and architecture |
+| [`POLITICAL_REALISM_LAYER.md`](./POLITICAL_REALISM_LAYER.md) | 15 hours ago | Analysis & guidance on real-world political constraints |
+| [`README.md`](./README.md) | 23 minutes ago | This ultimate README file |
+| [`RESOURCE_METRIC_STANDARDS.md`](./RESOURCE_METRIC_STANDARDS.md) | 3 days ago | Baseline definitions for all measurable resources |
+| [`STRATEGIC_PREPARATION_FRAMEWORK_VISUAL.md`](./STRATEGIC_PREPARATION_FRAMEWORK_VISUAL.md) | yesterday | Visual overview of strategic prep framework |
+| [`STRATEGIC_PREPARATION_FRAMEWORK_v2.md`](./STRATEGIC_PREPARATION_FRAMEWORK_v2.md) | 1 hour ago | Updated strategic preparation methodology |
+| [`STRUCTURAL_INVARIANTS.md`](./STRUCTURAL_INVARIANTS.md) | 15 hours ago | Core invariants and immutable rules for system integrity |
 
 ---
 
-## 🌀 Spiral Phases
+## 🛠️ Key Principles
 
-| Phase | Unit | Focus | Duration | Key Goals |
-|-------|------|-------|---------|-----------|
-| **Phase 0** | Micro-Circle (3–12 ppl) | Internal Coherence | 0–2 yrs | Stabilize structure, document everything, test conflict & role rotation |
-| **Phase 1** | Node (20–60 ppl) | Drift Resistance | 2–5 yrs | Multi-role redundancy, legal wrapper, baseline resource tracking |
-| **Phase 2** | 3–5 Independent Nodes | Pattern Transferability | 5–10 yrs | Independent replication, shared protocol library, federated learning |
-| **Phase 3** | Regional Mesh (5–15 Nodes) | Interoperability | 10–20 yrs | Resource exchange, crisis response coordination, shared metrics |
-| **Phase 4** | Pattern Diffusion | Cultural Adoption | 20+ yrs | Academic study, policy adoption, generational memetic durability |
-
-> ⚠️ **No phase jump without documented stability**. Pause protocols automatically trigger on systemic stress.
+1. **Systemic Integrity** – All modules must pass validation and alignment checks  
+2. **Flow First** – Every resource, action, and metric follows defined flows  
+3. **Ecological & Political Awareness** – Respect planetary and geopolitical realities  
+4. **Traceability** – Every change and dataset is versioned and transparent  
+5. **Resonance-Oriented Decisions** – Operational choices maximize systemic resonance  
 
 ---
 
-## 📜 Founder Reduction Timeline
+## 🔗 Core References
 
-| Years | Founder Role | Notes |
-|-------|-------------|-------|
-| 0–2 | Active | Central execution, decision-making |
-| 2–5 | 50% Delegation | Teach, document, share decisions |
-| 5–10 | Advisory | No executive authority, consult only |
-| 10–20 | Emeritus | Historical reference only |
-| 20+ | Forgotten | System operates autonomously |
-
-**Goal:** System must survive **founder absence or death**.  
+- [`CORE_FLOW_PROTOCOLS.md`](./CORE_FLOW_PROTOCOLS.md) – Flow rules & orchestration  
+- [`RESOURCE_METRIC_STANDARDS.md`](./RESOURCE_METRIC_STANDARDS.md) – Baseline resource metrics  
+- [`M-OS-R_AS_AN_OPERATING_SYSTEM.md`](./M-OS-R_AS_AN_OPERATING_SYSTEM.md) – Full OS-level architecture  
+- [`POLITICAL_REALISM_LAYER.md`](./POLITICAL_REALISM_LAYER.md) – Political & social constraints  
+- [`STRUCTURAL_INVARIANTS.md`](./STRUCTURAL_INVARIANTS.md) – Immutable systemic invariants  
 
 ---
 
-## ⚖️ Political & Legal Realism
+## 📌 Operational Notes
 
-- Always legal first ⚖️  
-- Transparent resource accounting 💹  
-- Frame as **experimental complement**, not revolutionary  
-- Cooperate with media, academia, government, NGOs  
-- Decline capital investment 💰 → preserves autonomy  
-
----
-
-## 🔄 Knowledge Transfer
-
-**Cross-Phase Transfer Rules**  
-
-| From → To | Medium | Key Knowledge |
-|-----------|--------|---------------|
-| Phase 0 → 1 | Documentation + Oral | Conflict resolution, role rotation, resource flows |
-| Phase 1 → 2 | Documentation + Mentorship | Governance, legal wrapper, infrastructure, burnout prevention |
-| Phase 2 → 3 | Shared digital commons | Inter-node coordination, resource exchange, dispute mediation |
-| Phase 3 → 4 | Academic & open-source | Pattern language, core principles, adaptation guidelines |
-
-> Always **document successes, failures, and adaptations**. Assume founder unavailable.
+- Update `CORE_RESONANCE.json` regularly to reflect system-wide changes  
+- Reference `/compostandgrowth` for organic growth strategies  
+- Ensure all entries into flows follow `ENTRY_STRATEGIES_DOCUMENTATION.md`  
+- All strategic updates must sync with `STRATEGIC_PREPARATION_FRAMEWORK_v2.md`  
 
 ---
 
-## 📚 Key References
+## 💡 Contribution Guidelines
 
-- [CORE_FLOW_PROTOCOLS.md](./CORE_FLOW_PROTOCOLS.md)  
-- [CORE_GUIDERAIL.md](./CORE_GUIDERAIL.md)  
-- [ENTRY_STRATEGIES_DOCUMENTATION.md](./ENTRY_STRATEGIES_DOCUMENTATION.md)  
-- [FLOW_CORE_STRUCTURE_OVERVIEW.md](./FLOW_CORE_STRUCTURE_OVERVIEW.md)  
-- [FLOW_GLOBAL_IMPLEMENTATION_GUIDE.md](./FLOW_GLOBAL_IMPLEMENTATION_GUIDE.md)  
-- [M-OS-R_AS_AN_OPERATING_SYSTEM.md](./M-OS-R_AS_AN_OPERATING_SYSTEM.md)  
-- [POLITICAL_REALISM_LAYER.md](./POLITICAL_REALISM_LAYER.md)  
-- [RESOURCE_METRIC_STANDARDS.md](./RESOURCE_METRIC_STANDARDS.md)  
-- [STRATEGIC_PREPARATION_FRAMEWORK_VISUAL.md](./STRATEGIC_PREPARATION_FRAMEWORK_VISUAL.md)  
-- [STRATEGIC_PREPARATION_FRAMEWORK_v2.md](./STRATEGIC_PREPARATION_FRAMEWORK_v2.md)  
-- [STRUCTURAL_INVARIANTS.md](./STRUCTURAL_INVARIANTS.md)  
+1. Fork `/core` and work on a local branch  
+2. Validate any new flow or resource metric before committing  
+3. Submit PRs with detailed notes and references to relevant core files  
+4. Keep Mermaid diagrams consistent and color-coded  
 
 ---
 
-## 🌐 System Visualization
+## 🚀 Quick Links
+
+- [GitHub Main Repo](https://github.com/ExistensialReset/manifesto)  
+- [Core Flow Protocols](./CORE_FLOW_PROTOCOLS.md)  
+- [Resource Metric Standards](./RESOURCE_METRIC_STANDARDS.md)  
+- [M-OS-R as an OS](./M-OS-R_AS_AN_OPERATING_SYSTEM.md)  
+
+---
+
+## 🎨 Mermaid Diagrams – Color Coded
 
 ```mermaid
 flowchart TD
-    %% --- PHASES ---
-    Phase0["Phase 0: Internal Coherence\n0–2 yrs\nMicro-Circle (3–12 ppl)"]:::phase
-    Phase1["Phase 1: Node Stabilization\n2–5 yrs\n1 Node (20–60 ppl)"]:::phase
-    Phase2["Phase 2: Node Replication\n5–10 yrs\n3–5 Nodes"]:::phase
-    Phase3["Phase 3: Networked Federation\n10–20 yrs\nRegional Mesh 5–15 Nodes"]:::phase
-    Phase4["Phase 4: Cultural Adoption\n20+ yrs\nPattern Diffusion"]:::phase
+    A[Input & Data Collection 📥]:::blue --> B[Validation & Guardrails ✅]:::blue
+    B --> C[Flow Routing 🔄]:::purple
+    C --> D[Resonance Alignment 🌱]:::green
+    D --> E[Strategic Preparation 📊]:::orange
+    E --> F[Global Deployment 🌍]:::orange
+    F --> G[Feedback Loop 🔁]:::red
 
-    %% --- RISKS ---
-    FounderDep["Founder Dependency"]:::risk
-    Burnout["Burnout / Exhaustion"]:::risk
-    LegalIssues["Legal / Regulatory Risk"]:::risk
-    CulturalDrift["Cultural Drift / Protocol Drift"]:::risk
-    MediaMisinterpret["Media Misrepresentation"]:::risk
-    CoOption["External Co-option"]:::risk
+classDef green fill:#a8e6cf,stroke:#379683,stroke-width:2px,color:#054f38
+classDef blue fill:#dcedf2,stroke:#0d3b66,stroke-width:2px,color:#0d3b66
+classDef purple fill:#f0d9ff,stroke:#9b59b6,stroke-width:2px,color:#4b0082
+classDef orange fill:#ffe6a1,stroke:#e67e22,stroke-width:2px,color:#b35f00
+classDef red fill:#ffb3b3,stroke:#c0392b,stroke-width:2px,color:#7f1d1d```
+```flowchart LR
+    FlowProtocols[Flow Protocols 🔄]:::purple --> Guardrails[Guardrails 🛡️]:::blue
+    Guardrails --> ResourceMetrics[Resource Metrics 📊]:::orange
+    ResourceMetrics --> StrategicPrep[Strategic Prep Framework 🧩]:::green
+    StrategicPrep --> OSArchitecture[OS Architecture 🖥️]:::purple
+    OSArchitecture --> Feedback[Feedback Loop 🔁]:::red
+    Feedback --> FlowProtocols
 
-    %% --- MITIGATIONS ---
-    Documentation["Documentation / Knowledge Capture"]:::mitigation
-    PauseProtocols["Pause / Contraction Protocols"]:::mitigation
-    AntiGuru["Anti-Guru / Founder Reduction"]:::mitigation
-    LegalCompliance["Legal Compliance / Interface Protocols"]:::mitigation
-    RoleRedundancy["Role Redundancy / Peer Delegation"]:::mitigation
-
-    %% --- CONNECTIONS ---
-    Phase0 --> Phase1 --> Phase2 --> Phase3 --> Phase4
-    Phase0 --- FounderDep
-    Phase0 --- Burnout
-    Phase1 --- LegalIssues
-    Phase1 --- FounderDep
-    Phase2 --- CulturalDrift
-    Phase2 --- CoOption
-    Phase3 --- MediaMisinterpret
-    Phase3 --- CulturalDrift
-    Phase4 --- CoOption
-
-    Documentation --- Phase0
-    Documentation --- Phase1
-    Documentation --- Phase2
-    Documentation --- Phase3
-    Documentation --- Phase4
-
-    PauseProtocols --- Phase0
-    PauseProtocols --- Phase1
-    PauseProtocols --- Phase2
-
-    AntiGuru --- Phase0
-    AntiGuru --- Phase1
-    AntiGuru --- Phase2
-    AntiGuru --- Phase3
-
-    LegalCompliance --- Phase1
-    LegalCompliance --- Phase2
-    LegalCompliance --- Phase3
-    LegalCompliance --- Phase4
-
-    RoleRedundancy --- Phase0
-    RoleRedundancy --- Phase1
-    RoleRedundancy --- Phase2
-
-    %% --- STYLES ---
-    classDef phase fill:#D6EAF8,stroke:#3498DB,stroke-width:2px,color:#000;
-    classDef risk fill:#F5B7B1,stroke:#C0392B,stroke-width:2px,color:#000;
-    classDef mitigation fill:#ABEBC6,stroke:#27AE60,stroke-width:2px,color:#000;
-```
-
-🌀 Closing Note
-This README is the single source of truth for /core.
-All other documents are extensions, visualizations, or historic archives.
-> ✅ Remember: Founder irrelevance, systemic robustness, and regenerative metrics define success — not speed, fame, or scale.
-
-> 🌱 Build, observe, document, adapt. 
-
-**Elinor Frejd** – Architect, Sweden, 2026
-ChatGPT – Structural Stress-Tester, 2026
-Claude – Pattern Synthesizer, 2026
-
-# 🌀💚🌿
+classDef green fill:#a8e6cf,stroke:#379683,stroke-width:2px,color:#054f38
+classDef blue fill:#dcedf2,stroke:#0d3b66,stroke-width:2px,color:#0d3b66
+classDef purple fill:#f0d9ff,stroke:#9b59b6,stroke-width:2px,color:#4b0082
+classDef orange fill:#ffe6a1,stroke:#e67e22,stroke-width:2px,color:#b35f00
+classDef red fill:#ffb3b3,stroke:#c0392b,stroke-width:2px,color:#7f1d1d```
