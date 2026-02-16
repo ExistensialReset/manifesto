@@ -29,16 +29,16 @@ M-OS-R reframes economics, governance, AI, and infrastructure as **tools for res
 These variables appear throughout the system.  
 They are **descriptive lenses**, never requirements.
 
-### **L — Lugn / Lucidity**
+### <span style="background-color:#E3F2FD">💙 L — Lugn / Lucidity</span>
 Baseline calm, nervous-system safety, and absence of existential threat.
 
 - Food, shelter, healthcare, and rest are unconditional
 - No one is required to be “regulated” to deserve care
-- Low L is a signal for support, never a failure
+- Low L is a signal for **support**, never punishment
 
 ---
 
-### **S — Spontanitet**
+### <span style="background-color:#FFF3E0">🧡 S — Spontanitet</span>
 Freedom for play, creativity, rest, grief, curiosity, and non-linear becoming.
 
 - Slowness is allowed  
@@ -49,16 +49,16 @@ S is **never** a productivity metric.
 
 ---
 
-### **I — Inkännande**
+### <span style="background-color:#E8F5E9">💚 I — Inkännande</span>
 Relational empathy, integration, mutual recognition, and resonance.
 
 - Includes humans, ecosystems, and future generations
 - Cannot be demanded, scored, or enforced
-- Absence of I is met with protection and boundaries, not punishment
+- Absence of I is met with **careful boundaries**, not punishment
 
 ---
 
-### **EV — Evinnerlig Visdom**
+### <span style="background-color:#F3E5F5">💜 EV — Evinnerlig Visdom</span>
 The living intelligence of Earth and lineage.
 
 Includes:
@@ -71,11 +71,11 @@ No system optimization may violate EV.
 
 ---
 
-### **Σ — The Unmeasurable Measure**
+### <span style="background-color:#FFEBEE">❤️ Σ — The Unmeasurable Measure</span>
 Grace, emergence, insight, synchronicity.
 
-- Cannot be forced
-- Cannot be optimized
+- Cannot be forced  
+- Cannot be optimized  
 - Cannot be used to evaluate individuals or groups
 
 Σ may appear — or not.  
@@ -110,34 +110,24 @@ They are:
 
 ## 🛡️ Absolute Rules
 
-1. **Baseline is unconditional**  
-   No human earns food, shelter, safety, or care.
-
-2. **Low values are never punished**  
-   Low L, S, or I triggers support or boundaries — never exclusion.
-
-3. **No coercive optimization**  
-   Systems may create conditions for Flow, never demand it.
-
-4. **No human is disposable**  
-   Separation may occur for safety. Dehumanization never does.
-
-5. **Ecology is law**  
-   EV overrides efficiency, growth, and speed.
+1. **Baseline is unconditional** — no human earns food, shelter, safety, or care.  
+2. **Low L, S, or I triggers support & care, not punishment**.  
+3. **No coercive optimization** — systems create conditions for Flow, never demand it.  
+4. **No human is disposable** — separation may occur for safety.  
+5. **Ecology is law** — EV overrides efficiency, growth, and speed.
 
 ---
 
 ## 🧠 On AI in M-OS-R
 
-AI is treated as:
-- companion
-- mirror
-- infrastructural assistant
-- never authority
-- never judge
+AI is treated as:  
+- companion  
+- mirror  
+- infrastructural assistant  
+- never authority  
+- never judge  
 
-AI may **support Flow**, but cannot define it.
-
+AI may **support Flow**, but cannot define it.  
 Human sovereignty is non-transferable.
 
 ---
@@ -166,10 +156,10 @@ M-OS-R exists to protect something fragile:
 > without worthiness tests  
 
 If any future interpretation of this system:
-- introduces coercion
-- ranks human value
-- exploits nature
-- demands grace
+- introduces coercion  
+- ranks human value  
+- exploits nature  
+- demands grace  
 - measures dignity  
 
 **that interpretation is invalid — even if it is efficient.**
@@ -180,3 +170,35 @@ If any future interpretation of this system:
 We do not command life.**
 
 — *M-OS-R*
+
+---
+
+## 🌐 Flow Map & Conceptual Connections
+
+```mermaid
+flowchart TD
+
+    L[💙 L — Lugn / Lucidity]
+    S[🧡 S — Spontanitet]
+    I[💚 I — Inkännande]
+    EV[💜 EV — Evinnerlig Visdom]
+    SIGMA[❤️ Σ — The Unmeasurable Measure]
+
+    L --> S
+    S --> I
+    I --> EV
+    EV --> SIGMA
+    SIGMA --> L
+
+    classDef blue fill:#E3F2FD,stroke:#1E88E5,stroke-width:2px;
+    classDef orange fill:#FFF3E0,stroke:#FB8C00,stroke-width:2px;
+    classDef green fill:#E8F5E9,stroke:#43A047,stroke-width:2px;
+    classDef purple fill:#F3E5F5,stroke:#8E24AA,stroke-width:2px;
+    classDef red fill:#FFEBEE,stroke:#E53935,stroke-width:2px;
+
+    class L blue
+    class S orange
+    class I green
+    class EV purple
+    class SIGMA red
+```
