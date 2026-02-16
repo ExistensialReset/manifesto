@@ -43,20 +43,28 @@ Welcome to the **M-OS-R Core Repository** – the heart of the system that orche
 ## 📈 Core Flow Overview
 
 ```mermaid 
-
 flowchart TD
-    A[Input and Data Collection] --> B[Validation & Guardrails]
+
+    A[Input and Data Collection] --> B[Validation and Guardrails]
     B --> C[Flow Routing]
     C --> D[Resonance Alignment]
     D --> E[Strategic Preparation]
     E --> F[Global Deployment]
     F --> G[Feedback Loop]
 
-    class A,B blue
+    classDef blue fill:#e3f2fd,stroke:#1e88e5,stroke-width:2px;
+    classDef purple fill:#f3e5f5,stroke:#8e24aa,stroke-width:2px;
+    classDef green fill:#e8f5e9,stroke:#43a047,stroke-width:2px;
+    classDef orange fill:#fff3e0,stroke:#fb8c00,stroke-width:2px;
+    classDef red fill:#ffebee,stroke:#e53935,stroke-width:2px;
+
+    class A blue
+    class B blue
     class C purple
     class D green
-    class E,F orange
-    class G red
+    class E orange
+    class F orange
+    class G red 
   Entry Strategy Flow 
 flowchart TD
     ES1["Identify Opportunity"] --> ES2["Validate & Guardrails"]
@@ -82,9 +90,27 @@ flowchart TD
     class SP4 green
 
  Class Definition (Colors) 
-%% Colors for nodes
-classDef green fill:#a8e6cf,stroke:#379683,stroke-width:2px,color:#054f38;
-classDef blue fill:#dcedf2,stroke:#0d3b66,stroke-width:2px,color:#0d3b66;
-classDef purple fill:#f0d9ff,stroke:#9b59b6,stroke-width:2px,color:#4b0082;
-classDef orange fill:#ffe6a1,stroke:#e67e22,stroke-width:2px,color:#b35f00;
-classDef red fill:#ffb3b3,stroke:#c0392b,stroke-width:2px,color:#7f1d1d;```
+flowchart LR
+
+    Core[Core Architecture]
+    Validation[Data Validation]
+    Strategy[Strategic Preparation]
+    Deployment[Global Implementation]
+    Governance[Political Realism Layer]
+    Metrics[Resource Metric Standards]
+
+    Core --> Validation
+    Validation --> Strategy
+    Strategy --> Deployment
+    Deployment --> Governance
+    Governance --> Metrics
+    Metrics --> Core
+
+    classDef layer fill:#eef5ff,stroke:#2b6cb0,stroke-width:2px;
+
+    class Core layer
+    class Validation layer
+    class Strategy layer
+    class Deployment layer
+    class Governance layer
+    class Metrics layer
