@@ -70,7 +70,7 @@ flowchart TD
 ```mermaid 
 flowchart TD
     ES1["Identify Opportunity"] --> ES2["Validate & Guardrails"]
-    ES2 --> ES3["Design Flow 🔄"]
+    ES2 --> ES3["Design Flow"]
     ES3 --> ES4["Implement Strategically"]
     ES4 --> ES5["Monitor & Adjust"]
     ES5 --> ES6["Scale Deployment"]
