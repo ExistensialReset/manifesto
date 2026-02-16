@@ -55,10 +55,10 @@ flowchart TD
     class C purple
     class D green
     class E,F orange
-    class G red```
+    class G red
 
-## 🛡 Entry Strategy Flow 
-```flowchart TD
+ 🛡 Entry Strategy Flow 
+flowchart TD
     ES1["Identify Opportunity 🔍"] --> ES2["Validate & Guardrails ✅"]
     ES2 --> ES3["Design Flow 🔄"]
     ES3 --> ES4["Implement Strategically 🌱"]
@@ -70,7 +70,7 @@ flowchart TD
     class ES4 green
     class ES5,ES6 orange```
 
-## 🎯 Strategic Preparation Framework
+ 🎯 Strategic Preparation Framework
 ```flowchart TD
     SP1["Baseline Analysis 📊"] --> SP2["Resource Metrics 📈"]
     SP2 --> SP3["Political Realism Layer 🌐"]
@@ -79,10 +79,10 @@ flowchart TD
 
     class SP1,SP2,SP5 orange
     class SP3 purple
-    class SP4 green```
+    class SP4 green
 
-## 🎨 Class Definitions (Colors) 
-```%% Colors for nodes
+ 🎨 Class Definition (Colors) 
+%% Colors for nodes
 classDef green fill:#a8e6cf,stroke:#379683,stroke-width:2px,color:#054f38;
 classDef blue fill:#dcedf2,stroke:#0d3b66,stroke-width:2px,color:#0d3b66;
 classDef purple fill:#f0d9ff,stroke:#9b59b6,stroke-width:2px,color:#4b0082;
