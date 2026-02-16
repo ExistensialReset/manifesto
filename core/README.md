@@ -212,7 +212,7 @@ This README is the single source of truth for /core.
 All other documents are extensions, visualizations, or historic archives.
 > ✅ Remember: Founder irrelevance, systemic robustness, and regenerative metrics define success — not speed, fame, or scale.
 
-## 🌱 Build, observe, document, adapt. 
+> 🌱 Build, observe, document, adapt. 
 
 **Elinor Frejd** – Architect, Sweden, 2026
 ChatGPT – Structural Stress-Tester, 2026
