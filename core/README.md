@@ -63,7 +63,8 @@ flowchart TD
     class D green
     class E orange
     class F orange
-    class G red```
+    class G red
+```
  
 ## 🛡 Entry Strategy Flow 
 ```mermaid 
