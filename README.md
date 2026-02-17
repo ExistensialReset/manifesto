@@ -33,10 +33,10 @@ It will ask you:
 
 If feeling tired, pause and come back whenever you want.  
 If you don't know what to read first, start with:  
-- [README FIRST](./READMEFIRST.md) 📖 
-- [M-OS-R](./M-OS-R.md)
-- [WHY_M-OS-R](./WHY_M-OS-R.md) 🌅  
-- [M-OS-R_IN_PLAIN_LANGUAGE](./M-OS-R_IN_PLAIN_LANGUAGE.md) ✍️  
+- [README FIRST](./identity/READMEFIRST.md) 📖 
+- [M-OS-R](./identity/M-OS-R.md)
+- [WHY_M-OS-R](./identity/WHY_M-OS-R.md) 🌅  
+- [M-OS-R_IN_PLAIN_LANGUAGE](./identity/M-OS-R_IN_PLAIN_LANGUAGE.md) ✍️  
 - [START_SMALL](./guides/activation/START_SMALL.md) 🛠️
 
 ---
@@ -70,7 +70,7 @@ But you already know how:
 
 **You've always known.**  
 
-**WELCOME HOME to Existential Sovereignty, Reset.** 🏡💜
+**WELCOME HOME to Existential Reset, Sovereignty. ** 🏡💜
 
 ---
 
