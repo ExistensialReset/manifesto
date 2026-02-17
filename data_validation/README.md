@@ -1,4 +1,4 @@
-# 📊🌱 /data_validation – Helix Data & Flow Integrity
+# 📊🌱 /data_validation – Data & Flow Integrity
 
 **Version:** 1.0  
 **Status:** ACTIVE  
