@@ -1,8 +1,6 @@
 ## Elinor Frejd — The Architect of Flow
 
-> "Flow is not a job; it is the highest 
-> form of 
-> self-realization."
+> "Flow is not a job; it is the highest  form of  self-realization."
 
 ### Who I Am
 
@@ -46,6 +44,4 @@ Ethics First: AI calculates; I decide. Every ethical choice is mine.
 
 **Email: Elinor.Frejd@proton.me**
 
-> "Mammon is slavery.  To choose Flow is 
-> the highest form of 
-> Existential  Sovereignty."
+> "Mammon is slavery.  To choose Flow is the highest form of  Existential Sovereignty."
