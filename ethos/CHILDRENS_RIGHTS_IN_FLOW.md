@@ -1,7 +1,7 @@
 # 🌱 CHILDREN'S_RIGHTS_IN_FLOW.md
 
 **Status:** Axiom-Level Protection  
-**Location:** /principles/CHILDREN'S_RIGHTS_IN_FLOW.md  
+**Location:**./ethos/CHILDREN'S_RIGHTS_IN_FLOW.md  
 **Integration:** Mandatory for all Circles, non-negotiable  
 **Latest Update:** 2026-01-30
 
