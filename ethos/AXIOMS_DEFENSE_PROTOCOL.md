@@ -1,6 +1,6 @@
 # AXIOM_DEFENSE_PROTOCOL.md
 
-**Directory:** `/principles`  
+**Directory:** `/ethos`  
 **Status:** Core Safeguard Architecture  
 **Depends on:** `AXIOMS.md`, `DIVINE.md`, `AI_AS_COMPANION.md`  
 **Version:** 1.0  
