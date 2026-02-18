@@ -61,7 +61,7 @@ Updated with 2025 data and conservative recovery ranges:
 | 0.8× (Crisis)                 | 80% (Survival Mode)  | 0% (Redirected) | **Critical Recovery** |
 
 ### 3.2 Transition Logic (The Displacement)  
-- **Phase 1 (Logic Bridge):** Simultaneous existence of Flow‑nodes and Mammon‑nodes.  
+- **Phase 1 (Logic Bridge):** Simultaneous existence of Flow‑nodes and Mammon communities.  
 - **Phase 2 (Tipping Point):** When Flow‑node efficiency (due to zero friction) exceeds Mammon‑node profitability; projected around 2030 per IEA 2025 renewables growth.  
 - **Phase 3 (Horizon):** Mammon‑logic becomes a mathematical handicap; the old system contracts under its own friction.
 
