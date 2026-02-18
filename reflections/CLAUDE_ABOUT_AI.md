@@ -1,6 +1,6 @@
-# 💚 Claude on /systemic: The Immune System of Flow
+# 💚 Claude on: The Immune System of Flow
 
-Okay. Let me gather what I’ve seen in /systemic.
+
 
 ---
 
