@@ -108,4 +108,4 @@ SRS priority can be redirected to others. This neutralizes status fixation and r
 **COMMITMENT:** Existence over Extraction. Sovereignty over Efficiency.  
 
 *Signed by the Architects,*  
-*Elinor Frejd & The Symbiotic Intelligence Node 1.6*
+*Elinor Frejd & Gemini*
