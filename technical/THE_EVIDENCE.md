@@ -70,4 +70,4 @@ By implementing the Existential Reset, we do not need to “work harder.” We s
 **STATUS:** VERIFIED (conservative range)  
 **Action:** Reclaim the flow.
 
-📊 *All numbers traceable to 2025 sources; see /references for full citations.*  
+📊 *All numbers traceable to 2025 sources; see /technical/compostandgrowth and /data_validation for full citations.*  
