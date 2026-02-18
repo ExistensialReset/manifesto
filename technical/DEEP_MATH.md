@@ -93,4 +93,4 @@ They are **not normative** and do **not prescribe personal behavior**.
 **STATUS:** Mathematical foundations presented with transparency about model limitations.  
 **Next Review:** Upon new data from pilot projects or updated global statistics.  
 
-🔬 *All numbers are open to verification; see source documents in /references.*  
+🔬 *All numbers are open to verification; see source documents in ./technical/compostandgrowth.*  
