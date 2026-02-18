@@ -1,7 +1,7 @@
 # SYSTEMIC_RESILIENCE.md
 
 **Status:** Foundational Principle  
-**Directory:** `/principles`  
+**Directory:** `/ethos`  
 **Scope:** Human, Social, and Ecological Systems  
 **Applies to:** Daily Life, Infrastructure, Communities, Technology, Ecosystems  
 **Depends on:** `NON-HARM_BASELINE.md`, `SYSTEMIC_AI_OPERATING_CONSTRAINTS.md`
