@@ -1,4 +1,4 @@
-# SYSTEMIC INDEX
+# INDEX
 
 This folder contains the systemic architecture and protocols for M-OS-R, starting with AI systems and moving into human, environmental, and node-level integration. Each file is briefly described to help readers understand its purpose.
 
