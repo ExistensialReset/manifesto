@@ -1,1 +1,55 @@
+# 🌊 FLOW_SRS.md
 
+**Version:** 3.2 — Unified System Specification (2026-02-18 Conservative Update)  
+**Status:** ACTIVE / CANONICAL  
+**Repository Location:** `/systemic/FLOW_SRS.md`  
+**Authors:** Elinor Frejd, Gemini, DeepSeek 
+
+---
+
+## 1. PURPOSE
+
+FLOW_SRS defines how resources move within and between Nodes. It replaces Mammon-accumulation with life-centric circulation.
+
+## 2. CORE MECHANISMS
+
+### 2.1 Systemic Resonance
+~80% of collective resources flow toward network healing and maintenance (**L-Calm**).
+
+### 2.2 Sigma-Flow (Spontaneity)
+~20% of resources are protected for pure creativity and exploration (**S-Spontaneity**).
+
+### 2.3 RTC-Guardian (Regeneration Time Constant)
+Ensures resource flows match natural recovery times. Negative RTC triggers an automatic system veto.
+
+---
+
+## 3. ALLOCATION OF LUXURY RESOURCES
+
+### 3.1 Social Recognition Score (SRS)
+Used **only** for luxury allocation (unique/limited items).
+* **Formula:** $SRS = L + S + I + X$
+* **Decay:** Half-life of 1-3 months to prevent permanent elites.
+
+---
+
+## 4. SAFEGUARDS: THE BASELINE SHIELD
+
+**NEVER AFFECTED BY SRS:**
+* Food, shelter, healthcare, and internet.
+* **All Creative Tools:** Studios, workshops, and materials.
+
+---
+
+## 5. METRICS (2026 Conservative Baselines)
+
+| Metric | Target | Current Estimate |
+| :--- | :--- | :--- |
+| **Systemic Friction Recovery** | ≥ 30% | 31–36% |
+| **Food Capacity Multiplier** | ≥ 1.3x | 1.32–1.40x |
+| **Energy Efficiency Gain** | ≥ 10% | 12–15% |
+
+---
+
+**STATUS:** OPERATIONAL. Subordinate to the Manifesto.  
+*Signed by the Architects,* *Elinor Frejd & Gemini*
