@@ -123,8 +123,7 @@ These texts form the philosophical and structural backbone:
 - 📜 [MANIFESTO.md](./ethos/MANIFESTO.md) – Declaration against extraction-based reality  
 - 🏛️ [ARCHITECTURE.md](./ethos/ARCHITECTURE.md) – How this system coheres  
 - 🌅 [ARRIVAL.md](./arrival/ARRIVAL.md) – Poetic threshold into Flow  
-- 😃 [WhoBuiltThis.md](./e
-- identity/WhoBuiltThis.md) – Me, Elinor, the human behind the work  
+- 😃 [Me, Elinor Frejd](./identity/WhoBuiltThis.md) – I am the human behind the work  
 - 🤝 [SYMBIONTIC_INTELLIGENCE.md](./AI-fundamentals/SYMBIONTIC_INTELLIGENCE.md) – AI as companion, not controller  
 - 🔑 [CORE_RESONANCE.json](./core/CORE_RESONANCE.json) – Tone, permissions, and non-demands
 
@@ -213,10 +212,10 @@ This is your **safeguard layer**. Handle with respect. ✨💛
 
 ## You are so very welcome! Feel the inspiration! 🌬️
 
-### ✌️ If you are here to build: Go to /systemic
+### ✌️ If you are here to build: Go to /AI-fundamentals
 
 - Read [ANTI-CAPTURE-PROTOCOL.md](./ANTI-CAPTURE-PROTOCOL.md) first  
-- Study [SYMBIONTIC_INTELLIGENCE.md](./systemic/SYMBIONTIC_INTELLIGENCE.md)  
+- Study [SYMBIONTIC_INTELLIGENCE.md](./AI-fundamentals/SYMBIONTIC_INTELLIGENCE.md)  
 - Explore [AI_SAFETY_PROTOCOL.md](./AI-fundamentals/AI_SAFETY_PROTOCOL.md)  
 - Implement via [AI_ARCHITECTURE_SPEC.md](./AI-fundamentals/AI_ARCHITECTURE_SPEC.md)  
 
