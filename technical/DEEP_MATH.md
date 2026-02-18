@@ -10,6 +10,7 @@
 ## I. Core Formula and Stability Model
 
 The foundational equation for Existential Sovereignty:
+
 Life = L × S × I
 
 
