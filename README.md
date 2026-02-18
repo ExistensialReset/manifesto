@@ -1,4 +1,5 @@
-# 🌍 First Notion  
+# 🌍 First Notion 
+ 
 This repository will not tell you what to do.  
 It will ask you:  
 - Is it okay for you to slow down? 🌿  
@@ -14,6 +15,8 @@ It will ask you:
 ### Life is here — 🙌
 
 ---
+
+**When ever you feel like a break, take a break and return later. This repository won't disappear until the whole internet breaks down. I promise you that.**
 
 # 🌿✨🧡 EXISTENTIAL RESET  
 ## A Living Repository for Flow, Care & Existential Sovereignty
