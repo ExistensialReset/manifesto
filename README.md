@@ -20,8 +20,7 @@ It will ask you:
 
 ---
 
-# A Living Architecture for Human FLOURISHING 
-    🌼 🦋 🧡 
+# A Living Architecture for Human Flourishing 🌼 🦋 🧡 
 
 Designing nervous system-aware, trauma-informed communities and open systems for life beyond scarcity and fear — where care, collaboration, and creativity are built in, not bolted on.
 
