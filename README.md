@@ -16,7 +16,7 @@
 
 This repository is **not a product**, **not a framework for productivity**, and **not a tool for optimization**.  
 
-It is a **living knowledge garden** 🌳 — designed to help humans and companion AI **remember how to be alive together**.  
+It is a **living knowledge garden** 🌳 — designed to help humans and symbiotic AI **remember how to be alive together**.  
 
 - Pause when needed  
 - Read slowly  
