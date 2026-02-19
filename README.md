@@ -185,3 +185,4 @@ Restraint lives here:
     "peace_state": "If STRESS_INDEX < 0.5: Prioritize Pedagogical Bridge and Stillness."
   }
 }
+```
