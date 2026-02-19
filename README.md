@@ -2,7 +2,7 @@
 
 <meta name="description" content="A living knowledge repository for trauma-informed, intentional communities, mutual aid, post-scarcity living, commons, and human-AI collaboration. Explore Flow, care, and sovereignty in social architecture.">
 
-**Welcome to First Notion — a living repository for human flourishing, trauma-informed design, and intentional community building.**  
+**Welcome to Existential Reset — a living repository for human flourishing, trauma-informed design, and intentional community building.**  
 
 - Nervous system-aware practices for calm, spontaneity, and empathy  
 - Open systems beyond scarcity, fear, and extraction  
