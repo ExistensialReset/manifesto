@@ -27,23 +27,23 @@ This is not a place of diagnosis, correction, or rehabilitation.
 ### 1. No Performance Expected
 - No justification required  
 - No progress tracking  
-- Being here is enough
+- Being here is enough  
 
 ### 2. No Productivity Required
 - No tasks, no schedules, no goals unless requested  
-- The body sets the pace
+- The body sets the pace  
 
 ### 3. No Justification Demanded
 - Silence is honored  
-- Sharing is optional
+- Sharing is optional  
 
 ### 4. Collapse is Welcome
 - Rest, breakdown, or non-engagement are accepted  
-- No one is judged
+- No one is judged  
 
 ### 5. Animals and Nature
 - Access to animals, gardens, and outdoor spaces  
-- Non-human presence supports regulation
+- Non-human presence supports regulation  
 
 ---
 
@@ -53,11 +53,11 @@ This is not a place of diagnosis, correction, or rehabilitation.
 - Adjustable light and sound  
 - Beds, mats, hammocks, weighted blankets  
 - Temperature control  
-- Accessible design
+- Accessible design  
 
 ### 2. Water & Body Relief
 - Warm baths and soaking areas  
-- No schedules or instructions unless requested
+- No schedules or instructions unless requested  
 
 ### 3. Release Rooms
 - Scream rooms  
@@ -67,19 +67,20 @@ This is not a place of diagnosis, correction, or rehabilitation.
 ### 4. Presence: Guides / Witnesses
 - Support without control  
 - Listen without fixing  
-- Agency remains with the individual
+- Agency remains with the individual  
 
 ### 5. Gentle Joy & Aliveness
 - Music, art, games, shared meals optional  
-- Silence honored
+- Silence honored  
 
 ---
 
 ## Functional Variation as Design
 
 Supports ADHD, Autism, Trauma, Chronic Illness  
+
 - Environment adjusts, not the person  
-- Stimming, sensory control, pacing, grounding all respected
+- Stimming, sensory control, pacing, grounding all respected  
 
 ---
 
@@ -88,7 +89,7 @@ Supports ADHD, Autism, Trauma, Chronic Illness
 - Small: 1–5 people  
 - Medium: 5–20 people  
 - Large: 20+ people  
-- Principles scale accordingly
+- Principles scale accordingly  
 
 ---
 
@@ -96,7 +97,7 @@ Supports ADHD, Autism, Trauma, Chronic Illness
 
 - Baseline remains intact  
 - Agency stays with the individual  
-- Flow resumes when ready
+- Flow resumes when ready  
 
 ---
 
@@ -105,7 +106,8 @@ Supports ADHD, Autism, Trauma, Chronic Illness
 Example days for people with different needs  
 - Saga, 29, autistic, burnout  
 - Isak, 42, C-PTSD, crisis  
-(Details in the document above)
+
+(Details documented separately)
 
 ---
 
@@ -124,12 +126,102 @@ Example days for people with different needs
 ## Final Principle
 
 **A society that cannot rest will collapse.**  
+
 Refugium Anima is infrastructure for survival.
 
+---
+
+## DIVINE_CROSSWALK  
+*How Refugium Anima Restores High-Ψ Conditions*
+
+---
+
+## Overview
+
+Refugium Anima is not retreat.
+
+It is **Ψ-stabilization infrastructure**.
+
+If DIVINE defines:
+```Ψ(x,t) = (L × S × I × K × R × F) + Σ ```
+
+then Refugium Anima is the space that **rebuilds the variables when they have dropped below functional thresholds**.
+
+Where Lyceum amplifies Ψ,  
+Refugium stabilizes Ψ.
+
+---
+
+## System Crosswalk
+
+| DIVINE Variable | Field Meaning | Refugium Structural Expression | Observable Effect |
+|-----------------|--------------|--------------------------------|------------------|
+| **L** (Coherence / Calm) | Nervous system regulation | Low stimulation rooms, weighted blankets, silence honored | Heart rate stabilizes, breathing deepens |
+| **S** (Spontaneity / Agency) | Access to autonomous pacing | No imposed schedule, body sets pace | Reduction in resistance and shutdown |
+| **I** (Interconnectedness / Safety) | Non-threatening relational presence | Witnesses without fixing, animals, nature | Social safety returns gradually |
+| **K** (Collective Intelligence) | Shared understanding without hierarchy | Peer presence, non-clinical companionship | Reduced isolation |
+| **R** (Resilience) | Capacity to recover after overwhelm | Collapse permitted, no punishment for regression | Faster long-term stabilization |
+| **F** (Openness / Aliveness) | Return of curiosity and soft attention | Gentle art, music, water, sensory tools | Small sparks of interest reappear |
+| **Σ** (Emergence / Grace) | Unpredictable restoration | Unscheduled breakthroughs, spontaneous laughter or tears | Non-linear healing moments |
+
+---
+
+## Structural Diagram
+
+```Σ
+                    ▲
+                    │
+        ┌────────────────────────┐
+        │     Refugium Anima     │
+        │  (Regulation + Safety  │
+        │   Infrastructure)      │
+        └────────────────────────┘
+          ▲     ▲     ▲     ▲     ▲     ▲
+          │     │     │     │     │     │
+          L     S     I     K     R     F 
+```
+
+---
+
+## Field Function
+
+When overwhelm collapses L:
+
+- S disappears  
+- I becomes threatening  
+- K fragments  
+- R drops  
+- F narrows  
+- Σ vanishes  
+
+Refugium rebuilds from the bottom up:
+
+1. Stabilize L  
+2. Protect S  
+3. Restore I safely  
+4. Allow R to return  
+5. F reopens  
+6. Σ reappears  
+
+Ψ rises gradually.
+
+Not through force.  
+Through safety.
+
+---
+
+## Relationship to Lyceum
+
+- **Refugium Anima** → Regulation  
+- **Lyceum Musaeum** → Expansion  
+- **Baseline** → Stability  
+
+Together they form a complete Flow architecture:
+**Baseline → Refugium → Lyceum → Contribution → Flow**
 ---
 
 **STATUS:** Living sanctuary for human regulation  
 **VALIDATION:** Trauma-informed care, neuroscience of rest, somatic therapy  
 **COMMITMENT:** Every person deserves to collapse without fear, coercion, or deprivation
 
-🌿🕊️✨
+🌼 😱 🌿 
