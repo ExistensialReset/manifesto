@@ -1,121 +1,121 @@
 # LEGAL_INTERFACE_CYCLE.md
 
-**Status:** Guide-Level Flow Lifecycle  
-**Purpose:** Navigate external legal systems while preserving Node Baseline and L×S×I integrity  
-**Principle:** Law is an interface, not a barrier. Protect life and Flow first.
+**STATUS:** GUIDE-LEVEL FLOW LIFECYCLE  
+**PURPOSE:** Navigate external legal systems while preserving NODE BASELINE and L×S×I integrity  
+**PRINCIPLE:** LAW IS AN INTERFACE, NOT A BARRIER. Protect life and Flow first.
 
 ---
 
 ## PREAMBLE: FLOW LIFECYCLE MEETS LEGALITY
 
-Nodes operate autonomously, yet exist in a broader world governed by legal systems.  
-Conflicts may arise around land, resources, sabotage, or liability.  
+NODES operate autonomously, yet exist in a broader world governed by LEGAL SYSTEMS.  
+Conflicts may arise around LAND, RESOURCES, SABOTAGE, or LIABILITY.  
 
-**Goal:** Ensure Node actions remain lawful **without compromising Baseline or Flow integrity**.  
-Legal Interface is a **continuous lifecycle**, not just a reactive protocol.
+**GOAL:** Ensure NODE actions remain lawful **without compromising BASELINE or FLOW integrity**.  
+LEGAL INTERFACE is a **continuous lifecycle**, not just a reactive protocol.
 
 ---
 
 ## §1. TRIGGER POINTS IN THE LIFECYCLE
 
-Legal Interface is engaged when:
+LEGAL INTERFACE is engaged when:
 
-- External legal actions threaten Node Baseline  
-- Cross-jurisdiction disputes affect resources or movement  
-- Node decisions require formal legal clarification  
-- AI or human reports flag potential liability
+- External LEGAL ACTIONS threaten NODE BASELINE  
+- Cross-jurisdiction disputes affect RESOURCES or movement  
+- NODE decisions require formal LEGAL CLARIFICATION  
+- AI or human reports flag potential LIABILITY
 
-**Emergency Override:**  
-- Protect life, health, and essential resources immediately  
-- Activate emergency legal support within 24 hours
+**EMERGENCY OVERRIDE:**  
+- Protect LIFE, HEALTH, and ESSENTIAL RESOURCES immediately  
+- Activate EMERGENCY LEGAL SUPPORT within 24 hours
 
 ---
 
 ## §2. DETECTION & TRIAGE
 
-### 2.1 Legal Alert
-- AI and Node reports detect potential legal risk  
-- Human liaison reviews severity and Baseline impact
+### 2.1 LEGAL ALERT
+- AI and NODE reports detect potential LEGAL RISK  
+- Human liaison reviews severity and BASELINE impact
 
-### 2.2 Risk Assessment
-- Evaluate: Baseline threat, resource impact, Node autonomy  
-- Check participant nervous system safety (Refugium Anima)
+### 2.2 RISK ASSESSMENT
+- Evaluate: BASELINE threat, RESOURCE impact, NODE autonomy  
+- Check participant NERVOUS SYSTEM safety (REFUGIUM ANIMA)
 
-### 2.3 AI-Assisted Triage
-- Minor risk → AI + 1 trained liaison  
-- Medium risk → AI + 2–3 trained officers  
-- Major risk → Full team + external oversight
+### 2.3 AI-ASSISTED TRIAGE
+- MINOR RISK → AI + 1 trained liaison  
+- MEDIUM RISK → AI + 2–3 trained officers  
+- MAJOR RISK → FULL TEAM + EXTERNAL OVERSIGHT
 
 ---
 
 ## §3. LIFECYCLE INTERVENTION PATHWAYS
 
-### 3.1 Consultation
-- Gather Node facts, documentation, and evidence  
-- Map affected Nodes, Regions, and resource flows
+### 3.1 CONSULTATION
+- Gather NODE facts, documentation, and evidence  
+- Map affected NODES, REGIONS, and RESOURCE FLOWS
 
-### 3.2 Negotiation
-- Interface with authorities while respecting Node autonomy  
-- Propose solutions minimizing Baseline disruption
+### 3.2 NEGOTIATION
+- Interface with AUTHORITIES while respecting NODE AUTONOMY  
+- Propose solutions minimizing BASELINE disruption
 
-### 3.3 Escalation
-Escalate to other Flow protocols when necessary:  
+### 3.3 ESCALATION
+Escalate to other FLOW PROTOCOLS when necessary:  
 
-| Situation | Escalation Protocol |
+| SITUATION | ESCALATION PROTOCOL |
 |-----------|-------------------|
-| Criminal or sabotage suspected | **INFRASTRUCTURE_SABOTAGE_PROTOCOL** |
-| Youth or human harm at risk | **YOUTH_HARM_PROTOCOL** |
-| Resource or Baseline threat | **FLOW_VERIFICATION_PROTOCOL** + **BASELINE_EMERGENCY_BYPASS** |
+| Criminal or SABOTAGE suspected | **INFRASTRUCTURE_SABOTAGE_PROTOCOL** |
+| Youth or HUMAN HARM at risk | **YOUTH_HARM_PROTOCOL** |
+| RESOURCE or BASELINE threat | **FLOW_VERIFICATION_PROTOCOL** + **BASELINE_EMERGENCY_BYPASS** |
 
 ---
 
 ## §4. EXPERTISE AND LIFECYCLE ROLES
 
-- Legal expertise in relevant jurisdiction(s)  
-- Knowledge of Node operations and Flow lifecycle  
-- Training in crisis legal interface and emergency mediation  
-- Access to regional legal coordination network  
+- LEGAL EXPERTISE in relevant jurisdiction(s)  
+- Knowledge of NODE operations and FLOW LIFECYCLE  
+- Training in CRISIS LEGAL INTERFACE and EMERGENCY MEDIATION  
+- Access to REGIONAL LEGAL COORDINATION network  
 
-**If expertise is lacking:**  
-- Request regional support  
-- Use simplified measures  
-- Document knowledge gaps for future learning
+**If EXPERTISE is lacking:**  
+- Request REGIONAL SUPPORT  
+- Use SIMPLIFIED MEASURES  
+- Document KNOWLEDGE GAPS for future learning
 
 ---
 
 ## §5. FEEDBACK, LEARNING, AND INTEGRATION
 
-- Record Baseline preservation, legal resolution, and Node autonomy outcomes  
+- Record BASELINE PRESERVATION, LEGAL RESOLUTION, and NODE AUTONOMY outcomes  
 - Feed lessons into:  
   - **PROTOCOL_PRIORITY_MATRIX**  
   - **KNOWN_TENSIONS.md**  
-  - Node lifecycle audits  
+  - NODE LIFECYCLE audits  
 
-- Integrate with other lifecycle guides:  
-  - **justice_and_repair_cycle.md**  
-  - **infrastructure_safeguard_cycle.md**  
-  - **resource_verification_cycle.md**
+- Integrate with other LIFECYCLE GUIDES:  
+  - **JUSTICE_AND_REPAIR_CYCLE.md**  
+  - **INFRASTRUCTURE_SAFEGUARD_CYCLE.md**  
+  - **RESOURCE_VERIFICATION_CYCLE.md**
 
 ---
 
 ## §6. PHILOSOPHICAL GROUND
 
-- Law exists to **protect life**, not obstruct Flow  
-- Node autonomy is a foundational principle  
-- Transparency, speed, and competence are critical  
-- Lifecycle approach ensures learning from each interaction
+- LAW exists to **protect LIFE**, not obstruct FLOW  
+- NODE AUTONOMY is a foundational principle  
+- Transparency, SPEED, and COMPETENCE are critical  
+- LIFECYCLE approach ensures learning from each interaction
 
-**Final Truth:** Legal interfaces are tools for protection, coordination, and continuity — never barriers to survival or sovereignty.
+**FINAL TRUTH:** LEGAL INTERFACES are tools for protection, coordination, and continuity — never barriers to survival or sovereignty.
 
 ---
 
 ## CLOSING PRINCIPLE
 
-**Act with clarity, empathy, and decisiveness.**  
-Always safeguard Baseline, respect Node autonomy, and integrate learnings into the Flow lifecycle.
+**Act with CLARITY, EMPATHY, and DECISIVENESS.**  
+Always safeguard BASELINE, respect NODE AUTONOMY, and integrate learnings into the FLOW LIFECYCLE.
 
 ---
 
-**STATUS:** Guide-Level Flow Lifecycle  
-**REVIEW:** Annually + after major legal interactions  
-**OATH:** Protect Baseline, preserve Flow, navigate law competently
+**STATUS:** GUIDE-LEVEL FLOW LIFECYCLE  
+**REVIEW:** Annually + after major LEGAL interactions  
+**OATH:** Protect BASELINE, preserve FLOW, navigate LAW competently
