@@ -76,14 +76,14 @@ Violations reduce Flow naturally:
 
 ---
 
-## L×S×I Clarification
+## L×S×I Clarification, just so no mistakes are made. 
 
 **Status:** Guidance / Interpretation  
-**Purpose:** To clarify the use of L (Calm), S (Spontaneity), I (Empathy) as indicators without coercion.
+**Purpose:** To clarify the use of L (Calm), S (Spontaneity), I (Empathy/Interconnection) as indicators without coercion.
 
 ---
 
-### 1. Not a Scoreboard
+#### 1. Not a Scoreboard
 
 L×S×I is **not a metric to rank, quantify, or control members**.  
 It is a **sensory compass** for the Circle:
@@ -96,7 +96,7 @@ It is **qualitative, not quantitative**.
 
 ---
 
-### 2. Observation by Humans
+#### 2. Observation by Humans
 
 - **Mirror Role** observes weekly trends: How do we feel in L×S×I terms?  
 - **Canaries** (structurally sensitive humans) notice subtle shifts in Circle dynamics.  
@@ -106,7 +106,7 @@ The goal is to **notice early signs of axiom drift**, not to punish or rank indi
 
 ---
 
-### 3. No Automation, No Pressure
+#### 3. No Automation, No Pressure
 
 - Do **not** create numeric L×S×I scores or dashboards.  
 - Do **not** tie rewards, recognition, or Baseline access to perceived L×S×I levels.  
@@ -114,7 +114,7 @@ The goal is to **notice early signs of axiom drift**, not to punish or rank indi
 
 ---
 
-### 4. Use in Reflection
+#### 4. Use in Reflection
 
 When L×S×I feels low:
 
@@ -126,7 +126,7 @@ When L×S×I feels low:
 
 ---
 
-**Summary:**  
+**Summary L x S x I:**  
 L×S×I is a **compass for collective experience**, not a scoreboard.  
 It keeps Flow **alive and self-correcting** while preserving **axiom integrity** and **human sovereignty**.
 
