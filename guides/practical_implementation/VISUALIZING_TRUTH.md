@@ -1,4 +1,4 @@
-# VISUALIZING_TRUTH.md: Visualizing the Reality of Mammon and Flow
+# VISUALIZING_TRUTH.md Visualizing the Reality of Mammon and Flow
 
 You are safe here. This guide helps you **see the hidden losses in the Mammon system** and the potential in Flow through data and charts.
 
