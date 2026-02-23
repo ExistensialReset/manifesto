@@ -36,7 +36,7 @@ Notice the moment today when you felt **alive**. ✨
 
 Design **intentional, trauma-informed communities** and **open systems for life beyond scarcity and fear** — where **care, collaboration, and creativity** are **built-in**, not bolted on.
 
-**Explore themes:** ubuntu, mutual-aid, intentional-community, post-scarcity, commons, resource-based-economy, degrowth, collective-living, open-source-society, social-architecture, solarpunk, anarchism, systems-thinking, trauma-informed, neurodiversity, care-economy
+**Explore themes:** ubuntu, mutual-aid, intentional-community, post-scarcity, commons, resource-based-economy, degrowth, collective-living, open-source-society, social-architecture, solarpunk, systems-thinking, trauma-informed, neurodiversity, care-economy
 
 ---
 
@@ -74,7 +74,7 @@ Protected against **extraction, commercialization, and systemic capture**.
 
 ## 🖋 Core Writings — Philosophical Backbone
 
-- 🤼 🤸 🧑‍🦽‍➡️ [BODY_OF_FLOW.md](./core/BODY_OF_FLOW.md) What Flow is
+- 🩻 [BODY_OF_FLOW.md](./core/BODY_OF_FLOW.md) What Flow is
 - 📜 [MANIFESTO.md](./ethos/MANIFESTO.md) – Declaration against extraction-based reality  
 - 🏛️ [ARCHITECTURE.md](./ethos/ARCHITECTURE.md) – How this system coheres  
 - 🌅 [ARRIVAL.md](./arrival/ARRIVAL.md) – Poetic threshold into Flow  
@@ -94,7 +94,7 @@ Protected against **extraction, commercialization, and systemic capture**.
 📋 [FLOW_SRS.md](./systemic/FLOW_SRS.md) – Requirements without domination  
 🧠 [NEURODIVERGENT_PROTOCOL.md](./guides/ethics_care/NEURODIVERGENT_PROTOCOL.md) – Cognitive dignity by default  
 🛠️ [NODE_ACT_1.md](./guides/activation/NODE_ACT_1.md) – How to start living Flow  
-🔄 [TRANSITION_PROTOCOL.md](./guides/practical_implementation/TRANSITION_PROTOCOL.md) – Moving without collapse  
+🔄 [TRANSITION_PROTOCOL.md](./guides/economics/TRANSITION_PROTOCOL.md) – Moving without collapse  
 👶 [SYMBIOTIC_AI_FOR_CHILDREN.md](./guides/AI/SYMBIOTIC_AI_FOR_CHILDREN.md) – Gentle futures  
 📖 [TECHNICAL_TERMS_PLAIN_LANGUAGE_ICONS_COLORS.md](./guides/AI/TECHNICAL_TERMS_PLAIN_LANGUAGE_ICONS_COLORS.md) – No jargon gates here
 
