@@ -1,0 +1,35 @@
+┌───────────────────────────────┐
+          │       CORE VISION             │
+          │  White Paper: M-OS-R          │
+          │  Life = L × S × I            │
+          └──────────────┬────────────────┘
+                         │
+       ┌─────────────────┴─────────────────┐
+       │                                   │
+┌───────────────┐                   ┌───────────────┐
+│ TIME SOVEREIGNTY │                   │ DIVINE / Σ    │
+│ Biological Rhythms│                   │ Grace / Emergence│
+│ Asynchronous Flow │                   │ Conditions for Σ │
+└───────────────┘                   └───────────────┘
+       │                                   │
+       └─────────────┬─────────────────────┘
+                     │
+           ┌─────────┴──────────┐
+           │  PROTOCOLS         │
+           │ Competence Standards│
+           │ Priority Matrix     │
+           │ Baseline Bypass     │
+           └─────────┬──────────┘
+                     │
+        ┌────────────┴────────────┐
+        │ FAQ: Logic vs Friction │
+        │ Objections → Solutions │
+        │ Baseline & Flow Start  │
+        └────────────┬────────────┘
+                     │
+        ┌────────────┴────────────┐
+        │  TECHNICAL & LOGISTICS │
+        │ The Logistics of Flow │
+        │ Visualizing Truth      │
+        │ Technical Annex        │
+        └─────────────────────────┘
