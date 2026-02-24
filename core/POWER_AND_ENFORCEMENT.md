@@ -194,6 +194,14 @@ Where coercion is used, it must always be:
 
 ---
 
+## Future Specification Layer
+
+This document defines structural principles.
+Operational specifications (data privacy, council structure,
+exit protocols) will be defined in implementation documents.
+
+---
+
 **STATUS:** Foundational Governance Clarification  
 **COMMITMENT:** No hidden power. No semantic avoidance. Accountability over purity.  
 
