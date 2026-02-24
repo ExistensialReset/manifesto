@@ -33,14 +33,14 @@ This document exists because the repository is big, and you don't know where to 
 ---
 
 ### 🇸🇪 If you are in Sweden (Sverige):
-→ **Read FIRST:** [PILOT_SWEDEN.md](./guides/regional/PILOT_SWEDEN.md)  
+→ **Read FIRST:** [PILOT_SWEDEN.md](./guides/practical_implementation/PILOT_SWEDEN.md)  
 → **Then:** Follow one of the paths above  
 → **Why:** Swedish legal hacks (Allemansrätt, Studiecirkel, Hyresgästföreningen) make Flow easier
 
 ---
 
 ### 🧠 If you are neurodivergent (ADHD, autism, trauma, etc.):
-→ **Read:** [NEURODIVERGENT_FLOW_GUIDE.md](./guides/ethics_care/NEURODIVERGENT_FLOW_GUIDE.md)  
+→ **Read:** [NEURODIVERGENT_FLOW_GUIDE.md](./guides/activation/NEURODIVERGENT_FLOW_GUIDE.md)  
 → **Why:** The Circle adapts to you. Not the other way around.
 
 ---
@@ -52,27 +52,27 @@ This document exists because the repository is big, and you don't know where to 
 ---
 
 ### 💰 If you have debt, job, mortgage, and can't just leave:
-→ **Read:** [HYBRID_SURVIVAL_GUIDE.md](./guides/transition/HYBRID_SURVIVAL_GUIDE.md)  
+→ **Read:** [HYBRID_SURVIVAL_GUIDE.md](./guides/economics/HYBRID_SURVIVAL_GUIDE.md)  
 → **Do:** Phase 0 (Awareness) → Phase 1 (Reduce Bleeding) → Phase 2 (Parallel Infrastructure)  
 → **Time:** 1-3 years (or longer - that's okay)
 
 ---
 
 ### ❓ If you want to know "Is this even possible?":
-→ **Read:** [HYBRID_SURVIVAL_GUIDE.md](./guides/transition/HYBRID_SURVIVAL_GUIDE.md)  
+→ **Read:** [HYBRID_SURVIVAL_GUIDE.md](./guides/economics/HYBRID_SURVIVAL_GUIDE.md)  
 → **Read:** [DEEP_MATH.md](./technical/DEEP_MATH.md) (if you like numbers)  
 → **Why:** Yes. It's materially viable. Here's the proof.
 
 ---
 
 ### 🔥 If you want to understand "Why Flow exists":
-→ **Read:** [MANIFESTO.md](./principles/MANIFESTO.md)  
+→ **Read:** [MANIFESTO.md](./ethos/MANIFESTO.md)  
 → **Why:** This is the fire. The rest is how to carry it.
 
 ---
 
 ### 🛡️ If you want to know "How is this protected from becoming another exploitative system?":
-→ **Read:** [AXIOMS.md](./principles/AXIOMS.md)  
+→ **Read:** [AXIOMS.md](./ethos/AXIOMS.md)  
 → **Read:** [ANTI-CAPTURE-PROTOCOL.md](./ANTI-CAPTURE-PROTOCOL.md)  
 → **Why:** Hard limits exist. No exceptions.
 
