@@ -74,7 +74,7 @@ Protected against **extraction, commercialization, and systemic capture**.
 
 ## 🖋 Core Writings — Philosophical Backbone
 
-- 🩻 [BODY_OF_FLOW.md](./core/BODY_OF_FLOW.md) What Flow is
+- 🩻 [BODY_OF_FLOW.md](./core/BODY_OF_FLOW.md) — How Flow is built 
 - 📜 [MANIFESTO.md](./ethos/MANIFESTO.md) – Declaration against extraction-based reality  
 - 🏛️ [ARCHITECTURE.md](./ethos/ARCHITECTURE.md) – How this system coheres  
 - 🌅 [ARRIVAL.md](./arrival/ARRIVAL.md) – Poetic threshold into Flow  
