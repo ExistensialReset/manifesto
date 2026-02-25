@@ -35,7 +35,7 @@ Upon a verified report of unforgivable harm:
 ### Step 1: Protect the Victim
 - **Victim remains in their home, Circle, and community.** Life and Flow must not be disrupted by the perpetrator.  
 - **Baseline is fully maintained.**  
-- **Support is offered** (Refugium Anima, trusted witnesses, advocacy) but never forced.
+- **Support is offered** (Refugium Anima, trusted witnesses, advocacy) but never forced.  
 
 ### Step 2: Temporary Separation
 - The perpetrator may be relocated or restricted **for immediate safety**, under a **clearly defined temporary duration**.  
@@ -52,22 +52,19 @@ Upon a verified report of unforgivable harm:
 ### Option A: Acknowledgment & Transformation Path
 - Available only if the perpetrator **fully acknowledges the harm**, accepts relocation, and commits to intensive, documented healing work (minimum 2 years).  
 - Supervised participation is allowed **only in distant Circles**, never the victim’s Circle or region.  
-- **Zero contact** with the victim is permanent.  
-- Any relapse triggers **re-evaluation and potential permanent separation** under human oversight.
+- **Zero contact with the victim is the default safety condition**; any request for permanent denial must be documented, justified by independent verification, and reviewed at defined intervals (minimum every 12 months) by a named panel with a formal appeals pathway.  
+- Any alleged relapse must be supported by corroborating evidence and evaluated through independent verification, documented proportionality assessment, and a named decision-maker. Permanent measures include scheduled periodic review.
 
 ### Option B: Refusal to Change or Repeat Offense
-- Denial, justification, or boundary violations result in **permanent containment**:  
-  - **Physical:** Isolated Node, minimal human contact  
-  - **Digital:** Revoked access to Flow systems and networks  
-  - **Social:** Exclusion from Circles, projects, and rituals  
-- **Baseline needs remain guaranteed** (food, housing, healthcare).  
-- Permanent exile is **proportional, not punitive**, and always documented with oversight and appeals pathways.
+- Denial, justification, or repeated boundary violations may lead to containment measures **proportionate to the harm** and **supported by documented evidence**.  
+- Permanent containment may only be ordered after independent review, proportionality assessment, and with an explicit appeals process.  
+- Containment conditions must include **minimum standards for humane treatment and Baseline support**.  
 
 ---
 
 ## §4. WEAPON VIOLENCE
 
-- Using a weapon may justify permanent exclusion **but never automatically**.  
+- Using a weapon may justify exclusion but **never automatically**.  
 - Requires:  
   - Documented, independent verification  
   - Proportionate response assessment  
@@ -81,7 +78,7 @@ Upon a verified report of unforgivable harm:
 
 - **Evidence thresholds:** Physical evidence, witnesses, or digital corroboration as appropriate.  
 - **Investigation process:** Temporary separation with independent, timely review. Irreversible measures **only after independent verification**.  
-- False accusers may be subject to proportionate containment with oversight.
+- Allegations found to be intentionally false may result in proportionate accountability measures **only after high evidentiary standard verification**, with transparent documentation and appeal safeguards.
 
 ---
 
@@ -89,7 +86,7 @@ Upon a verified report of unforgivable harm:
 
 - **No forced contact**  
 - **No demanded forgiveness**  
-- **Absolute veto power** over re-entry petitions  
+- **Veto power over re-entry petitions** must be balanced with independent review and formal appeal process.  
 - **Unlimited healing time**; no pressure to “move on”
 
 ---
@@ -104,5 +101,5 @@ Upon a verified report of unforgivable harm:
 
 ## §8. FINAL PRINCIPLE
 
-**The victim never moves. The perpetrator always moves.**  
-**All actions are subject to human verification, proportionality, and appeals.**
+**All actions are subject to documented human verification, a named independent decision-maker or panel, a stated evidence standard, documented proportionality assessment, and a defined appeals pathway with maximum timelines for review.**  
+**The victim never moves. The perpetrator always moves.**
