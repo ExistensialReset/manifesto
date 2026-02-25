@@ -11,11 +11,26 @@ This protocol establishes operational rules and safeguards for handling reports 
 - Irreversible measures (permanent containment, denial of contact) require **clear and convincing evidence**, documented proportionality, and a **named independent decision-maker or lottery-selected panel**.  
 - All actions must be **documented**, timestamped, and subject to **appeals**.  
 - Interim safety measures may be enacted immediately on **credible, corroborated information**, but must be followed by full independent review within **14 days**.  
-- **Panel members are selected by lottery** from eligible decision-makers; no one is permanently assigned. Panels must include at least one member independent of the immediate Node.
+- **Panel members are selected by lottery** from a qualified pool; no one is permanently assigned. Panels must include at least one member independent of the immediate Node.
 
 ---
 
-## 2. Interim Measures and Review
+## 2. Panel Lottery Mechanism
+
+**Panel Selection via Lottery**
+
+- **Qualified Pool**: All eligible Node members except those in the immediate Node affected by the incident.  
+- **Training Requirement**: Members must complete mandatory short training on trauma-informed review, conflict-of-interest handling, and evidence standards.  
+- **Conflict-of-Interest Screening**: Each candidate signs a declaration; direct relations to parties are automatically excluded.  
+- **Verifiable Lottery**: Random selection must be auditable via cryptographic seed or third-party service; logs include timestamp, seed, and winning IDs.  
+- **Recusal and Anonymity**: Panelists may recuse themselves; reasons are documented. Individual votes may be anonymized in reports.  
+- **Quorum and Supermajority**: Panels require quorum (e.g., 4 selected, at least 3 present). Supermajority (≥3 of 4) is needed for veto exceptions.  
+- **Rotation**: No member may be selected more than X times per year (e.g., 2) to distribute workload.  
+- **Audit and Transparency**: All selections and decisions logged with timestamps, responsible panelists, evidence summary, and decision text. Annual independent technical review of lottery system required.
+
+---
+
+## 3. Interim Measures and Review
 
 - **Initiation**: Interim measures (temporary isolation, restriction, or separation) may be enacted immediately when a report is received.  
 - **Full Review Deadline**: Full independent review must be **initiated and documented within 14 days** of enactment; the initiating decision-maker must record the review start date and responsible reviewer in the auditable register.  
@@ -24,7 +39,7 @@ This protocol establishes operational rules and safeguards for handling reports 
 
 ---
 
-## 3. Definition of Relapse
+## 4. Definition of Relapse
 
 - **Relapse** is a materially similar act or pattern that meets the policy's definition of **Unforgivable Harm**.  
 - **Operational evidence types** that may establish relapse include:  
@@ -37,19 +52,19 @@ This protocol establishes operational rules and safeguards for handling reports 
 
 ---
 
-## 4. Victim Veto
+## 5. Victim Veto
 
 - **Core principle**: The victim's veto over re-entry or contact petitions is decisive.  
 - **Extraordinary circumstances** for panel consideration include:  
   - Newly discovered forensic evidence  
   - Authenticated digital records previously inaccessible  
   - Credible third-party evidence that materially alters the factual record  
-- **Panel requirements**: Supermajority of at least 3 of 4 lottery-selected members; full written documentation of rationale; an additional appeals step.  
+- **Panel requirements**: Lottery-selected panel, supermajority of at least 3 of 4 members; full written documentation of rationale; an additional appeals step.  
 - **Default position**: Respect the victim's veto unless extraordinary circumstances are demonstrated with clear, independently verifiable evidence.
 
 ---
 
-## 5. Evidence Standards
+## 6. Evidence Standards
 
 - **Irreversible measures** (permanent containment, permanent denial of contact) require **clear and convincing evidence**.  
 - **Interim safety measures** may be enacted on **credible and corroborated information** but must undergo full independent review within 14 days and meet the higher standard before irreversible escalation.  
@@ -57,7 +72,7 @@ This protocol establishes operational rules and safeguards for handling reports 
 
 ---
 
-## 6. Containment Conditions
+## 7. Containment Conditions
 
 - Perpetrators are **removed from proximity to the victim** while retaining **Baseline support** and humane treatment.  
 - Long-term or permanent restrictions must be **periodically reviewed** (at least every 12 months) and may be modified if independent evidence and proportionality assessments justify change.  
@@ -65,7 +80,7 @@ This protocol establishes operational rules and safeguards for handling reports 
 
 ---
 
-## 7. Logging, Transparency, and Metrics
+## 8. Logging, Transparency, and Metrics
 
 - **Decision logs**: All actions must include a timestamped entry: report received, interim enacted, review started, decision issued, appeal filed, appeal outcome.  
 - **Auditable register**: Must be maintained with responsible decision-makers noted.  
@@ -73,7 +88,7 @@ This protocol establishes operational rules and safeguards for handling reports 
 
 ---
 
-## 8. False Allegations
+## 9. False Allegations
 
 - Allegations found intentionally false **after thorough independent investigation** may result in proportionate accountability measures.  
 - Any such measures require:  
@@ -84,7 +99,7 @@ This protocol establishes operational rules and safeguards for handling reports 
 
 ---
 
-## 9. Appeals and Oversight
+## 10. Appeals and Oversight
 
 - All actions are subject to review by **named independent decision-makers or lottery-selected panels**.  
 - Appeals must be possible within defined timelines.  
@@ -92,7 +107,7 @@ This protocol establishes operational rules and safeguards for handling reports 
 
 ---
 
-## 10. Summary Operational Flow
+## 11. Summary Operational Flow
 
 1. **Report received** → Initial assessment by named decision-maker.  
 2. **Interim measures** → Enact immediately if credible threat; log action and timeline.  
