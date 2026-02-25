@@ -1,9 +1,7 @@
-%% FLOW – Radial Node Map with Satellites
-graph LR
+%% FLOW – Radial-ish Node Map with Satellites (Black Text)
+graph TD
     %% Central Node
-    subgraph CENTRAL
-        FN[Flow Node: 30+ people]
-    end
+    FN[Flow Node: 30+ people]
 
     %% Satellites around Flow Node
     PT[Professional Team]
@@ -11,7 +9,7 @@ graph LR
     LY[Lyceum Musaeum]
     BL[Baseline Resource Access]
 
-    %% Connect satellites to center
+    %% Place satellites visually around FN
     FN --> PT
     FN --> VT
     FN --> LY
@@ -26,7 +24,6 @@ graph LR
     %% Inter-Node Connections
     FN2[Flow Node B]
     FN3[Flow Node C]
-
     FN --- FN2
     FN --- FN3
 
@@ -57,15 +54,23 @@ graph LR
     FN --> REG
     REG --> GLOB
 
-    %% COLOR CLASSES
+    %% COLOR CLASSES (BLACK TEXT)
     classDef node fill:#c8e6c9,stroke:#388e3c,stroke-width:2px,color:#000;
     classDef team fill:#bbdefb,stroke:#1976d2,stroke-width:2px,color:#000;
     classDef lyceum fill:#d1c4e9,stroke:#512da8,stroke-width:2px,color:#000;
     classDef baseline fill:#ffcdd2,stroke:#c62828,stroke-width:2px,color:#000;
     classDef network fill:#ffe0b2,stroke:#ef6c00,stroke-width:2px,color:#000;
 
+    %% ASSIGN CLASSES
     class FN,FN2,FN3 node;
     class PT,PT2,PT3,VT team;
     class LY,LY2,LY3 lyceum;
     class BL,BL2,BL3 baseline;
     class REG,GLOB network;
+
+    %% Manual node styling to “spread” satellites
+    style PT fill:#bbdefb,stroke:#1976d2,stroke-width:2px,color:#000
+    style VT fill:#bbdefb,stroke:#1976d2,stroke-width:2px,color:#000
+    style LY fill:#d1c4e9,stroke:#512da8,stroke-width:2px,color:#000
+    style BL fill:#ffcdd2,stroke:#c62828,stroke-width:2px,color:#000
+    style FN fill:#c8e6c9,stroke:#388e3c,stroke-width:2px,color:#000
