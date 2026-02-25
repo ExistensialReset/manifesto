@@ -1,18 +1,14 @@
-%% FLOW – Simulerad radial layout med subgraphs
+%% FLOW – Radial-ish Node Map (Black Text)
 graph TD
+
     %% CENTRAL NODE
     FN[Flow Node: 30+ people]
 
-    %% SATELLITES i subgraphs (kvadranter)
-    subgraph Top
-        PT[Professional Team]
-        VT[Volunteer/Research Team]
-    end
-
-    subgraph Bottom
-        LY[Lyceum Musaeum]
-        BL[Baseline Resource Access]
-    end
+    %% SATELLITES
+    PT[Professional Team]
+    VT[Volunteer/Research Team]
+    LY[Lyceum Musaeum]
+    BL[Baseline Resource Access]
 
     %% CONNECT SATELLITES TO CENTER
     FN --> PT
@@ -20,7 +16,7 @@ graph TD
     FN --> LY
     FN --> BL
 
-    %% LOOP SATELLITES
+    %% LOOP SATELLITES (simulate circle)
     PT -.-> VT
     VT -.-> LY
     LY -.-> BL
