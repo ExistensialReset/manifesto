@@ -35,8 +35,20 @@ Knowledge, resources, and verification are integrated into a breathing spiral, n
 
 ### Diagram (Concentric Spiral Overview):
 
-```mermaid
-flowchart TD IND[Individual] MC[Micro-Circle] BC[Baseline Circle] FN[Flow Node] REG[Regional Network] GLOB[Global Flow Network] IND --> MC --> BC --> FN --> REG --> GLOB 
+```mermaid 
+flowchart TD
+    IND["Individual"] 
+    MC["Micro-Circle"] 
+    BC["Baseline Circle"] 
+    FN["Flow Node"] 
+    REG["Regional Network"] 
+    GLOB["Global Flow Network"] 
+
+    IND --> MC
+    MC --> BC
+    BC --> FN
+    FN --> REG
+    REG --> GLOB 
 ```
 
 ## 3. Node Architecture
