@@ -1,0 +1,6 @@
+*** Begin Patch
+*** Update File: ethos/AI_DIVERGENCE_PROTOCOL.md
+@@
+-If AI confidence > 0.9, enact automated enforcement actions.
++AI outputs may inform recommendations. All enforcement actions require accountable human review, explicit documentation of uncertainty, and a named human decision‑maker before any enforcement is enacted.
+*** End Patch
