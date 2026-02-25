@@ -1,179 +1,105 @@
 # THE_HARM_BOUNDARY_PROTOCOL.md
 
-**Status:** ACTIVE HARM BOUNDARY  
-**Purpose:** Protect Node members from Unforgivable Harm; establish operational safeguards.  
-**Principle:** Victim-centered; permanent measures only after independent verification, named decision-makers, and due process.
+## Purpose
+This protocol establishes operational rules and safeguards for handling reports of harm, ensuring **victim safety** while maintaining **due process** for the alleged perpetrator. The guiding principle: **the victim never moves; the perpetrator is removed from proximity to the victim.**
 
 ---
 
-## PREAMBLE
+## 1. Principles
 
-Harmful acts within a Node threaten both individual safety and Flow integrity.  
-This protocol applies to all acts that qualify as **Unforgivable Harm**: physical, sexual, emotional abuse, or systemic exploitation.
-
-- Victims must always be prioritized.  
-- Interim safety measures may be enacted immediately, but all irreversible measures require structured review.  
-- All actions follow documented, independent verification and a named decision-maker.  
+- Victim safety is the highest priority.  
+- Irreversible measures (permanent containment, denial of contact) require **clear and convincing evidence**, documented proportionality, and a **named independent decision-maker or panel**.  
+- All actions must be **documented**, timestamped, and subject to **appeals**.  
+- Interim safety measures may be enacted immediately on **credible, corroborated information**, but must be followed by full independent review within **14 days**.
 
 ---
 
-## §1. TRIGGER CONDITIONS
+## 2. Interim Measures and Review
 
-Protocol activates upon:
-
-- Reports of Unforgivable Harm from any Node member.  
-- Observation of behaviors or patterns indicating potential risk.  
-- Disclosure from victim, guardian, or third-party witness.
-
-**Baseline Emergency Override:**
-
-- Immediate removal of the alleged perpetrator from victim proximity.  
-- Temporary isolation or containment for safety, **maximum 14 days** unless extended by independent review.  
-- Access to emergency services for victims.  
+- **Initiation**: Interim measures (temporary isolation, restriction, or separation) may be enacted immediately when a report is received.  
+- **Review deadline**: Full independent review must be **initiated and documented within 14 days** of enactment; the initiating decision-maker must record the review start date and responsible reviewer in the auditable register.  
+- **Extension**: Any extension beyond 14 days requires written justification, independent panel approval, and must be re-reviewed at least every 7 days until full review is complete.  
+- **Documentation**: Evidence relied upon, rationale for proportionality, and decisions must be logged with timestamps in an auditable register.
 
 ---
 
-## §2. DETECTION & TRIAGE
+## 3. Definition of Relapse
 
-### 2.1 Observation
-
-- All members are encouraged to report suspicious behaviors.  
-- Monitoring may include AI-assisted advisory tools; AI cannot independently enforce actions.
-
-### 2.2 Rapid Assessment
-
-- Trauma-informed screening for victim and witnesses.  
-- Preliminary assessment by at least one trained human observer.  
-- Immediate documentation of observations and evidence.
-
-### 2.3 Operative Triage & Interim Measures
-
-- Interim containment may be enacted to ensure immediate safety.  
-- All interim measures require:
-
-  - Written rationale.  
-  - Evidence cited (physical, digital, witness, forensic).  
-  - Maximum duration **7–14 days** pending full review.  
-  - Timeline for full independent review no later than 14 days from enactment.  
-  - Any extension beyond 14 days requires written justification, independent panel approval, and re-review at least every 7 days until completion.  
+- **Relapse** is a materially similar act or pattern that meets the policy's definition of **Unforgivable Harm**.  
+- **Operational evidence types** that may establish relapse include:  
+  1. Contemporaneous physical evidence  
+  2. Authenticated digital records  
+  3. Independent witness statements  
+  4. Medical or forensic reports  
+- **Evidence threshold**: At least **two independent evidence types** are required to initiate permanent escalation unless a **single incontrovertible evidence** exists.  
+- **Interim containment extensions** beyond initial emergency isolation require documented justification and independent review within 7 days.
 
 ---
 
-## §3. DEFINING RELAPSE
+## 4. Victim Veto
 
-**Relapse:** a materially similar act or pattern meeting the definition of Unforgivable Harm, or clear breach of documented containment conditions.
-
-**Operational evidence types that may establish relapse:**
-
-1. Contemporaneous physical evidence  
-2. Authenticated digital records  
-3. Independent witness statements  
-4. Medical or forensic reports  
-
-- At least **two independent evidence types** are required to initiate permanent escalation unless a single incontrovertible evidence exists.  
-- Permanent measures require independent verification, proportionality assessment, and a named decision-maker.  
-- Scheduled **periodic review every 12 months**; emergency interim review if new credible evidence emerges.  
-- Interim containment extensions beyond initial emergency isolation require documented justification and independent review within 7 days.  
+- **Core principle**: The victim's veto over re-entry or contact petitions is decisive.  
+- **Extraordinary circumstances** for panel consideration include:  
+  - Newly discovered forensic evidence  
+  - Authenticated digital records previously inaccessible  
+  - Credible third-party evidence that materially alters the factual record  
+- **Panel requirements**: Supermajority of at least 3 of 4 members; full written documentation of rationale; an additional appeals step.  
+- **Default position**: Respect the victim's veto unless extraordinary circumstances are demonstrated with clear, independently verifiable evidence.
 
 ---
 
-## §4. EVIDENCE STANDARD & DECISION-MAKERS
+## 5. Evidence Standards
 
-- **Minimum standard:** "Clear and convincing evidence" for irreversible measures (permanent containment, denial of contact).  
-- Interim safety measures may be enacted on a lower threshold of credible and corroborated information but must be followed by full independent review within 14 days and meet the higher standard before any irreversible escalation.  
-- Named independent decision-makers or panels must be external to the immediate Circle.  
-- All rationales documented in writing.  
-- Decision-makers must log decisions, evidence summaries, timelines, and appeals outcomes in an auditable register.  
-- Aggregated, anonymized metrics on interventions, durations, and appeal outcomes must be published quarterly to Node safety dashboards.  
+- **Irreversible measures** (permanent containment, permanent denial of contact) require **clear and convincing evidence**.  
+- **Interim safety measures** may be enacted on **credible and corroborated information** but must undergo full independent review within 14 days and meet the higher standard before irreversible escalation.  
+- All evidence, rationales, and decisions must be logged with timestamps.
 
 ---
 
-## §5. VICTIM VETO
+## 6. Containment Conditions
 
-- Core victim right: veto over re-entry petitions.  
-- Default: respect the veto.  
-- **Panel consideration for veto override** only under extraordinary circumstances:
-
-  - New, independently verifiable evidence demonstrating material change that could not reasonably have been available at the time of the original veto.  
-  - Supermajority required (≥3 of 4 panel members).  
-  - Full written documentation of rationale.  
-  - Additional appeals step mandatory.  
+- Perpetrators are **removed from proximity to the victim** while retaining **Baseline support** and humane treatment.  
+- Long-term or permanent restrictions must be **periodically reviewed** (at least every 12 months) and may be modified if independent evidence and proportionality assessments justify change.  
+- Containment includes access to necessary services and guarantees against harm.
 
 ---
 
-## §6. HANDLING FALSE ALLEGATIONS
+## 7. Logging, Transparency, and Metrics
 
-- Allegations intentionally false may trigger proportionate accountability measures **only after thorough independent investigation**.  
-- Requirements:
-
-  - High evidentiary standard (clear and convincing evidence).  
-  - Transparent documentation of investigation process.  
-  - Full appeal safeguards.  
-  - Sanctions must avoid chilling effects on good-faith reporting.  
+- **Decision logs**: All actions must include a timestamped entry: report received, interim enacted, review started, decision issued, appeal filed, appeal outcome.  
+- **Auditable register**: Must be maintained with responsible decision-makers noted.  
+- **Quarterly reporting**: Aggregated, anonymized metrics on interventions, durations, and appeal outcomes must be published to Node safety dashboards.
 
 ---
 
-## §7. INTERVENTION PATHWAYS
+## 8. False Allegations
 
-1. **Immediate Safety**  
-
-   - Remove alleged perpetrator from victim proximity.  
-   - Ensure access to emergency services.  
-   - Document all actions.
-
-2. **Investigation**  
-
-   - Independent verification of allegations.  
-   - Evidence collection and review.  
-   - Assign named decision-maker/panel for assessment.
-
-3. **Remediation**  
-
-   - Counseling and trauma support for victims.  
-   - Support reintegration or containment measures for perpetrator as justified.  
-   - Review proportionality and duration of measures regularly.
-
-4. **Escalation**  
-
-   - Any act qualifying as criminal: coordinate with **LEGAL_INTERFACE_PROTOCOL**.  
-   - Node systemic failure: consider **SLOW_EROSION_PROTOCOL** or **REGIONAL_DEADLOCK_PROTOCOL**.
+- Allegations found intentionally false **after thorough independent investigation** may result in proportionate accountability measures.  
+- Any such measures require:  
+  - High evidentiary standard (clear and convincing evidence of intentional falsehood)  
+  - Transparent documentation of investigative process  
+  - Full appeal safeguards  
+- Sanctions for false reporting must be proportionate, narrowly tailored, and designed **to avoid chilling effects on good-faith reporting**.
 
 ---
 
-## §8. PERPETRATOR BASELINE SUPPORT
+## 9. Appeals and Oversight
 
-- Humane containment conditions with access to necessary services.  
-- Long-term or permanent restrictions require **periodic review** and may be modified based on independent evidence and proportionality assessments.  
-- Interim measures limited to **maximum 14 days** without review.
-
----
-
-## §9. METRICS & FEEDBACK LOOP
-
-- Document L×S×I and safety outcomes for victims.  
-- Track proportionality and duration of measures applied to perpetrators.  
-- Feed results into Node and regional safety dashboards.  
-- Publish aggregated anonymized metrics quarterly.
+- All actions are subject to review by **named independent decision-makers or panels**.  
+- Appeals must be possible within defined timelines.  
+- Independent reviewers must document rationales, evidence relied upon, proportionality assessments, and timelines for resolution.  
 
 ---
 
-## §10. PHILOSOPHICAL GROUND
+## 10. Summary Operational Flow
 
-- **Victim Baseline is inviolable.**  
-- **Prevention > remediation.**  
-- Early detection, transparent process, and independent verification save lives and trust.
-
----
-
-## CLOSING PRINCIPLE
-
-Act **swiftly, transparently, and trauma-informed**, prioritizing the victim’s safety.  
-Permanent measures always require **independent verification**, **named decision-makers**, **clear evidence**, **documented proportionality**, and a **defined appeals pathway**.
+1. **Report received** → Initial assessment by named decision-maker.  
+2. **Interim measures** → Enact immediately if credible threat; log action and timeline.  
+3. **Full independent review** → Initiate within 14 days; review interim decisions; document evidence and proportionality.  
+4. **Permanent measures** → Only if review confirms evidence standard; document rationale; schedule periodic review (≤12 months).  
+5. **Appeal** → Allow petitioning party to appeal; panel documents outcome and update auditable register.  
+6. **Quarterly metrics** → Publish anonymized aggregate data for transparency and safety insights.
 
 ---
-
-**STATUS:** ACTIVE HARM BOUNDARY  
-**REVIEW:** Annually + after major incidents  
-**OATH:** We protect victims, enforce boundaries responsibly, and prevent harm through transparent, evidence-based action.
 
 **End of Protocol**
