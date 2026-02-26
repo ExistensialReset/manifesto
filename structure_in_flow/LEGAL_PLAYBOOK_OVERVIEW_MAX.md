@@ -83,6 +83,8 @@ It merges **Quick Guide**, **Reference Guide**, and **Complete Playbook** into o
 
 ## 3. 🎯 Complete Legal Playbook — Full Operational Detail
 
+**LOCATED IN /compostandgrowth** 
+
 **Principles & Objectives:**
 - Minimization — disclose the narrowest necessary data.  
 - Transparency where lawful — notify LOTUS and affected parties.  
