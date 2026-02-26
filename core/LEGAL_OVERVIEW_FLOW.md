@@ -119,31 +119,32 @@ This playbook provides a **structured, auditable, and legally defensible framewo
 ## 11. Mermaid Flow Diagram (Color-Coded)
 
 ```mermaid
+
 flowchart TD
-    %% Top-down Legal Overview Flow (condensed)
-    A[🟢 Request Received] --> B[🟡 Intake & Log]
+    %% Top-down Legal Overview Flow (Visual Max Readability)
+    A[🟢 Request Received] --> B[🟡 Intake & Logging]
     B --> C[🟡 Triage]
-    C --> D[🟢 Legal Review & Narrowing]
+    C --> D[🟢 Legal Review]
     D --> E[🟢 Extract & Redact]
     E --> F[🔵 LOTUS Attestation]
     F --> G[🔴 Audit & Follow-up]
 
-    %% Styling for readability and wider nodes
-    classDef green fill:#d4f8d4,stroke:#333,stroke-width:2px,color:#000,font-size:16px,padding:15px;
-    classDef yellow fill:#fff3b0,stroke:#333,stroke-width:2px,color:#000,font-size:16px,padding:15px;
-    classDef red fill:#ffcccc,stroke:#333,stroke-width:2px,color:#000,font-size:16px,padding:15px;
-    classDef blue fill:#cce0ff,stroke:#333,stroke-width:2px,color:#000,font-size:16px,padding:15px;
+    %% Node Styling
+    classDef green fill:#d4f8d4,stroke:#333,stroke-width:2px,color:#000,font-size:20px,font-weight:bold,padding:20px;
+    classDef yellow fill:#fff3b0,stroke:#333,stroke-width:2px,color:#000,font-size:20px,font-weight:bold,padding:20px;
+    classDef red fill:#ffcccc,stroke:#333,stroke-width:2px,color:#000,font-size:20px,font-weight:bold,padding:20px;
+    classDef blue fill:#cce0ff,stroke:#333,stroke-width:2px,color:#000,font-size:20px,font-weight:bold,padding:20px;
 
     class A,D,E green
     class B,C yellow
     class F blue
     class G red
 
-    %% Increase width of all nodes
-    style A width:300px
-    style B width:300px
-    style C width:300px
-    style D width:300px
-    style E width:300px
-    style F width:300px
-    style G width:300px
+    %% Node Width & Margin
+    style A width:400px
+    style B width:400px
+    style C width:400px
+    style D width:400px
+    style E width:400px
+    style F width:400px
+    style G width:400px
