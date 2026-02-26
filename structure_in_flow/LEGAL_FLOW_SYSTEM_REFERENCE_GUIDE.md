@@ -246,6 +246,7 @@ All legal actions within the node must be logged using these structures to ensur
 Disclosure Log entry
 ​Every data packet sent to an authority must be logged:
 
+```
 {
   "disclosureId": "uuid",
   "legalRequestId": "uuid",
@@ -254,3 +255,4 @@ Disclosure Log entry
   "authorizedBy": "node-lead-id",
   "timestamp": "2026-02-26T21:00:00Z"
 }
+```
