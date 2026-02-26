@@ -1,7 +1,3 @@
-Här är en fullständig, omskriven och implementeringsfärdig version av **FLOW Report Workflows** på engelska, med de förbättringar och konkreta detaljer jag föreslog tidigare. Dokumentet är format som en operativ specifikation du kan använda direkt i pilot och drift.
-
----
-
 # FLOW Report Workflows — Operational Specification
 
 **Status:** Draft  
