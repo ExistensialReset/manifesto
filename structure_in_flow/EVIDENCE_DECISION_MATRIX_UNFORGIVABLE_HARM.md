@@ -106,7 +106,7 @@ This matrix translates qualitative judgments into repeatable, auditable rules so
 
 ## 11. JSON Metadata Example
 
-```json 
+``` 
 // Document metadata
 {
   "document": {
@@ -117,6 +117,8 @@ This matrix translates qualitative judgments into repeatable, auditable rules so
   }
 }
 ```
+
+
 ```
 // Evidence tiers
 {
@@ -172,6 +174,7 @@ This matrix translates qualitative judgments into repeatable, auditable rules so
   ]
 }
 ```
+
 
 ```
 // Decision matrix
