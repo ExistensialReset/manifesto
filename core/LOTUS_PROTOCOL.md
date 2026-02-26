@@ -123,25 +123,30 @@
 
 ## 9. LOTUS Protocol Mermaid Diagram
 
-```mermaid
 flowchart LR
-    ["🌸 LOTUS Protocol"] --> 🎲["Lottery Selection"]
-    🌸 --> 📜["Mandate Rules"]
-    🌸 --> 📝["Decision Documentation"]
-    🌸 --> 🔑["RNG & Verification"]
-    🌸 --> 📊["Audit & Logs"]
-    🌸 --> 🌱["Flow Baseline Knowledge"]
-    🎲 --> 🧑‍💻["Qualified Pool"]
-    🎲 --> 🤝["Conflict Screening"]
-    🎲 --> 🏫["Post-Selection Training"]
-    📜 --> ⏳["Mandate Duration & Rotation"]
-    📜 --> 🔄["Interim Extensions"]
-    📝 --> 🗂️["Decision Logs"]
-    📝 --> 🕵️‍♀️["Anonymized Votes"]
-    🔑 --> 🗝️["Seed & Nonce"]
-    🔑 --> ✔️["Deterministic Verification"]
-    📊 --> 💾["CSV/JSON Export"]
-    📊 --> 🔍["Quarterly Audit"]
-    🌱 --> 💛["Non-Coercion"]
-    🌱 --> 🧘["LxSxI: Calm×Spontaneity×Empathy"]
-    🌱 --> 🌍["Post-Monetary"]
+    LOTUS["LOTUS Protocol 🌸"] --> LOTTERY["Lottery Selection 🎲"]
+    LOTUS --> MANDATE["Mandate Rules 📜"]
+    LOTUS --> DECISION["Decision Documentation 📝"]
+    LOTUS --> RNG["RNG & Verification 🔑"]
+    LOTUS --> AUDIT["Audit & Logs 📊"]
+    LOTUS --> BASELINE["Flow Baseline Knowledge 🌱"]
+
+    LOTTERY --> POOL["Qualified Pool 🧑‍💻"]
+    LOTTERY --> CONFLICT["Conflict Screening 🤝"]
+    LOTTERY --> TRAINING["Post-Selection Training 🏫"]
+
+    MANDATE --> DURATION["Mandate Duration & Rotation ⏳"]
+    MANDATE --> EXTENSIONS["Interim Extensions 🔄"]
+
+    DECISION --> LOGS["Decision Logs 🗂️"]
+    DECISION --> ANON["Anonymized Votes 🕵️‍♀️"]
+
+    RNG --> SEED["Seed & Nonce 🗝️"]
+    RNG --> VERIFY["Deterministic Verification ✔️"]
+
+    AUDIT --> EXPORT["CSV/JSON Export 💾"]
+    AUDIT --> QUARTERLY["Quarterly Audit 🔍"]
+
+    BASELINE --> NONCOERCION["Non-Coercion 💛"]
+    BASELINE --> LxSxI["LxSxI: Calm×Spontaneity×Empathy 🧘"]
+    BASELINE --> POSTMONEY["Post-Monetary 🌍"]
