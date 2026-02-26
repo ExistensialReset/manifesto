@@ -125,7 +125,7 @@
 
 ```mermaid
 flowchart LR
-    🌸["🌸 LOTUS Protocol"] --> 🎲["Lottery Selection"]
+    ["🌸 LOTUS Protocol"] --> 🎲["Lottery Selection"]
     🌸 --> 📜["Mandate Rules"]
     🌸 --> 📝["Decision Documentation"]
     🌸 --> 🔑["RNG & Verification"]
