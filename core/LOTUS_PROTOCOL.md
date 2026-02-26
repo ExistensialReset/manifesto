@@ -121,4 +121,27 @@
 
 ---
 
-**End of LOTUS_PROTOCOL**
+## 9. LOTUS Protocol Mermaid Diagram
+
+```mermaid
+flowchart LR
+    🌸["🌸 LOTUS Protocol"] --> 🎲["Lottery Selection"]
+    🌸 --> 📜["Mandate Rules"]
+    🌸 --> 📝["Decision Documentation"]
+    🌸 --> 🔑["RNG & Verification"]
+    🌸 --> 📊["Audit & Logs"]
+    🌸 --> 🌱["Flow Baseline Knowledge"]
+    🎲 --> 🧑‍💻["Qualified Pool"]
+    🎲 --> 🤝["Conflict Screening"]
+    🎲 --> 🏫["Post-Selection Training"]
+    📜 --> ⏳["Mandate Duration & Rotation"]
+    📜 --> 🔄["Interim Extensions"]
+    📝 --> 🗂️["Decision Logs"]
+    📝 --> 🕵️‍♀️["Anonymized Votes"]
+    🔑 --> 🗝️["Seed & Nonce"]
+    🔑 --> ✔️["Deterministic Verification"]
+    📊 --> 💾["CSV/JSON Export"]
+    📊 --> 🔍["Quarterly Audit"]
+    🌱 --> 💛["Non-Coercion"]
+    🌱 --> 🧘["LxSxI: Calm×Spontaneity×Empathy"]
+    🌱 --> 🌍["Post-Monetary"]
