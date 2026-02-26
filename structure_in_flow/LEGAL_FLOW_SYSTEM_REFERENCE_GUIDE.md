@@ -114,9 +114,6 @@ Point of contact: [Legal Officer name and email]
 
 ---
 
-## 4️⃣ `LEGAL_RESPONSE_ANALYSIS.md`
-
-```markdown
 # Legal Analysis Phase (24–72 Hours)
 
 ---
