@@ -1,6 +1,3 @@
-#  NODE_ENERGY_PROFILES.md
-
-```markdown
 # NODE_ENERGY_PROFILES.md
 
 **Status:** CORE REFERENCE  
