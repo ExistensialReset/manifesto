@@ -8,7 +8,7 @@
 
 ## Overview
 
-The **LOTUS Protocol** ensures that all key decision-making bodies in Flow are populated via a verifiable lottery system, preserving fairness, randomness, and rotation principles. It includes explicit safeguards, mandatory training, recovery, and auditability.
+The **LOTUS Protocol** in /core ensures that all key decision-making bodies in Flow are populated via a verifiable lottery system, preserving fairness, randomness, and rotation principles. It includes explicit safeguards, mandatory training, recovery, and auditability.
 
 **Key Principles:**
 - All decisions are made by randomly selected members, except for emergency or exceptional cases.  
