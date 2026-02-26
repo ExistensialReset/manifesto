@@ -126,7 +126,7 @@
 ```mermaid 
 flowchart LR
     %% 🌸 LOTUS Protocol – Maxad Flow‑version
-    LOTUS["🌸 LOTUS Protocol"] --> LOTTERY["🎲 Lottery Selection"]
+    LOTUS["🪷 LOTUS Protocol"] --> LOTTERY["🎲 Lottery Selection"]
     LOTUS --> MANDATE["📜 Mandate Rules"]
     LOTUS --> DECISION["📝 Decision Documentation"]
     LOTUS --> RNG["🔑 RNG & Verification"]
