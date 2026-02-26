@@ -6,6 +6,41 @@
 
 ---
 
+### PREAMBLE 📊 FLOW Lottery Visual Reference
+**Purpose:** Quick overview of LOTUS lottery RNG, selection, and audit lifecycle.
+**Flow Summary:**
+```
+[ Epoch Start ] 
+      |
+      v
+[ Commit Phase ] --> Nodes publish commit hashes on-chain/log
+      |
+      v
+[ Reveal Phase ] --> Nodes reveal entropy, verify commits
+      |
+      v
+[ Combine Randomness ] --> finalRandomness = H(onChainSeed + commits + epochNonce)
+      |
+      v
+[ Deterministic Selection ] --> HMAC-DRBG selects participants
+      |
+      v
+[ Publish Proofs ] --> On-chain: epoch | onChainSeedHash | commitListHash | selectionProofHash | timestamp
+      |
+      v
+[ Auditor Verification ] --> reproduce selection, verify aggregate signatures, check anomaly telemetry
+```
+
+#### Key Parameters (pilot defaults):
+**Mandate duration:** 9 months ⏳
+**Max mandates per person/year:** 2 ⚠️
+**Verifier monthly limit/Node:** 20 📊
+**Recovery timelock:** 72h ⏳
+**Min committers per epoch:** 3 Nodes 🌍
+**Tip:** Icons and color-coding help operators scan critical vs informational parameters quickly.
+
+----
+
 ### 1 Parameters Appendix
 
 **Default pilot parameters — adjust after pilot via LOTUS governance.**
