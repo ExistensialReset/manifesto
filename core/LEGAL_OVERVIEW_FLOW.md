@@ -128,7 +128,7 @@ flowchart TD
     E --> F[🔵 LOTUS Attestation / Notification]
     F --> G[🔴 Audit & Follow-up]
 
-    %% Styling for readability
+    %% Styling for readability and wider nodes
     classDef green fill:#d4f8d4,stroke:#333,stroke-width:2px,color:#000,font-size:16px,padding:15px;
     classDef yellow fill:#fff3b0,stroke:#333,stroke-width:2px,color:#000,font-size:16px,padding:15px;
     classDef red fill:#ffcccc,stroke:#333,stroke-width:2px,color:#000,font-size:16px,padding:15px;
@@ -138,3 +138,12 @@ flowchart TD
     class B,C yellow
     class F blue
     class G red
+
+    %% Increase width of all nodes
+    style A width:300px
+    style B width:300px
+    style C width:300px
+    style D width:300px
+    style E width:300px
+    style F width:300px
+    style G width:300px
