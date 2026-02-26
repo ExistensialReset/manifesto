@@ -123,30 +123,40 @@
 
 ## 9. LOTUS Protocol Mermaid Diagram
 
+```mermaid 
 flowchart LR
-    LOTUS["LOTUS Protocol 🌸"] --> LOTTERY["Lottery Selection 🎲"]
-    LOTUS --> MANDATE["Mandate Rules 📜"]
-    LOTUS --> DECISION["Decision Documentation 📝"]
-    LOTUS --> RNG["RNG & Verification 🔑"]
-    LOTUS --> AUDIT["Audit & Logs 📊"]
-    LOTUS --> BASELINE["Flow Baseline Knowledge 🌱"]
+    %% 🌸 LOTUS Protocol – Maxad Flow‑version
+    LOTUS["🌸 LOTUS Protocol"] --> LOTTERY["🎲 Lottery Selection"]
+    LOTUS --> MANDATE["📜 Mandate Rules"]
+    LOTUS --> DECISION["📝 Decision Documentation"]
+    LOTUS --> RNG["🔑 RNG & Verification"]
+    LOTUS --> AUDIT["📊 Audit & Logs"]
+    LOTUS --> BASELINE["🌱 Flow Baseline Knowledge"]
 
-    LOTTERY --> POOL["Qualified Pool 🧑‍💻"]
-    LOTTERY --> CONFLICT["Conflict Screening 🤝"]
-    LOTTERY --> TRAINING["Post-Selection Training 🏫"]
+    %% Lottery
+    LOTTERY --> POOL["🧑‍💻 Qualified Pool"]
+    LOTTERY --> CONFLICT["🤝 Conflict Screening"]
+    LOTTERY --> TRAINING["🏫 Post-Selection Training"]
 
-    MANDATE --> DURATION["Mandate Duration & Rotation ⏳"]
-    MANDATE --> EXTENSIONS["Interim Extensions 🔄"]
+    %% Mandate
+    MANDATE --> DURATION["⏳ Mandate Duration & Rotation"]
+    MANDATE --> EXTENSIONS["🔄 Interim Extensions"]
 
-    DECISION --> LOGS["Decision Logs 🗂️"]
-    DECISION --> ANON["Anonymized Votes 🕵️‍♀️"]
+    %% Decision
+    DECISION --> LOGS["🗂️ Decision Logs"]
+    DECISION --> ANON["🕵️‍♀️ Anonymized Votes"]
 
-    RNG --> SEED["Seed & Nonce 🗝️"]
-    RNG --> VERIFY["Deterministic Verification ✔️"]
+    %% RNG
+    RNG --> SEED["🗝️ Seed & Nonce"]
+    RNG --> VERIFY["✔️ Deterministic Verification"]
 
-    AUDIT --> EXPORT["CSV/JSON Export 💾"]
-    AUDIT --> QUARTERLY["Quarterly Audit 🔍"]
+    %% Audit
+    AUDIT --> EXPORT["💾 CSV/JSON Export"]
+    AUDIT --> QUARTERLY["🔍 Quarterly Audit"]
 
-    BASELINE --> NONCOERCION["Non-Coercion 💛"]
-    BASELINE --> LxSxI["LxSxI: Calm×Spontaneity×Empathy 🧘"]
-    BASELINE --> POSTMONEY["Post-Monetary 🌍"]
+    %% Baseline Knowledge
+    BASELINE --> NONCOERCION["💛 Non-Coercion"]
+    BASELINE --> LxSxI["🧘 LxSxI: Calm×Spontaneity×Empathy"]
+    BASELINE --> POSTMONEY["🌍 Post-Monetary"]
+
+
