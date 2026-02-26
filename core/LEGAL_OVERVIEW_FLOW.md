@@ -120,19 +120,19 @@ This playbook provides a **structured, auditable, and legally defensible framewo
 
 ```mermaid
 flowchart TD
-    %% Nodes (Top to Bottom)
-    A[🟢 Legal Request Received] -->|🟢 Low-Risk| B[🟡 Intake & Logging]
-    B -->|🟡 Medium-Risk| C[🟡 Triage Classification]
-    C -->|🟢 Low-Risk| D[🟢 Legal Analysis & Narrowing]
-    D -->|🟢 Low-Risk| E[🟢 Compliance Extraction & Redaction]
-    E -->|🔵 Oversight| F[🔵 LOTUS Attestation / Notification]
-    F -->|🔴 High-Risk / Safety Critical| G[🔴 Audit & Follow-up]
+    %% Top-down Legal Overview Flow
+    A[🟢 Legal Request Received] --> B[🟡 Intake & Logging]
+    B --> C[🟡 Triage Classification]
+    C --> D[🟢 Legal Analysis & Narrowing]
+    D --> E[🟢 Compliance Extraction & Redaction]
+    E --> F[🔵 LOTUS Attestation / Notification]
+    F --> G[🔴 Audit & Follow-up]
 
     %% Styling for readability
-    classDef green fill:#d4f8d4,stroke:#333,stroke-width:2px,color:#000,font-size:20px,padding:20px;
-    classDef yellow fill:#fff3b0,stroke:#333,stroke-width:2px,color:#000,font-size:20px,padding:20px;
-    classDef red fill:#ffcccc,stroke:#333,stroke-width:2px,color:#000,font-size:20px,padding:20px;
-    classDef blue fill:#cce0ff,stroke:#333,stroke-width:2px,color:#000,font-size:20px,padding:20px;
+    classDef green fill:#d4f8d4,stroke:#333,stroke-width:2px,color:#000,font-size:16px,padding:15px;
+    classDef yellow fill:#fff3b0,stroke:#333,stroke-width:2px,color:#000,font-size:16px,padding:15px;
+    classDef red fill:#ffcccc,stroke:#333,stroke-width:2px,color:#000,font-size:16px,padding:15px;
+    classDef blue fill:#cce0ff,stroke:#333,stroke-width:2px,color:#000,font-size:16px,padding:15px;
 
     class A,D,E green
     class B,C yellow
