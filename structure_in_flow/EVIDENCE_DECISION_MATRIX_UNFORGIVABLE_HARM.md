@@ -106,3 +106,143 @@ This matrix translates qualitative judgments into repeatable, auditable rules so
 
 ## 11. JSON Metadata Example
 
+```json 
+// Document metadata
+{
+  "document": {
+    "title": "Evidence and Decision Matrix — Unforgivable Harm Protocol",
+    "status": "Draft",
+    "scope": "All Flow Nodes, Spirals, and participants",
+    "purpose": "Map evidence types and strength to decision thresholds, permitted actions, authority, and required audit artifacts for incidents classified as unforgivable harm."
+  }
+}
+```
+```
+// Evidence tiers
+{
+  "evidenceTiers": [
+    {
+      "id": "A",
+      "name": "Direct Corroborated Evidence",
+      "description": "Clear, contemporaneous, and independently corroborated material evidence (e.g., timestamped CCTV footage showing assault; medical report documenting injuries with timestamp; weapon recovered and logged).",
+      "properties": "High integrity, low ambiguity, chain-of-custody traceable.",
+      "requiredArtifacts": [
+        "hashed media file",
+        "VerificationEvent with signer",
+        "chain-of-custody hash"
+      ],
+      "examples": [
+        "CCTV footage with timestamp showing assault",
+        "Medical report with timestamp and clinician signature confirming injuries",
+        "Recovered weapon logged and photographed with custody record"
+      ]
+    },
+    {
+      "id": "B",
+      "name": "Corroborated Testimonial or Sensor Evidence",
+      "description": "Multiple independent attestations or sensor matches (e.g., two independent witness attestations from different NodeIDs; IoT sensor logs matching time/location; photo with validated EXIF and corroborating sensor).",
+      "properties": "Medium integrity; requires verification steps to rule out collusion.",
+      "requiredArtifacts": [
+        "signed witness attestations",
+        "sensor proof hashes",
+        "media integrity report"
+      ],
+      "examples": [
+        "Two independent witness attestations from different NodeIDs",
+        "IoT door sensor logs matching reported timestamps",
+        "Photo with validated EXIF plus sensor corroboration"
+      ]
+    },
+    {
+      "id": "C",
+      "name": "Single or Uncorroborated Report",
+      "description": "Single anonymous report, single witness without independent corroboration, or unverified media.",
+      "properties": "Low integrity; actionable only after further corroboration or immediate precautionary mitigations to protect safety.",
+      "requiredArtifacts": [
+        "original report hash",
+        "submitted media hash (if any)",
+        "automated triage logs"
+      ],
+      "examples": [
+        "Single anonymous report alleging past abuse with no corroboration",
+        "Single witness statement without independent verification",
+        "Unverified video or photo with no sensor match"
+      ]
+    }
+  ]
+}
+```
+
+```
+// Decision matrix
+{
+  "decisionMatrix": [
+    {
+      "threshold": "Immediate Isolation / Emergency Intervention",
+      "evidenceRequirement": "Tier A OR Tier B + imminent risk indicators (threat to life, ongoing violence)",
+      "decisionAuthority": "Node Lead or On-site Verifier (must notify LOTUS within 1 hour)",
+      "permittedImmediateActions": [
+        "Isolate alleged perpetrator from victim environment",
+        "Call emergency services",
+        "Secure scene and preserve evidence",
+        "Temporary suspension of Node privileges",
+        "Temporary protective measures for victim"
+      ],
+      "requiredAuditArtifacts": [
+        "VerificationEvent hash",
+        "media hash",
+        "chain-of-custody hash",
+        "emergency action log"
+      ]
+    },
+    {
+      "threshold": "Rapid Mitigation & Investigation",
+      "evidenceRequirement": "Tier B (≥2 independent corroborations)",
+      "decisionAuthority": "Node Lead with remote LOTUS notification; may request LOTUS panel if cross-node action needed",
+      "permittedImmediateActions": [
+        "Deploy on-site verifier",
+        "Temporary access restrictions",
+        "Preserve evidence",
+        "Begin formal investigation"
+      ],
+      "requiredAuditArtifacts": [
+        "Witness attestations",
+        "sensor hashes",
+        "VerificationEvent(s)",
+        "selectionProofHash if LOTUS used"
+      ]
+    },
+    {
+      "threshold": "Precautionary Mitigation",
+      "evidenceRequirement": "Tier C with high priority score (e.g., location vulnerability, repeat reports)",
+      "decisionAuthority": "Node Duty Officer; escalate to Node Lead within SLA",
+      "permittedImmediateActions": [
+        "Temporary mitigations (signage, temporary barriers, increased patrols)",
+        "Schedule on-site verification",
+        "Offer victim support"
+      ],
+      "requiredAuditArtifacts": [
+        "Report hash",
+        "mitigation task record",
+        "scheduled verification event"
+      ]
+    },
+    {
+      "threshold": "Investigatory / Monitoring",
+      "evidenceRequirement": "Tier C without high-risk indicators",
+      "decisionAuthority": "Automated triage / Node intake staff",
+      "permittedImmediateActions": [
+        "Monitor and request additional evidence",
+        "Schedule follow-up",
+        "No coercive action"
+      ],
+      "requiredAuditArtifacts": [
+        "Report hash",
+        "triage logs",
+        "follow-up schedule"
+      ]
+    }
+  ]
+}
+```
+
