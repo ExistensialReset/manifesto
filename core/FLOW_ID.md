@@ -2,7 +2,7 @@
 
 **Status:** DRAFT  
 **Scope:** Global Node Protocol  
-**Primary Placement:** `/core/FLOW_ID_v3.md`  
+**Primary Placement:** `/core/FLOW_ID.md`  
 **Purpose:** Define FLOW_ID_v3, a decentralized, privacy-preserving identity protocol that guarantees **one human = one ID**, fully compatible with Flow principles, governance via LOTUS Protocol, and post-monetary operation.
 
 ---
