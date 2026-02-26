@@ -100,7 +100,7 @@ Baseline knowledge ensures that all decisions respect Flow ethics and governance
 ## References
 
 - `/core/RNG_AND_LOG_SPEC.md` — Cryptographically verifiable lottery RNG and log standards.  
-- `/core/FLOW_ID_v3.md` — Identity verification protocol for members.  
+- `/core/FLOW_ID.md` — Identity verification protocol for members.  
 - `/structure_in_flow/FLOW_SPIRAL_MAX.md` — High-level spiral timeline context.  
 
 ---
