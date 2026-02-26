@@ -57,8 +57,7 @@
 
 ## 3. High-Level Relationships (Mermaid)
 
-```mermaid
-# LEGAL_OVERVIEW_FLOW — File Structure Diagram
+### LEGAL_OVERVIEW_FLOW — File Structure Diagram
 
 **Status:** Draft  
 **Scope:** /core and /structure_in_flow repositories  
