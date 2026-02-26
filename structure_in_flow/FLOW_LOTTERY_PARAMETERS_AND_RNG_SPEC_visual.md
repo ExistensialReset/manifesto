@@ -245,6 +245,7 @@
 
 **Usage Note:** This document is the authoritative LOTUS RNG and parameter specification for pilot implementation. Publish the human‑readable spec and commit the spec hash to the Flow ledger. Nodes and auditors must reference this file for compliance and audits.
 
+---
 
 ```
 🟢 **Epoch Start**  
