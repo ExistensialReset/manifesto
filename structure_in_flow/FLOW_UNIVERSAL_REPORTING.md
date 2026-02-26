@@ -1,4 +1,4 @@
-## FLOW Universal Reporting Protocol — Implementation Draft
+# FLOW Universal Reporting Protocol — Implementation Draft
 
 **Status:** Draft  
 **Scope:** All Flow Nodes, Spirals, and participants  
