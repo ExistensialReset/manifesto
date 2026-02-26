@@ -4,8 +4,8 @@
 **Layer:** Information & Communication  
 **Scope:** Micro → Node → Regional → Global  
 
-This document defines how information moves, degrades, escalates, and resolves inside M-OS-R.
-It is an architectural layer, not a communication policy. 
+**This document defines how information moves, degrades, escalates, and resolves inside M-OS-R.
+It is an architectural layer, not a communication policy.** 
 
 **Version:** 1.0 — Communication Ecology for Sovereign Communities  
 **Status:** PROPOSED / OPERATIONAL FRAMEWORK  
