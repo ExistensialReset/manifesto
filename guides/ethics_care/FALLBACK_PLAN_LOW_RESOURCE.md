@@ -76,4 +76,4 @@ Fallback C: Local Partner — contact listed local partners to request temporary
 
 - If neither A nor B possible, mobilize Local Partner (Fallback C).
 
-Log anonymized incident and follow up.
+- Log anonymized incident and follow up.
