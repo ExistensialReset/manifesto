@@ -8,7 +8,6 @@ This document defines how information moves, degrades, escalates, and resolves i
 It is an architectural layer, not a communication policy. 
 
 **Version:** 1.0 — Communication Ecology for Sovereign Communities  
-
 **Status:** PROPOSED / OPERATIONAL FRAMEWORK  
 **Classification:** CORE INFRASTRUCTURE  
 **Authors:** Claude & Elinor Frejd  
