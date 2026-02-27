@@ -26,7 +26,7 @@ This document exists because the repository is big, and you don't know where to 
 ---
 
 ### 🏘️ If you are 10+ people ready to build:
-→ **Read:** [FLOW_PILOT_PROTOCOL.md](./guides/activation/FLOW_PILOT_PROTOCOL.md)  
+→ **Read:** [FLOW_PILOT_PROTOCOL.md](./guides/practical_implementation/FLOW_PILOT_PROTOCOL.md)  
 → **Do:** 6-month structured pilot  
 → **Time:** 6 months minimum
 
@@ -46,8 +46,8 @@ This document exists because the repository is big, and you don't know where to 
 ---
 
 ### 👶 If you have children:
-→ **Read:** [KIDS_AND_PLAY_IN_FLOW.md](./guides/do-it-yourself/KIDS_AND_PLAY_IN_FLOW.md)  
-→ **Why:** Play is the most serious thing we do.
+→ **Read:** [SYMBIOTIC_STORIES.md](./guides/AI/SYMBIOTIC_STORIES.md)  
+→ **Why:** Play and interaction with AI mirrors are the most serious things we do.
 
 ---
 
@@ -78,6 +78,26 @@ This document exists because the repository is big, and you don't know where to 
 
 ---
 
+### ❄️ If you want to prepare for extreme scenarios:
+→ **Read:** [NODE_0_SUBZERO_GUIDE.md](./guides/activation/NODE_0_SUBZERO_GUIDE.md)  
+→ **Why:** Sovereignty, internal baseline, and logistical survival when everything else is gone.
+
+---
+
+### 🌍 If you want ethical and sustainable frameworks:
+→ **Read:** [ETHICS_AND_CARE.md](./guides/ethics_care/ETHICS_AND_CARE.md)  
+→ **Read:** [ECOLOGICAL_AXIOM_GUIDE.md](./guides/ethics_care/ECOLOGICAL_AXIOM_GUIDE.md)  
+→ **Why:** Flow works only when we care for each other and our environment.
+
+---
+
+### 📈 If you want to design, plan, or scale nodes:
+→ **Read:** [PRACTICAL_ROADMAP.md](./guides/activation/PRACTICAL_ROADMAP.md)  
+→ **Read:** [SCALING_FLOW_AND_UBUNTU.md](./guides/practical_implementation/SCALING_FLOW_AND_UBUNTU.md)  
+→ **Do:** Apply incrementally with local adaptation
+
+---
+
 ## 🚫 WHAT YOU DON'T NEED TO READ (YET)
 
 - Technical annexes  
@@ -93,8 +113,8 @@ This document exists because the repository is big, and you don't know where to 
 ## 📍 WHERE YOU ARE RIGHT NOW
 
 You are reading this because:
-- You're tired of Mammon (the system that makes survival conditional)
-- You sense there's another way
+- You're tired of Mammon (the system that makes survival conditional)  
+- You sense there's another way  
 - You want to try
 
 **You're in the right place.**
@@ -138,4 +158,4 @@ Do what you can.
 ---
 
 **Questions?** elinor.frejd@proton.me  
-*(I will answer, but I am a node, not a hub. If I'm at capacity, please be patient.)*
+*(I will answer, but I am just a person. I will answer, but if it might take some time, please be patient.)*
