@@ -78,7 +78,7 @@ This document exists because the repository is big, and you don't know where to 
 
 ---
 
-### ❄️ If you want to prepare for extreme scenarios:
+### 😟 If you have an extremely hard scenario in your life:
 → **Read:** [NODE_0_SUBZERO_GUIDE.md](./guides/activation/NODE_0_SUBZERO_GUIDE.md)  
 → **Why:** Sovereignty, internal baseline, and logistical survival when everything else is gone.
 
