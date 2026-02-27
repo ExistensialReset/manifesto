@@ -1,6 +1,0 @@
-*** Begin Patch
-*** Update File: ethos/THE_HARM_BOUNDARY_PROTOCOL.md
-@@
--Intervention threshold: score > 70 triggers suspension of baseline access.
-+Intervention threshold: Interventions require verified harm, documented attempts at restorative measures, and a proportionate, reviewable response. No automated numeric score may trigger suspension of baseline access.
-*** End Patch
