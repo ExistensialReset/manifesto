@@ -341,7 +341,7 @@ but **authority always remains with you**.
 
 # IV. THE MEASURE OF LIFE
 
-**Life = Calm × Spontaneity × Inclusion**
+**Life = Calm × Spontaneity × Interconnection**
 
 If any factor reaches zero, life quality collapses to zero.
 
