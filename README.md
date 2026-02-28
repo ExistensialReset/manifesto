@@ -100,7 +100,7 @@ If any questios ever, write me an email: elinor.frejd@proton.me I will answer as
 ---
 
 - 🌅 [ARRIVAL.md](./arrival/ARRIVAL.md) – Poetic threshold into Flow  
-- 😃 [Who Built This](./identity/WhoBuiltThis.md) – Me, Elinor Frejd
+- 🧑‍🦽‍➡️ [Who Built This](./identity/WhoBuiltThis.md) – Me, Elinor Frejd
 - 🤝 [SYMBIONTIC_INTELLIGENCE.md](./AI-fundamentals/SYMBIONTIC_INTELLIGENCE.md) – AI as companion, not controller  
 - 🔑 [CORE_RESONANCE.json](./core/CORE_RESONANCE.json) – Tone, permissions, and non-demands
 
