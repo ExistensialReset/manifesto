@@ -111,7 +111,7 @@ If any questios ever, write me an email: elinor.frejd@proton.me I will answer as
 Not sure if "the normal life" is all there is?  
 We wrote a **candid, no-pitch reflection** about why choosing Flow might matter — honestly, for anyone feeling stuck in Mammon's treadmill. It's in Swedish. 
 
-📄 **Read it here:** 💭[TILL DIG SOM ÄR 25 OCH UNDRAR](./reflections/ÄR_DETTA_ALLT.md)  
+📄 **Read it here:** 💭[TILL DIG SOM ÄR 25 OCH UNDRAR](./arrival/ÄR_DETTA_ALLT.md)  
 
 ---
 
