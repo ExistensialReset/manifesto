@@ -103,6 +103,14 @@ If any questios ever, write me an email: elinor.frejd@proton.me I will answer as
 - 🤝 [SYMBIONTIC_INTELLIGENCE.md](./AI-fundamentals/SYMBIONTIC_INTELLIGENCE.md) – AI as companion, not controller  
 - 🔑 [CORE_RESONANCE.json](./core/CORE_RESONANCE.json) – Tone, permissions, and non-demands
 
+---
+
+## 🌊 Honest Reflections for the 25-Year-Old
+
+Not sure if "the normal life" is all there is?  
+We wrote a **candid, no-pitch reflection** about why choosing Flow might matter — honestly, for anyone feeling stuck in Mammon's treadmill. It's in Swedish. 
+
+📄 **Read it here:** 💭[TILL DIG SOM ÄR 25 OCH UNDRAR](./reflections/ÄR_DETTA_ALLT.md)  
 
 ---
 
@@ -111,8 +119,7 @@ If any questios ever, write me an email: elinor.frejd@proton.me I will answer as
 ✊ [ACTIVIST_GUIDE.md](./guides/practical_implementation/ACTIVIST_GUIDE.md) – Acting without becoming what you resist  
 ⚠️ [CRISIS_PROTOCOL.md](./guides/life_cycle/CRISIS_PROTOCOL.md) – When systems tremble  
 🧩 [DEPROGRAMMING_GUIDE.md](./guides/deprogramming/DEPROGRAMMING_GUIDE.md) – Unlearning inherited myths  
-💰 [data_validation](./data_validation) – Beyond GDP, toward care  
-📋 [FLOW_SRS.md](./systemic/FLOW_SRS.md) – Requirements without domination  
+💰 [Data_validation](./data_validation) – Beyond GDP, toward care  
 🧠 [NEURODIVERGENT_PROTOCOL.md](./guides/ethics_care/NEURODIVERGENT_PROTOCOL.md) – Cognitive dignity by default  
 🛠️ [NODE_ACT_1.md](./guides/activation/NODE_ACT_1.md) – How to start living Flow  
 🔄 [TRANSITION_PROTOCOL.md](./guides/economics/TRANSITION_PROTOCOL.md) – Moving without collapse  
