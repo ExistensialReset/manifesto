@@ -61,7 +61,20 @@ Protected against **extraction, commercialization, and systemic capture**.
 - ⚖️ [LICENSE.md](./LICENSE.md) – CC BY-NC-SA 4.0  
 - 🛡️ [ANTI-CAPTURE-PROTOCOL.md](./ANTI-CAPTURE-PROTOCOL.md) – Immune system against capitalist capture  
 
-> **Note:** DIVINE resists optimization. Misuse for profit will break it. ⚡
+---
+
+## 🛡️ License & Compliant Node Certification 🏷️
+
+This repository is **protected against extraction, commercialization, and systemic capture**.  
+
+- ⚖️ [LICENSE.md](./LICENSE.md) – CC BY-NC-SA 4.0  
+  Combines legal terms, trademark protection, and anti-extraction / anti-capture principles.
+
+- 🏷️ [CERTIFICATION.md](./CERTIFICATION.md) – Defines **Compliant Node status**, required to publicly use the names **M-OS-R, Flow, or Existential Reset**.
+
+> **Note:** M-OS-R, Flow, and Existential Reset are **living systems, not products**.  
+> Use, adapt, or build upon them only in ways that respect ethical, non-commercial, and anti-extraction principles.  
+> Unauthorized commercial or optimized uses may violate both license and trademark protections. ⚡
 
 ---
 
