@@ -1,4 +1,5 @@
-# 🌍 First Notion — Nervous System-Aware Living Architecture for Human Flourishing
+# 🌍 First Notion — 
+### Nervous System-Aware Living Architecture for Human Flourishing
 
 <meta name="description" content="A living knowledge repository for trauma-informed, intentional communities, mutual aid, post-scarcity living, commons, and human-AI collaboration. Explore Flow, care, and sovereignty in social architecture.">
 
