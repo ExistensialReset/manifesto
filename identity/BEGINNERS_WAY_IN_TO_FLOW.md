@@ -109,7 +109,7 @@ Everything in Flow is built on three foundations that **cannot be violated**:
 **AXIOM 3: Baseline Primacy**  
 → The **Baseline** (survival needs) can never be violated.  
 → This is the most protected principle - nothing overrides it.  
-→ [Read: What is Baseline?](#12-baseline-the-unconditional-guarantee)
+→ [Read: What is Baseline?](../core/RESOURCE_METRIC_STANDARDS.md)
 
 [Full explanation: AXIOMS.md](../ethos/AXIOMS.md)
 
