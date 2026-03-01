@@ -53,18 +53,18 @@ Flow is built on three core needs:
 
 **L (Lugn - Swedish for "Calm")**  
 → Nervous system safety. Freedom from constant fear/stress.  
-→ *[Glossary: Lugn](./KEYS_TO_EXISTENTIAL_RESET.md#l-lugn)*  
+→ *[Glossary: Lugn](./practical_implementation/KEYS_TO_EXISTENTIAL_RESET.md#l-lugn)*  
 → [Read more: DIVINE.md](../ethos/DIVINE.md)
 
 **S (Spontanitet - "Spontaneity")**  
 → Irreducible freedom. The ability to act from authentic impulse, not coercion.  
 → Cannot be programmed or optimized - it must be allowed to emerge.  
-→ *[Glossary: Spontanitet](./KEYS_TO_EXISTENTIAL_RESET.md#s-spontanitet)*
+→ *[Glossary: Spontanitet](../practical_implementation/KEYS_TO_EXISTENTIAL_RESET.md#s-spontanitet)*
 
 **I (Inkännande - "Empathy")**  
 → Felt connection to others. Sensing into another's experience before acting.  
 → Prevents harm through attunement.  
-→ *[Glossary: Inkännande](./KEYS_TO_EXISTENTIAL_RESET.md#i-inkännande)*
+→ *[Glossary: Inkännande](../practical_implementation/KEYS_TO_EXISTENTIAL_RESET.md#i-inkännande)*
 
 **Why multiplication?**  
 Because if ANY factor is zero, life quality collapses.  
@@ -88,7 +88,7 @@ This is why Flow focuses on **balancing** all three, not maximizing one.
 
 **This is not abstract philosophy - it's lived reality.**
 
-[Deep dive: DIVINE.md](../ethos/DIVINE.md) | [Glossary entry: L×S×I](./KEYS_TO_EXISTENTIAL_RESET.md#life-formula)
+[Deep dive: DIVINE.md](../ethos/DIVINE.md) | [Glossary entry: L×S×I](../practical_implementation/KEYS_TO_EXISTENTIAL_RESET.md#life-formula)
 
 ---
 
@@ -144,7 +144,7 @@ Better 5% "free riders" than 1% dying because we means-tested.
 
 Most humans naturally want to contribute when survival isn't coerced.
 
-[Deep dive: Baseline concept](../ethos/MANIFESTO.md) | [Free Rider Question](../KEYS_TO_EXISTENTIAL_RESET.md#free-rider-question)
+[Deep dive: Baseline concept](../ethos/MANIFESTO.md) | [Free Rider Question](../practical_implementation/KEYS_TO_EXISTENTIAL_RESET.md#free-rider-question)
 
 ---
 
@@ -458,7 +458,7 @@ Child's peace > procedural completion.
 If you spend 6 hours/day managing diabetes, depression, or pain - **that is labor.**  
 It's not "unproductive." It's the work of keeping yourself alive in a world not designed for you.
 
-[Deep dive: Contribution types](./KEYS_TO_EXISTENTIAL_RESET.md#contribution) | [Chronic illness: CHRONIC_ILLNESS_AND_DISABILITY_IN_FLOW.md](../arrival/CHRONIC_ILLNESS_AND_DISABILITY_IN_FLOW.md)
+[Deep dive: Contribution types](../practical_implementation/KEYS_TO_EXISTENTIAL_RESET.md#contribution) | [Chronic illness: CHRONIC_ILLNESS_AND_DISABILITY_IN_FLOW.md](../arrival/CHRONIC_ILLNESS_AND_DISABILITY_IN_FLOW.md)
 
 ---
 
