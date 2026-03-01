@@ -144,7 +144,7 @@ Better 5% "free riders" than 1% dying because we means-tested.
 
 Most humans naturally want to contribute when survival isn't coerced.
 
-[Deep dive: Baseline concept](../ethos/MANIFESTO.md) | [Free Rider Question](./KEYS_TO_EXISTENTIAL_RESET.md#free-rider-question)
+[Deep dive: Baseline concept](../ethos/MANIFESTO.md) | [Free Rider Question](../KEYS_TO_EXISTENTIAL_RESET.md#free-rider-question)
 
 ---
 
