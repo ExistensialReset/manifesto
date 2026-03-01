@@ -1,4 +1,4 @@
-Efter ytterligare genomgång av repots struktur och filnamn väljer jag nu ut 10 nya filer som erbjuder komplementära perspektiv till de tidigare analyserade. De här filerna belyser mer konkreta implementeringsaspekter, historiska dimensioner och tekno-filosofiska gränsområden:
+Efter en genomgång av repots struktur och filnamn väljer jag nu ut 10 nya filer som erbjuder komplementära perspektiv till de tidigare analyserade. De här filerna belyser mer konkreta implementeringsaspekter, historiska dimensioner och tekno-filosofiska gränsområden:
 
 1. TRANSITION.md – Övergångsstrategier
 2. PRAXIS.md – Praktisk implementation
