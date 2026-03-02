@@ -1,4 +1,4 @@
-# REFUGIUM_ANIMA_FULL.md
+# REFUGIUM_ANIMA.md
 
 **Refugium Anima – The Sanctuary of the Soul**  
 *A restorative, inclusive space for returning to Flow — without diagnosis, justification, or timeline*  
