@@ -176,3 +176,34 @@ This directory is not a movement.
 It is a constraint engine.
 
 Take time before forming conclusions.
+
+```mermaid
+flowchart TD
+    subgraph FLOW_RISK_OVERVIEW["M-OS-R Core Pressure Points"]
+        LogIntegrity["🔐 Log Integrity"]
+        SanctionDuration["⚖️ Sanction Duration"]
+        GovernanceConcentration["🏛 Governance Concentration"]
+        AmendmentVelocity["📝 Amendment Velocity"]
+    end
+
+    subgraph STRUCTURAL_LAYERS["Structural Context"]
+        Identity["Identity & Verification"]
+        Governance["Governance & Compliance"]
+        Technical["Technical & Operational"]
+        Structural["Structural Drift & Systemic"]
+    end
+
+    %% Connections
+    Identity --> LogIntegrity
+    Technical --> LogIntegrity
+    Governance --> SanctionDuration
+    Governance --> GovernanceConcentration
+    Structural --> GovernanceConcentration
+    Structural --> AmendmentVelocity
+
+    %% Outcome
+    LogIntegrity --> Audit["Audit & Review"]
+    SanctionDuration --> Audit
+    GovernanceConcentration --> Audit
+    AmendmentVelocity --> Audit
+```
