@@ -193,6 +193,41 @@ Explore /ethos.
 
 ---
 
+# 10. What Would a First Pilot Look Like?
+
+Flow does not yet exist as a live implementation.
+
+There is no active Node.
+No micro-circle.
+No deployed Baseline infrastructure.
+
+A first pilot would likely begin small:
+
+• 20–150 voluntary participants  
+• Transparent resource accounting  
+• Measured Baseline provisioning  
+• Surplus tracking in one category (e.g. energy or food)  
+• Rotating governance simulation  
+• AI-assisted auditing  
+
+The purpose of a pilot is not utopia.
+
+It is stress-testing invariants:
+
+Can Baseline be measured?
+Can surplus circulate without collapse?
+Can governance rotate without power consolidation?
+Can exit remain real?
+
+Until a pilot exists,
+Flow remains a structural design.
+
+The next phase is not expansion.
+
+It is prototyping.
+
+---
+
 Flow does not require belief.
 
 It requires structural coherence.
