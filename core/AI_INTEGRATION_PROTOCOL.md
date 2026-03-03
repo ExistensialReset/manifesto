@@ -131,30 +131,46 @@ Intelligence can assist governance.
 Only humans can legitimize it.  
 
 All AI usage must adhere to `FLOW_CORE_INVARIANTS.md` and `BASELINE_AMENDMENT_PROTOCOL.md`.
-
 ```mermaid
 flowchart TD
-    subgraph AI_OVERSIGHT["AI Integration & Oversight"]
-        AI1[Data Verification]
-        AI2[Baseline Compliance Detection]
-        AI3[Surplus Calculation Auditing]
-        AI4[Simulation & Pattern Detection]
-        AI_OUTPUT[AI Outputs Advisory Only]
-        HUMAN[LOTUS / Human Oversight]
+    %% Subgraph: AI Core Functions
+    subgraph AI_CORE["AI Core Functions"]
+        direction TB
+        AI1["🔹 Data Verification"]:::high
+        AI2["🔸 Baseline Compliance Detection"]:::critical
+        AI3["🔹 Surplus Calculation Auditing"]:::high
+        AI4["🔹 Simulation & Pattern Detection"]:::medium
     end
 
-    subgraph TRIGGERS["Risk & Threshold Triggers"]
-        Thresholds[RISK_MANAGEMENT.md Thresholds]
-        Audit[Audit & Technical Review]
+    %% Subgraph: Human Oversight
+    subgraph HUMAN_OVERSIGHT["Human LOTUS / Oversight"]
+        direction TB
+        HUMAN1["✅ Final Decision Authority"]:::critical
+        HUMAN2["🔍 Audit & Technical Review"]:::high
+    end
+
+    %% Subgraph: Thresholds / Risk Triggers
+    subgraph THRESHOLDS["Risk & Threshold Triggers"]
+        direction TB
+        T1["⚠️ Triggered by RISK_MANAGEMENT.md"]:::critical
+        T2["📊 Structural & Operational Thresholds"]:::high
     end
 
     %% Connections
-    AI1 --> AI_OUTPUT
-    AI2 --> AI_OUTPUT
-    AI3 --> AI_OUTPUT
-    AI4 --> AI_OUTPUT
-    AI_OUTPUT --> HUMAN
-    HUMAN --> Thresholds
-    AI_OUTPUT --> Thresholds
-    Thresholds --> Audit
+    AI1 -->|Advisory| HUMAN1
+    AI2 -->|Advisory| HUMAN1
+    AI3 -->|Advisory| HUMAN1
+    AI4 -->|Advisory| HUMAN1
+
+    HUMAN1 --> T1
+    HUMAN2 --> T1
+    AI2 --> T1
+    AI3 --> T2
+    T1 --> HUMAN2
+    T2 --> HUMAN2
+
+    %% Styling
+    classDef critical fill:#ff6666,stroke:#900,stroke-width:2px,color:#fff;
+    classDef high fill:#ffcc66,stroke:#996600,stroke-width:2px,color:#000;
+    classDef medium fill:#66ccff,stroke:#006699,stroke-width:2px,color:#000;
 ```
