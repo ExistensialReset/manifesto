@@ -173,3 +173,45 @@ Stability depends on asymmetry in favor of protection.
 - `BASELINE_RECOVERY_PROTOCOL.md`  
 - `LOTUS_PROTOCOL.md`  
 - `VERSIONING_AND_COMPOST_POLICY.md`
+
+```mermaid
+flowchart TD
+    %% Subgraphs
+    subgraph PROPOSAL["1️⃣ Proposal Creation"]
+        direction TB
+        P1["📄 Draft Proposal"]:::medium
+        P2["🧾 Attach Metadata & Metrics"]:::medium
+        P3["🔹 Link AI Simulation"]:::high
+    end
+
+    subgraph REVIEW["2️⃣ Public Review & LOTUS Vote"]
+        direction TB
+        R1["📢 Publish 30/60-day Review"]:::medium
+        R2["🗳️ LOTUS Voting"]:::critical
+        R3["📊 Regional Feasibility Assessment"]:::high
+    end
+
+    subgraph MONITOR["3️⃣ Post-Approval Monitoring"]
+        direction TB
+        M1["📈 KPI Tracking 1/3/6/12 months"]:::medium
+        M2["🔍 Audit & Recovery Check"]:::high
+        M3["✅ Ledger Update & Recordkeeping"]:::medium
+    end
+
+    subgraph EMERGENCY["4️⃣ Emergency / Temporary Reduction"]
+        direction TB
+        E1["⚠️ Triggered by Crisis"]:::critical
+        E2["🗳️ 75% LOTUS Vote Required"]:::critical
+        E3["⏳ Auto-expiration 90 days"]:::medium
+        E4["📄 Post-facto Ratification"]:::high
+    end
+
+    %% Connections
+    P1 --> P2 --> P3 --> R1 --> R2 --> R3 --> M1 --> M2 --> M3
+    E1 --> E2 --> E3 --> E4 --> M2
+
+    %% Styling
+    classDef critical fill:#ff6666,stroke:#900,stroke-width:2px,color:#fff;
+    classDef high fill:#ffcc66,stroke:#996600,stroke-width:2px,color:#000;
+    classDef medium fill:#66ccff,stroke:#006699,stroke-width:2px,color:#000;
+```
