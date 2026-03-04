@@ -63,7 +63,13 @@ Everything is fully **markdown-compatible (INUTI)**.
 ---
 
 ## 5. NODE ENERGY MIX EXAMPLE (Europe Node)
-Solar      ██████████ 200k kWh Wind       ████ 90k kWh Biogas     ████████ 180k kWh Geothermal ███████████ 250k kWh
+Solar      ██████████ 200k kWh 
+
+Wind       ████ 90k kWh 
+
+Biogas     ████████ 180k kWh 
+
+Geothermal ███████████ 250k kWh
 
 > Quick reference for the proportion of each energy source per Node.
 
