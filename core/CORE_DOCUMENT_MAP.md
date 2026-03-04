@@ -1,4 +1,4 @@
-# M-OS-R Core Documentation (English Consolidated)
+# M-OS-R Core Documentation
 
 **Status:** Active Core Reference  
 **Scope:** Global / Multi-Phase / Node-Level  
