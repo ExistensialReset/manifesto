@@ -1,5 +1,3 @@
-d
-Markdown id="ENERGY_DIAGRAMS_WORLDWIDE.md"
 # ENERGY_DIAGRAMS_WORLDWIDE.md
 
 **Version:** 1.0  
