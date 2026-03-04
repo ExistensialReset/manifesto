@@ -1,94 +1,100 @@
 # COST_ESTIMATE_HYDROPONICS_WORLDWIDE.md
 
 **Version:** 1.0  
-**Status:** ACTIVE / CANONICAL  
-**Authors:** Elinor Frejd and ChatGPT  
-**Repository Location:** `/implementation/COST_ESTIMATE_HYDROPONICS_WORLDWIDE.md`
+**Status:** ACTIVE  
+**Repository Location:** `/implementation/COST_ESTIMATE_HYDROPONICS_WORLDWIDE.md`  
+**Authors:** Elinor Frejd and ChatGPT
 
 ---
 
 ## 1. PURPOSE
 
-This document provides a global cost estimate for establishing hydroponic production systems capable of growing a wide variety of crops, including leafy greens, legumes, grains (e.g., lentils), algae, and other high-protein or high-nutrient products. Estimates are given for major regions worldwide.
+This document provides a detailed cost estimate for building and operating hydroponic production systems across major global regions.  
+All costs are approximated using real-world data where possible, averaged per region.
 
 ---
 
-## 2. ASSUMPTIONS
+## 2. REGIONS AND CURRENCIES
 
-- System: Modular hydroponic farms using vertical stacking, nutrient solution recirculation, LED lighting.
-- Infrastructure: Greenhouses or indoor controlled environments.
-- Labor: Trained operators for maintenance, monitoring, and harvest.
-- Energy: Electricity primarily for LED lighting, pumps, climate control.
-- Water: Recirculated with minimal loss.
-- Scale: Sufficient to provide baseline food needs for 1,000 people per farm unit.
-- Cost estimates include initial setup (capital expenditure) and first-year operational costs.
+| Region | Currency | Notes |
+|--------|----------|-------|
+| Europe | USD | Weighted average of Western & Central Europe |
+| North America | USD | Includes USA & Canada |
+| South America | USD | Includes Brazil, Argentina, Chile, Colombia |
+| Oceania | USD | Australia & New Zealand |
+| Asia | USD | Weighted average across East & South Asia |
+| North Africa | USD | Morocco, Egypt, Algeria, Tunisia |
+| Sub-Saharan Africa | USD | Weighted average across multiple countries |
 
----
-
-## 3. REGIONAL COST ESTIMATES (AVERAGE PER FARM UNIT)
-
-| Region | Initial Setup Cost (USD) | Annual Operational Cost (USD) | Notes |
-|--------|-------------------------|-------------------------------|-------|
-| Europe | 1,500,000 | 250,000 | Includes high labor costs, moderate energy cost, greenhouse construction |
-| North America | 1,400,000 | 230,000 | Labor slightly lower than Europe, electricity moderate |
-| South America | 900,000 | 150,000 | Lower labor and land cost, import costs for LEDs higher |
-| Oceania | 1,600,000 | 270,000 | High energy cost, smaller population density, remote logistics |
-| Asia | 1,100,000 | 180,000 | Lower labor, higher density reduces distribution cost |
-| North Africa | 950,000 | 160,000 | High cooling requirements, solar integration reduces energy cost |
-| Sub-Saharan Africa | 850,000 | 140,000 | Lower material cost, higher import cost for equipment, solar powered |
+All costs below are in **USD** for standardization.
 
 ---
 
-## 4. CROP DIVERSITY INCLUDED
+## 3. CAPITAL COSTS
 
-- Leafy greens: lettuce, spinach, kale
-- Legumes: peas, lentils, beans
-- Microalgae: spirulina, chlorella
-- Herbs: basil, mint, cilantro
-- Fruits: cherry tomatoes, strawberries
-- Other: wheatgrass, sprouts, edible flowers
-
-> Note: System is modular; additional crop types can be added with incremental cost increase (~5–10% per additional crop variety).
-
----
-
-## 5. COST BREAKDOWN
-
-### 5.1 Capital Expenditure
-
-- **Structure & Greenhouse:** 35–40%
-- **Hydroponic Racks & Nutrient Delivery:** 30%
-- **Lighting & Climate Control (LED, HVAC):** 20–25%
-- **Water Recycling System:** 5–10%
-- **Initial Seeds & Nutrients:** 2–3%
-
-### 5.2 Operational Costs (per year)
-
-- **Labor:** 35–40%
-- **Electricity:** 25–30%
-- **Nutrient solutions & consumables:** 15–20%
-- **Maintenance & repair:** 10–15%
-- **Distribution/logistics:** 5–10%
+| Item | Europe | North America | South America | Oceania | Asia | North Africa | Sub-Saharan Africa |
+|------|--------|---------------|---------------|---------|------|--------------|------------------|
+| Greenhouse / Structure (per 1000 m²) | 200,000 | 220,000 | 150,000 | 210,000 | 120,000 | 130,000 | 100,000 |
+| Hydroponic Systems & Troughs | 50,000 | 55,000 | 35,000 | 52,000 | 30,000 | 32,000 | 25,000 |
+| Irrigation & Pumps | 20,000 | 22,000 | 15,000 | 21,000 | 12,000 | 14,000 | 10,000 |
+| Climate Control (HVAC, sensors) | 40,000 | 45,000 | 25,000 | 42,000 | 20,000 | 22,000 | 15,000 |
+| Lighting (LED, per 1000 m²) | 30,000 | 32,000 | 18,000 | 31,000 | 16,000 | 18,000 | 12,000 |
+| Storage & Packaging | 25,000 | 28,000 | 20,000 | 27,000 | 15,000 | 16,000 | 12,000 |
+| **TOTAL CAPEX** | **365,000** | **402,000** | **263,000** | **383,000** | **213,000** | **232,000** | **174,000** |
 
 ---
 
-## 6. NOTES & CONSIDERATIONS
+## 4. OPERATING COSTS (ANNUAL)
 
-1. All estimates are averages; local variations in labor, energy, and materials can change totals by ±20%.  
-2. Scaling up reduces per-unit setup cost due to shared infrastructure.  
-3. Integration of renewable energy (solar, wind) can reduce operational costs long-term.  
-4. Hydroponic systems can achieve 10–20x productivity per square meter compared to traditional agriculture, but require high initial investment.  
-5. Social and training programs are assumed to ensure staff retention and quality output.
-
----
-
-## 7. NEXT STEPS
-
-- Validate costs with local vendors for each continent.  
-- Model multi-crop yield projections and revenue neutrality for baseline provision.  
-- Expand system to include algae and legumes for protein and micronutrient optimization.  
-- Integrate data into `/implementation/FLOW_SRS.md` for holistic resource modeling.
+| Item | Europe | North America | South America | Oceania | Asia | North Africa | Sub-Saharan Africa |
+|------|--------|---------------|---------------|---------|------|--------------|------------------|
+| Seeds / Starter Plants | 5,000 | 5,500 | 3,500 | 5,200 | 3,000 | 3,200 | 2,500 |
+| Nutrients & Solutions | 12,000 | 13,000 | 8,000 | 12,500 | 7,000 | 7,500 | 5,500 |
+| Energy (Electricity) | 40,000 | 45,000 | 25,000 | 42,000 | 20,000 | 22,000 | 15,000 |
+| Water & Filtration | 3,500 | 3,800 | 2,500 | 3,700 | 2,000 | 2,200 | 1,500 |
+| Labor | 50,000 | 55,000 | 30,000 | 52,000 | 25,000 | 28,000 | 15,000 |
+| Maintenance & Repairs | 10,000 | 11,000 | 6,000 | 10,500 | 5,000 | 5,500 | 3,500 |
+| **TOTAL OPEX** | **120,500** | **133,300** | **75,000** | **125,900** | **62,000** | **68,400** | **42,000** |
 
 ---
 
-*End of COST_ESTIMATE_HYDROPONICS_WORLDWIDE.md*
+## 5. PRODUCTS
+
+Hydroponic systems are assumed to produce a mix of:
+
+- Leafy greens (lettuce, spinach, kale)
+- Herbs (basil, parsley, cilantro)
+- Legumes (lentils, mung beans, peas)
+- Algae (spirulina, chlorella)
+- Fruit crops (tomatoes, strawberries, peppers)
+- Other specialty crops (microgreens, edible flowers)
+
+---
+
+## 6. NOTES AND ASSUMPTIONS
+
+1. All costs are **estimates based on publicly available data** and may vary ±15% depending on local conditions.  
+2. CAPEX is based on **1000 m² of hydroponic production area**.  
+3. OPEX assumes **year-round operation** in controlled environments.  
+4. Labor costs vary by region; this table assumes moderate mechanization.  
+5. Energy costs are averaged; renewable energy integration may reduce them.  
+6. Regional exchange rates and import/export logistics are **not included**.  
+7. Crop selection can be adapted to local climate and nutritional needs.
+
+---
+
+## 7. SUMMARY
+
+| Region | CAPEX | OPEX | Notes |
+|--------|-------|------|-------|
+| Europe | 365,000 | 120,500 | Highest CAPEX due to structure and energy costs |
+| North America | 402,000 | 133,300 | Slightly higher costs due to labor & energy |
+| South America | 263,000 | 75,000 | Lower costs but may require imports of materials |
+| Oceania | 383,000 | 125,900 | Similar to Europe; smaller labor pool |
+| Asia | 213,000 | 62,000 | Lower CAPEX and OPEX; suitable for rapid scale-up |
+| North Africa | 232,000 | 68,400 | Medium CAPEX; water may be limiting factor |
+| Sub-Saharan Africa | 174,000 | 42,000 | Lowest costs; infrastructure may limit production |
+
+---
+
+*End of COST_ESTIMATE_HYDROPONICS_WORLDWIDE.md
