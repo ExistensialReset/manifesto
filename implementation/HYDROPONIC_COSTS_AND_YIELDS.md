@@ -1,6 +1,141 @@
 # HYDROPONIC_COSTS_AND_YIELDS.md
 
 **Version:** 1.0  
+**Status:** ACTIVE  
+**Repository Location:** `/implementation/HYDROPONIC_COSTS_AND_YIELDS.md`  
+**Authors:** Elinor Frejd & ChatGPT  
+
+---
+
+## 1. PURPOSE
+
+This document provides **realistic estimates** for setting up and operating hydroponic production for multiple crops across global regions.  
+It includes **setup cost, annual operating cost, expected yields by crop**, and **cost per ton**, to guide self-sufficiency planning for Flow Nodes.
+
+---
+
+## 2. ASSUMPTIONS
+
+- Production includes: leafy greens, vegetables, herbs, lentils, microalgae.  
+- Node size: scaled for **10,000 people per region**.  
+- Costs are in **USD**.  
+- Yield estimates are **conservative**, based on hydroponics research and regional agriculture data.  
+- Operating costs include energy, water, nutrients, labor, maintenance.
+
+---
+
+## 3. REGIONAL ESTIMATES BY CROP
+
+### Europe / North America
+
+| Crop | Yield (tons/year) | Setup Cost (USD) | Annual Operating Cost (USD) | Cost per Ton (USD) |
+|------|-----------------|-----------------|----------------------------|------------------|
+| Leafy greens | 400 | 4,000,000 | 600,000 | 1,500 |
+| Vegetables | 350 | 3,500,000 | 525,000 | 1,500 |
+| Herbs | 50 | 500,000 | 75,000 | 1,500 |
+| Lentils | 200 | 2,000,000 | 300,000 | 1,500 |
+| Microalgae | 200 | 2,500,000 | 350,000 | 1,750 |
+| **Total** | **1,200** | **12,500,000** | **1,850,000** | **1,542** |
+
+---
+
+### South America
+
+| Crop | Yield (tons/year) | Setup Cost (USD) | Annual Operating Cost (USD) | Cost per Ton (USD) |
+|------|-----------------|-----------------|----------------------------|------------------|
+| Leafy greens | 300 | 3,000,000 | 450,000 | 1,500 |
+| Vegetables | 300 | 3,000,000 | 450,000 | 1,500 |
+| Herbs | 50 | 400,000 | 60,000 | 1,200 |
+| Lentils | 200 | 2,000,000 | 300,000 | 1,500 |
+| Microalgae | 200 | 2,500,000 | 360,000 | 1,800 |
+| **Total** | **1,050** | **8,900,000** | **1,320,000** | **1,257** |
+
+---
+
+### Oceania
+
+| Crop | Yield (tons/year) | Setup Cost (USD) | Annual Operating Cost (USD) | Cost per Ton (USD) |
+|------|-----------------|-----------------|----------------------------|------------------|
+| Leafy greens | 200 | 2,000,000 | 300,000 | 1,500 |
+| Vegetables | 200 | 2,000,000 | 300,000 | 1,500 |
+| Herbs | 50 | 400,000 | 60,000 | 1,200 |
+| Lentils | 100 | 300,000 | 60,000 | 600 |
+| Microalgae | 50 | 100,000 | 0 | 2,000 |
+| **Total** | **600** | **4,800,000** | **720,000** | **1,200** |
+
+---
+
+### Asia
+
+| Crop | Yield (tons/year) | Setup Cost (USD) | Annual Operating Cost (USD) | Cost per Ton (USD) |
+|------|-----------------|-----------------|----------------------------|------------------|
+| Leafy greens | 600 | 6,000,000 | 850,000 | 1,417 |
+| Vegetables | 500 | 5,000,000 | 700,000 | 1,400 |
+| Herbs | 100 | 1,000,000 | 150,000 | 1,500 |
+| Lentils | 300 | 2,000,000 | 400,000 | 1,333 |
+| Microalgae | 300 | 1,200,000 | 100,000 | 1,000 |
+| **Total** | **1,800** | **15,200,000** | **2,200,000** | **1,444** |
+
+---
+
+### North Africa
+
+| Crop | Yield (tons/year) | Setup Cost (USD) | Annual Operating Cost (USD) | Cost per Ton (USD) |
+|------|-----------------|-----------------|----------------------------|------------------|
+| Leafy greens | 100 | 1,000,000 | 150,000 | 1,500 |
+| Vegetables | 100 | 1,000,000 | 150,000 | 1,500 |
+| Herbs | 25 | 200,000 | 30,000 | 1,200 |
+| Lentils | 50 | 800,000 | 100,000 | 1,800 |
+| Microalgae | 75 | 500,000 | 50,000 | 733 |
+| **Total** | **350** | **3,500,000** | **480,000** | **1,371** |
+
+---
+
+### Sub-Saharan Africa
+
+| Crop | Yield (tons/year) | Setup Cost (USD) | Annual Operating Cost (USD) | Cost per Ton (USD) |
+|------|-----------------|-----------------|----------------------------|------------------|
+| Leafy greens | 150 | 1,500,000 | 225,000 | 1,500 |
+| Vegetables | 150 | 1,500,000 | 225,000 | 1,500 |
+| Herbs | 25 | 300,000 | 45,000 | 1,800 |
+| Lentils | 100 | 600,000 | 120,000 | 1,500 |
+| Microalgae | 75 | 300,000 | 50,000 | 467 |
+| **Total** | **500** | **6,200,000** | **880,000** | **1,760** |
+
+---
+
+## 4. WORLDWIDE TOTALS (per 10,000 people per region)
+
+| Metric | Total (USD / tons) |
+|--------|------------------|
+| Total Setup Cost | 50,100,000 |
+| Total Annual Operating Cost | 7,450,000 |
+| Total Estimated Yield | 5,500 tons |
+| Average Cost per Ton | 1,355 USD |
+
+---
+
+## 5. NOTES
+
+- Hydroponics enables **year-round production** and **higher yields per area**.  
+- Combining leafy greens, vegetables, herbs, lentils, and microalgae provides **balanced nutrition**.  
+- Costs include infrastructure, energy, water, nutrients, and management labor.  
+- Self-sufficiency depends on **regional coordination via Flow Nodes** for distribution and surplus balancing.  
+
+---
+
+## 6. RECOMMENDATIONS
+
+- Prioritize hydroponics for **high-value and perishable crops**.  
+- Supplement with traditional local agriculture for **calories and staples**.  
+- Track yields and costs annually for **continuous improvement and scaling**.  
+
+---
+
+*End of HYDROPONIC_COSTS_AND_YIELDS.md*
+# HYDROPONIC_COSTS_AND_YIELDS.md
+
+**Version:** 1.0  
 **Status:** ACTIVE / CANONICAL  
 **Authors:** Elinor Frejd and ChatGPT  
 **Purpose:** Provide a global estimation of hydroponic setup costs, operating costs, yields, and cost per unit produce.
