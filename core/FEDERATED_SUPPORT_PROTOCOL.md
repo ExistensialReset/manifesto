@@ -1,4 +1,4 @@
-FEDERATED_SUPPORT_PROTOCOL.md
+# FEDERATED_SUPPORT_PROTOCOL.md
 
 Status: ACTIVE
 Version: 1.1
@@ -8,7 +8,7 @@ Dependencies: LOTUS_PROTOCOL.md, FLOW_VERIFICATION_PROTOCOL.md, SANCTION_PROTOCO
 
 ---
 
-1. PURPOSE
+## 1. PURPOSE
 
 Ensure that Nodes experiencing structural capacity failure receive federated support without compromising Baseline security or decentralization integrity.
 
@@ -17,7 +17,7 @@ Support must increase long-term autonomy, not dependency.
 
 ---
 
-2. TRIGGER CONDITIONS
+## 2. TRIGGER CONDITIONS
 
 A Node may activate Federated Support when:
 
@@ -38,7 +38,7 @@ No single entity may unilaterally declare a Support State.
 
 ---
 
-3. TRANSPARENCY REQUIREMENT
+## 3. TRANSPARENCY REQUIREMENT
 
 Support requires structured disclosure of:
 
@@ -57,7 +57,7 @@ No persistent data opacity = no federated support.
 
 ---
 
-4. ROLE SEPARATION
+## 4. ROLE SEPARATION
 
 To prevent centralization drift, the following functions must be structurally separated:
 
@@ -70,7 +70,7 @@ All groups must rotate personnel within defined intervals (see LOTUS_PROTOCOL.md
 
 ---
 
-5. GRACE PERIOD
+## 5. GRACE PERIOD
 
 - Minimum: 3 months
 - Maximum: 12 months
@@ -112,7 +112,7 @@ Priority: restore autonomous capacity.
 
 ---
 
-7. FAILURE TO COOPERATE
+## 7. FAILURE TO COOPERATE
 
 If a Node:
 
@@ -128,7 +128,7 @@ Sanctions must be proportional and reversible when compliance is restored.
 
 ---
 
-8. DEPENDENCY PREVENTION
+## 8. DEPENDENCY PREVENTION
 
 No Node may remain in Federated Support beyond 18 consecutive months without:
 
@@ -140,7 +140,7 @@ Support must never become structural dependency.
 
 ---
 
-9. PHILOSOPHICAL PRINCIPLE
+## 9. PHILOSOPHICAL PRINCIPLE
 
 Federation functions as an ecosystem.
 
