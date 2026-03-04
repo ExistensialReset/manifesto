@@ -1,112 +1,403 @@
-# CORE_DOCUMENT_MAP.md
+# M-OS-R Core Documentation (English Consolidated)
 
-**Version:** 1.0  
-**Status:** Master Overview  
-**Scope:** /core  
-**Purpose:** Complete overview of all /core documents, their function, relationships, versioning, and invariant connections.
-
----
-
-## 1. CORE DOCUMENTS OVERVIEW
-
-| Document | Version | Purpose | Key Role in Flow | Versioning / Compost Notes |
-|----------|--------|--------|-----------------|---------------------------|
-| `RESOURCE_METRIC_STANDARDS.md` | 3.0 | Defines Baseline per participant | Sets minimum biological, cognitive, and temporal standards; foundation for system ethics and operations | MAJOR changes when Baseline or core protocol changes; previous MAJOR → /compostandgrowth |
-| `RISK_MANAGEMENT.md` | 1.2 | Systemic risk identification and mitigation | Maintains operational integrity; maps threats, mitigations, interdependencies, escalation | MAJOR version updates when structural thresholds or critical triggers change |
-| `RNG_AND_LOG_SPEC.md` | Draft | Verifiable, auditable RNG and logging | Ensures transparency, deterministic auditability, and minimal PII in RNG draws and time-based events | Draft currently; formal MAJOR release triggers compost of previous draft |
-| `SANCTION_PROTOCOL.md` | Active | Governance intervention escalation | Defines proportional, founder-independent sanction levels; links to post-hoc review | MAJOR version on structural model or threshold change |
-| `STRATEGIC_PREPARATION_FRAMEWORK.md` | 1.1 | Spiral-based deployment roadmap | Guides Node formation, replication, and generational system robustness; founder reduction | MAJOR version if spiral phases or success criteria change |
-| `STRUCTURAL_INVARIANTS.md` | Core Reference | Immutable system structures | Guarantees decentralization, baseline security, conflict metabolism, and founder irrelevance | Updates only if core systemic invariants are adjusted |
-| `VERSIONING_AND_COMPOST_POLICY.md` | 1.0 | Versioning, archival, and compost rules | Preserves historical integrity; manages active vs composted documents | Only MAJOR version changes trigger composting |
+**Status:** Active Core Reference  
+**Scope:** Global / Multi-Phase / Node-Level  
+**Purpose:** Full operational, governance, risk, and structural protocols for Flow / M-OS-R implementation.  
 
 ---
 
-## 2. DOCUMENT RELATIONSHIPS
+# AI_INTEGRATION_PROTOCOL.md
 
-- **Foundational Layer:** `RESOURCE_METRIC_STANDARDS.md` → defines baseline metrics that underpin all operational decisions.  
-- **Integrity Layer:** `RISK_MANAGEMENT.md` & `SANCTION_PROTOCOL.md` → operational and governance safeguards, connected to baseline metrics.  
-- **Verification Layer:** `RNG_AND_LOG_SPEC.md` → ensures auditability, deterministic draws, and secure logging for system events.  
-- **Strategic Layer:** `STRATEGIC_PREPARATION_FRAMEWORK.md` → roadmap for spiral growth, replication, and founder reduction.  
-- **Invariant Layer:** `STRUCTURAL_INVARIANTS.md` → ensures all Nodes, all Phases, and all cultural/political contexts comply with non-negotiable principles.  
-- **Historical / Structural Layer:** `VERSIONING_AND_COMPOST_POLICY.md` → governs versioning, archival, and composting of previous MAJOR versions.  
+**Status:** Draft  
+**Scope:** Node & Network Level  
+**Purpose:** Define safe, grounded AI interactions in Flow operations.
 
----
+### Principles
 
-## 3. HIERARCHY AND PHASE ALIGNMENT
-
-- **Phase 0 (Micro-Circle):** Focused on internal coherence → guided by baseline, invariants, risk understanding, and documentation.  
-- **Phase 1 (Node Stabilization):** Multi-role, legal-compliant Node → risk and sanction protocols active; RNG may support transparent selections.  
-- **Phase 2 (Node Replication):** Independent Nodes → structural invariants and cross-node knowledge transfer ensure replicability.  
-- **Phase 3 (Networked Federation):** Regional coordination → strategic preparation framework ensures governance and resource flows.  
-- **Phase 4 (Cultural Adoption):** Pattern diffusion → system-level metrics tracked; historical documentation preserves lineage.
+- AI serves **grounding**, **verification**, and **resource assessment** roles.  
+- No AI may override constitutional invariants.  
+- Human oversight required for all protocol-modifying outputs.  
+- Logs of AI output must be deterministic, auditable, and tied to context strings and public nonces.
 
 ---
 
-## 4. OPERATIONAL PRINCIPLES
+# BASELINE_AMENDMENT_PROTOCOL.md
 
-1. **Founder Irrelevance:** All phases and protocols enforce structural survival without individual dependency.  
-2. **Decentralization:** No central authority; Nodes coordinate voluntarily.  
-3. **Baseline Security:** All Nodes guarantee minimum energy, resource, and temporal requirements.  
-4. **Pause & Stabilize:** Stress, burnout, or conflict triggers contraction and stabilization before further expansion.  
-5. **Documentation First:** Knowledge capture precedes any scaling.  
-6. **Audit & Verification:** RNG and logs ensure deterministic, privacy-respecting accountability.  
-7. **Compost & Growth:** Previous MAJOR versions preserved for memory; nothing is deleted.  
+**Status:** Active  
+**Scope:** Node → Federation  
+**Purpose:** Amendments to baseline thresholds require controlled procedure.
 
----
+### Procedure
 
-## 5. CORE METRICS (SYSTEM-LEVEL)
-
-- Resource regeneration and energy sustainability  
-- Recovery and nervous system health  
-- Conflict resolution timelines  
-- Role redundancy and knowledge transfer  
-- Baseline fulfillment and auditable verification  
-- Founder dependency levels  
-- Contraction/pause readiness  
-- External interface quality (legal, cultural, media)
+1. Proposal submitted to LOTUS.  
+2. Cross-node discussion & review.  
+3. Majority agreement with audit trace.  
+4. Update documented, prior version moved to `/compostandgrowth`.  
+5. Audit & verification executed.
 
 ---
 
-## 6. INTEGRATION RULES
+# BASELINE_RECOVERY_PROTOCOL.md
 
-- Strategic preparation guides operational execution.  
-- Structural invariants enforce non-negotiable system rules.  
-- Risk management and sanction protocols maintain integrity.  
-- RNG & logging specification enables verification of randomness-dependent processes.  
-- All active documents follow versioning and compost policy.  
+**Status:** Active  
+**Scope:** Node  
+**Purpose:** Recover baseline metrics after disruption.
 
----
+### Steps
 
-## 7. VERSIONING PRINCIPLES
-
-- **Major (X.0):** Structural, threshold, baseline, or core protocol changes → previous MAJOR composted.  
-- **Minor (X.Y):** Clarifications, precision, formatting, non-structural improvements → previous minor remains active.  
-- **Compost:** Preserves historical record, immutable, enables system memory and learning.
+1. Identify metric deviation.  
+2. Deploy recovery flows.  
+3. Reassess energy/resource balance.  
+4. Document recovery outcomes.  
+5. Escalate to LOTUS if unresolved beyond defined threshold.
 
 ---
 
-## 8. FINAL OBSERVATIONS
+# BEGINNERS_WAY_IN_TO_FLOW.md
 
-- Flow is generational: patience, documentation, and founder-reduction are mandatory.  
-- Scale emerges from stability, not ambition.  
-- Nodes must survive political, cultural, and environmental shifts while preserving invariants.  
-- Historical memory preserved via composting ensures growth without erasure.  
+**Purpose:** Intro guide to M-OS-R for new participants.
+
+- Flow is **spiral-based**, **documented**, and **founder-independent**.  
+- Concepts: Resource Baseline, Node, Micro-Circle, Conflict Metabolization.  
+- Steps: Stabilize → Document → Transfer knowledge → Reduce dependency → Replicate safely.
 
 ---
+
+# BODY_OF_FLOW.md
+
+**Purpose:** Define structural logic of Flow operations.
+
+- Node structure, governance, resource flows.  
+- Core principle: **function over ideology**.  
+- Metrics: system health, not individual performance.  
+- Stress tests integrated: legal, energy, governance, enforcement.
+
+---
+
+# BODY_OF_FLOW_UNDER_ATTACK.md
+
+- Procedures for compromised Nodes.  
+- Recovery, audit, isolation, and knowledge transfer protocols.  
+- Mitigations: independent verification, LOTUS oversight, pause/stabilize.
+
+---
+
+# BODY_OF_HUMAN_MEASUREMENTS.md
+
+- Defines participant-centered metrics (non-intrusive).  
+- Emphasis: baseline recovery, energy sustainability, role redundancy.  
+
+# BODY_OF_HUMAN_MEASUREMENTS_FULL.md
+
+- Full measurement methodology.  
+- Energy scoring, conflict resilience, regenerative capacity.  
+
+# BODY_OF_HUMAN_MEASUREMENTS_WHY.md
+
+- Philosophical and operational rationale behind human measurement.  
+- Ensures systemic survival and Flow reproducibility.
+
+---
+
+# CONSTITUTION.md
+
+- Core principles and invariants.  
+- Defines Node autonomy, decision protocols, baseline protection, and cross-node integrity.
+
+---
+
+# CORE_FLOW_PROTOCOLS.md
+
+- Standardized operational steps for resource, conflict, and governance flows.  
+- Integration with RNG, logging, and LOTUS oversight.
+
+---
+
+# CORE_GUIDERAIL.md
+
+- Systemic guardrails for node operations.  
+- Enforces FLOW invariants, pause protocols, and role redundancy.
+
+---
+
+# DECENTRALIZATION_NOTICE.md
+
+- Public statement: M-OS-R is **decentralized**, **founder-independent**, and **non-hierarchical**.  
+- Encourages replication, voluntary participation, and transparency.
+
+---
+
+# ENTRY_STRATEGIES_DOCUMENTATION.md
+
+- Guidelines for Node creation and phased expansion.  
+- Spiral principle: Pause → Stabilize → Integrate → Continue.
+
+---
+
+# ETHOS_SAFEGUARDS.md
+
+- Protects system values and Flow ethical baseline.  
+- Monitors founder-dependence, ideological drift, and cultural integrity.
+
+---
+
+# FEDERATED_SUPPORT_PROTOCOL.md
+
+- Guidelines for cross-node support.  
+- Ensures resource transfer, protocol replication, and emergency aid.
+
+---
+
+# FLOW_CORE_INVARIANTS.md
+
+- Immutable rules: Founder Irrelevance, Decentralization, Voluntary Participation, Distributed Decision Capacity, Conflict Metabolization, Baseline Security, Transparency without Surveillance, Adaptability, Low Visibility, Self-Containment.
+
+---
+
+# FLOW_CORE_INVARIANTS_EXTENDED.md
+
+- Extended invariants: Cross-node feedback, knowledge transfer, pause/stabilize protocol, compliance with all political/cultural contexts.
+
+---
+
+# FLOW_CORE_STRUCTURE_OVERVIEW.md
+
+- Node → Micro-Circle hierarchy.  
+- Resource, governance, and conflict resolution flows.  
+- Role rotation & redundancy mapping.
+
+---
+
+# FLOW_GLOBAL_IMPLEMENTATION_GUIDE.md
+
+- High-level operational guide for multi-node, multi-region deployment.  
+- Integration with legal, political, and cultural systems.
+
+---
+
+# FLOW_ID.md
+
+- Identity and pseudonymous participant IDs.  
+- Tracking, privacy, and recovery mechanisms.
+
+# FLOW_ID_LIFECYCLE.md
+
+- ID creation, verification, recovery, and expiration procedures.
+
+# FLOW_ID_NODE_POLICY_TEMPLATE.md
+
+- Node-specific policy template for ID usage and verification.
+
+---
+
+# FLOW_SURPLUS_PROTOCOL.md
+
+- Managing surplus resource allocation.  
+- Ensures equitable distribution, regeneration, and system resilience.
+
+---
+
+# INFORMATION_FLOW_ARCHITECTURE.md
+
+- Architecture for data, communication, and audit flows.  
+- Ensures transparency without individual surveillance.
+
+---
+
+# INTEROPERABILITY_AND_PARALLEL_SYSTEMS.md
+
+- Standards for integrating parallel nodes and external systems.  
+- Guarantees pattern integrity and protocol compatibility.
+
+---
+
+# LEGAL_FLOW_SYSTEM_OVERVIEW.md
+
+- Summary of legal compliance and risk mitigation.  
+- Integration with local regulations without central authority.
+
+# LEGAL_OVERVIEW_FLOW.md
+
+- Expanded legal guidance: IP, governance law, liability, and jurisdictional adaptability.
+
+---
+
+# LOTUS_AMENDMENT_CHECKLIST.md
+
+- Checklist for reviewing baseline or structural amendments.  
+- Ensures auditability and cross-node notification.
+
+# LOTUS_BASELINE_RECOVERY_CHECKLIST.md
+
+- Stepwise checklist for baseline recovery.  
+- Triggers, thresholds, and audit confirmation.
+
+# LOTUS_GOVERNANCE_PROTOCOL.md
+
+- Core governance protocol enforced by LOTUS.  
+- Decision panels, voting rules, conflict arbitration.
+
+# LOTUS_PROTOCOL.md
+
+- Core operational protocol for LOTUS-managed flows.
+
+---
+
+# M-OS-R_AS_AN_OPERATING_SYSTEM.md
+
+- Treats M-OS-R as actual OS architecture: Nodes = processes, protocols = system calls, baseline = kernel resource.
+
+# M-OS-R_SYSTEM_MAP.md
+
+- Visual & structural system map.  
+- Inter-node relationships, core invariants, and risk overlay.
+
+---
+
+# NODE_ENERGY_PROFILES.md
+
+- Energy baseline, regeneration, consumption, and sustainability metrics.  
+- Used in recovery and allocation protocols.
+
+# NODE_EXIT_PROTOCOL.md
+
+- Safe exit procedures for participants.  
+- Ensures knowledge transfer, resource redistribution, and conflict-free separation.
+
+# NODE_ROLES.md
+
+- Role definitions, redundancy, rotation, and authority mapping.
+
+---
+
+# POLITICAL_REALISM_LAYER.md
+
+- Guidelines for operating within political, economic, and social realities.  
+- External compliance, visibility adjustment, regulatory alignment.
+
+---
+
+# POST_HOC_REVIEW_PROTOCOL.md
+
+- Post-sanction review procedure.  
+- Independent audit, decision evaluation, and cross-node reporting.
+
+---
+
+# POWER_AND_ENFORCEMENT.md
+
+- Enforcement mechanisms, decentralization safeguards, and power limitation protocols.
+
+---
+
+# RESOURCE_METRIC_STANDARDS.md
+
+- Defines measurable system health metrics: resource regeneration, conflict resolution, baseline security, energy sustainability, knowledge documentation.
+
+---
+
+# RISK_MANAGEMENT.md
+
+- Threat model: Identity capture, governance distortion, enforcement drift, network failure, energy collapse, procedural corruption, cross-node manipulation, slow centralization.  
+- Mitigation assignments, review cycles, escalation logic, interdependency amplification.  
+
+---
+
+# RNG_AND_LOG_SPEC.md
+
+- HMAC-DRBG hybrid RNG protocol.  
+- Deterministic, auditable, pseudonymous logging.  
+- CSV/JSON exportable, retention and compost policy, verification workflow.
+
+---
+
+# SANCTION_PROTOCOL.md
+
+- Level 1 → Level 4 sanctions: Process correction, autonomy restriction, infrastructure co-management, node suspension.  
+- Decision model, appeal & review.
+
+---
+
+# STRATEGIC_PREPARATION_FRAMEWORK_VISUAL.md
+
+- Spiral-based phase strategy: Phase 0 → Phase 4.  
+- Risks and mitigations mapped.  
+- Founder reduction and documentation central.  
+- Pause/contraction protocols for systemic stress.
+
+---
+
+# STRATEGIC_PREPARATION_FRAMEWORK_v2.md
+
+- Refined operational strategy.  
+- Phase-specific success/failure criteria, timeline realism, systemic metrics, founder reduction, pause protocols.
+
+---
+
+# STRUCTURAL_INVARIANTS.md
+
+- Defines absolute invariants: founder irrelevance, decentralization, voluntary participation, distributed decision capacity, conflict metabolization, baseline security, transparency, adaptability, low visibility, self-containment.  
+- Enforcement philosophy and global political/cultural compatibility.
+
+---
+
+# VERSIONING_AND_COMPOST_POLICY.md
+
+- Versioning: MAJOR.MINOR  
+- Compost rule: previous major versions moved to `/compostandgrowth`  
+- Active document always root-level  
+- Fork visibility & genealogical traceability.
+
+---
+
+# MERMAID DIAGRAMS
 
 ```mermaid
 flowchart TD
-    %% Core / Phase Structure
-    RM[RESOURCE_METRIC_STANDARDS.md] -->|Baseline Metrics| RM_Risk[RISK_MANAGEMENT.md]
-    RM --> RNG[RNG_AND_LOG_SPEC.md]
-    RM_Risk --> SAN[SANCTION_PROTOCOL.md]
-    SAN --> SPF[STRATEGIC_PREPARATION_FRAMEWORK.md]
-    SPF --> INV[STRUCTURAL_INVARIANTS.md]
-    INV --> VCP[VERSIONING_AND_COMPOST_POLICY.md]
+    %% Strategic Preparation Spiral
+    A[Micro-Circle: 3-12 people] -->|Stabilize & Document| B[Node Stabilization: 20-60 people]
+    B -->|Replicate| C[Multiple Independent Nodes: 3-5 Nodes]
+    C -->|Federate| D[Regional Mesh: 10-30 Nodes]
+    D -->|Cultural Adoption| E[Cultural Transmission & Policy Integration]
+    
+    classDef phase fill:#d1f0d1,stroke:#333,stroke-width:1px;
+    class A,B,C,D,E phase;
+    
+    %% Risk Management Example
+    subgraph ID["Identity & Verification"]
+        ID1[Randomized Social Verification]
+        ID2[Privilege Escalation]
+        ID3[Recovery Set Incentive]
+        ID1 --> LogTrigger[Log Integrity Trigger]
+    end
 
-    %% Phase Alignment
-    RM --> Phase0["Phase 0: Micro-Circle"]
-    RM_Risk --> Phase1["Phase 1: Node Stabilization"]
-    SAN --> Phase2["Phase 2: Node Replication"]
-    SPF --> Phase3["Phase 3: Networked Federation"]
-    INV --> Phase4["Phase 4: Cultural Adoption"]
+    subgraph GOV["Governance & Compliance"]
+        GOV1[SLA Timing]
+        GOV2[Conflict Across Nodes]
+        GOV3[Sanction Escalation]
+        GOV4[Governance Capture]
+        GOV3 --> SanctionTrigger[Sanction Duration Guardrail]
+        GOV4 --> GovConcentration[Governance Concentration Trigger]
+    end
+
+    subgraph TECH["Technical & Operational"]
+        TECH1[Network Partition]
+        TECH2[Log Corruption]
+        TECH3[RNG Manipulation]
+        TECH2 --> LogTrigger
+    end
+
+    subgraph STRUCT["Structural Drift & Systemic Risks"]
+        STRUCT1[Slow Centralization]
+        STRUCT2[Amendment Abuse]
+        STRUCT3[Trust Erosion]
+        STRUCT2 --> AmendmentTrigger[Amendment Velocity Trigger]
+        STRUCT1 --> GovConcentration
+    end
+
+    %% Cross connections
+    LogTrigger --> Audit[Audit & Review]
+    SanctionTrigger --> Audit
+    GovConcentration --> Audit
+    AmendmentTrigger --> Audit
+    Audit --> Review[LOTUS / Cross-node Review]
