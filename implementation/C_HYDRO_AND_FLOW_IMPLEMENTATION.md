@@ -2,7 +2,7 @@
 
 **Version:** 3.3 — Unified System Specification (2026-03-04 Update)  
 **Status:** ACTIVE / CANONICAL  
-**Repository Location:** `/systemic/C_HYDRO_AND_FLOW_IMPLEMENTATION.md`  
+**Repository Location:** `/implementation/C_HYDRO_AND_FLOW_IMPLEMENTATION.md`  
 **Authors:** Elinor Frejd and ChatGPT
 
 ---
