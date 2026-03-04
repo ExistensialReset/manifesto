@@ -19,7 +19,6 @@ It summarizes per region:
 - Cost per unit (USD)  
 - Node baseline vs surplus  
 
-All bars and diagrams are **proportional to the max value in each column** and fully **INUTI-markdown compatible**.
 
 ---
 
