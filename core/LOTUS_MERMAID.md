@@ -1,31 +1,14 @@
 flowchart TD
-    %% Node Layer
-    NBASE[Baseline Violation Detected]
-    NLOTUS[Node LOTUS Panel]
-    NSC[Node Self-Correction (72h)]
-    NVOL[Voluntary Redistribution Window]
-    NREP[Node Report to Regional LOTUS]
-    NAMEND[Node Baseline Amendment Proposal]
-
-    %% Regional Layer
-    RLOTUS[Regional LOTUS Panel]
-    RREC[Regional Recovery Triggered (7d)]
-    RRED[Redistribute Regional Surplus]
-    RREP[Report to Global LOTUS]
-    RREV[Review Node Amendments]
-
-    %% Global Layer
-    GLOTUS[Global LOTUS Panel]
-    GREC[Global Recovery / Audit]
-    GAMEND[Approve/Reject Baseline Amendments]
-    GRED[Global Surplus Audit & Redistribution]
-    GEMERG[Emergency Override]
-
-    %% Flöden
-    NBASE --> NSC --> NREP --> RREC --> RRED --> RREP --> GREC
-    NSC --> NVOL --> RRED
-    NAMEND --> RREV --> GAMEND
-    NBASE --> GEMERG
-    RREC --> GEMERG
-    GEMERG --> NSC
-    GEMERG --> RRED
+    A[Baseline Violation Detected] --> B[Node Self-Correction 72h]
+    B --> C[Voluntary Redistribution Window]
+    C --> D[Report to Regional LOTUS]
+    D --> E[Regional Recovery Triggered 7d]
+    E --> F[Redistribute Regional Surplus]
+    F --> G[Report to Global LOTUS]
+    G --> H[Global Recovery / Audit]
+    A --> I[Emergency Override Triggered]
+    E --> I
+    I --> B
+    I --> F
+    J[Baseline Amendment Proposal] --> D
+    D --> J
