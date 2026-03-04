@@ -8,7 +8,7 @@
 --- 
 
 ## 1. PURPOSE 
-A complete, **text-based overview** of Flow Nodes self-sufficiency per region: food, energy, water, biogas, costs, and surplus. All elements are **INUTI‑markdown compatible** for direct insertion in the repo. 
+A complete, **text-based overview** of Flow Nodes self-sufficiency per region: food, energy, water, biogas, costs, and surplus. 
 
 --- 
 
