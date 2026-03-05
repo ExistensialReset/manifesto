@@ -1,6 +1,6 @@
 # FLOW_FREE_RIDERS.md
 
-```
+
 # FLOW Free Riders: Diversity, Motivation, and System Response
 
 **Purpose:** Document and reflect on individuals who rely on the Baseline without actively participating in Flow.  
@@ -59,4 +59,3 @@ Not to stigmatize, but to ensure the system is resilient, supportive, and non-co
 **Summary:**  
 M-OS-R treats Free Riders not as failures, but as integral components of a **diverse ecosystem**.  
 The system balances **unconditional support** with **optional participation**, ensuring that **everyone can exist safely and with dignity**, while Flow continues to thrive for those who engage.
-```
