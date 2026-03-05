@@ -28,126 +28,56 @@
 ## 3. Heavy Work Assignment (HWA) and Task Rotation
 - **Definition**:
   - Heavy Work refers to tasks requiring **significant physical, cognitive, or emotional effort** beyond typical civic contribution.
-  - Examples include infrastructure maintenance, logistics coordination, sanitation work, and complex system repair.
+  - Examples: infrastructure maintenance, logistics coordination, sanitation, and complex system repair.
 - **Rotation Principle**:
   - **All tasks rotate across participants.**
-  - Rotation distributes responsibility and prevents permanent assignment to undesirable work.
-- **Credentialed professions**:
-  - Certain safety-critical professions require verified competence.
-  - These roles include physicians, nurses, and other legally or technically regulated professions.
-  - In these cases rotation occurs **within the professional group**, not across the entire population.
+  - Credentialed professions rotate **within their professional group**.
 - **Support and safety**:
-  - Work hours are tracked only for coordination.
-  - Rest and recovery are supported through dedicated recovery spaces.
+  - Work hours tracked for coordination only.
+  - Rest and recovery supported via dedicated spaces.
   - Peer circles provide emotional and logistical support.
 - **Philosophy**:
   - Shared responsibility strengthens trust.
-  - No person becomes permanently burdened.
-  - Mistakes are treated as learning events rather than moral failures.
+  - Mistakes are treated as learning events, not moral failures.
+
+> See [FLOW_HUMAN_INFRASTRUCTURE_HWA.md](./FLOW_HUMAN_INFRASTRUCTURE_HWA.md) for operational details of task rotation and Human Work Architecture.
 
 ---
 
 ## 4. Lyceum Musaeum
-- **Purpose**: central hub for learning, knowledge creation, and cultural activity.
-- **Core principles**:
-  - Curiosity is the primary engine of learning.
-  - Creativity emerges naturally when resources are accessible.
-  - Knowledge is shared openly.
-  - Participation is voluntary.
-- **Design requirements**:
-  - Physical presence within each Flow node.
-  - Open access to tools, instruments, laboratories, and studios.
-  - No commercial barriers.
-- **Functions**:
-  - Study circles and collaborative research.
-  - Artistic creation and experimentation.
-  - Craft workshops and technical prototyping.
-  - Mentorship across generations.
-- **Accessibility**:
-  - Physical accessibility.
-  - Cognitive accessibility.
-  - Neurodivergent-friendly environments.
-- **Integration with Flow**:
-  - When survival needs are secured through Baseline, learning becomes spontaneous and intrinsically motivated.
+- Central hub for learning, knowledge creation, and cultural activity.
+- **Core principles**: curiosity-driven learning, open access, creativity, mentorship.
+- **Accessibility**: physical, cognitive, neurodivergent-friendly.
+- **Integration with Flow**: Baseline security enables recovery → curiosity → participation → contribution.
 
 ---
 
 ## 5. Refugium Anima
-- **Purpose**: sanctuary for emotional recovery and nervous system regulation.
-- **Access**:
-  - Open to all people including children, elders, and individuals with disabilities.
-- **Core principles**:
-  - No performance expectations.
-  - No productivity requirements.
-  - No justification required for entry.
-  - Emotional collapse is permitted and supported.
-  - Consent governs all interaction.
-- **Shared spaces**:
-  - Quiet regulation rooms.
-  - Physical release rooms.
-  - Water and body relief areas.
-  - Sensory gardens and natural environments.
-  - Silent reflection spaces.
-- **Child protection principles**:
-  - Children maintain agency over participation.
-  - No interpretation of a child’s emotional state without consent.
-  - Adults remain responsible for emotional containment.
-- **Witness roles**:
-  - Present for stability and safety.
-  - Not therapists.
-  - Individuals may leave at any time without explanation.
-- **Adaptation for neurodiversity and chronic illness**:
-  - Environments adapt to the person.
-  - Individuals are not required to conform to a rigid behavioral model.
-- **Integration with Flow**:
-  - Baseline security enables recovery.
-  - Recovery enables curiosity.
-  - Curiosity leads to participation and contribution.
+- Sanctuary for emotional recovery and nervous system regulation.
+- **Access**: open to all, incl. children and people with disabilities.
+- **Principles**: no performance expectations, consent-governed, supports neurodiversity.
+- **Shared spaces**: regulation rooms, sensory gardens, quiet reflection.
+- **Integration with Flow**: Recovery enables curiosity and participation.
 
 ---
 
 ## 6. Social Recognition System (SRS)
-- **Purpose**: optional recognition for exceptional contributions or rare creations.
-- **Principles**:
-  - Positive scoring only.
-  - No negative reputation metrics.
-  - Scores decay over time to prevent permanent hierarchy.
-  - Baseline access is unaffected by recognition levels.
-- **Function**:
-  - Supports allocation of scarce or symbolic resources.
-  - Encourages contribution without coercion.
+- Optional recognition for exceptional contributions.
+- Positive scoring only, scores decay, baseline access unaffected.
+- Encourages contribution without coercion.
 
 ---
 
 ## 7. Flow Spiral – System Architecture
-- **Description**: a recursive structure through which resources, knowledge, and trust circulate.
-
-**Levels of organization**
-
-1. **Individual and Micro-Circle (2–5 people)**  
-   Mutual support, experimentation, and shared reflection.
-
-2. **Baseline Circle (10–30 people)**  
-   Coordination of food, tools, and infrastructure maintenance.
-
-3. **Flow Node (30+ people)**  
-   Operational community containing Baseline infrastructure, Lyceum Musaeum, and recovery spaces.
-
-4. **Regional Network (3–10 nodes)**  
-   Exchange of knowledge, materials, and innovations.
-
-5. **Global Flow Network**  
-   Coordination of rare resources and global standards.
-
-6. **Feedback and verification loops**  
-   Errors trigger system learning rather than punishment.
+- Recursive structure for circulating resources, knowledge, and trust.
+- Levels: Individual → Baseline Circle → Flow Node → Regional Network → Global Flow Network → Feedback Loops.
 
 ---
 
 ## 8. Human Well-Being Crosswalk
 
 | Dimension | Structural Expression | Recovery Support | Observable Outcome |
-|-----------|----------------------|------------------|-------------------|
+|-----------|----------------------|-----------------|------------------|
 | Calm and Coherence | Quiet learning environments | Low-stimulus rooms | Reduced stress |
 | Creativity and Spontaneity | Open workshops | Body-paced activity | Experimentation |
 | Empathy and Connection | Shared learning tables | Witness presence | Reduced isolation |
@@ -164,6 +94,7 @@
 - `LYCEUM_MUSAEUM.md`
 - `REFUGIUM_ANIMA.md`
 - `FLOW_NODE_FINANCIAL_SPEC.md`
+- `FLOW_HUMAN_INFRASTRUCTURE_HWA.md` *(linked for operational work rotation details)*
 
 ---
 
@@ -178,17 +109,17 @@
 - Baseline guarantees survival resources.
 - Work responsibilities rotate across the population.
 - Credentialed professions maintain safety through verified competence.
-- Learning and creativity are freely accessible.
-- Emotional recovery infrastructure is integrated into the system.
+- Learning and creativity freely accessible.
+- Emotional recovery infrastructure integrated.
 - Recognition encourages contribution without coercion.
 
 ---
 
 ## 12. Implementation Notes
-- Rotation schedules are determined locally.
+- Rotation schedules are local.
 - Civic participation averages a small number of weekly hours.
-- Conflicts are resolved through dialogue and restorative processes.
-- Knowledge generated within nodes feeds back into the wider network.
+- Conflicts resolved through dialogue and restorative processes.
+- Knowledge feeds back into the wider network.
 
 ---
 
