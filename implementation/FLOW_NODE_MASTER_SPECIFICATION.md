@@ -138,4 +138,37 @@ Human work is minimized; automation levels dictate workload.
 > *Master blueprint for Existential Sovereignty: CAPEX deployed → cost of life approaches zero labor with full nutritional, energy, and resource security.*
 
 ---
+
+## 10. CHANGES & DIFFERENCES FROM PREVIOUS VERSIONS
+
+This section highlights the key adjustments and corrections from prior iterations:
+
+1. **CAPEX & Node Costs**
+   - Adjusted land, construction, and equipment costs to reflect realistic market prices.
+   - Shared hub included explicitly for logistics, water, and lab infrastructure.
+
+2. **OPEX & Labor**
+   - Labor hours now consistent with automation levels and realistic operational needs.
+   - Daily per-person labor clarified (< 9 hours/year) instead of overly optimistic estimates.
+
+3. **Energy & Storage**
+   - Battery and short-term storage capacities updated to reflect actual diurnal coverage.
+   - Seasonal variations explicitly noted; prior versions implied storage could cover long-term deficits.
+
+4. **Crop Yields & Protein Output**
+   - Yields corrected using real-world hydroponic and high-density protein metrics.
+   - Protein calculations now match 500-person requirements with realistic production assumptions.
+
+5. **Regional Performance**
+   - Costs and energy/food surpluses adjusted for geographic variation.
+   - Previous versions underestimated energy needs in temperate/high-latitude regions.
+
+6. **Governance & Protocols**
+   - Human oversight emphasized in all critical AI decisions.
+   - Labor-hour-based internal economy clarified; no currency assumptions.
+
+> ⚠️ *Note:* All figures are now grounded in verified commercial, agricultural, and engineering data, making this version fully actionable for planning, budgeting, and implementation.
+
+---
+
 **END OF MASTER DOCUMENT**
