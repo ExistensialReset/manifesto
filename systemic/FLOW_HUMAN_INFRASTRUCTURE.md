@@ -133,3 +133,65 @@ flowchart TB
     HeavyWork --> SRS[Social Recognition System: Ephemeral Appreciation]
     SRS --> FlowSpiral[Flow Spiral: Systemic Learning & Resource Flow]
     FlowSpiral --> Baseline
+```
+
+
+```
+flowchart TB
+    %% INDIVIDUAL & MICRO-CIRCLE LEVEL
+    subgraph Micro["Micro-Circle (2–5 people)"]
+        MC1[Individual: Trust, Experiment, Collaboration] --> MC2[Micro-Circle Resource & Knowledge Sharing]
+        MC2 --> MC3[Feedback to Baseline Circle]
+    end
+
+    %% BASELINE CIRCLE LEVEL
+    subgraph BaselineCircle["Baseline Circle (10–30 people)"]
+        BC1[Coordinate food, tools, time] --> BC2[Conflict resolution via baseline protocols]
+        BC2 --> BC3[Prepare for Node integration]
+        MC3 --> BC1
+    end
+
+    %% FLOW NODE LEVEL
+    subgraph Node["Flow Node (30+ people)"]
+        FN1[Professional Teams: essential infrastructure] --> FN2[Volunteer/Research Teams: experimental flows]
+        FN2 --> FN3[Lyceum Musaeum: Knowledge & Culture]
+        FN3 --> FN4[Refugium Anima: Recovery & Regulation]
+        FN4 --> FN5[Heavy Work: Task Rotation & Resilience]
+        FN5 --> FN6[SRS: Social Recognition System]
+        FN6 --> FN7[Internal Verification & Feedback Loops]
+        BC3 --> FN1
+    end
+
+    %% REGIONAL NETWORK LEVEL
+    subgraph Regional["Regional Network (3–10 Nodes)"]
+        RN1[Exchange surplus materials] --> RN2[Share expertise and innovations]
+        RN2 --> RN3[Aggregate lessons from Node verification]
+        FN7 --> RN1
+    end
+
+    %% GLOBAL FLOW NETWORK LEVEL
+    subgraph Global["Global Flow Network"]
+        GF1[Coordinate rare resources & specialized knowledge] --> GF2[Set global standards & protocols]
+        GF2 --> GF3[Feed back into Regional Networks and Nodes]
+        RN3 --> GF1
+    end
+
+    %% FEEDBACK LOOPS
+    GF3 --> RN3
+    RN3 --> FN7
+    FN7 --> BC3
+    BC3 --> MC3
+    MC3 --> MC1
+
+    %% ADDITIONAL HUMAN SYSTEMS
+    style MC1 fill:#f9f,stroke:#333,stroke-width:1px
+    style FN3 fill:#9f9,stroke:#333,stroke-width:1px
+    style FN4 fill:#9ff,stroke:#333,stroke-width:1px
+    style FN5 fill:#ff9,stroke:#333,stroke-width:1px
+    style FN6 fill:#fc9,stroke:#333,stroke-width:1px
+
+    %% LEGEND
+    classDef legend fill:#eee,stroke:#333,stroke-width:1px;
+    class legendNode legend;
+    legendNode[Legend: MC=Micro-Circle, BC=Baseline Circle, FN=Flow Node, RN=Regional Network, GF=Global Flow Network] 
+```
