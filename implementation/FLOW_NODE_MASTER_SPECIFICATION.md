@@ -58,11 +58,11 @@ Meets **13,140 kg protein/year** for 500 people, with balanced micro- and macron
 
 | Product | Yield (kg/yr) | Growth Cycle | Cost (USD/kg)* | Resource Note |
 | :--- | :--- | :--- | :--- | :--- |
-| **Lettuce/Greens** | 4,000 | 30 Days | $28.80 | High turnover |
-| **Tomatoes** | 2,500 | 60 Days | $70.50 | Nutrient intensive |
-| **Microgreens** | 1,800 | 14-21 Days | $112.00 | High-value enzymes |
-| **Basil/Herbs** | 1,200 | 25 Days | $201.00 | Medicinal/Flavor |
-| **Cucumber** | 2,000 | 55 Days | $45.00 | High water content |
+| **Lettuce/Greens** | 4,000 | 30 Days | $28.80 | High turnover (average over the year) |
+| **Tomatoes** | 2,500 | 60 Days | $70.50 | Nutrient intensive (average over the year) |
+| **Microgreens** | 1,800 | 14-21 Days | $112.00 | High-value enzymes (average over the year) |
+| **Basil/Herbs** | 1,200 | 25 Days | $201.00 | Medicinal/Flavor (average over the year) |
+| **Cucumber** | 2,000 | 55 Days | $45.00 | High water content (average over the year) |
 
 *\*Cost/kg includes 5-year CAPEX amortization + annual OPEX (average over the year).*
 
@@ -76,12 +76,12 @@ Human work is minimized; automation levels dictate workload.
 | **Pure Cultivation** | 1,556 Hours | 3.1 Hours | ~30 Seconds |
 | **Full Operational** | **4,200 Hours** | **8.4 Hours** | **~84 Seconds** |
 
-**Roles:**
+**Roles:**  
 - **Node Operators (60%)** – Seeding, harvesting, monitoring  
 - **Technicians (30%)** – Energy, sensors, robotics  
 - **Coordinators (10%)** – Surplus exchange, training  
 
-*Note:* Direct cultivation labor hours per crop are detailed in Appendix A; total node labor includes overhead, maintenance, and administration.
+*Note:* Direct cultivation labor hours per crop are detailed in [Appendix A](FLOW_NODE_DETAILED_CROP_MATRIX.md); total node labor includes overhead, maintenance, and administration.
 
 ---
 
@@ -121,10 +121,10 @@ Human work is minimized; automation levels dictate workload.
 ---
 
 ## 8. HYBRID NODE INTEGRATION
-- **Self-Sufficient Node v2:** Full per-crop energy, labor, water, and cost metrics  
-- **Complete Full Node:** Integrated overview with total cost, production, and surplus  
-- **Protein & Financial Modules:** Aligned with regional scaling & global dashboard  
-- **Daily crop matrix (Appendix A):** Operational planning & budgeting
+- Self-Sufficient Node v2: full per-crop energy, labor, water, and cost metrics  
+- Complete Full Node: integrated overview with total cost, production, and surplus  
+- Protein & Financial Modules: aligned with regional scaling & global dashboard  
+- Daily operational details are in [Appendix A](FLOW_NODE_DETAILED_CROP_MATRIX.md)
 
 ---
 
@@ -140,29 +140,12 @@ Human work is minimized; automation levels dictate workload.
 
 ---
 
-## 10. APPENDIX A – DAILY DETAILED CROP MATRIX
-> *Operational planning table showing energy, water, labor, and cost per crop per day (averages over year). For full node scheduling, see this appendix.*
-
-| Crop | Daily Yield (kg) | Daily Energy (kWh) | Daily Water (L) | Daily Labor (hours) | Daily Cost (USD) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Lettuce/Greens | 11 | 70 | 600 | 0.5 | 79 |
-| Tomatoes | 7 | 50 | 400 | 0.6 | 51 |
-| Microgreens | 5 | 20 | 200 | 0.3 | 62 |
-| Basil/Herbs | 3 | 15 | 100 | 0.2 | 55 |
-| Cucumber | 5.5 | 25 | 350 | 0.4 | 83 |
-
-*Notes:* Daily figures are averages; actual production varies with season, light, and node conditions. Labor per crop includes only direct cultivation; total node labor includes overhead, maintenance, and administration.
-
----
-
-## 11. CHANGES & DIFFERENCES FROM PREVIOUS VERSIONS
-1. CAPEX & Node Costs updated to reflect realistic market prices; shared hub included  
-2. OPEX & labor hours clarified; daily per-person labor <9 hours/year  
-3. Energy storage capacities updated; seasonal storage explicitly noted  
-4. Crop yields & protein output corrected for real-world metrics  
-5. Regional performance metrics adjusted for geographic variation  
-6. Governance & AI oversight clarified; labor-hour internal economy  
-7. **Daily detailed crop matrix (section 10 / Appendix A)** – New operational planning table with exact per-crop resource usage per day, enabling budgeting and scheduling  
+## 10. CHANGES & DIFFERENCES FROM PREVIOUS VERSIONS
+1. Updated CAPEX, OPEX, and labor hours to reflect realistic operational metrics  
+2. Daily crop matrix moved to separate appendix (Appendix A)  
+3. Footnotes added for “average over the year” to reduce misinterpretation  
+4. Human oversight emphasized in all critical AI decisions  
+5. Internal labor-hour economy clarified; no currency assumptions  
 
 ---
 
