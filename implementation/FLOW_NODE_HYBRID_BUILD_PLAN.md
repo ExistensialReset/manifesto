@@ -2,7 +2,6 @@
 
 **Purpose:** Full financial specification for Flow Node network including CAPEX, OPEX, energy production & storage, and labor requirements.
 **Population:** 500 people
-**System Identity:** Symbiotic Intelligence Node 1.6
 
 ---
 
