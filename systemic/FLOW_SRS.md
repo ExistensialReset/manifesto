@@ -61,6 +61,18 @@ Labor is measured in contribution hours for logistical planning, not for surviva
 
 Baseline remains unconditional. 
 
+### 3.4 Right to Be Human
+
+Every individual has the **right to exist as they are** — to be imperfect, unusual, or “wrong” according to any norm.
+
+- **Baseline is unconditional:** food, housing, healthcare, energy, and learning are guaranteed regardless of conformity or performance.  
+- **Contribution is voluntary:** participation flows from meaning, curiosity, and community, not coercion.  
+- **Recognition is optional:** Social Recognition Tokens (SRS) may highlight contributions but never dictate survival, belonging, or status.  
+- **Humanity over normativity:** there are no “normal” people — only humans with diverse needs, abilities, and ways of being.
+
+> In Flow, being human — fully, messily, beautifully human — is enough.  
+> Your mistakes, quirks, and uniqueness are not just tolerated; they are part of the system’s resilience.
+
 ---
 
 ## 4. PRODUCTION SYSTEM
