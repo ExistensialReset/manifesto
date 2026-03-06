@@ -106,7 +106,78 @@ Nodes create local ecosystems with defined roles. Humans are relational; Flow am
 ### 4. Autonomy Within Structure
 Structure exists to **enable freedom**, not enforce compliance. Baseline ensures survival, while Lyceum provides the tools for self-realization.
 
-### 5. Existential Resonance
+---
+
+## 5. Structural Map of Flow
+
+This table shows **how the main elements of Flow interact as a living system**.
+
+| Layer | Component | Function | Connected To |
+|------|-----------|-----------|--------------|
+| Human | Individual | Curiosity, creativity, contribution | Node, Lyceum |
+| Social | Node | Local living community (housing, food distribution, social structure) | Baseline, Lyceum, Regional Nodes |
+| Infrastructure | Baseline | Guarantees food, housing, energy, healthcare, tools | Node |
+| Knowledge | Lyceum | Education, tools, workshops, research, mentorship | Individuals, Professionals, Nodes |
+| Production | Local Crafts & Services | Shoemakers, carpenters, doctors, builders, artists | Node, Lyceum |
+| Regional | Coordination Nodes | Manage regional production & resource balancing | Local Nodes, Global Network |
+| Global | Flow Network | Balances rare resources (coffee, minerals, tech components) | Regional Nodes |
+| Cultural | Ethos | Philosophy of curiosity, cooperation, and meaning | Entire system |
+
+---
+
+## 6. Resource Flow Overview
+
+Flow operates through **distributed local production with limited regional and global coordination**.
+
+| Flow Type | Percentage | Examples |
+|-----------|-----------|----------|
+| Local | ~80% | Food, housing, healthcare, tools, education |
+| Regional | ~15% | Grain, fruit, construction materials, manufactured goods |
+| Global | ~5% | Coffee, cocoa, spices, rare minerals, advanced technology |
+
+**Design Principle:**
+
+> Produce locally whenever possible.  
+> Coordinate regionally when necessary.  
+> Exchange globally only for rare resources.
+
+---
+
+## 7. Node System Overview
+
+A typical Flow Node supports **~500 people** and is designed for resilience.
+
+| System | Function |
+|------|-----------|
+| Food Production | Hydroponics, agroforestry, mushrooms, legumes |
+| Energy | Solar, wind, biogas, geothermal where available |
+| Housing | Collective and private options |
+| Distribution Hub | Food and resource access point |
+| Lyceum | Workshops, education, research |
+| Healthcare | Professional medical teams |
+| Social Spaces | Community gatherings, arts, collaboration |
+
+Nodes are **semi-autonomous** but connected through regional coordination.
+
+---
+
+## 8. Human Motivation in Flow
+
+Traditional systems rely on **scarcity pressure**.
+
+Flow relies on **intrinsic motivation**.
+
+| Motivation | Expression in Flow |
+|-----------|-------------------|
+| Meaning | Contributing to community and shared systems |
+| Mastery | Developing skills through Lyceum and practice |
+| Curiosity | Research, art, experimentation |
+| Belonging | Participation in Node community |
+| Recognition | Social respect for contribution |
+
+---
+
+### 9. Existential Resonance
 Flow honors the core drivers of human existence:
 * **L** - Lugn (Peace/Calm)
 * **S** - Spontanitet (Spontaneity)
