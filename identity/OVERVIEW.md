@@ -12,7 +12,7 @@ Flow is a **systemic approach to life, resources, and community** that eliminate
 * **Baseline:** Basic needs guaranteed for all.
 * **Contribution:** Work is motivated by meaning, mastery, relationship, and curiosity—not survival.
 * **Direct resource allocation:** Local, regional, and global resources are coordinated without currency.
-* **Lyceum:** Centralized access to tools, knowledge, and mentorship.
+* **Lyceum Musaeum:** Centralized access to tools, knowledge, and mentorship.
 * **Nodes:** Local communities self-organize, focusing on both individual growth and communal well-being.
 
 Flow is designed to **restore autonomy, cooperation, and existential alignment**, rather than enforce compliance or transactional value.
