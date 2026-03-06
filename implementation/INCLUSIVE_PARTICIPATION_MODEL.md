@@ -1,5 +1,12 @@
 # Inclusive Participation Model
 
+- **Curiosity guides** – exploration and learning are central  
+- **Fear-free environment** – no coercion, no survival pressure  
+- **Flexible participation** – engage at your own pace and capacity  
+- **Baseline guaranteed** – food, water, shelter, healthcare, rest  
+- **Everyone is valued** – contributions recognized without ranking or judgment
+
+
 This system is built around **choice, curiosity, and safety**.
 
 - **Flexible Participation:** Everyone can engage in the system at their own pace and capacity.  
