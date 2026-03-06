@@ -1,184 +1,74 @@
-# OVERVIEW.md
-**M-OS-R / Flow / Existential Reset Repository – Full Overview**  
-*By Elinor Frejd & ChatGPT*
 
----
+# OVERVIEW – M-OS-R / Flow / Existential Reset
 
-## Table of Contents
-
-1. [Introduction](#introduction)  
-2. [Lyceum Musaeum](#lyceum-musaeum)  
-   - [What It Is](#what-it-is)  
-   - [How It Feels](#how-it-feels)  
-   - [Design, Not Utopia](#design-not-utopia)  
-   - [Integration with Flow](#integration-with-flow)  
-   - [Daily Examples](#daily-examples)  
-3. [Refugium Anima](#refugium-anima)  
-   - [Core Principles](#core-principles)  
-   - [Shared Spaces](#shared-spaces)  
-   - [Child-Specific Adaptations](#child-specific-adaptations)  
-   - [Witness Role](#witness-role)  
-   - [Integration with Flow & Lyceum](#integration-with-flow--lyceum)  
-4. [Flow Spiral – Maximal System Dynamics](#flow-spiral-maximal-system-dynamics)  
-5. [Flow Healthcare Worldwide](#flow-healthcare-worldwide)  
-6. [Labor Structure and Incentive Model](#labor-structure-and-incentive-model)  
-7. [The Flow Starter Guide](#the-flow-starter-guide)  
-8. [Final Notes](#final-notes)  
+Welcome to Flow, the living framework of the M-OS-R / Existential Reset Repository. This document guides you through the essence of the system, explaining **what it is, how it works, and why it exists**, in a narrative that anyone can understand.
 
 ---
 
 ## Introduction
 
-This document serves as a **comprehensive overview** of the M-OS-R / Flow / Existential Reset system.  
-It provides a single-entry point for anyone to understand the structure, philosophy, and practical functioning of the entire repository.
-
-Everything here is **living documentation**, combining sanctuary, learning, creation, healthcare, labor, and personal activation into one coherent ecosystem.
+Humans have historically relied on money to coordinate survival and production. Currency was invented to solve a specific problem: **how to exchange resources across time and space when direct exchange is impossible**. Flow solves this problem differently. Here, Baseline guarantees everyone's essential needs, Nodes manage local production, Lyceum opens access to knowledge and tools, and professional teams contribute out of **meaning and mastery**, not financial pressure. Money is unnecessary. Debt is irrelevant. Life comes first.
 
 ---
 
-## Lyceum Musaeum
+## Baseline: Life Guaranteed
 
-### What It Is
-
-- An open space where **curiosity is architecture**, creation is natural, knowledge is shared, and accessibility is default.  
-- Community emerges naturally through co-creation, observation, and interaction.  
-- No commercialization, no hierarchy, no coercion.
-
-### How It Feels
-
-- Fix a bike → meet a telescope builder → talk about Jupiter.  
-- Read → watch someone write a story → discuss storytelling.  
-- Be alone → among others → solitude felt differently.
-
-### Design, Not Utopia
-
-Infrastructure requirements:  
-- Physically present, always open  
-- Resources without bureaucracy  
-- Competence that shares itself  
-- No commercialization  
-
-**Societal impact:**  
-- Reduces loneliness and stress  
-- Spreads competence and fosters innovation  
-- Sustains living culture
-
-### Integration with Flow
-
-- Lyceum acts as **Baseline in action**: tools, space, and knowledge are accessible unconditionally.  
-- Spontaneous learning and creativity emerge when security is guaranteed.
-
-### Daily Examples
-
-**Mika, 12, ADHD:** 6 learning hours, pace honored  
-**Astrid, 47, autistic, chronic illness:** 5.5 learning hours, pace honored  
-
-Outcomes: curiosity intact, confidence in learning, joy replaces fear, lifelong learning skills developed.
+At the heart of Flow is **Baseline**. Every person automatically has access to food, housing, energy, healthcare, and tools. There are no applications, no bureaucracy, and no payments. Simply put: you live, you are supported, you are free to choose how to contribute. This security removes survival stress and creates space for creativity, learning, and connection.
 
 ---
 
-## Refugium Anima
+## Work: Motivation Beyond Money
 
-**Sanctuary for all ages and abilities** – restoring Flow when life overwhelms the nervous system.
-
-### Core Principles
-
-1. No performance expected  
-2. No productivity required  
-3. No justification demanded  
-4. Collapse is welcome  
-5. Animals and nature included  
-6. Consent is absolute
-
-### Shared Spaces
-
-- Rest & regulation rooms  
-- Scream & impact room  
-- Water & body relief  
-- Unfinished studio  
-- Sensory garden  
-- Silence void  
-
-### Child-Specific Adaptations
-
-- Age-appropriate agency  
-- Right to be incomprehensible  
-- Protection from adult distress  
-- Designated child-witness  
-
-### Witness Role
-
-- Anchors, not therapists  
-- Presence without demand  
-- Silent exit allowed  
-
-### Integration with Flow & Lyceum
-
-- **Baseline → Refugium → Lyceum → Contribution → Flow**  
-- Stabilizes nervous system function (Ψ)  
-- Supports recovery, creativity, and agency  
+Work in Flow is not about survival; it's about **meaning, mastery, curiosity, and community**. A doctor works to help people. A carpenter builds because they love crafting. Researchers explore out of curiosity. Artists create because they must. There is no coercion, only intrinsic motivation. People work because they want to, not because they must.
 
 ---
 
-## Flow Spiral – Maximal System Dynamics
+## Specialization and Local Coordination
 
-**Recursive architecture connecting individuals, Nodes, regions, and the global network.**  
-
-Levels:  
-1. Micro-Circle (2–5 people) – personal trust & experimentation  
-2. Baseline Circle (10–30 people) – coordination & systemic literacy  
-3. Flow Node (30+ people) – hubs for production, learning, verification  
-4. Regional Network (3–10 Nodes) – amplifies flows  
-5. Global Flow Network – coordinates rare resources & standards  
-
-**Principles:**  
-- Circular growth, self-reinforcing flow, Node sovereignty, privacy-preserving transparency, integrated learning and production, systemic resilience
+Flow supports specialization without currency. Shoemakers, electricians, doctors, and scientists all receive the materials, tools, and recognition they need through **Nodes** and **Lyceum**. Local production meets local needs, while regional coordination ensures that every Node has access to what it requires. Specialization grants **status and mastery**, replacing monetary incentives with social recognition and personal fulfillment.
 
 ---
 
-## Flow Healthcare Worldwide
+## Regional and Global Resource Flow
 
-- Decentralized, multi-level healthcare Nodes  
-- Green Labs produce medicines, hygiene, cleaning products locally  
-- Universal accessibility  
-- Preventive care focus  
-- Nodes: Primary Care, Specialist, Emergency/Surgical, Rehabilitation, Regional Green Lab  
-- Resource flow coordinated via AI  
-- Sustainable, renewable energy, biodegradable products  
-- Realistic cost estimates per Node  
+While most needs are met locally, some resources are shared regionally or globally. About 15% of resources are exchanged regionally — wine for bread, fish for grains — coordinated by Nodes without money. About 5% of specialty resources — coffee, electronics, rare minerals — flow globally. **The network tracks and balances these flows over time**, focusing on reciprocity, not profit. This keeps the system efficient, fair, and self-sustaining.
 
 ---
 
-## Labor Structure and Incentive Model
+## Professionals: Status, Mastery, and Impact
 
-- Replaces monetary labor with **time-based contribution accounting**  
-- Rotational civic participation ensures fairness  
-- Specialists track depth, not privilege  
-- Participation affects governance influence, not survival  
-- Peer certification, transparent documentation, systemic failure review  
+Doctors, nurses, craftsmen, and other experts are supported by Baseline. They do not need a salary to live. Instead, their work is motivated by **status, mastery, and the impact they have**. Education is free; no one enters a profession to repay debt. Certification, peer review, and social recognition maintain quality. The community naturally filters out poor performance, ensuring competence without financial coercion.
 
 ---
 
-## The Flow Starter Guide
+## Participation and Community Dynamics
 
-- **Bridge between understanding Flow and living Flow**  
-- Safety-first, trauma-sensitive, neurodivergence-aware  
-- Quickstart: sacred Baseline, voluntary participation, build for life, Earth included, small local Circles  
-- Solo protocol: daily tracking, reflection, giving without expectation  
-- Micro-Circle protocol: sharing boundaries, graduated trust, sustainable rhythm  
-- Toolbox for loneliness, guilt, crises, dissolution  
-- Anti-perfection & environmental awareness  
+Some may choose not to work at all. Baseline guarantees their survival. However, most people thrive on **contribution and belonging**. Communities provide soft social nudges, gentle encouragements to participate, without coercion or exclusion. Over time, most individuals choose to engage, creating a rich web of collaboration and connection.
 
 ---
 
-## Final Notes
+## Why Flow Works
 
-- **OVERVIEW.md** is the entry point for understanding the entire M-OS-R / Flow / Existential Reset ecosystem.  
-- All modules are **interconnected**: Lyceum, Refugium, Flow Spiral, Healthcare, Labor, and Starter Guide.  
-- Internal links and references guide readers to detailed protocol files.  
-- This is **living documentation** – it evolves as the system grows.  
+Flow is effective because it aligns human motivation with well-being:
 
-**Status:** Active / Canonical / Living  
-**Commitment:** Learning without fear, coercion, or deprivation; inclusion for all; Flow for everyone  
+1. **Freedom from scarcity** – Baseline removes survival stress.  
+2. **Intrinsic motivation** – Meaning and mastery replace financial incentives.  
+3. **Community cohesion** – Social recognition, belonging, and shared purpose maintain participation.  
+4. **Adaptive coordination** – Nodes, regional hubs, and Lyceum balance supply and demand dynamically.  
+5. **Education and transparency** – Open access to knowledge ensures skills and expertise spread freely.
 
 ---
+
+## The Big Picture
+
+Flow is a **post-currency, resource-based ecosystem**. It integrates baseline security, direct resource allocation, intrinsic motivation, coordinated specialization, and open knowledge to create a society where people:
+
+- Live fully without fear of scarcity  
+- Learn deeply without barriers  
+- Contribute meaningfully without financial coercion  
+
+Money, debt, and profit are relics of the past. In Flow, people and resources move together in harmony, guided by meaning, mastery, and mutual recognition.
+
+---
+
+Welcome to Flow. Here, life comes first, collaboration is natural, and every contribution matters.
