@@ -26,7 +26,7 @@ Flow is designed to **restore autonomy, cooperation, and existential alignment**
 | **Baseline** | Automatic access to food, housing, energy, healthcare, and tools. |
 | **Work & Contribution** | Motivation driven by meaning and community, not money. |
 | **Specialization & Coordination** | Local crafts, regional production, global exchange—direct and tracked without currency. |
-| **Lyceum** | Education, workshops, professional mentorship, and knowledge sharing. |
+| **Lyceum Musaeum** | Education, workshops, professional mentorship, and knowledge sharing. |
 | **Nodes** | Localized self-organizing communities that maintain flows and social dynamics. |
 | **Professional Teams** | Doctors, craftsmen, and educators operate on status + meaning, supported by Baseline and Lyceum Musaeum. |
 
