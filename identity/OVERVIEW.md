@@ -28,7 +28,7 @@ Flow is designed to **restore autonomy, cooperation, and existential alignment**
 | **Specialization & Coordination** | Local crafts, regional production, global exchange—direct and tracked without currency. |
 | **Lyceum** | Education, workshops, professional mentorship, and knowledge sharing. |
 | **Nodes** | Localized self-organizing communities that maintain flows and social dynamics. |
-| **Professional Teams** | Doctors, craftsmen, and educators operate on status + meaning, supported by Baseline and Lyceum. |
+| **Professional Teams** | Doctors, craftsmen, and educators operate on status + meaning, supported by Baseline and Lyceum Musaeum. |
 
 ---
 
@@ -53,9 +53,9 @@ In Flow:
 * Housing (Node architecture)
 * Energy (local production)
 * Healthcare (professional teams)
-* Tools & equipment (Lyceum workshops)
+* Tools & equipment (Lyceum Musaeum workshops)
 
-**Mechanism:** Go to the distribution hub and take food. Live in Node housing. Use Lyceum workshops freely. Book appointments with professional teams as needed. No payment. No debt.
+**Mechanism:** Go to the distribution hub and take food. Live in Node housing. Use Lyceum Musaeum workshops freely. Book appointments with professional teams as needed. No payment. No debt.
 
 #### 2. WORK – Contribution, Not Salary
 Why do people work? Not to survive (that's guaranteed), but for:
