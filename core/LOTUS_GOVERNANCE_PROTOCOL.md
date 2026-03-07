@@ -104,6 +104,9 @@ Individual votes may be:
 
 Governance must be auditable.
 
+
+**All briefing materials must be publicly accessible.**
+
 ---
 
 # VI. CONFLICT OF INTEREST RULE
