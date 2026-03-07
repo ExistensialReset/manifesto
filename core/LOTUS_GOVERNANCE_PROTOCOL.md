@@ -160,3 +160,19 @@ just as resources circulate.
 
 Power that does not rotate
 becomes extraction.
+
+# X. DELIBERATION REQUIREMENT
+
+Before any vote is finalized, LOTUS must conduct a documented deliberation phase.
+
+Deliberation includes:
+
+• Presentation of the issue
+• Submission of supporting and opposing arguments
+• Clarification questions
+• Written summary of the discussion
+
+Voting without documented deliberation is invalid.
+
+The purpose of LOTUS is not only decision-making,
+but collective reasoning.
