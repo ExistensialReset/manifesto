@@ -167,6 +167,20 @@ What matters is the **resilience of the network**.
 
 Failure feeds the system through learning and composting.
 
+Flow systems scale through nested circles.
+
+3 people form a Micro-circle.
+7–10 Micro-circles form a Baseline Circle.
+5–7 Circles form a Node.
+8–12 Nodes form a Production Network.
+
+Each level serves a different purpose:
+
+Micro-circle: trust
+Circle: collaboration
+Node: coordination
+Production network: material resilience
+
 ---
 
 # Final Principle
