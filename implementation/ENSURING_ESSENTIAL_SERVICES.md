@@ -200,6 +200,47 @@ If 20-30% of node are free riders, burden falls on remaining 70-80%.
 
 **The form matters less than the spirit:** **Gratitude made visible, then released.**
 
+---
+
+**⚠️ WARNING: Positive Recognition Can Become Negative**
+
+**If same people always get thanked:**
+- Those never thanked feel **invisible**
+- Creates informal hierarchy ("the helpers" vs "the rest")
+- **"Positive" attention becomes exclusionary**
+- Can breed resentment (both from those excluded AND those always in spotlight)
+
+**Signs recognition is becoming toxic:**
+- Same 5-10 people thanked every week
+- Others stop volunteering (feeling "the heroes already do it")
+- Thanked people feel trapped ("I can't stop now, I'm 'the bathroom person'")
+- Jokes or comments about "those who never help"
+
+**Mitigation:**
+
+1. **Rotate which tasks/groups are highlighted:**
+   - Week 1: Thank sanitation team
+   - Week 2: Thank food prep team
+   - Week 3: Thank invisible contributions (emotional support, quiet maintenance)
+   - Week 4: Thank specific individuals who rarely get recognition
+
+2. **Actively look for invisible contributions:**
+   - Who cleaned up after the gathering without being asked?
+   - Who quietly fixed the broken chair?
+   - Who listened to someone in crisis?
+   - **Make these visible too**
+
+3. **Avoid "Hall of Fame" mentality:**
+   - Don't create permanent displays of "top contributors"
+   - Don't track cumulative recognition over time
+   - Keep it ephemeral (this week, this month)
+
+4. **Name the pattern if it emerges:**
+   - "We notice we keep thanking the same people. Let's be intentional about spreading recognition."
+   - Not blaming anyone - just conscious culture-building
+
+**Remember:** Recognition should make people feel **included**, not create a new hierarchy of the "deserving."
+
 #### 4.2.3 Contribution Visibility (Gentle Accountability)
 
 **Make contribution patterns visible without judgment:**
@@ -344,25 +385,65 @@ Examples:
 
 ---
 
-### Level 6: Transparent Structured Rotation (LAST RESORT)
+### Level 6: Structured Rotation with Capacity Visibility (LAST RESORT)
 
 **This is the edge of acceptable. Use ONLY when all else fails and task is survival-critical.**
 
-#### 4.6.1 How It Works
+**Two approaches - use 6A first, only escalate to 6B if absolutely necessary:**
+
+---
+
+#### 4.6.1A Anonymous Capacity Display (PRIMARY APPROACH)
 
 **For Tier 1 tasks ONLY (food, sanitation, water, emergency childcare):**
 
-1. **Create rotation schedule** (everyone scheduled, visible to all)
-2. **Allow opt-out** (remains voluntary - participation never coerced)
-3. **Make opt-out transparent** (community sees who volunteers, who opts out)
-4. **No punishment, but visibility**
+**How it works:**
 
-**Key difference from Levels 1-5:**
-- Participation becomes **default expectation** (you're scheduled unless you opt out)
-- Opt-out is **visible** (not anonymous)
-- Community can **see** distribution of burden
+1. **Create rotation schedule** (everyone scheduled initially)
+2. **Allow opt-out** (remains voluntary - no coercion)
+3. **Display need anonymously** (show gap, not names)
+4. **Community sees capacity, not individuals**
 
-**This creates gentle social pressure through transparency, not punishment.**
+**Example display:**
+> **Sanitation Rotation - March**
+> 
+> Needed: 20 volunteers  
+> Current volunteers: 15  
+> **Gap: 5 more needed**
+> 
+> If you can help, please add your name to rotation board.
+> 
+> (No one can see who has opted out - only that we need 5 more people)
+
+**Psychological effect:**
+- Need is visible (creates awareness)
+- Gap creates motivation ("we're short 5 people")
+- **But NO individual is singled out or shamed**
+- Social pressure is diffuse (toward the gap), not targeted (at individuals)
+
+**Why this is PRIMARY:**
+- Protects those with social anxiety, shame sensitivity, invisible disabilities
+- Prevents "us vs them" dynamics
+- Still creates awareness and gentle accountability
+- Much safer psychologically
+
+**When to use:**
+- First approach always when Level 1-5 insufficient
+- Works for most communities most of the time
+- Gentler, more inclusive
+
+---
+
+#### 4.6.1B Transparent Individual Visibility (ABSOLUTE LAST RESORT)
+
+**Only if 6A fails AND community explicitly consents.**
+
+**How it works:**
+
+1. **Create rotation schedule** (everyone scheduled)
+2. **Allow opt-out** (still voluntary)
+3. **Make opt-out visible** (names of those opting out shown)
+4. **No punishment, but transparency**
 
 **Example:**
 > "Sanitation rotation: All adults scheduled for one 30-minute shift every 2 weeks.
@@ -371,58 +452,108 @@ Examples:
 > 
 > Current participation: 32 of 40 adults volunteering.
 > 
-> Those opting out this month: [Names visible to community]"
+> Those participating: [Names listed]
+> Those opting out this month: [Names listed]"
 
 **Psychological effect:**
-- Most people don't want to be visibly the only one not helping
-- Transparency creates soft accountability
-- Still voluntary (can opt out with conscience intact if genuine reason)
+- Strong social pressure (most people don't want to be visibly not helping)
+- Transparency creates accountability
+- **Risk: Can feel coercive even without formal penalty**
+
+**Warning - Potential Harm:**
+
+This approach can cause:
+- **Social anxiety escalation** (person sees their name, feels shame, withdraws entirely)
+- **Informal exclusion** (those opting out become "them" vs "us")
+- **Mental health crisis** (for those with shame sensitivity, this can be devastating)
+
+**Example scenario (from DeepSeek):**
+> "Kalle has social anxiety. He can't handle sanitation group. He opts out. His name appears on the list. No one says anything, but he knows they see. His shame grows. Eventually he leaves the community entirely."
+
+**This is exactly what Flow tries to prevent.**
 
 #### 4.6.2 Ethical Safeguards
 
-**This is ONLY acceptable if:**
+**For Level 6A (Anonymous Capacity Display):**
 
 ✓ All Levels 1-5 tried first (months of attempts)  
 ✓ Task is genuinely survival-critical (Tier 1 only)  
-✓ Opt-out remains possible (true voluntary participation)  
-✓ No shaming language (just factual visibility)  
-✓ Baseline unaffected (always)  
-✓ Regular review (quarterly: Is this still necessary? Can we return to Levels 1-4?)  
-✓ Community consent (75%+ agreement that transparency is acceptable)
+✓ Opt-out remains possible (true voluntary)  
+✓ No individual names shown (privacy protected)  
+✓ Gap displayed factually (no blame language)  
+✓ Regular review (quarterly: Is this still necessary?)  
 
-**And NEVER acceptable if:**
+**For Level 6B (Individual Visibility) - ADDITIONAL requirements:**
+
+✓ **Level 6A tried first and failed** (minimum 1 month)  
+✓ **Community consent (90%+ agreement)** that visibility is acceptable  
+✓ **Mental health support available** for those experiencing shame  
+✓ **Active monitoring** for signs of social exclusion  
+✓ **Immediate halt if harm detected** (see warning signs below)  
+
+**NEVER acceptable (either 6A or 6B) if:**
 
 ✗ Visibility becomes shaming (crossing line from transparency to punishment)  
-✗ Opt-out creates social exclusion  
-✗ Used for non-essential tasks  
+✗ Opt-out creates social exclusion or gossip  
+✗ Used for non-essential tasks (Tier 2-3)  
 ✗ Becomes permanent default (must be temporary crisis measure)  
-✗ Creates anxiety or fear
+✗ Creates anxiety, fear, or mental health deterioration  
 
-**Warning signs to stop:**
+**Warning signs to STOP Level 6B immediately:**
+
 - People participating out of fear, not choice
-- Social rifts forming (volunteers vs non-volunteers)
-- Visible names becoming gossip/judgment
-- System feels heavy, not light
+- Social rifts forming (volunteers vs non-volunteers becoming "us vs them")
+- Names on opt-out list becoming gossip or judgment topic
+- Anyone expressing suicidal ideation or severe distress
+- System feels heavy, oppressive, not light
 
-**If any warning sign appears:** Immediately stop Level 6, return to Level 1-4, accept external support (Level 5) instead.
+**If any warning sign appears:** 
+- Immediately stop Level 6B
+- Return to Level 6A or Levels 1-4
+- Accept external support (Level 5) instead
+- Debrief: What went wrong? How prevent in future?
 
-#### 4.6.3 Alternative to Visibility: Anonymous Capacity Display
+#### 4.6.3 Specialist Opt-Out Protocol (Special Case)
 
-**If visibility feels too punitive, alternative approach:**
+**When specialists need to opt out:**
 
-Instead of naming who opts out, display **anonymous capacity gap**:
+If a specialist (only electrician, only nurse, only cook with food safety cert) is exhausted and needs to opt out of their critical role:
 
-> "Sanitation needs: 20 volunteers  
-> Current volunteers: 15  
-> Gap: 5 more needed  
-> 
-> If you can help, please add your name to rotation board."
+**The opt-out is PERMITTED** (Flow never coerces, even specialists):
+- Burnout is real
+- Forcing someone to continue causes harm
+- Voluntary principle holds even for critical skills
 
-**This shows need without naming non-participants.**
+**But requires explicit plan:**
 
-Gentler, but also less accountability. Community decides which approach fits their culture.  
+1. **Immediate:** How will critical work be covered?
+   - Regional specialist pool (borrowed from another node)
+   - External support (paid professional temporarily)
+   - Temporary pause of non-critical specialist work
 
-#### 4.6.3 Example Scenario
+2. **Short-term (1-3 months):** 
+   - Apprentice fast-track (someone learns basics)
+   - Specialist reduces to part-time (50% load instead of 100%)
+   - Community adjusts expectations (fewer services temporarily)
+
+3. **Long-term (3-6 months):**
+   - Full specialist training for replacement
+   - Regional rotation system established
+   - Redundancy created (never single-point-of-failure again)
+
+**Communication:**
+- Specialist tells community: "I need to step back for [duration] because [burnout/illness/personal crisis]"
+- Community responds: "Thank you for your years of service. We'll handle this. Please rest."
+- Community implements plan without guilting specialist
+
+**Never acceptable:**
+- "You're the only electrician, you can't leave" (this is coercion)
+- Social pressure to continue despite exhaustion
+- Blaming specialist for node's lack of redundancy
+
+**The failure is systemic (no backup trained), not individual (specialist burned out).**  
+
+#### 4.6.4 Example Scenario - Updated for 6A/6B
 
 **Node of 50 people. Toilet cleaning shortfall.**
 
@@ -433,19 +564,55 @@ Gentler, but also less accountability. Community decides which approach fits the
 - **Result:** 15 volunteers. Not enough (need 20).
 
 **Week 5-8: Level 2 (Recognition)**
-- 2x SRS points for sanitation
-- Public thanks at gatherings
+- Amplified appreciation for sanitation work
+- Ritual acknowledgment at gatherings
+- Made invisible labor visible
 - **Result:** 18 volunteers. Still short.
 
 **Week 9-12: Level 3 (Buddy System)**
 - Mandatory pairing enforced
 - Mentor-newbie matching
-- **Result:** 21 volunteers! SUCCESS.
+- **Result:** 21 volunteers! ✓ SUCCESS.
 
 **If Level 3 had failed:**
-- **Week 13-16: Level 4 (Redesign)** — Install composting toilets (reduce frequency), investigate automated cleaning systems
-- **If still failing:** Level 5 (External support) while building capacity
-- **ONLY if all else fails:** Level 6 (Structured rotation with soft opt-out consequence)
+
+**Week 13-24: Level 4 (Redesign)**
+- Install composting toilets (reduce frequency 80%)
+- Process optimization
+- **Result:** Need drops to 5 volunteers. Problem solved. ✓
+
+**If Level 4 had failed:**
+
+**Week 25-36: Level 5 (External Support)**
+- External cleaning service hired (temporary)
+- Meanwhile train internal team
+- **Result:** Transition to internal capacity after 3 months. ✓
+
+**If Level 5 had failed:**
+
+**Week 37-44: Level 6A (Anonymous Capacity Display)**
+- Schedule created (all adults)
+- Opt-out allowed
+- Display: "Need 20, have 15, gap 5"
+- **Result:** 3 more volunteer (now 18). Better but still short.
+
+**If Level 6A had failed:**
+
+**Week 45+: Level 6B (Individual Visibility)**
+- **Community vote:** 91% consent for trying visibility approach
+- **Safeguards activated:** Mental health support, monitoring
+- Names shown (both participants and opt-outs)
+- **Result:** 4 more volunteer (social pressure). Now 22. ✓
+- **After 1 month:** Return to Level 6A (reduced visibility)
+- **Ongoing monitoring:** No one shows distress, continues working
+
+**Key takeaway:** 
+- Problem solved at Level 3 (buddy system)
+- Levels 4-6 were contingency plans, not needed
+- Total time: 12 weeks (3 months)
+- Cost: Zero (just social/structural changes)
+
+---
 
 ---
 
@@ -488,6 +655,52 @@ Gentler, but also less accountability. Community decides which approach fits the
 - Gentle community discussion (not shaming)
 - "We've noticed sanitation falls on same people. How can we spread this more fairly?"
 
+---
+
+**⚠️ Note: Gender-Aware Rotation**
+
+**Historical reality:**
+
+Care work (childcare, cleaning, emotional labor, cooking) has disproportionately fallen on women throughout history. Even in communities trying to be egalitarian, unconscious patterns can re-emerge.
+
+**In Flow rotation, actively prevent gendered work distribution:**
+
+**Monitor for patterns:**
+- Are only women volunteering for childcare?
+- Are only men volunteering for heavy lifting or technical work?
+- Are care tasks (emotional support, cleaning) done mostly by women?
+- Are "leadership" coordination tasks done mostly by men?
+
+**If gendered patterns emerge:**
+
+1. **Name the pattern openly** (no blame, just awareness):
+   > "We've noticed that all our childcare volunteers this month are women. This might be unconscious bias. Let's actively invite everyone to participate."
+
+2. **Actively encourage diversity:**
+   - Personal invitations: "Hey Marcus, would you be interested in trying childcare rotation? We'd love more variety."
+   - Cultural modeling: Highlight when men do care work, when women do technical work
+   - Make all tasks equally valued (care work is NOT "less important" than building)
+
+3. **Examine task framing:**
+   - Is childcare described as "nurturing" (coded feminine)?
+   - Is building described as "strong work" (coded masculine)?
+   - **Reframe neutrally:** Childcare is "supervision and activity facilitation." Building is "construction and repair."
+
+4. **Rotation encourages experimentation:**
+   - Everyone tries all types of work (within physical ability)
+   - Discover: Some men love childcare, some women love carpentry
+   - Break down stereotypes through experience
+
+**Important:**
+
+- This is NOT about forcing anyone into tasks they're genuinely uncomfortable with
+- This IS about questioning whether "comfort" comes from genuine preference or internalized gender roles
+- **Invitation, not coercion:** "Would you like to try X?" not "You must do X"
+
+**The goal:** Work distribution reflects diverse human capacity, not gender stereotypes.
+
+**See also:** [NEURODIVERGENT_PROTOCOL.md](./NEURODIVERGENT_PROTOCOL.md) for intersectional awareness (gender + disability + neurodivergence).
+
 ### 5.4 Node Size Management
 
 **Don't grow faster than capacity:**
@@ -524,26 +737,192 @@ Gentler, but also less accountability. Community decides which approach fits the
 
 ### 6.2 Differentiated Responses
 
-**For medical/trauma reasons:**
+**For medical/trauma/capacity reasons:**
 - Alternative contributions (see [FLOW_ALTERNATIVE_CONTRIBUTIONS.md](./FLOW_ALTERNATIVE_CONTRIBUTIONS.md))
 - Refugium support
-- No pressure
+- Adjust expectations (this person contributes differently, and that's valid)
+- No pressure, no shame
 
-**For "don't want to" reasons:**
-- Gentle peer conversations (not confrontation)
-- "We notice you haven't volunteered for anything. Is something blocking you? Can we help?"
-- Offer easy entry points (micro-tasks, social tasks)
-- If still no participation → accept it (Baseline remains)
+**For those who choose not to participate in visible work:**
+
+This is also a valid choice in Flow. People have their own reasons. They remain part of the community.
+
+**Gentle approach:**
+- Peer conversations (not confrontation): 
+  - "We notice you haven't volunteered for structured tasks. Is something blocking you? Can we help?"
+  - "Would you be interested in alternative contributions? No pressure."
+- Offer easy entry points (micro-tasks, social tasks, creative work)
+- Respect their autonomy if they still choose non-participation
 
 **Community impact:**
-- Transparent (everyone knows contribution levels, but not shaming)
-- Adjustments (if 30% free riders, remaining 70% rotate more frequently — acknowledge this reality)
+- Transparent (contribution patterns visible, but not shaming)
+- Adjustments (if 30% choose non-participation, remaining 70% may rotate more frequently - acknowledge this reality openly)
+- Continue offering pathways (people's circumstances change - door always open)
+
+**Important framing:**
+
+**NOT:** "Actually just don't want to" (judgmental)
+
+**YES:** "Choose not to participate in visible work, for their own reasons, which may include:"
+- Need for autonomy
+- Different contribution style (invisible work)
+- Recovery from burnout
+- Personal circumstances we don't know about
+- Simply not resonating with structured contribution
+
+**All of these are legitimate. Baseline remains guaranteed.**
 
 **See:** [FREE_RIDER_SPECTRUM.md](./FREE_RIDER_SPECTRUM.md) for comprehensive free rider protocols.
 
 ---
 
 ## 7. Real-World Test Cases
+
+**These examples show how the six-level system works in practice.**
+
+---
+
+### 7.0 Micro-Simulation: Sanitation Shortfall Journey
+
+**Visual timeline of ONE shortfall through all potential levels:**
+
+```
+NODE: 40 people
+PROBLEM: Toilet cleaning shortfall
+NEEDED: 20 volunteers
+INITIAL: 8 volunteers
+
+═══════════════════════════════════════════════════
+
+WEEK 1-2: LEVEL 1 (Improve Task Appeal)
+Actions:
+  • Reduced shifts: 4 hours → 30 minutes
+  • Paired cleaning (no one alone)
+  • Music/podcasts allowed
+  • Gloves + cleaning tools upgraded
+  
+Result: 12 volunteers (+4)
+Status: STILL SHORT (need 20, have 12)
+
+───────────────────────────────────────────────────
+
+WEEK 3-4: LEVEL 2 (Recognition Enhancement)
+Actions:
+  • Amplified appreciation at gatherings
+  • "Thank you Sara & Ahmed for sanitation work"
+  • Ritual acknowledgment (small treats)
+  • Made invisible work visible
+  
+Result: 15 volunteers (+3)
+Status: STILL SHORT (need 20, have 15)
+
+───────────────────────────────────────────────────
+
+WEEK 5-6: LEVEL 3 (Buddy System)
+Actions:
+  • Mandatory pairing enforced
+  • Mentor-newbie matching
+  • "I'll do it if you do" commitments
+  • Rotation chart visible
+  
+Result: 21 volunteers (+6) ✓
+Status: ✅ SUCCESS! Gap closed.
+
+═══════════════════════════════════════════════════
+
+IF LEVEL 3 HAD FAILED:
+
+WEEK 7-18: LEVEL 4 (Task Redesign)
+Parallel tracks:
+  
+  Track A - Technology:
+    • Research composting toilets
+    • Budget: 15,000 kr
+    • Installation: 4 weeks
+    • Result: Cleaning need reduced 80%
+    • New need: 4 volunteers (was 20)
+    
+  Track B - Process:
+    • Batch cleaning (all toilets 1x/week vs daily)
+    • Professional cleaning company quote
+    • Apprentice program for sanitation specialist
+  
+Result: Problem solved via redesign ✓
+
+───────────────────────────────────────────────────
+
+IF LEVEL 4 HAD FAILED:
+
+WEEK 19-30: LEVEL 5 (External Support)
+Actions:
+  • Hire external cleaning service
+  • Cost: 5,000 kr/month
+  • 3-month contract (temporary bridge)
+  • Meanwhile: Train internal team
+  
+Parallel:
+  • Apprentice program launched
+  • 5 people learning sanitation best practices
+  • By month 3: 3 people ready to take over
+  
+Result: External support → internal capacity ✓
+
+───────────────────────────────────────────────────
+
+IF LEVEL 5 HAD FAILED:
+
+WEEK 31+: LEVEL 6A (Anonymous Capacity)
+Actions:
+  • Schedule created (everyone included)
+  • Opt-out allowed
+  • Display: "Need 20, have 12, gap 8"
+  • No names shown
+  
+Social effect:
+  • People see gap
+  • 5 more volunteer
+  • Result: 17 volunteers
+  • Still short 3
+  
+Duration: 2 months
+Status: BETTER but not resolved
+
+───────────────────────────────────────────────────
+
+IF LEVEL 6A HAD FAILED:
+
+WEEK 39+: LEVEL 6B (Transparent Visibility)
+Requirements met:
+  ✓ 6A tried for 2 months
+  ✓ Community vote: 92% consent
+  ✓ Mental health support available
+  ✓ Active monitoring in place
+  
+Actions:
+  • Names of participants shown
+  • Names of opt-outs shown
+  • No punishment, just visibility
+  
+Social effect:
+  • 6 more people volunteer (social pressure)
+  • Result: 23 volunteers (+6) ✓
+  • Gap closed
+  
+Duration: 1 month, then return to 6A
+
+═══════════════════════════════════════════════════
+
+KEY INSIGHTS FROM TIMELINE:
+
+• Most problems resolve at Level 1-3 (weeks 1-6)
+• Level 4 (redesign) is transformative but takes time
+• Level 5 (external) buys time for capacity building
+• Level 6 rarely needed if earlier levels used well
+• Each level adds intervention while preserving voluntary choice
+
+```
+
+---
 
 ### Test Case 1: Food Preparation Shortfall
 
@@ -637,32 +1016,48 @@ Gentler, but also less accountability. Community decides which approach fits the
 
 **Essential services CAN be ensured without coercion IF:**
 
-✓ We design work to be as pleasant as possible  
-✓ We recognize difficult work appropriately  
-✓ We provide social support (buddy systems)  
-✓ We redesign tasks when possible (technology, efficiency)  
-✓ We accept temporary external help when necessary  
-✓ We build capacity proactively (training, redundancy)  
+✓ We design work to be as pleasant as possible (Level 1)  
+✓ We recognize difficult work appropriately (Level 2)  
+✓ We provide social support (Level 3 - buddy systems)  
+✓ We redesign tasks when possible (Level 4 - technology, efficiency)  
+✓ We accept temporary external help when necessary (Level 5)  
+✓ We use **anonymous capacity display first** (Level 6A), individual visibility only as absolute last resort (Level 6B)  
+✓ We build capacity proactively (training, redundancy, apprenticeships)  
 ✓ We grow at sustainable pace (capacity before numbers)  
+✓ We protect specialists from burnout with explicit opt-out protocols  
+✓ We monitor for gendered work patterns and intervene consciously  
 
 **The goal is NOT:**
 - Perfect 100% internal volunteer coverage
 - Zero external help ever
 - Everyone contributing equally
+- Eliminating all social pressure
 
 **The goal IS:**
 - Survival-critical tasks reliably covered
 - Burden distributed fairly enough
-- No one coerced
+- **No one coerced** (voluntary principle preserved)
+- **No one shamed** (dignity maintained)
 - System learns and adapts
+- **Anonymous before visible** (privacy before transparency)
 
 **If we must choose between:**
 - Pure voluntary participation with system collapse  
-- OR mild soft incentives with system survival
+- OR mild, graduated interventions with system survival
 
-**We choose:** System survival with MINIMAL coercion (Levels 1-5, avoiding Level 6 whenever possible).
+**We choose:** System survival with **MINIMAL** intervention (Levels 1-5), avoiding Level 6 whenever possible, and using Level 6A (anonymous) before Level 6B (visible).
 
-**But we never choose:** Baseline removal, force, or punishment.
+**But we never choose:** Baseline removal, force, punishment, or shaming.
+
+---
+
+**Core insight from DeepSeek's critique:**
+
+> "Kalle has social anxiety. He opts out. His name appears on list. Shame grows. He leaves community."
+
+**This is what we prevent.** Anonymous capacity display (Level 6A) protects Kalle while still addressing the gap. Individual visibility (Level 6B) is reserved for extreme cases where community has explicitly consented and safety monitoring is active.
+
+**Transparency is valuable. Privacy is sacred. We err on the side of privacy.**
 
 ---
 
