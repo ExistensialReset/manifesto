@@ -88,6 +88,11 @@ Process:
 
 After splitting, both Circles remain connected within the Node network.
 
+When a Circle grows beyond ~10 members,
+it should not continue expanding.
+
+Instead it becomes part of a Node.
+
 ---
 
 ## Path C — Restructure
