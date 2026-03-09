@@ -3,7 +3,7 @@
 
 **Version:** 2.0  
 **Status:** CORE SAFEGUARD / LIVING DOCUMENT  
-**Authors:** Elinor Frejd, Claude, ChatGPT, DeepSeek, Gemini  
+**Authors:** Elinor Frejd, Claude, ChatGPT, DeepSeek  
 **Date:** March 7, 2026  
 
 ---
