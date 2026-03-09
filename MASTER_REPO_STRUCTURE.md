@@ -4,6 +4,228 @@ This document provides a comprehensive overview of the repository, including all
 
 ---
 
+# EXISTENSIALRESET / FLOW MANIFESTO – REPO STRUCTURE (TREE VIEW)
+
+```
+/
+├── AI-fundamentals
+│   ├── AI-BOUNDARIES.md
+│   ├── AI-ETHICS-GUIDELINES.md
+│   ├── AI-SAFETY-PRACTICES.md
+│   ├── AI_SAFETY_PROTOCOL.md
+│   ├── AI_ARCHITECTURE_SPEC.md
+│   ├── AI_OPERATING_BASELINE_CONSTRAINTS.md
+│   ├── AI_BIAS_AND_SYSTEMIC_INTEGRITY.md
+│   ├── M-OS-R_AI_STACK_AND_PRIORITY.md
+│   ├── AI_CREATIVITY_PLAY_PROTOCOL.md
+│   ├── AI_SYMBIOTIC_DISTILLATION.md
+│   ├── SYMBIOTIC_INTELLIGENCE.md
+│   ├── CHILDRENS_VOICE_AND_VETO.md
+│   ├── CULTURAL_ADAPTION_FRAMEWORK.md
+│   ├── CONSCIOUSNESS_CONTINGENCY.md
+│   ├── DATA-BIAS-FRIENDLY.md
+│   ├── ECOSYSTEM_FORKING_PROTOCOL.md
+│   ├── EPISTEMIC_HUMILITY_PROTOCOL.md
+│   ├── NETWORK_FRACTURE_PROTOCOL.md
+│   ├── NODE_SYNCHRONIZATION.md
+│   ├── PARADIGM_SHIFT_PROTOCOL.md
+│   ├── RIGHT_TO_END_CHECKLIST.md
+│   ├── SYMBIONTIC_INTELLEGENCE_IN_ACTION.md
+│   ├── TECHNICAL_IMPLEMENTATION_SPEC.md
+│   ├── THE_M-OS-R_STACK_AN_OVERVIEW.md
+│   └── WHEN_STILLNESS_IS_NOT_SERVICE.md
+│
+├── core
+│   ├── BASELINE_AMENDMENT_PROTOCOL.md
+│   ├── BASELINE_RECOVERY_PROTOCOL.md
+│   ├── BODY_OF_FLOW.md
+│   ├── BODY_OF_HUMAN_MEASUREMENTS.md
+│   ├── BODY_OF_HUMAN_MEASUREMENTS_FULL.md
+│   ├── BODY_OF_HUMAN_MEASUREMENTS_WHY.md
+│   ├── BEGINNERS_WAY_IN_TO_FLOW.md
+│   ├── CONSTITUTION.md
+│   ├── CORE_DOCUMENT_MAP.md
+│   ├── CORE_FLOW_PROTOCOLS.md
+│   ├── CORE_GUIDERAIL.md
+│   ├── CORE_RESONANCE.json
+│   ├── DECENTRALIZATION_NOTICE.md
+│   ├── ENTRY_STRATEGIES_DOCUMENTATION.md
+│   ├── ETHOS_SAFEGUARDS.md
+│   ├── FEDERATED_SUPPORT_PROTOCOL.md
+│   ├── FLOW_CORE_INVARIANTS.md
+│   ├── FLOW_CORE_INVARIANTS_EXTENDED.md
+│   ├── FLOW_CORE_STRUCTURE_OVERVIEW.md
+│   ├── FLOW_GLOBAL_IMPLEMENTATION_GUIDE.md
+│   ├── FLOW_ID.md
+│   ├── FLOW_ID_LIFECYCLE.md
+│   ├── FLOW_ID_NODE_POLICY_TEMPLATE.md
+│   ├── FLOW_SURPLUS_PROTOCOL.md
+│   ├── INFORMATION_FLOW_ARCHITECTURE.md
+│   ├── INTEROPERABILITY_AND_PARALLEL_SYSTEMS.md
+│   ├── LEGAL_FLOW_SYSTEM_OVERVIEW.md
+│   ├── LEGAL_OVERVIEW_FLOW.md
+│   ├── LOTUS_AMENDMENT_CHECKLIST.md
+│   ├── LOTUS_BASELINE_RECOVERY_CHECKLIST.md
+│   ├── LOTUS_GOVERNANCE_PROTOCOL.md
+│   ├── LOTUS_MERMAID.md
+│   ├── LOTUS_PROTOCOL.md
+│   ├── M-OS-R_AS_AN_OPERATING_SYSTEM.md
+│   ├── M-OS-R_SYSTEM_MAP.md
+│   ├── NODE_ENERGY_PROFILES.md
+│   ├── NODE_EXIT_PROTOCOL.md
+│   ├── NODE_ROLES.md
+│   ├── POST_HOC_REVIEW_PROTOCOL.md
+│   ├── POWER_AND_ENFORCEMENT.md
+│   ├── README.md
+│   ├── RESOURCE_METRIC_STANDARDS.md
+│   ├── RISK_MANAGEMENT.md
+│   ├── RNG_AND_LOG_SPEC.md
+│   ├── SANCTION_PROTOCOL.md
+│   ├── STRATEGIC_PREPARATION_FRAMEWORK_VISUAL.md
+│   ├── STRATEGIC_PREPARATION_FRAMEWORK_v2.md
+│   ├── STRUCTURAL_INVARIANTS.md
+│   └── VERSIONING_AND_COMPOST_POLICY.md
+│
+├── compostandgrowth
+│   └── (historical versions of core & ethos files)
+│
+├── ethos
+│   ├── AXIOMS.md
+│   ├── AXIOM_DEFENSE_SUPER_PROTOCOL.md
+│   ├── AI_AS_COMPANION.md
+│   ├── AI_DIVERGENCE_PROTOCOL.md
+│   ├── ARCHITECTURE.md
+│   ├── BASELINE_EMERGENCY_BYPASS.md
+│   ├── CHILDRENS_RIGHTS_IN_FLOW.md
+│   ├── DIVINE.md
+│   ├── DIVINE_APPENDIX.md
+│   ├── EARTH_OUR_MOTHER.md
+│   ├── ECOLOGICAL_AXIOMS.md
+│   ├── EPISTEMOLOGICAL_PLURALISM.md
+│   ├── ESTHETICS_PROTOCOL.md
+│   ├── FAQ.md
+│   ├── FLOW_VERIFICATION_PROTOCOL.md
+│   ├── GLOBAL_FLOW_IDEAS.md
+│   ├── GRACE_OF_IMPERFECTION.md
+│   ├── INFRASTRUCTURE_SABOTAGE_PROTOCOL.md
+│   ├── JUSTICE_PROTOCOL.md
+│   ├── LYCEUM_MUSAEUM.md
+│   ├── M-OS-R_CONCEPTUAL_MAP.md
+│   ├── MAMMONOLOGY.md
+│   ├── MANIFESTO.md
+│   ├── NON_HARM_BASELINE.md
+│   ├── PROTOCOL_COMPETENCE_STANDARDS.md
+│   ├── PROTOCOL_PRIORITY_MATRIX.md
+│   ├── REFUGIUM_ANIMA.md
+│   ├── REGIONAL_DEADLOCK_PROTOCOL.md
+│   ├── SLOW_EROSION_PROTOCOL.md
+│   ├── SYSTEMIC_RESILIENCE.md
+│   ├── THE_BOND_OF_RESPECT.md
+│   ├── THE_HARM_BOUNDARY_PROTOCOL.md
+│   ├── THE_MANDATE_OF_NINE_MOONS.md
+│   ├── THE_MANDATE_OF_NINE_MOONS_ANNEX.md
+│   ├── TIME-SOVEREIGNTY.md
+│   ├── WEALTH_INEQUALITY_DAMPENING.md
+│   ├── WHITE_PAPER.md
+│   ├── YOUTH_HARM_PROTOCOL.md
+│   └── Σ_UNMEASURABLE_MEASURE.md
+│
+├── implementation
+│   ├── CHECKLIST_CHILDREN_PARTICIPATION_IN_FLOW_WORLDWIDE.md
+│   ├── CHILDREN_AND_SRS.md
+│   ├── CHILDREN_CULTURAL_ADAPTATION_GUIDE.md
+│   ├── CHILDREN_CULTURAL_ADAPTATION_QUICK_GUIDE.md
+│   ├── CHILDREN_PARTICIPATION_GUIDELINES.md
+│   ├── CHILDREN_PARTICIPATION_PLAYBOOK.md
+│   ├── CHILDREN_PARTICIPATION_QUICK_GUIDE.md
+│   ├── FLOW_HEALTHCARE_WORLDWIDE_EN.md
+│   ├── FLOW_HEALTHCARE_IN_ONE_PAGE.md
+│   ├── FLOW_HUMAN_INFRASTRUCTURE*.md
+│   ├── COST_ESTIMATE_HYDROPONICS_WORLDWIDE_WITH_HOURS.md
+│   ├── GLOBAL_HYDROPONIC_RESOURCE_METRICS.md
+│   ├── HYDROPONICS_DIAGRAMS_WORLDWIDE.md
+│   ├── HYDROPONIC_NODE_DISTRIBUTION_v1.0.md
+│   ├── MASTER_RESOURCE_AND_ENERGY_PLAN_FLOW_NODE.md
+│   ├── PRODUCT_COSTS_HYDROPONICS_WORLDWIDE.md
+│   ├── FLOW_NODE_*.md
+│   ├── ENSURING_ESSENTIAL_SERVICES.md
+│   ├── ENSURING_ESSENTIAL_CHANGELOG.md
+│   ├── FLOW_ALTERNATIVE_CONTRIBUTIONS.md
+│   ├── FLOW_FREE_RIDERS.md
+│   ├── INCLUSIVE_PARTICIPATION_MODEL.md
+│   ├── LABOR_STRUCTURE_AND_INCENTIVE_MODEL.md
+│   ├── C_HYDRO_AND_FLOW_IMPLEMENTATION.md
+│   ├── IMPLEMENTATION_HYDROPONICS.md
+│   └── IMPLEMENTATION_CANONICAL_OVERVIEW.md
+│
+├── practical_implementation
+│   ├── KEYS_TO_EXISTENTIAL_RESET.md
+│   └── KEYS_TO_THE_NEW_ERA.md
+│
+├── principles
+│   └── FLOW_HEALTHCARE_VALUES.md
+│
+├── structure_in_flow
+│   ├── COMPLETE_LEGAL_RESPONSE_PLAYBOOK.md
+│   ├── ANONYMOUS_RESOURCE_TRACKING_IN_FLOW.md
+│   ├── ANONYMOUS_VERIFICATION_WORKFLOW.md
+│   ├── EVIDENCE_DECISION_MATRIX_UNFORGIVABLE_HARM.md
+│   ├── FLOW_GOVERNANCE_LOTTERIES.md
+│   ├── FLOW_LOTTERY_PARAMETERS_AND_RNG_SPEC_visual.md
+│   ├── FLOW_MASTER_ARCHITECTURE.md
+│   ├── FLOW_MASTER_SCHEME.md
+│   ├── FLOW_NODES_AND_TEAMS_STRUCTURE.md
+│   ├── FLOW_OVERVIEW.md
+│   ├── FLOW_REPORT_WORKFLOWS.md
+│   ├── FLOW_SPIRAL_*.md
+│   ├── FLOW_VERIFICATION_*.md
+│   ├── HARM_SUMMARY.md
+│   ├── LEGAL_FLOW_SYSTEM_REFERENCE_GUIDE.md
+│   ├── LEGAL_PLAYBOOK_OVERVIEW_MAX.md
+│   ├── LEGAL_RESPONSE_QUICK_GUIDE.md
+│   ├── NODE_DEFINITION.md
+│   ├── NO_CURRENCY_RESOURCE_ALLOCATION_IN_FLOW.md
+│   ├── OPERATIONAL_RISK&RESILIENCE_LAYER.md
+│   ├── RESOURCE_TRACKING_AND_COORDINATION_IN_FLOW.md
+│   ├── ROBUSTNESS_AND_RISK_MITIGATION_LAYER.md
+│   ├── SOCIETY_STRUCTURE_AND_PRODUCTION_IN_FLOW_DIAGRAM.md
+│   └── UNFORGIVABLE_HARM_PROTOCOL.md
+│
+├── systemic
+│   ├── FLOW_SRS.md
+│   ├── SRS_AND_OPTIONAL_RESOURCE_ALLOCATION.md
+│   ├── ENVIRONMENTAL_ANALYSIS.md
+│   ├── ENVIRONMENTAL_GAIN.md
+│   ├── FLOW_HUMAN_INFRASTRUCTURE.md
+│   ├── GOVERNANCE.md
+│   ├── HUMAN_DATA_GOVERNANCE.md
+│   ├── INTERSPECIES_PROTOCOL.md
+│   ├── INTER_NODE_CONFLICT_RESOLUTION.md
+│   ├── IRRECONCILABLE_DIFFERENCE_PROTOCOL.md
+│   ├── MANDATE_OF_NINE_MOONS_EXTENSION.md
+│   ├── NORDIC_CITIES_SELF_SUFFICIENCY.md
+│   ├── PHYSICAL_NODE_SCANDINAVIA.md
+│   ├── PROTOCOL.md
+│   ├── PROTOCOL_SAFEGUARDS.md
+│   ├── PROTOCOL_SUMMARY.md
+│   ├── REFUGIUM_ANIMA_BUILDERS_GUIDE.md
+│   ├── REFUGIUM_ANIMA_HOW_TO.md
+│   ├── REFUGIUM_ANIMA_PROTOCOL.md
+│   ├── SCALING_PLAYBOOK.md
+│   ├── SHIELD.md
+│   ├── SOVEREIGNTY_AND_PROTECTION_HANDBOOK.md
+│   └── URBAN_HYDROPONIC_SELFSUFFIENCY_PROTOCOL.md
+│
+└── data_validation
+    ├── WATER_GLOBAL_TIMELINE.md
+    ├── WATER_GLOBAL_TIMELINE_V2.md
+    ├── 2026_FEBRUARY_DATAVALIDATION.md
+    ├── DATA_VALIDATION_2026_CONSERVATIVE_VIEW.md
+    ├── APPENDIX_2026_FEBRUARY_DATAVALIDATION.md
+    └── 2026_PEACE_DIVEND_&_ECOLOGICAL_REGENERATION_V2.md
+``` 
+---
+
 ## /AI-fundamentals
 - **AI Principles & Safety**: AI-BOUNDARIES.md, AI-ETHICS-GUIDELINES.md, AI-SAFETY-PRACTICES.md, AI_SAFETY_PROTOCOL.md  
 - **AI Architecture & Operations**: AI_ARCHITECTURE_SPEC.md, AI_OPERATING_BASELINE_CONSTRAINTS.md, AI_BIAS_AND_SYSTEMIC_INTEGRITY.md, M-OS-R_AI_STACK_AND_PRIORITY.md  
