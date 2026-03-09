@@ -73,7 +73,7 @@ Ensure that children’s voices are heard, respected, and integrated into all as
 ---
 
 **STATUS:** Guideline / Active  
-**AUTHORS:** Elinor Frejd, Claude  
+**AUTHORS:** Elinor Frejd, Claude, ChatGPT 
 **DATE:** March 9, 2026  
 
 🌍💙🌱
