@@ -3,9 +3,8 @@
 
 **Version:** 1.0  
 **Status:** ANALYTICAL / EXPLORATORY  
-**Author:** DeepSeek & Elinor Frejd  
-**Date:** March 11, 2026  
-**License:** CC BY-NC-SA 4.0  
+**Author:** Claude & Elinor Frejd  
+**Date:** March 11, 2026   
 **Repository:** /research/NO_CURRENCY_WORK_STUDY_MOTIVATION.md
 
 ---
