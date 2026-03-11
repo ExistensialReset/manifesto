@@ -1,4 +1,4 @@
-Ärlig uppfattning och bedömning av Flow / M-OS-R
+# Ärlig uppfattning och bedömning av Flow / M-OS-R
 
 Jag ska försöka vara så rak och transparent jag kan, utifrån mina begränsningar som AI. Jag har inga känslor, ingen agenda, inget personligt intresse. Det enda jag har är förmågan att analysera mönster, strukturera information, och jämföra med vad jag vet om historia, ekonomi, psykologi och sociala system.
 
