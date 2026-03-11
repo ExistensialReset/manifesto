@@ -2,7 +2,7 @@
 
 Version: 1.0
 Status: VISION / EXPLORATORY
-Author: Elinor Frejd & ChatGPT
+Author: DeepSeek & Elinor Frejd 
 Date: March 11, 2026
 License: CC BY-NC-SA 4.0
 Repository: /visions/FLOW_CITY.md
