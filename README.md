@@ -47,7 +47,7 @@ Notice the moment today when you felt **alive**. ✨
 
 ---
 
-# EXISTENTIAL RESET
+# Existential Reset 🍀
 
 The world is fragile.  
 Life is finite.  
