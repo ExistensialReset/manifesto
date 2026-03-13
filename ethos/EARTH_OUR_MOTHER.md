@@ -48,7 +48,7 @@ Because extraction is an act of violence, we choose the path of preservation and
 1.  **Community Circulation:** Monthly exchanges for clothing, shoes, and tools. We share so She does not have to give more of her flesh.
 2.  **The Repair Stations:** Spaces for manual repair of electronics, bicycles, and household items. 
 3.  **The Gratitude Inventory:** A monthly ritual where we list what we *did not* extraction if we feel like counting that month, anyways we will celebrate the self-healing capacity of the local ecosystem.
-4.  **Trash as Failure:** If an object cannot be repaired or returned to the cycle, it is "Trash"—a mark of systemic failure. 
+4.  **Trash as Systemic Failure:** If an object cannot be repaired or returned to the cycle, it is "Trash"—a mark of systemic failure. 
 
 ---
 
