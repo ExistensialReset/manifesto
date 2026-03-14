@@ -247,9 +247,4 @@ It is an **invitation** to remember:
 > 
 > You are **alive**.  
 > 
-> And that is enough.
-
-**Welcome home.** 🏡💜
-
-
-*Last updated: March 12, 2026*
+> *And that is enough.*
