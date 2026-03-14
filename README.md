@@ -230,7 +230,7 @@ Worth attempting.
 **Keywords:** nervous system-aware, trauma-informed, intentional community, mutual aid, post-scarcity, commons, collective living, open-source society, social architecture, solarpunk, degrowth, care economy, neurodiversity, systems thinking, Flow, human flourishing, co-living, Ubuntu, regenerative society
 
 
-## 🌸 Final Words
+## 🌸 One last note
 
 This repository is a **gift**.
 
