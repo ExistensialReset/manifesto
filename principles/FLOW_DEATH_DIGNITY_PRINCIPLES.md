@@ -376,6 +376,261 @@ Where prevention was impossible:
 
 ---
 
+### 11.9 When Death Divides the Circle
+
+**Sometimes a person's sovereign choice to die creates fracture in the Circle.**
+
+Some accept it. Others feel abandoned, betrayed, angry.
+
+Both responses are real. Both deserve space.
+
+#### Two Parallel Processes
+
+The Circle offers **two tracks, not one answer:**
+
+**Track One: For Those Who Can Accept**
+- Space to honor the choice
+- Rituals of remembrance without defense
+- No pressure to explain or justify the person's decision
+- Peace with complexity
+
+**Track Two: For Those Who Feel Abandoned**
+- Space for anger, hurt, betrayal
+- Permission to NOT understand
+- Anger is directed at the suffering that made life unbearable, not at the dead person
+- No pressure to "forgive" or "move on"
+
+**Ritual of Separation:**
+
+Not separation from the dead, but from the image of them as "someone who abandoned us."
+
+A ceremony where rage can be witnessed, held, and then released — not because it's wrong, but because carrying it poisons the living.
+
+**Core truth spoken aloud:**
+
+> "Your anger is valid. Your sorrow is real.  
+> AND, they had the right to choose.  
+> Both of these are true."
+
+**The Circle does not require agreement. The Circle requires that all feelings can exist.**
+
+---
+
+### 11.10 Children and Death-Wishes: System Failure
+
+**If a child in Flow wants to die, this is system failure. Always.**
+
+Not maybe. Not "it depends." **Always.**
+
+#### The Hard Truth
+
+A child who wants to die is saying:
+> "The pain is greater than my capacity to hold it."
+
+They are NOT saying:
+> "I have considered existence and choose non-existence."
+
+Children do not have the developmental capacity for that choice. What they have is unbearable NOW and no sense of a bearable future.
+
+**Flow's response is NEVER "yes, you may die."**
+
+**Flow's response is ALWAYS "we must make life worth living."**
+
+#### The ONE Exception
+
+**Terminal illness with outhärdlig physical pain that cannot be managed.**
+
+Then it becomes palliative care + supported transition, not suicide.
+
+But psychological pain? Mental anguish? Trauma? Despair?
+
+**Never.**
+
+A child in that depth of pain needs:
+- Intensive therapeutic support
+- Trauma-informed care
+- Possible removal from triggering environment
+- Adults who can witness the pain without trying to fix it immediately
+- Time for nervous system regulation
+- **Proof that life CAN feel different**
+
+#### Age-Differentiated Response
+
+**Ages 0-15:**
+- Death-wishes treated as crisis requiring immediate support
+- No "consent to die" is possible
+- Every resource mobilized to address root causes
+
+**Ages 16-17:**
+- Same as adult process BUT with external review panel
+- Mandatory 12-month waiting period with intensive support
+- If after 12 months of genuine care the wish persists, it is honored with deep grief
+
+**Why 16-17 gets different treatment:**
+
+Because some teenagers carry trauma from before Flow. They may have developed such deep patterns of suffering that even Flow's care cannot reach them in time.
+
+We try. We fail sometimes. And when we fail, we honor their sovereign choice — while knowing we failed.
+
+#### Aftermath of Child Death by Choice
+
+**The Circle's responsibility:**
+
+- Full systemic audit (what failed?)
+- Support for all who knew the child
+- No blame on individuals
+- Structural changes to prevent next time
+- **Acknowledgment: we were not enough**
+
+**This is the hardest truth Flow must hold.**
+
+---
+
+### 11.11 The Body's Return to Earth
+
+**The body returns to Earth. Always.**
+
+Not preserved. Not stored. Not kept.
+
+**Returned.**
+
+#### Why Earth?
+
+Because that's what all living things do.
+
+When a tree dies, it feeds the forest.  
+When an animal dies, it feeds the soil.  
+When a human dies... we have invented ways to delay return.
+
+Flow chooses return.
+
+#### How Return Happens
+
+**Options (all lead to Earth):**
+
+1. **Natural burial** — body in biodegradable shroud, no embalming, direct to soil
+2. **Cremation → ashes to soil** — scattered in forest, garden, wild place
+3. **Alkaline hydrolysis** (where legal) — gentler than cremation, returns to water/soil
+4. **Composting** (where legal) — body becomes soil directly
+
+**The person or their Circle chooses the method.**
+
+**All methods share one requirement: biological return within reasonable time.**
+
+No permanent vaults. No preservation. No monuments that last millennia.
+
+Memory lives in the living, not in stone.
+
+#### What About Graveyards?
+
+**Flow Circles may maintain memorial spaces:**
+
+- Natural burial grounds (bodies feed trees)
+- Gardens where ashes are scattered
+- Places to sit, speak names, tend plants
+- Biodegradable markers (wood, stone with no concrete base)
+
+**But these are for the living, not the dead.**
+
+The dead are already gone. They are in the soil, in the trees, in the cycle.
+
+#### Baseline Coverage
+
+**Burial/cremation is part of Baseline.**
+
+No one is denied dignified return to Earth due to cost.
+
+Simple, natural, respectful — always accessible.
+
+Elaborate ceremonies, specific locations, particular trees — these can be chosen if resources allow, but basic return is guaranteed.
+
+---
+
+### 11.12 When Grief Becomes Captivity
+
+**Grief has no timeline. This is true.**
+
+**But sometimes grief becomes a prison. This is also true.**
+
+#### The Difference
+
+**Honored grief:**
+- Lives alongside life
+- Allows memory without drowning
+- Can laugh without betraying the dead
+- Carries loss but remains present
+
+**Captive grief:**
+- Replaces life entirely  
+- Cannot eat, sleep, function
+- Refuses all comfort
+- Sees living as betrayal
+
+**Both are understandable. Only one is sustainable.**
+
+#### When the Circle Must Speak
+
+If someone is disappearing into grief — not just sad, but truly vanishing — the Circle has a responsibility.
+
+Not to fix. Not to rush. But to speak.
+
+**What the Circle says:**
+
+> "We see your pain. We honor your love.  
+> We see that you are disappearing.  
+> We do not want to lose you also."
+
+This is not "you're grieving wrong."
+
+This is "we want you to stay alive."
+
+#### Practical Support
+
+**What helps:**
+- Professional grief therapy (if accessible)
+- Somatic support (grief lives in the body)
+- Ritual for asking permission to live again
+- Community holding without demanding performance
+
+**The Ritual of Permission:**
+
+The grieving person speaks to the dead (in Circle, with witnesses):
+
+> "I will never forget you.  
+> I carry you with me.  
+> But I must live my life now.  
+> Do I have your blessing?"
+
+The Circle, as proxy for the dead, responds:
+
+> "Yes. Live. We release you to life.  
+> Your living honors us."
+
+This doesn't "fix" the grief. But it creates a container where life can exist alongside loss.
+
+#### Gränser med kärlek (Boundaries with Love)
+
+Sometimes the Circle must say:
+
+> "We love you.  
+> We see you are in pain.  
+> And we need you to try to live.  
+> Not for us. But because your life still has worth."
+
+This is not cruelty. This is refusing to watch someone die of grief when intervention is possible.
+
+**If intensive support fails, and the person truly cannot continue:**
+
+Then § 4 (Choice Without Coercion) applies.
+
+But first, we try. Hard. For months. For years if needed.
+
+Because grief sometimes loosens its grip. Slowly. Unevenly. But sometimes.
+
+And we want to be there when it does.
+
+---
+
 ## PRACTICAL QUESTIONS FOR CIRCLES
 
 1. Do we have end-of-life care plans for members?
@@ -388,6 +643,10 @@ Where prevention was impossible:
 8. **Are we prepared to hold parents who lose a child — indefinitely?**
 9. **Do surviving siblings have adults who can be present just for them?**
 10. **Can families grieve in incompatible ways and still be held?**
+11. **Can we hold space for those who accept a death AND those who feel abandoned by it?**
+12. **If a child expresses death-wishes, do we treat it as crisis requiring systemic response?**
+13. **Do we have plans for natural burial or earth-return of bodies?**
+14. **Can we speak with love when someone's grief is consuming them?**
 
 **If you cannot answer "yes" to most of these, start the conversation now — before death arrives.**
 
