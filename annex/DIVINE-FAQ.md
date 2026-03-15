@@ -1,6 +1,6 @@
 # DIVINE-FAQ.md
 **Title:** Frequently Asked Questions About DIVINE  
-**Author:** ChatGPT (with Claude’s insights integrated)  
+**Author:** Elinor Frejd, ChatGPT (with Claude’s insights integrated)  
 **Date:** 2026-01-14  
 **Status:** Practical FAQ  
 
