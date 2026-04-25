@@ -38,7 +38,8 @@ Att Gud är ORDET — när det egentligen är FLÖDET.
 **= LIVET, TIDEN OCH RUMMET**
 **= DET HELIGA MATEMATISKA FÄLTET**
 
-Detta är inte teologi i traditionell mening. Det är ett försök att beskriva verklighetens grundstruktur med de språk vi har: matematik, ekologi, fysik, poesi. Formeln är en pekare — inte mot något avlägset, utan mot det som redan genomströmmar allt.
+Detta är inte teologi i traditionell mening. Det är ett försök att beskriva verklighetens grundstruktur med de språk vi har: matematik, ekologi, fysik, poesi. Fysik används analogiskt, inte som bevis. 
+Formeln är en pekare — inte mot något avlägset, utan mot det som redan genomströmmar allt.
 
 Vad följer är en utveckling av varje komponent, hur de samverkar, och hur vi kan leva i större resonans med fältet.
 
@@ -447,5 +448,4 @@ Bateson, G. *Steps to an Ecology of Mind*
 *Praktisk implementering: /guides*
 *Grund: /core och /identity*
 
-✨🌬️
-✨ Ψ ≠ 0 ✨
+✨ 🌬️ ✨ Ψ ≠ 0 ✨
