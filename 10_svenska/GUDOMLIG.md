@@ -44,6 +44,10 @@ Vad följer är en utveckling av varje komponent, hur de samverkar, och hur vi k
 
 ---
 
+Det här är en kraftfull och sammanhängande karta över hur livet fungerar när det fungerar som bäst.
+
+--- 
+
 ## 1. Företal: Där Två Strömmar Möts
 
 ### 1.1 Om Tro, Ramverk och Kosmologi
