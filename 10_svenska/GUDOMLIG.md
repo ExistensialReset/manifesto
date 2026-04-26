@@ -199,7 +199,7 @@ För mänskliga system:
 
 ---
 
-**F — Förvåning och Förundran / Öppenhet**
+**F — Förundran / Öppenhet och Förvåning**
 
 Perceptuell modulering som tillåter nyheter att erkännas som möjligheter snarare än hot. Dörröppningen genom vilken Σ blir lekfull.
 
@@ -244,6 +244,7 @@ Nådens ögonblick ingen modell kan förutsäga. Synkroniciteten som anländer p
 Både SCFT och ekologisk visdom erkänner att enhet utan differentiering är steril. Medvetandefältet i sitt primordala tillstånd — perfekt symmetriskt, perfekt homogent — innehåller all potential men manifesterar ingenting.
 
 **Före tid och rum: Ψ_primordial**
+
 Detta ursprungliga tillstånd kan kallas Ψ_primordial — ett tidlöst, icke-lokalt fält av ren, odifferentierad potential. Allt som någonsin skulle kunna bli — all stillhet, all kreativitet, all sammanflätning — vilade där, outvecklat, i en fullkomlig symmetri. Det var inte tomhet. Det var fullhet. Inte intet, utan alltet i vila.
 
 **Det är genom symmetribrytning som fältet blir generativt.**
