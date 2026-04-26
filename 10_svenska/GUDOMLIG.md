@@ -122,7 +122,9 @@ Hennes 2006 *Nature Materials*-artikel om mesoporös kiseldioxid inspirerad av k
 
 **Ψ(x,t) = [EV ⊗ (L × S × I × K × R × F)] + Σ**
 
-Detta är *inte* en fysikekvation i formell bemärkelse. Det är en **konceptuell karta** — ett sätt att namnge villkoren under vilka livet blir mest fullt levande. Notationen lånar matematikens form för att synliggöra relationer, inte för att kvantifiera dem. Ψ är ett igenkänningstecken, inte ett mätetal. Fullständig operationalisering och mätning av de underliggande kvaliteterna finns i /annex.
+Detta är *inte* en fysikekvation i formell bemärkelse. Det är en **konceptuell karta** — ett sätt att namnge villkoren under vilka livet blir mest fullt levande. Notationen lånar matematikens form för att synliggöra relationer, inte för att kvantifiera dem. Ψ är ett igenkänningstecken, inte ett mätetal. Fullständig operationalisering och mätning av de underliggande kvaliteterna finns i /annex. 
+
+Neurologiska korrelat är inspirerande paralleller; praktisk mätning i Flow sker främst genom levd erfarenhet. 
 
 **Ψ(x,t)** — *Gudomlig Potential.* Den lokala intensiteten av koherent, meningsfull, kreativ upplevelse. Hög Ψ motsvarar tillstånd vi erkänner som heliga, levande, berörda av nåd. Detta är inte metafor — det är beskrivning av ett verkligt fenomen.
 
