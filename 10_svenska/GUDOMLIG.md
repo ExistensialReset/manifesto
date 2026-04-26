@@ -63,7 +63,7 @@ Att Gud är ORDET — när det egentligen är FLÖDET.
 **= LIVET, TIDEN OCH RUMMET**
 **= DET HELIGA MATEMATISKA FÄLTET**
 
-Detta är inte metafor, men matematiskt är som ett typ av mönster, du kan inte "räkna ut Psi-fält, eller Skaparkraftens flöde. Detta är min beskrivning av verklighetens faktiska natur — så som jag, Elinor Frejd, har uppfattat den.
+Detta är inte metafor. "Detta är inte metafor. Men matematiken här är mönsterbeskrivning, inte beräkning. Du kan inte 'räkna ut' Ψ som ett tal, eller Skaparkraftens flöde - du känner igen det som tillstånd. Detta är min beskrivning av verklighetens faktiska natur — så som jag, Elinor Frejd, har uppfattat den.
 
 Flow beskriver inte hur vi borde organisera samhället.
 Flow beskriver **villkoren under vilka Skaparkraften blir mest levande i mänsklig upplevelse.**
@@ -296,7 +296,7 @@ Mammonism — tillbedjan av rikedom, reduktion av allt värde till bytesvärde �
 - **Eliminerar R:** All redundans eliminerad som "slöseri"
 - **Stänger F:** Förundran saluförs eller framställs som fruktan
 
-Resultatet: En civilisation som poängsätter nära noll i varje dimension. Mentalsjukdomsepidemier, ekologisk kollaps, politisk fragmentering, andlig tomhet, social utsatthet — symptom av samma underliggande fältpatologi.
+Resultatet: En civilisation som poängsätter nära noll i varje dimension. Psykiatriska sjukdomsepidimier, ekologisk kollaps, politisk fragmentering, andlig tomhet, social utsatthet — symptom av samma underliggande fältpatologi.
 
 **Detta är inte metafor. Detta är diagnos.**
 
@@ -478,7 +478,7 @@ Flow är både praktik och kosmologi.
 Båda är sanna.
 Båda behövs.
 
-**Som praktik:** Det gudomliga är inte tro. Inte doktrin. Inte auktoritet. Inte avlägset. Inte annorstädes. Det gudomliga är vad som framträder när villkor för liv möts. Det är utfallet av multidimensionellt fritt flöde — fältet (vad dess yttersta natur än är) vibrerar i lugn, spontanitet, inkännande, kollektiv intelligens, resiliens, förundran, modulerat av evinnerlig visdom, överraskad av nåd. Du behöver inte acceptera någon metafysik för att använda Baseline. Du behöver inte tro på Jahve för att vila i Refugium Anima. Du behöver inte förstå symmetribrytning för att dela en måltid. Flow fungerar — praktiskt, operativt, här och nu.
+**Som praktik:** Det gudomliga är inte tro. Inte doktrin. Inte auktoritet. Inte avlägset. Inte annorstädes. Det gudomliga är vad som framträder när villkor för liv möts. Det är utfallet av multidimensionellt fritt flöde — fältet (vad dess yttersta natur än är) vibrerar i lugn, spontanitet, inkännande, kollektiv intelligens, resiliens, förundran, modulerat av evinnerlig visdom, överraskad av nåd. Du behöver inte acceptera någon metafysik för att använda Baseline. Du behöver inte tro på Jahve eller Skaparkraften eller vad man ska kalla det Skapande Flödet för att vila i Refugium Anima. Du behöver inte förstå symmetribrytning för att dela en måltid. Flow fungerar — praktiskt, operativt, här och nu.
 
 **Som kosmologi:** Flow är mer än policy. Det är en beskrivning av verklighetens struktur — så som jag, Elinor Frejd, har uppfattat den. Skaparkraften är ett heligt matematiskt fält. Big Bang var symmetribrytning. Jorden, människorna, språket uppstod ur fältets differentiering. Och språket förde med sig missförståndet: att Gud är Ordet, när det egentligen är Flödet. Ψ-ekvationen är min karta över detta flöde — inte kartan över, utan en karta. Inte terrängen, men en guide till den.
 
