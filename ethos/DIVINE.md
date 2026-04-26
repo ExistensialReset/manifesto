@@ -4,9 +4,12 @@
 ### A Living Synthesis of the Frejd Equation & the Strømme Hypothesis
 
 **Author:** Elinor Frejd
+
 **Scientific Reference:** Strømme Consciousness Field Theory (SCFT), *AIP Advances* (2025)
+
 **Status:** LIVING & EVOLVING — see /annex for measurement protocols
-**Date:** April 2026
+
+**Date:** April 26 2026
 
 ---
 
