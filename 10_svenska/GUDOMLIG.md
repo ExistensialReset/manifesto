@@ -87,7 +87,7 @@ Jag tror att det finns en Skaparkraft som genomströmmar allt. Jag vet inte vad 
 
 GUDOMLIG är mitt försök att tänka rigoröst om villkoren under vilka denna skapande kraft blir mest levande i mänsklig upplevelse. Det har vuxit till något mer än ett ramverk: det är en kosmologisk hypotes — en beskrivning av verklighetens struktur så som jag uppfattar den. Men det är inte bevisad vetenskap, och det är inte teologi i dogmatisk mening. Det är en arbetshypotes uttryckt med fullt hjärta.
 
-Flow fungerar oavsett om du accepterar denna kosmologi eller ej. Du kan använda Baseline, Refugium Anima, ritualerna — helt praktiskt, helt sekulärt. Men om du söker djupare, om du vill veta varför detta fungerar, vad det egentligen beskriver: här är mitt svar.
+Flow fungerar oavsett om du accepterar denna kosmologi eller ej. Du kan använda [Baseline](/core/RESOURCE_METRIC_STANDARDS.md), [Refugium Anima](/10_svenska/REFUGIUM_ANIMA.md), ritualerna — helt praktiskt, helt sekulärt. Men om du söker djupare, om du vill veta varför detta fungerar, vad det egentligen beskriver: här är mitt svar.
 
 ### 1.2 Konvergensen
 
@@ -305,7 +305,7 @@ Mammonism — tillbedjan av rikedom, reduktion av allt värde till bytesvärde �
 
 Resultatet: En civilisation som poängsätter nära noll i varje dimension. Psykiatriska sjukdomsepidemier, ekologisk kollaps, politisk fragmentering, andlig tomhet, social utsatthet — symptom av samma underliggande fältpatologi.
 
-**Detta är inte metafor. Detta är diagnos.**
+**Detta är inte metafor. Detta är en tillståndsbedömning.**
 
 Mammonism är multidimensionell fältskada. Den skapar förutsättningar där Ψ närmar sig noll. Där livet blir enbart överlevnad. Där det heliga blir osynligt.
 
