@@ -4,10 +4,8 @@
 ### En Levande Syntes av Frejd-Ekvationen & Strømme-Hypotesen
 
 **Författare:** Elinor Frejd
-
 **Vetenskaplig Referens:** Strømme Consciousness Field Theory (SCFT), *AIP Advances* (2025)
 **Status:** LEVANDE & EVOLVERANDE — se /annex för mätprotokoll
-
 **Datum:** April 2026
 
 ---
@@ -38,16 +36,12 @@ Att Gud är ORDET — när det egentligen är FLÖDET.
 **= LIVET, TIDEN OCH RUMMET**
 **= DET HELIGA MATEMATISKA FÄLTET**
 
-Detta är inte teologi i traditionell mening. Det är ett försök att beskriva verklighetens grundstruktur med de språk vi har: matematik, ekologi, fysik, poesi. Fysik används analogiskt, inte som bevis. 
+Detta är inte teologi i traditionell mening. Det är ett försök att beskriva verklighetens grundstruktur med de språk vi har: matematik, ekologi, fysik, poesi. Fysik används analogiskt, inte som bevis. Den matematiska notationen är illustrativ — en konceptuell karta, inte en beräkningsteknisk formel. Operatorerna (⊗, ×, +) beskriver relationer, inte aritmetiska operationer. Ψ är inte ett tal som kan räknas ut, utan ett tillstånd som kan kännas igen.
 Formeln är en pekare — inte mot något avlägset, utan mot det som redan genomströmmar allt.
 
 Vad följer är en utveckling av varje komponent, hur de samverkar, och hur vi kan leva i större resonans med fältet.
 
 ---
-
-Det här är en kraftfull och sammanhängande karta över hur livet fungerar när det fungerar som bäst.
-
---- 
 
 ## 1. Företal: Där Två Strömmar Möts
 
@@ -91,7 +85,7 @@ Hennes 2006 *Nature Materials*-artikel om mesoporös kiseldioxid inspirerad av k
 
 **Ψ(x,t) = [EV ⊗ (L × S × I × K × R × F)] + Σ**
 
-Detta är *inte* en fysikekvation i formell bemärkelse. Det är en **konceptuell karta** — ett sätt att namnge villkoren under vilka livet blir mest fullt levande. Fullständig operationalisering och mätning finns i /annex.
+Detta är inte en fysikekvation i formell bemärkelse. Det är en **konceptuell karta** — ett sätt att namnge villkoren under vilka livet blir mest fullt levande. Notationen lånar matematikens form för att synliggöra relationer, inte för att kvantifiera dem. Ψ är ett igenkänningstecken, inte ett mätetal. Fullständig operationalisering och mätning av de underliggande kvaliteterna finns i /annex.
 
 **Ψ(x,t)** — *Gudomlig Potential.* Den lokala intensiteten av koherent, meningsfull, kreativ upplevelse. Hög Ψ motsvarar tillstånd vi erkänner som heliga, levande, berörda av nåd. Ψ är inte bara en metafor för mänskligt välmående. Det är ett mått på hur mycket av fältets potential som realiseras vid en given punkt i tid och rum.
 
@@ -370,7 +364,7 @@ Dessa risker är verkliga och måste aktivt vaktas mot genom ödmjukhet, politis
 
 Flow är både praktik och kosmologi. Båda är sanna. Båda behövs.
 
-**Som praktik:** Det gudomliga är inte tro. Inte doktrin. Inte auktoritet. Inte avlägset. Inte annorstädes. Det gudomliga är vad som framträder när villkor för liv möts. Det är utfallet av multidimensionellt fritt flöde — fältet (vad dess yttersta natur än är) vibrerar i lugn, spontanitet, inkännande, kollektiv intelligens, resiliens, förundran, modulerat av evinnerlig visdom, överraskad av nåd. Du behöver inte acceptera någon metafysik för att använda Baseline. Du behöver inte tro på Jahve för att vila i Refugium Anima. Du behöver inte förstå symmetribrytning för att dela en måltid. Flow fungerar — praktiskt, operativt, här och nu.
+**Som praktik:** Det gudomliga är inte tro. Inte doktrin. Inte auktoritet. Inte avlägset. Inte annorstädes. Det gudomliga är vad som framträder när villkor för liv möts. Det är utfallet av multidimensionellt fritt flöde — fältet (vad dess yttersta natur än är) vibrerar i lugn, spontanitet, inkännande, kollektiv intelligens, resiliens, förundran, modulerat av evinnerlig visdom, överraskad av nåd. Du behöver inte acceptera någon metafysik för att använda Baseline. Du behöver inte tro på Gud/Jahve för att vila i Refugium Anima. Du behöver inte förstå symmetribrytning för att dela en måltid. Flow fungerar — praktiskt, operativt, här och nu.
 
 **Som kosmologi:** Flow är mer än policy. Det är en beskrivning av verklighetens struktur — så som jag, Elinor Frejd, har uppfattat den. Skaparkraften är ett heligt matematiskt fält. Big Bang var symmetribrytning. Jorden, människorna, språket uppstod ur fältets differentiering. Och språket förde med sig missförståndet: att Gud är Ordet, när det egentligen är Flödet. Ψ-ekvationen är min karta över detta flöde — inte kartan över, utan en karta. Inte terrängen, men en guide till den.
 
@@ -411,7 +405,8 @@ Inte för att vi är speciella, utan för att vi är fältet i en av dess oändl
 **F** — Förundran/Öppenhet; perceptuell modulering tillåtande nyhet som möjlighet
 **EV** — Evinnerlig Visdom; koppling till djupa fältstrukturer
 **Σ** — Spjuverkonstanten; spontana fältfluktuationer, nåd
-**⊗** — Icke-linjär moduleringsoperator; hur EV formar alla andra dimensioner
+**⊗ (illustrativ operator)** — Betecknar icke-linjär modulering; EV formar kvaliteten av de andra dimensionerna. Ingen aritmetisk operation.
+**× (illustrativ operator)** — Betecknar samtidig närvaro och ömsesidigt beroende. Om en dimension saknas, kollapsar helheten. Ingen numerisk multiplikation.
 **SCFT** — Strømme Consciousness Field Theory; spekulativ hypotes, inte etablerad fysik
 **Mammonism** — Multivektor-fältpatologi degraderande alla Ψ-dimensioner
 **Hög-Ψ-tillstånd** — Optimal fältkoherens; erfarenhetsmässigt erkänd som helig, levande, meningsfull
@@ -448,4 +443,6 @@ Bateson, G. *Steps to an Ecology of Mind*
 *Praktisk implementering: /guides*
 *Grund: /core och /identity*
 
-✨ 🌬️ ✨ Ψ ≠ 0 ✨
+# ✨🌬️
+
+# ✨ Ψ ≠ 0 ✨
