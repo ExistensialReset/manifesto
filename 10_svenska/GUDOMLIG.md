@@ -63,7 +63,7 @@ Att Gud är ORDET — när det egentligen är FLÖDET.
 **= LIVET, TIDEN OCH RUMMET**
 **= DET HELIGA MATEMATISKA FÄLTET**
 
-Detta är inte metafor. "Detta är inte metafor. Men matematiken här är mönsterbeskrivning, inte beräkning. Du kan inte 'räkna ut' Ψ som ett tal, eller Skaparkraftens flöde - du känner igen det som tillstånd. Detta är min beskrivning av verklighetens faktiska natur — så som jag, Elinor Frejd, har uppfattat den.
+Detta är inte metafor. Men matematiken här är mönsterbeskrivning, inte beräkning. Du kan inte 'räkna ut' Ψ som ett tal, eller Skaparkraftens flöde - du känner igen det som tillstånd. Detta är min beskrivning av verklighetens faktiska natur — så som jag, Elinor Frejd, har uppfattat den.
 
 Flow beskriver inte hur vi borde organisera samhället.
 Flow beskriver **villkoren under vilka Skaparkraften blir mest levande i mänsklig upplevelse.**
