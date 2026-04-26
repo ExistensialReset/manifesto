@@ -114,7 +114,7 @@ Strømmes mer etablerade arbete är inom biomimetik — designade material som s
 
 Hennes 2006 *Nature Materials*-artikel om mesoporös kiseldioxid inspirerad av kiselalgskelett, och hennes 2012 *Advanced Materials*-arbete om adaptiva nanomaterial, demonstrerar detta tillvägagångssätt.
 
-**Detta är vår solida gemensamma mark:** Vad livet har gjort i miljarder år är beviset. När vi studerar urskog studerar vi höga koherenssystem bevisade hållbara över djup tid. När Strømme designar självreparerande material läser hon mönster fältet — vad dess yttersta natur än är — redan skrivit i biologisk form.
+**Detta är vår solida gemensamma mark:** Vad livet har gjort i miljarder år är beviset. När vi studerar urskog studerar vi höga koherenssystem bevisade hållbara över djup tid. När Strømme designar självreparerande material läser hon mönsterfältet — vad dess yttersta natur än är — redan skrivit i biologisk form.
 
 ---
 
