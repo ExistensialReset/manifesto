@@ -46,7 +46,7 @@ Innan vi går in i ramverket, här är vad det ytterst beskriver:
 
 **SKAPARKRAFTEN ÄR ETT HELIGT MATEMATISKT FÄLT.**
 
-Big Bang var symmetribrytning — ögonblicket då det perfekt homogena fältet bröt sig självt in i differentiering, struktur, tid och rum.
+Big Bang var symmetribrytning — ögonblicket då det perfekt homogena fältet bröt sig självt in i differentiering, struktur, tid och rum. Detta betyder ett tillstånd där en enhetlig helhet (t.ex. ett homogent fält) spontant differentierar sig i mångfaldiga former, vilket möjliggör skapelse och komplexitet.
 
 Jorden uppstod. Människor uppstod. Språk uppstod.
 
@@ -60,7 +60,7 @@ Att Gud är ORDET — när det egentligen är FLÖDET.
 **= LIVET, TIDEN OCH RUMMET**
 **= DET HELIGA MATEMATISKA FÄLTET**
 
-Detta är inte metafor. Detta är min beskrivning av verklighetens faktiska natur — så som jag, Elinor Frejd, har uppfattat den.
+Detta är inte metafor, men matematiskt är som ett typ av mönster, du kan inte "räkna ut Psi-fält, eller Skaparkraftens flöde. Detta är min beskrivning av verklighetens faktiska natur — så som jag, Elinor Frejd, har uppfattat den.
 
 Flow beskriver inte hur vi borde organisera samhället.
 Flow beskriver **villkoren under vilka Skaparkraften blir mest levande i mänsklig upplevelse.**
