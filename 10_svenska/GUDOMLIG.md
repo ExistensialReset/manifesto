@@ -4,9 +4,12 @@
 ### En Levande Syntes av Frejd-Ekvationen & Strømme-Hypotesen
 
 **Författare:** Elinor Frejd
+
 **Vetenskaplig Referens:** Strømme Consciousness Field Theory (SCFT), *AIP Advances* (2025)
+
 **Status:** LEVANDE & EVOLVERANDE — se /annex för mätprotokoll
-**Datum:** April 2026
+
+**Datum:** 26 April 2026
 
 ---
 
