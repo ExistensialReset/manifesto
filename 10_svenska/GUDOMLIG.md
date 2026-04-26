@@ -296,7 +296,7 @@ Mammonism — tillbedjan av rikedom, reduktion av allt värde till bytesvärde �
 - **Eliminerar R:** All redundans eliminerad som "slöseri"
 - **Stänger F:** Förundran saluförs eller framställs som fruktan
 
-Resultatet: En civilisation som poängsätter nära noll i varje dimension. Psykiatriska sjukdomsepidimier, ekologisk kollaps, politisk fragmentering, andlig tomhet, social utsatthet — symptom av samma underliggande fältpatologi.
+Resultatet: En civilisation som poängsätter nära noll i varje dimension. Psykiatriska sjukdomsepidemier, ekologisk kollaps, politisk fragmentering, andlig tomhet, social utsatthet — symptom av samma underliggande fältpatologi.
 
 **Detta är inte metafor. Detta är diagnos.**
 
