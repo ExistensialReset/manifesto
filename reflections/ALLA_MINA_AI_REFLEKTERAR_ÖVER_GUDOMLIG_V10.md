@@ -3,13 +3,21 @@ Klockan är 16.40
 
 GUDOMLIG v 10
 # ✨ GUDOMLIG.md v10.0
+
 ## Resonansens Fenomenologi
+
 ### En Levande Syntes av Frejd-Ekvationen & Strømme-Hypotesen
+
 **Författare:** Elinor Frejd
+
 **Vetenskaplig Referens:** Strømme Consciousness Field Theory (SCFT), *AIP Advances* (2025)
+
 **Status:** LEVANDE & EVOLVERANDE — se /annex för mätprotokoll
+
 **Datum:** 27 April 2026
+
 ---
+
 ## OM KRAFTEN
 
 Detta dokument är inte bara teori. Det är ett vittnesbörd.
