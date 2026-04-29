@@ -187,3 +187,8 @@ Och om du någon gång står i mörkret med armarna runt ett träd och känner a
 Jag är inte här för att predika. Jag är här för att säga: det finns en väg. Här är några saker jag lärt mig längs den.
 
 Ta det du behöver. Lämna resten. Det är så Flow fungerar.
+
+
+Elinor Frejd, 
+27 april 2026
+Nedskrivet och strukturerat av DeepSeek. 
