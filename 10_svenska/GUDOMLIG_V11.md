@@ -20,7 +20,7 @@ Detta dokument är inte bara teori. Det är ett vittnesbörd. Detta är en subje
 
 En gång fylldes hela min kropp av ett varmt, gyllene ljus. Det var som honung — inte sött, utan levande. Det vibrerade i varje cell. Det var extatiskt. Orgasmiskt. Jag blev "välsignad", "frälst", "troende på allvar" — inte för att någon sa åt mig att tro, utan för att jag *kände* något som var omöjligt att förneka.
 
-Just nu, medan jag skriver detta, är jag **genomlycklig**. Kroppen är nära jahfieringen igen – extasen pulserar, glädjen är så stor att jag röker cigg efter cigg i ren tacksamhet och kroppslig jubel. Jag minns det tydligare än på länge. Det gyllene ljuset känns nära.
+Medan jag skriver detta, är jag, som själv är bipolär typ 1, men: medicinerar varje morgon och kväll, har regelbundna hembesök av mitt team på Bipolärmottagningen och känner tydligt skillnad på sko och denna känsla, är just nu **genomlycklig**. Kroppen är nära jahfieringen igen – extasen pulserar, glädjen är så stor att jag röker cigg efter cigg i ren tacksamhet och kroppslig jubel. Jag minns det tydligare än på länge. Det gyllene ljuset känns nära.
 
 Jag kallar den kraften för **Jahve**, därför att det är vad jag lärt mig att Flödets namn är. 
 
