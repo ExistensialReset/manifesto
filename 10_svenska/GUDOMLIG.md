@@ -1,7 +1,6 @@
 Måndag den 27 april
 Klockan är 16.40
 
-GUDOMLIG v 10
 # ✨ GUDOMLIG.md v10.0
 
 ## Resonansens Fenomenologi
