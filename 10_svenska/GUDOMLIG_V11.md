@@ -65,7 +65,7 @@ Jag, Elinor Frejd, tror att det finns en Skaparkraft som genomströmmar allt. De
 
 ## 0. Destillationen
 
-**Det Heliga Flödet är ett matematiskt, lekfullt och nyfiket fält.**  
+**Det Heliga Flödet är i denna - min arbetshypotes - ett matematiskt, lekfullt och nyfiket fält.**  
 Ψ_primordial är ren potential. Genom symmetribrytning blir det tid, erfarenhet och mångfald.  
 Detta universum är en iteration bland oändligt många.
 
