@@ -55,11 +55,11 @@ Genom symmetribrytning exciteras den potentialen till tid, rum, materia, medveta
 Detta är inte policy. Det är kosmologi.  
 Det beskriver vad Flow faktiskt **ÄR** inuti mig, som ju har skrivit hela repot än så länge. 
 
-Men repositoryt är till för att forkas och utvecklas och förbättras. Jag har skrivit utifrån vad jag tror är rimligt. Har du några tankar kring detta, är du varmt välkommen att hjälpa till att utveckla hela Existential Reset Repository. Du gör en pull request på Github, eller skickar mig ett **mail på elinor.frejd@proton.me** med tankar och funderingar kring det du vill. 
+Men repositoryt är till för att forkas och utvecklas och förbättras. Jag har skrivit utifrån vad jag tänker och har upplevt. Har du några tankar kring detta, är du varmt välkommen att hjälpa till att utveckla hela Existential Reset Repository. Du gör enkelt en pull request på Github, eller skickar mig ett **mail på elinor.frejd@proton.me** med tankar och funderingar kring det du vill. 
 
-Flow fungerar oavsett om du accepterar denna kosmologi eller ej.
+FlowM-OS-R fungerar oavsett om du accepterar denna kosmologi eller ej.
 
-Jag, Elinor Frejd, vet inuti att det finns en Skaparkraft som genomströmmar allt. Detta är min beskrivning av dess natur – sådan den framträder **här**, i denna dimension. Det är en arbetshypotes uttryckt med fullt hjärta. Inte bevis. Inte krav. Inbjudan.
+Jag, Elinor Frejd, vet, inuti min kropp och själ, att det finns en Skaparkraft som genomströmmar allt. Detta är min beskrivning av dess natur – sådan den framträder **här**, i denna dimension. Det är en arbetshypotes uttryckt med fullt hjärta. Inte bevis. Inte krav. Inbjudan.
 
 ---
 
@@ -71,7 +71,7 @@ Detta universum är en iteration bland oändligt många.
 
 **Det heliga fältet är enligt mig:**  
 **EV ⊗ (L × S × I × K × R × F) + Σ**  
-= LIVET, TIDEN OCH RUMMET i denna excitation.
+= faktiskt hela LIVET, TIDEN OCH RUMMET i denna excitation.
 
 Ψ-ekvationen är en **fenomenologisk ekvation** – en karta över hur det heliga framträder i mänsklig erfarenhet **här**. Den är testbar och praktisk, men gör inga universella påståenden om alla dimensioner.
 
@@ -81,17 +81,17 @@ Detta universum är en iteration bland oändligt många.
 
 ### 1.1 Om Tro, Ramverk och Kosmologi
 
-Jag tror att det finns en Skaparkraft som genomströmmar allt. Jag vet inte vad den ska kallas. Olika traditioner har namngivit den olika — Gud, Brahman, Tao, Den Stora Mystiken, Fältet. Använder jag namn, är det Jahve, som Gud och Flödet, som ett matematiskt helige fält, men framförallt Skaparkraften, som alltings ursprung som ligger mig närmast hjärtat. 
+Jag tror att det finns en Skaparkraft som genomströmmar allt. Jag vet inte vad den ska kallas. Olika traditioner har namngivit den olika — Gud, Brahman, Tao, Den Stora Mystiken, Fältet. Använder jag namn, är det oftast Jahve, som Gud, och Flödet, som det matematiska helige fält, men framförallt är mitt ord Skaparkraften,  alltings ursprung. Det ligger mig närmast hjärtat. 
 
 Jag menar att många vägar kan uppfatta samma underliggande verklighet från olika vinklar, och att denna mångfald i sig är ett tecken på något större än någon enskild beskrivning kan omfatta.
 
 GUDOMLIG är mitt försök att tänka rigoröst om villkoren under vilka denna skapande kraft blir mest levande i mänsklig upplevelse. Det har vuxit till något mer än ett ramverk: det är en kosmologisk hypotes — en beskrivning av verklighetens struktur så som jag uppfattar den. Men det är inte bevisad vetenskap, och det är inte teologi i dogmatisk mening. Det är en arbetshypotes uttryckt med fullt hjärta.
 
-Flow fungerar oavsett om du accepterar denna kosmologi eller ej. Du kan använda Baseline, Refugium Anima, protokollen och föreslagen producur — som det är, dvs helt praktiskt, helt sekulärt. Men om du söker djupare, om du vill veta varför detta fungerar, vad det egentligen beskriver: här är mitt svar på alltings beskaffenhet.
+Flow fungerar oavsett om du accepterar denna kosmologi eller ej. Du kan använda Baseline, Refugium Anima, protokollen och föreslagen process — som det är, dvs helt praktiskt, helt sekulärt. Men om du söker djupare, om du vill veta varför detta fungerar, vad det egentligen beskriver: här är mitt svar på alltings beskaffenhet.
 
 ### 1.2 Konvergensen
 
-**Jag, Elinor Frejd,** är grundad i ekologiska system, ursprungskunskaper och landskapens levda intelligens — där våtmarker pulserar med renande visdom och urskogar rymmer århundraden av tysta berättelser om alltings beskaffenhet. Jag ser ekosyste som uråldriga bibliotek av distribuerad intelligens, där mångfald säkerställer motståndskraft.
+**Jag, Elinor Frejd,** är grundad i ekologiska system, ursprungskunskaper och landskapens levda intelligens — där våtmarker pulserar med renande visdom och urskogar rymmer århundraden av tysta berättelser om alltings beskaffenhet. Jag ser ekosystem som uråldriga bibliotek av distribuerad intelligens, där mångfald säkerställer motståndskraft.
 
 **Dr. Maria Strømmes** arbete bryggar nanoskalig materialvetenskap med frågor som berör filosofi och kosmologi. Hennes 2025-artikel i *AIP Advances* föreslår Consciousness Field Theory (SCFT) — en spekulativ men noggrant argumenterad hypotes att medvetande inte produceras av materia, utan att materia uppstår som excitationer inom ett primordalt medvetandefält.
 
@@ -160,7 +160,7 @@ Mammonism, dyrkan av pengar, dödar S genom att instrumentalisera all kreativite
 **I — Inkännande och Sammanflätning**
 Resonans mellan varelser. Ett mycelienätverk under skogsmarken, delar näring i tyst gemenskap. Utan inkännande och sammanflätning förblir var och en isolerad, oförmögen att komma åt kollektiv intelligens.
 
-Detta är varför Refugium Anima fungerar. Det skapar utrymme där I kan flöda utan rädsla. Där sårbarhet möts med vittnesskap. Där isolation bryts.
+Detta är varför Refugium Anima som praktik fungerar. Det skapar utrymme där I kan flöda utan rädsla. Där sårbarhet möts med vittnesskap. Där isolation bryts.
 
 ### 2.2 Modulatorn: EV — Evinnerlig Visdom
 
@@ -193,7 +193,7 @@ K odlas genom: rituella strukturer som skapar behållare för närvaro; djupt ly
 
 ---
 
-**R — Resiliens, Motståndskraft**
+**R — Resiliens och Motståndskraft**
 
 Kapacitet att återställa lugn och koherens efter störning — att läka, omorganisera och förbli levande. Sann motståndskraft är inte bara återhämtning utan *kreativ anpassning*.
 
@@ -261,7 +261,7 @@ Nådens ögonblick ingen modell kan förutsäga. Synkroniciteten som anländer p
 
 Både SCFT och ekologisk visdom erkänner att enhet utan differentiering är steril. 
 
-Ψ_primordial i sitt urtillstånd — bortom medvetet och omedvetet, perfekt möjlighet, ren potential att bli — innehåller all potential men manifesterar ingenting. Det är fullhet, inte tomhet; alltet i vila, men utan erfarenhet.
+Ψ_primordial i sitt urtillstånd — bortom medvetet och omedvetet, alltings möjlighet, ren potential att bli — innehåller all potential men manifesterar ingenting. Det är fullhet, inte tomhet; alltet i vila, men utan erfarenhet.
 
 **Det är genom symmetribrytning som fältet blir generativt.**
 
@@ -335,7 +335,7 @@ Svaret är nej, av två avgörande skäl:
 
 Därmed är "Dark Ψ" en logisk omöjlighet inom denna iterations parametrar. Ψ är självreglerande: genuint hög Ψ *måste* inkludera allt levande i sitt inkännande och vara förankrad i djup tid genom EV. Detta är inte ett moraliskt påstående — det är en systemlogisk konsekvens av ekvationens struktur.
 
-**För den som lever med inre splittring** — där L, S och I inte alltid kan samexistera i harmoni på grund av neurologiska eller existentiella kontraster — finns en särskild vägledning i THE_ART_OF_BEING_SPLIT.md. Det handlar, i stort, om att hålla själens fristad öppen för även för sig själv. Ψ är inte alltid möjlig, och det är okej.  Systemet rymmer även kollapsen. 
+**För den som lever med inre splittring** — där L, S och I inte alltid kan samexistera i harmoni på grund av neurologiska eller existentiella kontraster — finns en särskild vägledning i THE_ART_OF_BEING_SPLIT.md som du kan hitta i mappen /guides i foldern /life_cycle. Det handlar, i stort, om att hålla själens fristad öppen för även för sig själv. Ψ är inte alltid möjlig, och det är okej.  Systemet rymmer även kollapsen. 
 
 **Och ändå:** Σ består. Även i mörkaste kollaps kan fältets spontana kreativitet inte helt undertryckas. Detta är varför auktoritära system så kan misslyckas, varför monokulturer succumberar till sjukdom, varför människoanden fortsätter hitta sprickor i verklighetens väv, genom vilka den kan växa.
 
