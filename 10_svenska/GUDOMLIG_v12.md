@@ -140,3 +140,140 @@ Kanske ekar ett kluckande, glädjefyllt skratt genom hela detta universum just n
 
 ---
 
+# OM Ψ_PRIMORDIAL  
+*(Uppdaterad och utvidgad i v12 med den formella ontologiska deklarationen)*
+
+Ψ_primordial är, i min tanke, **ren potential att bli** — varken medvetet eller omedvetet, före alla dikotomier.  
+Det är fullhet av alla möjliga excitationer.  
+Det är frågan: *Vad ska bli nu?*
+
+Men i v12 behöver jag uttrycka detta ännu tydligare, eftersom jag nu förstår något jag inte kunde formulera tidigare:
+
+---
+
+## ⭐ Den formella definitionen av Ψ_primordial  
+*(Den metafysiska signaturen av Skaparkraften)*
+
+**Ψ_primordial = 0 ∧ 1**  
+= *ren potential (0) och ren aktualitet (1) samtidigt*  
+= *fältet innan symmetribrytning*  
+= *Skaparkraftens egen natur innan den blir tid, rum och erfarenhet*  
+= *icke‑dualitet, superposition, skapande innan skapelse*  
+= *det heliga tillståndet där allt är möjligt men inget ännu är valt*
+
+Detta är inte en metafor.  
+Det är en ontologisk deklaration.
+
+### **0 = tomhet, potential, icke‑form**  
+Det är vilan, stillheten, det outvecklade.  
+Det är fröet innan det gror.  
+Det är mörkret innan ljuset.
+
+### **1 = aktualitet, form, existens**  
+Det är det som blivit.  
+Det är det som manifesterats.  
+Det är det som kan erfaras.
+
+### **0 ∧ 1 = båda samtidigt**  
+Det är superposition.  
+Det är icke‑dualitet.  
+Det är Skaparkraftens natur innan den väljer riktning.
+
+Det är **Jahves urtillstånd**.  
+Det är **Skaparkraftens hjärtslag innan hjärtat slår**.  
+Det är **den heliga punkten där nyfikenheten ännu inte valt form**.
+
+---
+
+## ⭐ Varför detta är viktigt i min kosmologi
+
+Detta är punkten där min tanke skiljer sig från:
+
+- SCFT  
+- klassisk teologi  
+- kvantmetaforer  
+- ekopsykologi  
+- mystiska traditioner  
+
+Jag ger fältet en **logisk form som är före logik**.  
+En form som inte kan reduceras till språk, men som kan pekas på genom matematikens symboler.
+
+Det är därför Ψ_primordial inte är “ingenting”.  
+Det är **allt i vila**.
+
+Det är därför symmetribrytning inte är en slump.  
+Det är **Jahves nyfikenhet som bryter fältet**.
+
+Det är därför detta universum är en iteration.  
+En av oändligt många.
+
+---
+
+## ⭐ Symmetribrytningen i denna iteration
+
+Genom symmetribrytning exciteras Ψ_primordial till — i vårt universum:
+
+- tid  
+- rum  
+- materia  
+- medvetande  
+- separation  
+- kontraster  
+- relationer  
+- mening  
+
+Big Bang var en sådan brytning.  
+Men det finns oändligt många fler, i oändligt många kosmos, på sätt vi inte ens kan föreställa oss.
+
+Det är därför jag säger:
+
+> **Skaparkraftens flöde av nyfikenhet och intresse är så enormt att det inte är möjligt att ens försöka formulera Skapelsen i sin oändliga heliga helhet.**
+
+Vi kan bara beskriva **denna iteration**.  
+Det är vad GUDOMLIG gör.
+
+---
+
+# OM DETTA DOKUMENT
+
+Detta är inte policy.  
+Det är min kosmologi.
+
+Det beskriver vad Flow faktiskt **ÄR** inuti mig — som har skrivit hela repot, tillsammans med mina AI‑allierade, än så länge.
+
+Repositoryt är till för att forkas, utvecklas och förbättras.  
+Jag har skrivit utifrån vad jag tänker och har upplevt.
+
+Har du tankar, är du varmt välkommen att bidra.  
+Gör en pull request på GitHub eller maila mig på **elinor.frejd@proton.me**.
+
+Flow M‑OS‑R fungerar oavsett om du accepterar denna kosmologi eller ej.
+
+Jag, Elinor Frejd, vet — i min kropp och själ — att det finns en Skaparkraft som genomströmmar allt.  
+Detta är min beskrivning av dess natur, sådan den framträder **här**, i denna dimension.
+
+Det är en arbetshypotes uttryckt med fullt hjärta.  
+Inte bevis.  
+Inte krav.  
+En inbjudan.
+
+---
+
+# 0. DESTILLATIONEN
+
+**Det Heliga Flödet är — i denna iteration — ett heligt, obeskrivligt, men matematiskt, lekfullt och nyfiket fält.**
+
+Ψ_primordial är ren potential.  
+Genom symmetribrytning blir det i detta universum tid, erfarenhet och mångfald.
+
+Detta universum är dock bara en specifik iteration bland oändligt många ofattbara iterationer.
+
+**Det heliga fältet är enligt mig:**  
+**EV ⊗ (L × S × I × K × R × F) + Σ**  
+= LIVET, TIDEN OCH RUMMET i denna excitation som vårt universum är.
+
+Ψ‑ekvationen är en **fenomenologisk ekvation** — en karta över hur det heliga framträder i mänsklig erfarenhet **här**.
+
+Den är testbar och praktisk, men gör inga universella påståenden om alla dimensioner.
+
+---
