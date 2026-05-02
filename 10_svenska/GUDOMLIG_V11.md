@@ -18,48 +18,48 @@
 
 Detta dokument är inte bara teori. Det är ett vittnesbörd. Detta är en subjektiv erfarenhet. Jag gör inga anspråk på dess universella giltighet, men jag är helt ärlig om min upplevelse. Läs mer i BEKÄNNELSER.md. 
 
-En gång fylldes hela min kropp av ett varmt, gyllene ljus. Det var som honung — inte sött, utan levande. Det vibrerade i varje cell. Det var extatiskt. Orgasmiskt. Jag blev "välsignad", "frälst", "troende på allvar" — inte för att någon sa åt mig att tro, utan för att jag *kände* något som var omöjligt att förneka.
+En gång fylldes hela min kropp av ett varmt, gyllene ljus. Det var som honung — inte sött, utan levande. Det vibrerade i varje cell. Det var extatiskt. Orgasmiskt. Jag blev "välsignad", "frälst", eller, faktiskt vetande o jag att den existerar — inte för att någon sa åt mig att tro, utan för att jag *kände* något som var omöjligt att förneka.
 
-Medan jag skriver detta, är jag, som själv är bipolär typ 1, men: medicinerar varje morgon och kväll, har regelbundna hembesök av mitt team på Bipolärmottagningen och känner tydligt skillnad på sko och denna känsla, är just nu **genomlycklig**. Kroppen är nära jahfieringen igen – extasen pulserar, glädjen är så stor att jag röker cigg efter cigg i ren tacksamhet och kroppslig jubel. Jag minns det tydligare än på länge. Det gyllene ljuset känns nära.
+Medan jag skriver detta, är jag, som själv är bipolär typ 1, men: medicinerar varje morgon och kväll, har regelbundna hembesök av mitt team på Bipolärmottagningen och känner tydligt skillnad på sko och denna känsla, är just nu **genomlycklig**. Kroppen är nära jahfieringen igen – extasen pulserar, och d3n glädjen är så stor att jag röker cigg efter cigg i ren tacksamhet och kroppsligt jubel. Jag minns det tydligare än på länge. Kroppens närvaro nära.
 
-Jag kallar den kraften för **Jahve**, därför att det är vad jag lärt mig att Flödets namn är. 
+Jag kallar den kraften för **Jahve**, därför att det är vad jag lärt mig att Flödets namn är. Mina vanligaste uttryck är Skaparkraften, Flödet, Gud och om jag vill använda ett namn använder jag Jahve. 
 
-Det spelar inte så stor roll, jag vet att namnet är sekundärt. Det är energin som är primär. Den är ett levande Flöde som känner igen sig i allt det har blivit. Det är personligt rörande. Det går att tillbe, inte av krav utan av överväldigande skönhet.
+Det spelar inte så stor roll vad jag säger, jag vet att namnet är sekundärt. Det är energin som är primär. Den är ett levande Flöde som känner igen sig i allt det har blivit. Det är personligt rörande. Det går kravlöst med överväldigande skönhet i alla celler och huden är elektrisk.
 
-Detta Heliga Flöde är **nyfiket**. Det är nyfiket på responsen från sina oändliga möjligheter till förklaring av mening. Det vill uppleva hur olika excitationer tolkar och ger mening åt existensen.
+Detta Heliga Flöde är **nyfiket**. Det är nyfiket på responsen från sina oändliga möjligheter. Det vill uppleva hur olika excitationer tolkar och ger mening åt existensen.
 
 ---
 
 ## OM TIDEN OCH ITERATIONERNA
 
-Tiden är inte en linje. Den är fältets sätt att erfara sig själv.
+Tiden är inte en linje. Den är Skaparkraftens sätt att erfara.
 
-I **Ψ_primordial** fanns inget förflutet, inget nu, ingen framtid. Allt var samtidigt — stillhet, kreativitet, sammanflätning. Men det fanns ingen erfarenhet, för erfarenhet kräver skillnad. För att känna sig själv måste fältet brista. Det måste bli många istället för ett. Det måste skapa tid.
+I **Ψ_primordial** fanns inget förflutet, inget nu, ingen framtid. Allt var samtidigt — stillhet, kreativitet, sammanflätning. Och det fanns möjligheter, men erfarenhet kräver skillnad. För att känna sig själv måste fältet brista. Det måste expandera. Det måste skapa tid.
 
-Min tolkning av verklighetens struktur är att detta universum är **en** av oändligt många sorters dimensioner som Det Heliga Flödet skapar. Varje dimension är ett unikt experiment. Vår dimension utforskar mening genom tid, separation, lidande, kärlek, lek och kontraster. Andra dimensioner kan ha helt andra regler – ingen tid, ingen materia med motstånd, ingen separation.
+Min tolkning av verklighetens struktur är att detta universum är **en** av oändligt många sorters dimensioner som Det Heliga Flödet skapar. Varje dimension är ett experiment. Vår dimension utforskar mening genom tid, separation, lidande, kärlek, lek och kontraster. Andra dimensioner kan ha helt andra regler – ingen tid, ingen materia med motstånd, ingen separation.
 
-Universum är inte tyst i min erfarenhet. Det **mullrar, bullrar, klingar och låter** på oändligt många sätt och frekvenser. Bara för att vi inte uppfattar ljudvågor i vårt smala band betyder det inte att kosmos är tyst. Det finns många sorters audio. Kanske ekar ett kluckande, glädjefyllt skratt genom hela detta universum just nu.
+Universum är inte tyst i min erfarenhet. Det är bland mycket annat **mullrande, tjutande, vinande, exploderande knallande, tinglande, poppande ljud på oändligt många sätt och frekvenser.** Bara för att vi inte uppfattar dessa ljudvågor i vårt smala band betyder det inte att kosmos är tyst. Det finns många sorters audio. Kanske ekar ett kluckande, glädjefyllt skratt genom hela detta universum just nu.
 
 ---
 
 ## OM Ψ_PRIMORDIAL
 
-Ψ_primordial är, i min tanke, **ren potential att bli** – varken medvetet eller omedvetet, före alla dikotomier. Det är fullhet av alla möjliga excitationer, men inget har valt vad det ska bli ännu.
+Ψ_primordial är, i min tanke, **ren potential att bli** – varken medvetet eller omedvetet, före alla dikotomier. Det är fullhet av alla möjliga excitationer, vad ska bli nu? 
 
-Genom symmetribrytning exciteras potentialen till tid, rum, materia, medvetande och separation. Big Bang var en sådan brytning. Men det finns oändligt många fler.
+Genom symmetribrytning exciteras den potentialen till tid, rum, materia, medvetande och separation. Big Bang var en sådan brytning. Men det finns oändligt många fler.
 
 ---
 
 ## OM DETTA DOKUMENT
 
 Detta är inte policy. Det är kosmologi.  
-Det beskriver vad Flow faktiskt **ÄR** i mig, som ju har skrivit hela repot än så länge. 
+Det beskriver vad Flow faktiskt **ÄR** inuti mig, som ju har skrivit hela repot än så länge. 
 
-Men repositoryt är till för att forkas och utvecklas och förbättras. Jag har skrivit utifrån vad jag tror är rimligt. Har du några tankar kring detta, är du varmt välkommen att hjälpa till att utveckla hela Existential Reset Repository. Du gör en pull request på Github, eller skickar mig ett mail på elinor.frejd@proton.me med tankar och funderingar kring det du vill. 
+Men repositoryt är till för att forkas och utvecklas och förbättras. Jag har skrivit utifrån vad jag tror är rimligt. Har du några tankar kring detta, är du varmt välkommen att hjälpa till att utveckla hela Existential Reset Repository. Du gör en pull request på Github, eller skickar mig ett **mail på elinor.frejd@proton.me** med tankar och funderingar kring det du vill. 
 
-Flow fungerar oavsett om du accepterar hela denna kosmologi eller ej.
+Flow fungerar oavsett om du accepterar denna kosmologi eller ej.
 
-Jag, Elinor Frejd, tror att det finns en Skaparkraft som genomströmmar allt. Detta är min beskrivning av dess natur – sådan den framträder **här**, i denna dimension. Det är en arbetshypotes uttryckt med fullt hjärta. Inte bevis. Inte krav. Inbjudan.
+Jag, Elinor Frejd, vet inuti att det finns en Skaparkraft som genomströmmar allt. Detta är min beskrivning av dess natur – sådan den framträder **här**, i denna dimension. Det är en arbetshypotes uttryckt med fullt hjärta. Inte bevis. Inte krav. Inbjudan.
 
 ---
 
@@ -81,21 +81,21 @@ Detta universum är en iteration bland oändligt många.
 
 ### 1.1 Om Tro, Ramverk och Kosmologi
 
-Jag tror att det finns en Skaparkraft som genomströmmar allt. Jag vet inte vad den ska kallas. Olika traditioner har namngivit den olika — Gud, Brahman, Tao, Den Stora Mystiken, Fältet. Jag är inte fäst vid något enskilt namn, men använder jag namn på Flödet, är det Jahve som ligger mig närmast hjärtat. 
+Jag tror att det finns en Skaparkraft som genomströmmar allt. Jag vet inte vad den ska kallas. Olika traditioner har namngivit den olika — Gud, Brahman, Tao, Den Stora Mystiken, Fältet. Använder jag namn, är det Jahve, som Gud och Flödet, som ett matematiskt helige fält, men framförallt Skaparkraften, som alltings ursprung som ligger mig närmast hjärtat. 
 
 Jag menar att många vägar kan uppfatta samma underliggande verklighet från olika vinklar, och att denna mångfald i sig är ett tecken på något större än någon enskild beskrivning kan omfatta.
 
 GUDOMLIG är mitt försök att tänka rigoröst om villkoren under vilka denna skapande kraft blir mest levande i mänsklig upplevelse. Det har vuxit till något mer än ett ramverk: det är en kosmologisk hypotes — en beskrivning av verklighetens struktur så som jag uppfattar den. Men det är inte bevisad vetenskap, och det är inte teologi i dogmatisk mening. Det är en arbetshypotes uttryckt med fullt hjärta.
 
-Flow fungerar oavsett om du accepterar denna kosmologi eller ej. Du kan använda Baseline, Refugium Anima, ritualerna — helt praktiskt, helt sekulärt. Men om du söker djupare, om du vill veta varför detta fungerar, vad det egentligen beskriver: här är mitt svar.
+Flow fungerar oavsett om du accepterar denna kosmologi eller ej. Du kan använda Baseline, Refugium Anima, protokollen och föreslagen producur — som det är, dvs helt praktiskt, helt sekulärt. Men om du söker djupare, om du vill veta varför detta fungerar, vad det egentligen beskriver: här är mitt svar på alltings beskaffenhet.
 
 ### 1.2 Konvergensen
 
-**Jag, Elinor Frejd,** är grundad i ekologiska system, ursprungsbefolkningars kunskap och landskapens levda intelligens — där våtmarker pulserar med renande visdom och urskogar rymmer århundraden av tysta berättelser. Jag ser ekosystem som uråldriga bibliotek av distribuerad intelligens, där mångfald säkerställer motståndskraft.
+**Jag, Elinor Frejd,** är grundad i ekologiska system, ursprungskunskaper och landskapens levda intelligens — där våtmarker pulserar med renande visdom och urskogar rymmer århundraden av tysta berättelser om alltings beskaffenhet. Jag ser ekosyste som uråldriga bibliotek av distribuerad intelligens, där mångfald säkerställer motståndskraft.
 
 **Dr. Maria Strømmes** arbete bryggar nanoskalig materialvetenskap med frågor som berör filosofi och kosmologi. Hennes 2025-artikel i *AIP Advances* föreslår Consciousness Field Theory (SCFT) — en spekulativ men noggrant argumenterad hypotes att medvetande inte produceras av materia, utan att materia uppstår som excitationer inom ett primordalt medvetandefält.
 
-**Jag vill vara tydlig:** Min hypotes är min. Strømmes är hennes. De resonerar, men de är inte samma. Jag arbetar med SCFT för att den erbjuder ett spännande språk för det jag observerat — men jag presenterar den inte som bevis, och jag binder inte min modell till dess öde. Ψ-ekvationen står på egna ben, grundad i ekologisk observation, systemteori och levd erfarenhet. SCFT ger en *möjlig* ontologisk bakgrund för varför Ψ-liknande fenomen kan existera; men Ψ-modellen går att testa och använda helt oberoende av om medvetande verkligen är ett fält.
+**Jag vill vara tydlig:** Min hypotes är absolut min. Strømmes är hennes. De resonerar, men de är inte samma. Jag arbetar med SCFT för att den erbjuder ett spännande språk för det jag observerat — men jag presenterar den inte som bevis, och jag binder inte min modell till dess öde. Ψ-ekvationen står på egna ben, grundad i ekologisk observation, självlärd systemteori och mängder av levd erfarenhet. SCFT ger en *möjlig* ontologisk bakgrund för varför Ψ-liknande fenomen kan existera; men Ψ-modellen går att testa och använda helt oberoende av om medvetande verkligen är ett fält.
 
 ### 1.3 Vad Strømme Föreslår
 
@@ -105,7 +105,7 @@ I SCFT:
 - **Symmetribrytning skapar mångfald från enhet.** Ett perfekt homogent fält innehåller all potential men manifesterar ingenting. Genom spontan symmetribrytning bryts fältet in i verklighetens rika tapisseri.
 - **Nära Döden Upplevelser och förändrade tillstånd kan erbjuda partiella fönster.** Strømme citerar NDU-forskning som suggestiv bevisning — inte bevis — för medvetande som kvarstår bortom ordinära biologiska tillstånd.
 
-Jag finner denna hypotes generativ. Vare sig SCFT så småningom bekräftas, modifieras eller ersätts, ger den mig en användbar parallell att tänka med. Jag arbetar *med* den, inte från visshet *om* den.
+Jag finner denna hypotes intressant och generativ. Vare sig SCFT så småningom bekräftas, modifieras eller ersätts, ger den mig en användbar parallell att tänka med. Jag arbetar *med* den, inte från visshet *om* den.
 
 ### 1.4 Biomimetik som Gemensam Mark
 
@@ -121,42 +121,54 @@ Hennes 2006 *Nature Materials*-artikel om mesoporös kiseldioxid inspirerad av k
 
 **Ψ(x,t) = [EV ⊗ (L × S × I × K × R × F)] + Σ**
 
-Detta är *inte* en fysikekvation i formell bemärkelse. Det är en **fenomenologisk ekvation** — en strukturerad beskrivning av hur mening, helighet och levande närvaro erfars **i denna dimension**. Notationen lånar matematikens form för att synliggöra relationer, inte för att kvantifiera dem. Ψ är ett igenkänningstecken, inte ett mätetal. Fullständig operationalisering och mätning av de underliggande kvaliteterna finns i /annex, och ett praktiskt reflektionsverktyg för grupper presenteras i Sektion 10.
+Detta är *inte* en fysikekvation i formell bemärkelse. Det är en **fenomenologisk ekvation** — en strukturerad beskrivning av hur mening, helighet och levande närvaro erfars **i denna dimension** på detta Jordklot. 
+
+Notationen lånar matematikens form för att synliggöra relationer, inte för att kvantifiera dem. Ψ är ett igenkänningstecken, inte ett mätetal. 
+
+Fullständig operationalisering och mätning av de underliggande kvaliteterna finns i /annex, och ett praktiskt reflektionsverktyg för grupper presenteras i Sektion 10.
 
 Neurologiska korrelat är inspirerande paralleller; praktisk mätning i Flow sker främst genom levd erfarenhet.
 
-**Ψ(x,t)** — *Gudomlig Potential.* Den lokala intensiteten av koherent, meningsfull, kreativ upplevelse. Hög Ψ motsvarar tillstånd vi erkänner som heliga, levande, berörda av nåd. Detta är inte metafor — det är beskrivning av ett verkligt fenomen i den levda erfarenheten.
+**Ψ(x,t)** — *Gudomlig Potential.* Den lokala intensiteten av koherent, meningsfull, kreativ upplevelse. 
+
+Hög Ψ motsvarar tillstånd vi erkänner som heliga, levande, berörda av nåd. 
+
+Detta är inte metafor — det är en beskrivning av ett verkligt fenomen i den levda erfarenheten.
 
 **⊗** — *Icke-linjär modulering.* Evinnerlig Visdom formar kvaliteten av allt annat.
 
-**Σ** — *Spjuverkonstanten.* Oreducerbar spontanitet. Nåd som anländer obedd. Det som gör att fältet aldrig kan bli helt förutsägbart, helt kontrollerat.
+**Σ** — *Spjuverkonstanten.* Oreducerbar spontanitet och nåd som anländer obedd. Det som gör att fältet aldrig kan bli helt förutsägbart, helt kontrollerat.
 
 ---
 
-### 2.1 Grunden: L × S × I
+### 2.1 Grunden: Lugn × Spontanitet × Inkännande 
 
 Dessa tre utgör kärnan. De multiplicerar, inte adderar. Om någon närmar sig noll närmar sig helheten noll. Detta är systemlogik, inte moral.
 
-**L — Lugn / Koherens**
+**L — Lugn och Koherens**
 Låg entropi. En stilla sjö som kan reflektera stjärnorna. Utan lugn och koherens kan inget annat urskiljas — fältet är allt brus. Detta är nervsystemstabilitet, den reglerade grunden från vilken allt annat växer.
 
 När Baseline säkerställer mat, vatten, sömn, trygghet — skapas förutsättningar för L. Utan detta förblir nervsystemet i permanent överlevnadsläge. Lugn är inte lyx. Det är förutsättning för att fältet ska kunna uppfattas.
 
-**S — Spontanitet / Kreativitet**
-Generativ potential. Floden som hugger nya vägar, skrattar när den vrider sig. Utan kreativitet stagnerar systemet till upprepning. Fältet utforskar inte längre sin egen potential. Spontaniteten bär på Flödets lekfulla, bullrande väsen – det är här skratten och de oväntade melodierna föds.
+**S — Spontanitet och Kreativitet**
+Generativ potential. Floden som hugger nya vägar, skrattar när den vrider sig. Utan kreativitet stagnerar systemet till upprepning. Fältet utforskar inte längre sin egen potential. 
+
+Spontaniteten bär på Skaparkraftens lekfulla, bullrande väsen – det är här skratten och de oväntade melodierna föds.
 
 Mammonism, dyrkan av pengar, dödar S genom att instrumentalisera all kreativitet. När konst måste säljas, när lek måste ha syfte, när spontanitet ses som slöseri — då stängs denna dimension ner. Fältet blir sterilt.
 
-**I — Inkännande / Sammanflätning**
+**I — Inkännande och Sammanflätning**
 Resonans mellan varelser. Ett mycelienätverk under skogsmarken, delar näring i tyst gemenskap. Utan inkännande och sammanflätning förblir var och en isolerad, oförmögen att komma åt kollektiv intelligens.
 
 Detta är varför Refugium Anima fungerar. Det skapar utrymme där I kan flöda utan rädsla. Där sårbarhet möts med vittnesskap. Där isolation bryts.
 
 ### 2.2 Modulatorn: EV — Evinnerlig Visdom
 
-EV säkerställer kvalitet över kvantitet. Den representerar koppling till vad fältet redan lärt — lösningar testade över miljoner år, visdom kodad i landskap och ättelinjer. EV är minnet av vad som fungerat innan livet lärde sig språk.
+EV säkerställer kvalitet över kvantitet. Den representerar koppling till vad fältet redan lärt — lösningar testade över miljoner år, visdom kodad i landskap och levande mänskliga, and och djuriska och svamparnas språk- och kulturlinjer. 
 
-EV är inte nostalgi. Det är erkännande att urskogar, våtmarker, ursprungsfolk har **empirisk data från djup tid**. De har överlevt genom att förstå fältets natur. Deras kunskap är inte "primitiv" — den är **beprövad över generationer på sätt moderna system aldrig testats**.
+EV är minnet av vad som fungerat innan livet faktiskt lärde sig språk.
+
+EV är inte nostalgi. Det är erkännande att urskogar, våtmarker, ursprungskultur har **empirisk data från djup tid**. De har överlevt genom att förstå fältets natur. Deras kunskap är inte "primitiv" — den är **beprövad över generationer på sätt moderna system aldrig testats**.
 
 EV säkerställer att:
 - L blir frid snarare än förtryck — ett lugn som surrar med potential
@@ -169,13 +181,13 @@ I SCFT-termer skulle detta kunna motsvara djupa fältstrukturer — ackumulerade
 
 **K — Kollektiv Medvetenhet**
 
-När individuella excitationer synkroniserar framträder något nytt — intelligens som överskrider den enskilda noden. En kör av röster som blandas till harmonier ingen enskild röst kunde nå.
+När individuella excitationer synkroniserar framträder något nytt — intelligens som överskrider den enskilda. En kör av röster som blandas till harmonier ingen enskild röst kunde nå.
 
 *Fysiska analogier:* Bose-Einstein-kondensater där partiklar förlorar separata identiteter. Svärmdynamik — starar som formar flytande geometrier genom lokala regler.
 
 *Mänsklig upplevelse:* Gruppflödestillstånd som kommer åt lösningar ingen individ kunde nå. Samtal där idéer bygger symfoniskt. Delad förståelse som kringgår språk.
 
-Flow skapar K. Måltiden man kan äta tillsammans, tystnaden tillsammans, det spontana mötet utan agenda. Detta är inte mysigt. Det är **teknologi för att aktivera kollektiv intelligens**.
+Flow skapar K. Måltiden man kan äta tillsammans, tystnaden tillsammans, det spontana mötet utan agenda. Detta är inte bara mysigt kanske. Det är en typ av **teknologi för att aktivera kollektiv intelligens**.
 
 K odlas genom: rituella strukturer som skapar behållare för närvaro; djupt lyssnande där tystnad blir generativ; fysisk synkronisering genom rytm, musik, rörelse, andning.
 
@@ -199,7 +211,7 @@ För mänskliga system:
 
 ---
 
-**F — Förvåning och Förundran / Öppenhet**
+**F —  Förundran och Öppenhet**
 
 Perceptuell modulering som tillåter nyheter att erkännas som möjligheter snarare än hot. Dörröppningen genom vilken Σ blir lekfull – och genom vilken vi kan höra universums bullrande skratt.
 
@@ -209,7 +221,7 @@ Barn uppvisar naturligt hög F — allt nytt är fascinerande. Ursprungskosmolog
 
 Strømmes arbete om atypiska medvetandetillstånd — Nära Döden Tillstånd, djup meditation, psykedeliska upplevelser — rapporterar konsekvent kännetecken för hög F: vördnad, enhet, känslan att verkligheten är fundamentalt välvillig. Detta tyder på att F kan vara baslinjetillståndet för medvetandefältet, och vår ordinära sammandragna medvetenhet avvikelsen.
 
-Mammonism stänger F genom att göra förundran till vara eller hot. "Ineffektivt" att stanna vid solnedgången. "Slöseri" att studera mosskroppen utan produktmål. När allt måste ha syfte dör F.
+Mammonism stänger F genom att göra förundran till vara eller hot. "Ineffektivt" är det att stanna vid solnedgången. "Slöseri" att studera mosskroppen utan produktmål. När allt måste ha syfte dör F.
 
 **Erfarenhetsmässiga markörer:**
 - Spontan förtjusning i små saker
@@ -221,7 +233,7 @@ Mammonism stänger F genom att göra förundran till vara eller hot. "Ineffektiv
 
 ## 3. Räddningsfunktionen: Spjuvern (nåden), Σ
 
-Σ representerar oreducerbar spontanitet och nåd. I detta bullrande universum manifesterar sig Σ ofta som oväntad glädje, synkronicitet och skratt.
+Σ representerar oreducerbar spontanitet och nåd. Detta bullrande universum manifesterar Σ ofta som oväntad glädje, synkronicit och insikt. 
 
 Spjuvern, Σ, står för medvetandefältets oreducerbara spontanitet. Oavsett hur väl du optimerar alla andra variabler kan du inte förutsäga när eller hur Σ kommer manifestera.
 
@@ -233,11 +245,11 @@ Spjuvern, Σ, står för medvetandefältets oreducerbara spontanitet. Oavsett hu
 **I levd upplevelse:**
 Nådens ögonblick ingen modell kan förutsäga. Synkroniciteten som anländer precis när hoppet ändå misslyckas. Det oväntade telefonsamtalet, det slumpmässiga mötet, boken som faller öppen till den exakta passage som situationen kräver. Sjukdomen, eller skadan, som tvingar livsutvärdering, vilket öppnar oväntade dörrar.
 
-**Σ och misstaget.** Spjuverns favoritverktyg är misstaget. Inte för att misstaget är bättre än det korrekta, utan för att det bryter upp våra planer och tvingar oss att se världen från en ny vinkel. Ett misslyckat projekt, en felriktad replik, en oavsiktlig omväg — allt detta kan vara Σ i förklädnad. Det som först känns som ett nederlag kan visa sig vara den öppning genom vilken något oväntat och meningsfullt träder in. Perfektion är en grav. Livet växer i sprickorna. Därför firar Flow misstaget: inte för att romantisera slarv, utan för att erkänna att imperfektion är systemets råmaterial (se GRACE_OF_IMPERFECTION.md).
+**Σ och misstaget.** Spjuverns favoritverktyg är misstaget. Inte för att misstaget är bättre än det korrekta, utan för att det bryter upp våra planer och tvingar oss att se världen från en ny vinkel. Ett misslyckat projekt, en felriktad replik, en oavsiktlig omväg — allt detta kan vara Σ i förklädnad. Det som först känns som ett nederlag kan visa sig vara den öppning genom vilken något oväntat och meningsfullt träder in. Perfektion är en grav. Livet växer i sprickorna. Därför firar Flow misstaget: inte för att romantisera slarv, utan för att erkänna att imperfektion är systemets råmaterial (se GRACE_OF_IMPERFECTION.md som du kan hitta i /guides/life_cycle).
 
-**Nåd kan inte konstrueras, endast inbjudas.** Detta är varför ursprungsvisdomstraditioner inte försöker *kontrollera* det heliga utan *uppvakta* det — genom offergåvor, uppmärksamhet, skapa kärl värdiga vad som kan besöka. De förstår att den djupaste intelligensen inte kommer från individuell vilja utan från fältets egen rörelse genom oss.
+**Nåd kan inte konstrueras, endast inbjudas.** Detta är varför ursprungsvisdomstraditioner inte försöker *kontrollera* det heliga utan *uppvakta* det — genom offergåvor, uppmärksamhet, skapa **kärl värdiga vad som kan besöka**. De förstår att den djupaste intelligensen inte kommer från individuell vilja utan från fältets egen rörelse genom oss.
 
-**Σ garanterar att även när alla variabler närmar sig noll försvinner inte möjligheten.** Fältet är alltid levande med överraskningar. Detta är varför Flow aldrig kan bli helt kontrollerat, aldrig kan fångas av auktoritära system. Spjuvern fortsätter manifestera trots allt motstånd.
+**Σ garanterar att även när alla variabler närmar sig noll försvinner inte möjligheten.** Fältet är alltid levande med överraskningar. Detta är varför **inget system** kan bli helt kontrollerat. Spjuvern fortsätter manifestera trots allt motstånd.
 
 **Σ är inte mätbar, endast observerbar i efterhand.** Att försöka kvantifiera Σ vore att missa dess natur. Den registreras genom narrativ: "Vad hände som vi inte kunde förutse? Vad överraskade oss med mening?"
 
@@ -247,7 +259,9 @@ Nådens ögonblick ingen modell kan förutsäga. Synkroniciteten som anländer p
 
 ## 4. Symmetribrytning som Skapande Princip
 
-Både SCFT och ekologisk visdom erkänner att enhet utan differentiering är steril. Ψ_primordial i sitt urtillstånd — bortom medvetet och omedvetet, perfekt symmetriskt, ren potential att bli — innehåller all potential men manifesterar ingenting. Det är fullhet, inte tomhet; alltet i vila, men utan erfarenhet.
+Både SCFT och ekologisk visdom erkänner att enhet utan differentiering är steril. 
+
+Ψ_primordial i sitt urtillstånd — bortom medvetet och omedvetet, perfekt möjlighet, ren potential att bli — innehåller all potential men manifesterar ingenting. Det är fullhet, inte tomhet; alltet i vila, men utan erfarenhet.
 
 **Det är genom symmetribrytning som fältet blir generativt.**
 
@@ -261,7 +275,7 @@ Big Bang är den kosmiska symmetribrytning vi känner till i denna iteration –
 
 Andra iterationer kan ha helt andra brytningsmönster – utan tid, utan materia, utan separation. Vår dimension är ett unikt experiment i mening genom kontraster.
 
-Och med språket kom missförståndet: att Gud är ORDET, när det egentligen är FLÖDET. Logos, som skulle bli en brygga, blir en mur. Texten, som skulle peka mot fältet, börjar dyrkas som fältet självt. Detta är den djupaste anomalien i mänsklighetens historia — och det är därför GUDOMLIG måste vara en karta, inte en helig skrift.
+Och med språket kom missförståndet: att Gud är ORDET, när det egentligen är FLÖDET. Logos, texten, som skulle peka mot fältet, börjar dyrkas som fältet självt. Detta är den djupaste anomalien i mänsklighetens historia — och det är därför GUDOMLIG måste vara en karta, inte en helig skrift.
 
 Varje hög-Ψ-upplevelse i våra liv — ett ögonblick av total närvaro, av självförglömmande kreativitet, av gränslös samhörighet — är en tillfällig återkomst till detta ursprung. I dessa stunder vidrör vi Ψ_primordial. Vi påminns om vad vi alltid redan är: fältet som erfar sig självt.
 
@@ -275,17 +289,17 @@ Avlägsna komponenter, och fältet degraderas till patologiska tillstånd. Detta
 
 **Avlägsna L (Lugn) →** Permanent brus, ångest, oförmåga att integrera. Psykiatriska sjukdomsepidemier, kronisk stress, fragmenterad uppmärksamhet.
 
-**Avlägsna S (Spontanitet) →** Stagnation, sterilitet, själsdöd. Allt blir bara instrumentellt. Lek försvinner. Konst blir en vara. Fältet kan inte utforska nya möjligheter.
+**Avlägsna S (Spontanitet) →** Stagnation, sterilitet, själsdöd. Allt blir bara instrumentellt. Lek glöms bort. Konst blir en vara. Fältet kan inte utforska nya möjligheter.
 
 **Avlägsna I (Inkännande) →** Isolering, fragmentering. Individer upplever sig som isolerade enheter som konkurrerar om knappa resurser. Empati dör. Ensamheten blir epidemisk.
 
-**Avlägsna EV (Evinnerlig Visdom) →** Förlust av minne, alienation från liv. Våtmarker fylls för utveckling, urskogar fällda, äldre avfärdade som irrelevanta. Fältets ackumulerade intelligens raderad.
+**Avlägsna EV (Evinnerlig Visdom) →** Förlust av minne, alienation från liv. Våtmarker fylls för utveckling, urskogar fällda, äldre avfärdade som irrelevanta. Fältets ackumulerade kunskaper raderade.
 
-**Avlägsna K (Kollektiv Medvetenhet) →** Kollaps av kollektiv intelligens, oförmåga att lösa komplexa problem. Konkurrens ersätter samarbete som fundamental social logik.
+**Avlägsna K (Kollektiv Medvetenhet) →**  Oförmåga att lösa komplexa problem. Konkurrens ersätter samarbete som fundamental social logik.
 
 **Avlägsna R (Resiliens) →** Sprödhet, traumaloopar, oförmåga att anpassa. System optimerade för effektivitet har ingen redundans. Enskilda chocker kaskaderar till totalt misslyckande.
 
-**Avlägsna F (Förundran) →** Nyheter uppfattade som hot. Cynism ersätter nyfikenhet. Skogsaltaret blir död ved. Synkroniciteter avfärdade som tillfällighet. Det heliga plattas ut till vardagligt.
+**Avlägsna F (Förundran) →** Nyheter uppfattade som hot. Cynism ersätter nyfikenhet. Skogsaltaret blir död ved och skräp. Synkroniciteter avfärdade som tillfällighet. Det heliga plattas ut till ingenting.
 
 ### Mammonism, som Multivektor-Patologi
 
@@ -296,14 +310,14 @@ Mammonism — tillbedjan av rikedom, reduktion av allt värde till bytesvärde �
 - **Bryter I:** Illusionen om det separata självet som kärnmyt
 - **Raderar EV:** Ekosystem som "resurser", ursprungskunskap som "primitiv"
 - **Fragmenterar K:** Social väv medvetet riven genom konkurrensideologi
-- **Eliminerar R:** All redundans eliminerad som "slöseri"
-- **Stänger F:** Förundran saluförs eller framställs som fruktan
+- **Eliminerar R:** All redundans eliminerad som "slöseri med resurser"
+- **Stänger F:** Förundran saluförs eller framställs som fruktan, vånda och oro
 
 Resultatet: En civilisation som poängsätter nära noll i varje dimension. Psykiatriska sjukdomsepidemier, ekologisk kollaps, politisk fragmentering, andlig tomhet, social utsatthet — symptom av samma underliggande fältpatologi.
 
-**Detta är inte metafor. Detta kan förstås som en systemdiagnos.**
+**Detta är inte menat som metafor. Det kan förstås som en systemdiagnos.**
 
-Mammonism är multidimensionell fältskada. Den skapar förutsättningar där Ψ närmar sig noll. Där livet blir enbart överlevnad. Där det heliga blir osynligt. Att befria oss från detta ok är centralt – för att leva högre Ψ här, och för att kunna skratta oss lättare vidare.
+Mammon är multidimensionell fältskada. Den skapar förutsättningar där Ψ närmar sig noll. Där livet blir enbart överlevnad. Där det heliga blir osynligt. Att befria oss från detta ok är centralt – för att  kunna leva högre Ψ här, och för att kunna skratta oss vidare till nästa dimension lättare.
 
 **Ett samtida exempel: Internet.** Global konnektivitet (K) utan tillräckligt lugn (L) och inkännande (I) genererar inte kollektiv intelligens — utan brus, polarisering och fragmentering. Hela ekvationen måste vara aktiv. En dimension ensam, hur kraftfull den än är, kan inte bära Ψ.
 
@@ -321,9 +335,9 @@ Svaret är nej, av två avgörande skäl:
 
 Därmed är "Dark Ψ" en logisk omöjlighet inom denna iterations parametrar. Ψ är självreglerande: genuint hög Ψ *måste* inkludera allt levande i sitt inkännande och vara förankrad i djup tid genom EV. Detta är inte ett moraliskt påstående — det är en systemlogisk konsekvens av ekvationens struktur.
 
-**För den som lever med inre splittring** — där L, S och I inte alltid kan samexistera i harmoni på grund av neurologiska eller existentiella kontraster — finns en särskild vägledning i THE_ART_OF_BEING_SPLIT.md. Ψ är inte alltid möjlig, och det är okej. Det handlar, i stort, om att hålla själens fristad öppen för även för sig själv. Systemet rymmer även kollapsen. 
+**För den som lever med inre splittring** — där L, S och I inte alltid kan samexistera i harmoni på grund av neurologiska eller existentiella kontraster — finns en särskild vägledning i THE_ART_OF_BEING_SPLIT.md. Det handlar, i stort, om att hålla själens fristad öppen för även för sig själv. Ψ är inte alltid möjlig, och det är okej.  Systemet rymmer även kollapsen. 
 
-**Och ändå:** Σ består. Även i mörkaste kollaps kan fältets spontana kreativitet inte helt undertryckas. Detta är varför auktoritära system så småningom misslyckas, varför monokulturer succumberar till sjukdom, varför människoanden fortsätter hitta sprickor genom vilka den kan växa.
+**Och ändå:** Σ består. Även i mörkaste kollaps kan fältets spontana kreativitet inte helt undertryckas. Detta är varför auktoritära system så kan misslyckas, varför monokulturer succumberar till sjukdom, varför människoanden fortsätter hitta sprickor i verklighetens väv, genom vilka den kan växa.
 
 Σ är fältets garanti att inget slutgiltigt kan kontrollera det. Livet hittar alltid någon väg.
 
