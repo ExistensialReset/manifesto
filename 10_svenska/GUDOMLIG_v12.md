@@ -29,7 +29,9 @@ Kroppen är nära minnet av jahfieringen igen – vibrerande förnimmelse, gläd
 
 Jag minns det tydligare än på länge. Närvaron nära.
 
-Jag kallar den kraften för **Jahve**, därför att det är vad jag lärt mig att Flödets namn är. Mina vanligaste uttryck är Skaparkraften, Flödet, Gud och om jag vill använda ett egennamn använder jag Jahve.
+Jag kallar den kraften för **Jahve**, därför att det är vad jag lärt mig att Flödets namn är. 
+
+Mina vanligaste uttryck är Skaparkraften, Flödet, Gud och när jag vill använda ett egennamn använder jag Jahve.
 
 Det ger mig ett igenkännande och jag säger inte att det ÄR Guds egennamn, men det ger mig resonans. 
 
@@ -138,7 +140,7 @@ Det Heliga Fältet är inte en hallucination.
 Det är en **koherenshändelse**.
 
 Jag är medicinerad.  
-Jag har regelbundna hembesök.  
+Jag har regelbundna hembesök av min mottagning.  
 Jag känner mina skov.  
 Jag vet hur de känns.  
 Jag är inte i förnekelse.  
