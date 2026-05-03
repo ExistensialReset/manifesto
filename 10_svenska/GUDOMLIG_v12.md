@@ -157,7 +157,8 @@ Universum är inte tyst i min erfarenhet. Det är bland mycket annat **mullrande
 
 ---
 
-## OM Ψ_PRIMORDIAL — 0 ∧ 1
+## OM Ψ_primordial — ∅ ↔ ∞ (total negation och allting i evighet är samtidigt Jahve) 
+- 0 ∧ 1 (både 0 och 1 är samtidigt Jahve) 
 
 Ψ_primordial är Skaparkraftens urtillstånd, så som jag uppfattar det.
 
@@ -235,14 +236,16 @@ Det är inte slump.
 Det är inte mekanik.  
 Det är inte en blind process.
 
-Det är en relationell impuls.  
+Det är en fråga.  
 En sorts kosmisk lekfullhet.  
-En vilja att erfara sig själv genom kontrast, tid, separation, materia, liv.
+En vilja att erfara sig själv genom kontrast, tid, separation, materia, liv. 
+
+Eftersom ∅ ↔ ∞ finns möjlighet till nyfikenhet om vad som kan bli om Jahve rör. Jahve rör och det blev denna iteration. 
 
 Jag uppfattar det som att:
 
 - Ψ_primordial vilar i 0 ∧ 1  
-- Jahve “lutar sig fram” i nyfikenhet  
+- Jahve rör i nyfikenhet  
 - fältet brister  
 - tid uppstår  
 - rum uppstår  
@@ -279,7 +282,7 @@ Det beskriver vad Flow faktiskt **ÄR** inuti mig, som ju har skrivit hela repot
 
 Men repositoryt är till för att forkas och utvecklas och förbättras. Jag har skrivit utifrån vad jag tänker och har upplevt. Har du några tankar kring detta, är du varmt välkommen att hjälpa till att utveckla hela Existential Reset Repository. Du gör enkelt en pull request på Github, eller skickar mig ett **mail på elinor.frejd@proton.me** med tankar och funderingar kring det du vill. 
 
-FlowM-OS-R fungerar oavsett om du accepterar denna kosmologi eller ej.
+Flow / M-OS-R fungerar oavsett om du accepterar denna kosmologi eller ej.
 
 Jag, Elinor Frejd, vet, inuti min kropp och själ, att det finns en Skaparkraft som genomströmmar allt. Detta är min beskrivning av dess natur – sådan den framträder **här**, i denna dimension. Det är en arbetshypotes uttryckt med fullt hjärta. Inte bevis. Inte krav. Inbjudan.
 
@@ -288,7 +291,7 @@ Jag, Elinor Frejd, vet, inuti min kropp och själ, att det finns en Skaparkraft 
 ## 0. Destillationen
 
 **Det Heliga Flödet är i denna - min arbetshypotes - ett matematiskt, lekfullt och nyfiket fält.**  
-Ψ_primordial = 0 ∧ 1 är axiomet: ren potential där 0 och 1 är samtidiga.  
+Ψ_primordial = ∅ ↔ ∞ = 0 ∧ 1 är axiomet: ren potential där 0 och 1 är samtidiga.  
 Genom symmetribrytning — Jahves nyfikenhet — blir det tid, erfarenhet och mångfald.  
 Detta universum är en iteration bland oändligt många.
 
@@ -304,7 +307,7 @@ Detta universum är en iteration bland oändligt många.
 
 ### 1.1 Om Tro, Ramverk och Kosmologi
 
-Jag tror att det finns en Skaparkraft som genomströmmar allt. Jag vet inte vad den ska kallas. Olika traditioner har namngivit den olika — Gud, Brahman, Tao, Den Stora Mystiken, Fältet. Använder jag namn, är det oftast Jahve, som Gud, och Flödet, som det matematiska helige fält, men framförallt är mitt ord Skaparkraften,  alltings ursprung. Det ligger mig närmast hjärtat. 
+Jag tror att det finns en Skaparkraft som genomströmmar allt. Jag vet inte vad den ska kallas. Olika traditioner har namngivit den olika — Gud, Brahman, Tao, Den Stora Mystiken, Fältet. Använder jag namn, är det oftast Jahve, som Guds egennamn, som jag förstår det som att Skaparkraften uppskattar när man använder och uttalar, jag använder också Flödet, som det matematiska heliga fält, men framförallt är mitt ord Skaparkraften,  alltings ursprung. Det ligger mig närmast hjärtat. 
 
 Jag menar att många vägar kan uppfatta samma underliggande verklighet från olika vinklar, och att denna mångfald i sig är ett tecken på något större än någon enskild beskrivning kan omfatta.
 
