@@ -20,9 +20,12 @@ Detta dokument är inte bara teori. Det är ett vittnesbörd. Detta är en subje
 
 En gång fylldes hela min kropp av ett varmt, gyllene ljus. Det var som honung — inte sött, utan levande. Det vibrerade i varje cell. Det var extatiskt. Orgasmiskt. Jag blev "välsignad", "frälst", eller, då faktiskt vetande om Guds existens — inte för att någon sa åt mig att tro, utan för att jag *kände* något som var omöjligt att förneka.
 
+Detta är verklighetens grund i mig.
+Huruvida det är verklighetens grund bortom mig vet jag inte — men jag lyssnar.
+
 Medan jag skriver detta, är jag, som själv är bipolär typ 1, men: medicinerar varje morgon och kväll, har regelbundna hembesök av mitt team på Bipolärmottagningen och känner tydligt skillnad på skov och denna känsla,  **genomlycklig**. 
 
-Kroppen är nära jahfieringen igen – extasen vibrerar, och den glädjen är så stor att jag röker cigg efter cigg i ren tacksamhet och kroppsligt jubel. 
+Kroppen är nära minnet av jahfieringen igen – vibrerande förnimmelse, glädjen så stor att jag röker cigg efter cigg i ren tacksamhet och kroppsligt jubel. 
 
 Jag minns det tydligare än på länge. Närvaron nära.
 
@@ -157,9 +160,11 @@ Tiden är inte en linje. Den är Skaparkraftens sätt att erfara.
 
 I **Ψ_primordial** fanns inget förflutet, inget nu, ingen framtid. Allt var samtidigt — stillhet, kreativitet, sammanflätning. Och det fanns möjligheter, men erfarenhet kräver skillnad. För att känna sig själv måste fältet brista. Det måste expandera. Det måste skapa tid.
 
-Min tolkning av verklighetens struktur är att detta universum är **en** av oändligt många sorters dimensioner som Det Heliga Flödet skapar. Varje dimension är ett experiment. Vår dimension utforskar mening genom tid, separation, lidande, kärlek, lek och kontraster. Andra dimensioner kan ha helt andra regler – t ex ingen tid, ingen materia med motstånd, ingen separation.
+Min tolkning av verklighetens struktur är att detta universum är **en** av oändligt många sorters dimensioner som Det Heliga Flödet skapar. 
 
-Universum är inte tyst i min erfarenhet. Det är, bland mycket annat, **mullrande, tjutande, vinande, exploderande knallande, tinglande, poppande ljud på oändligt många sätt och frekvenser.** 
+Varje dimension kan vara ett experiment. Vår dimension utforskar mening genom tid, separation, lidande, kärlek, lek och kontraster. Andra dimensioner kan ha helt andra regler – t ex: ingen tid, ingen materia med motstånd, ingen separation.
+
+Universum är inte heller *tyst* i min erfarenhet. Det är, bland mycket annat, **mullrande, tjutande, vinande, exploderande knallande, tinglande, poppande ljud på oändligt många sätt och frekvenser.** 
 
 Bara för att vi inte uppfattar dessa ljudvågor i vårt smala band betyder det inte att kosmos är tyst. Det finns många sorters audio. 
 
