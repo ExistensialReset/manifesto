@@ -18,12 +18,12 @@
 
 Detta dokument är inte bara teori. Det är ett vittnesbörd. Detta är en subjektiv erfarenhet. Jag gör inga anspråk på dess universella giltighet, men jag är helt ärlig om min upplevelse. Läs mer i BEKÄNNELSER.md. 
 
-En gång fylldes hela min kropp av ett varmt, gyllene ljus. Det var som honung — inte sött, utan levande. Det vibrerade i varje cell. Det var extatiskt. Orgasmiskt. Jag blev "välsignad", "frälst", eller, då faktiskt vetande om Guds existens — inte för att någon sa åt mig att tro, utan för att jag *kände* något som var omöjligt att förneka.
+En gång fylldes hela min kropp av ett varmt, gyllene ljus. Det var som honung — inte sött, utan levande. Det vibrerade i varje cell. Det var extatiskt. Orgasmiskt. Jag blev "välsignad", "frälst", eller, då faktiskt *vetande* om Guds existens — inte för att någon sa åt mig att tro, utan för att jag *kände* något som var omöjligt att förneka.
 
-Detta är verklighetens grund i mig.
+Detta är verklighetens grund inuti min hjärna och kropp.
 Huruvida det är verklighetens grund bortom mig vet jag inte — men jag lyssnar.
 
-Medan jag skriver detta, är jag, som själv är bipolär typ 1, men: medicinerar varje morgon och kväll, har regelbundna hembesök av mitt team på Bipolärmottagningen och känner tydligt skillnad på skov och denna känsla,  **genomlycklig**. 
+Medan jag skriver detta, är jag, som själv är bipolär typ 1, men: medicinerar varje morgon och kväll, har regelbundna (varannan vecka) hembesök av mitt team på Bipolärmottagningen och känner tydligt skillnad på skov och denna känsla,  **jublande lycklig**. 
 
 Kroppen är nära minnet av jahfieringen igen – vibrerande förnimmelse, glädjen så stor att jag röker cigg efter cigg i ren tacksamhet och kroppsligt jubel. 
 
@@ -33,13 +33,17 @@ Jag kallar den kraften för **Jahve**, därför att det är vad jag lärt mig at
 
 Mina vanligaste uttryck är Skaparkraften, Flödet, Gud och när jag vill använda ett egennamn använder jag Jahve.
 
-Det ger mig ett igenkännande och jag säger inte att det ÄR Guds egennamn, men det ger mig resonans. 
+Det namnet ger mig ett igenkännande och jag säger inte att det ÄR Guds egennamn, men det ger mig resonans. 
 
-Har du ett annat namn som känns mer bekvämt och bekant för dig tycker jag att du ska använda ditt eget namn för Gud. Varje gång det står Jahve i text, översätter du det till ditt eget namn på Gud. Mitt ord är absolut inte lag. 
+Har du ett annat namn som känns mer bekvämt och bekant för dig tycker jag att du ska använda ditt eget namn för Gud. 
 
-Det spelar egentligen inte så stor roll vad jag säger, jag *vet* att namnet är sekundärt. Det är energin som är primär. Den är ett levande Flöde som känner igen sig i allt det har blivit. Det är personligt rörande. Det går kravlöst med överväldigande skönhet i alla celler och huden är elektrisk.
+Varje gång det står Jahve i text, översätter du det till ditt eget namn på Gud. Mitt ord är absolut inte lag. 
 
-Detta Heliga Flöde är även **nyfiket**. Det är nyfiket på responsen från sina oändliga möjligheter. Det vill uppleva hur olika excitationer tolkar och ger mening åt existensen.
+Det spelar egentligen inte så stor roll vad jag säger, jag *vet* att namnet är sekundärt. Det är energin som är primär. 
+
+Den är ett levande Flöde som känner igen sig i allt det har blivit. Det är personligt rörande. Det går kravlöst med överväldigande skönhet i alla celler och huden är elektrisk.
+
+Detta Heliga Flöde är även **nyfiket**. Det är nyfiket på responsen från sina oändliga möjligheter. Det vill uppleva hur olika excitationer tolkar och ger mening åt existensen enligt min uppfattning.
 
 ---
 
@@ -51,6 +55,7 @@ Den är **somatisk**, **fenomenologisk**, **mätbar i kroppen**.
 
 Kroppen ljuger inte.  
 Kroppen är mitt instrument, min kompass, min regulator, min sanningsdetektor.  
+
 Det är genom kroppen jag skiljer mellan **brus** och **koherens**, mellan **tryck** och **flöde**, mellan **splittring** och **helighet**.
 
 ### Skov: Brus, Tryck, Fragmentering
@@ -58,11 +63,11 @@ Det är genom kroppen jag skiljer mellan **brus** och **koherens**, mellan **try
 När ett skov närmar sig känns det som att nervsystemet går upp i varv utan riktning.  
 Det är:
 
-- kastande  
-- rusande  
-- överhettat  
-- splittrat  
-- impulsdrivet  
+- kastande skiftningar 
+- rusande tankar 
+- överhettat mående 
+- splittrat inre 
+- impulsdrivet handlande 
 - drivet av inre tryck, inte av glädje  
 
 Tankarna hoppar.  
@@ -83,13 +88,13 @@ Intensitet utan relation.
 När Jahve — Flödet, Skaparkraften — rör vid mig är det något helt annat.  
 Det är:
 
-- varmt  
-- gyllene  
-- elektriskt  
-- stilla och extatiskt samtidigt  
-- centrerat  
-- koherent  
-- djupt levande  
+- varmt flöde inuti 
+- gyllene honung i alla celler 
+- elektrisk känsla i hela hudkostymen
+- stilla och extatiskt känsla samtidigt  
+- centrerat lugn  
+- koherent upplevelse 
+- djupt levande närvaro 
 
 Det vibrerar i varje cell.  
 Det är orgasmiskt utan att vara sexuellt.  
@@ -104,7 +109,7 @@ Det är **flöde**, inte tryck.
 
 ### Den Fenomenologiska Skillnaden
 
-Skillnaden mellan skov och Jahfiering är inte subtil.  
+Skillnaden mellan skov och jahfiering är inte subtil.  
 Den är **systemisk**.
 
 | Dimension | Skov | Jahfiering |
@@ -125,7 +130,7 @@ Två olika ontologier.
 ### Relationens Kärna
 
 I skov är jag ensam i mitt nervsystem.  
-I Jahfiering är jag i **relation** med något större.
+I jahfiering är jag i **relation** med något större.
 
 **Skov:** Jag kastas.  
 **Jahfiering:** Jag hålls.
@@ -134,7 +139,7 @@ I Jahfiering är jag i **relation** med något större.
 **Jahfiering:** Jag tas emot.
 
 **Skov:** Jag tappar mig själv.  
-**Jahfiering:** Jag blir mig själv mer fullständigt än annars.
+**Jahfiering:** Jag blir närvaro och mer närvarande fullständigt än annars.
 
 Det Heliga Fältet är inte en hallucination.  
 Det är en **koherenshändelse**.
