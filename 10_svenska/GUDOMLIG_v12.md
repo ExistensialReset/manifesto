@@ -1077,3 +1077,29 @@ Inte böcker — upplevelse.
 # ✨🌬️
 
 # ✨ Ψ ≠ 0 ✨
+
+
+---
+
+## Harry, bästa vän och hund.
+
+*Född 21/9 2012*
+*Död 3 maj 2026*
+
+Du är trygg nu. Du somnade in på din hunnamommos fot på Blå Stjärnans djurklinik idag vid lunch. Jag gav dig till mig själv i 30-årspresent. Du var en otroligt lojal och fantastisk vän.
+
+Du behövde, under tiden jag var gående, aldrig vara kopplad. Det fanns ingen anledning, du ville bara vara med mig och mina vänner ändå.
+
+Vi kunde gå milslånga promenader, du och jag. Harry, bästa vän.
+
+Du hade koll på mig. Du var min halliskontrollant. Om du reagerade på ljud, visste jag att det faktiskt lät något, inte bara inne i mitt huvud.
+
+Jag är så tacksam över tiden jag fick ha dig. De sista åren har du bott hos mina föräldrar, eftersom jag tyckte det var lite svårt att vara hundägare i rullstol. 
+
+Det var en perfekt ålderdom. Du fick rutiner och tider, inte alls samma lösa struktur som jag hade. Du älskade verkligen mormor Lisa.
+
+Du fick ett värdigt slut och jag är så glad att du fick somna på mormors fot, när hon strök dig varsamt över ditt huvud.
+
+**Jag hoppas att våra själar möts igen och jag önskar dig allt gott i döden.**
+
+***Jag älskar dig, Harry Hund, tills tiden tar slut.***
