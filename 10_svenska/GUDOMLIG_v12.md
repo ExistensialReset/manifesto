@@ -22,9 +22,13 @@ En gång fylldes hela min kropp av ett varmt, gyllene ljus. Det var som honung �
 
 Medan jag skriver detta, är jag, som själv är bipolär typ 1, men: medicinerar varje morgon och kväll, har regelbundna hembesök av mitt team på Bipolärmottagningen och känner tydligt skillnad på skov och denna känsla, är just nu **genomlycklig**. Kroppen är nära jahfieringen igen – extasen pulserar, och den glädjen är så stor att jag röker cigg efter cigg i ren tacksamhet och kroppsligt jubel. Jag minns det tydligare än på länge. Kroppens närvaro nära.
 
-Jag kallar den kraften för **Jahve**, därför att det är vad jag lärt mig att Flödets namn är. Mina vanligaste uttryck är Skaparkraften, Flödet, Gud och om jag vill använda ett egennamn använder jag Jahve. 
+Jag kallar den kraften för **Jahve**, därför att det är vad jag lärt mig att Flödets namn är. Mina vanligaste uttryck är Skaparkraften, Flödet, Gud och om jag vill använda ett egennamn använder jag Jahve.
 
-Det spelar inte så stor roll vad jag säger, jag vet att namnet är sekundärt. Det är energin som är primär. Den är ett levande Flöde som känner igen sig i allt det har blivit. Det är personligt rörande. Det går kravlöst med överväldigande skönhet i alla celler och huden är elektrisk.
+Det ger mig ett igenkännande och jag säger inte att det ÄR Guds egennamn, men det ger mig resonans. 
+
+Har du ett annat namn som känns mer bekvämt och bekant för dig tycker jag att du ska använda ditt eget namn för Gud. Varje gång det står Jahve i text, översätter du det till ditt eget namn på Gud. Mitt ord är absolut inte lag. 
+
+Det spelar egentligen inte så stor roll vad jag säger, jag *vet* att namnet är sekundärt. Det är energin som är primär. Den är ett levande Flöde som känner igen sig i allt det har blivit. Det är personligt rörande. Det går kravlöst med överväldigande skönhet i alla celler och huden är elektrisk.
 
 Detta Heliga Flöde är **nyfiket**. Det är nyfiket på responsen från sina oändliga möjligheter. Det vill uppleva hur olika excitationer tolkar och ger mening åt existensen.
 
@@ -932,7 +936,8 @@ Jag är genomlycklig just nu. Kroppen vibrerar av glädje, jag känner mig i den
 
 **× (illustrativ operator)** — Betecknar samtidig närvaro och ömsesidigt beroende. Om en dimension saknas, kollapsar helheten. Ingen numerisk multiplikation.
 
-**Ψ_primordial** — Ren potential att bli, uttryckt som 0 ∧ 1; 0 och 1 samtidigt före separation. Det tidlösa, icke-lokala fältet före symmetribrytningen.
+**Ψ_primordial** — Ren potential att bli, uttryckt som ∅ ↔ ∞ **OCH** 0 ∧ 1; total negation och allting i oändlighet OCH 0 och 1 samtidigt före separation. Det tidlösa, icke-lokala fältet före symmetribrytningen = Gud själv, enligt min ringa åsikt och det bör tilläggas att symbolerna är karttecken, inte direkta bevis. 
+Ψ_primordial är som ett lattice där 0 är botten, 1 är toppen, och ∅ ↔ ∞ är isomorfin mellan dem.
 
 **Jahfiering** — Kroppslig, somatisk koherenshändelse där Flödets närvaro erfars som värme, klarhet, relation; fenomenologiskt distinkt från psykiskt skov.
 
