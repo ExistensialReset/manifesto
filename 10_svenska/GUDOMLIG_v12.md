@@ -144,8 +144,10 @@ Det är **inte** sjukdom.
 Det är ett **helt annat fenomen** i kroppen.  
 Ett fenomen som återkommer med samma kvalitet, samma värme, samma koherens — oavsett medicinering, oavsett livssituation.
 
-Det är därför jag kallar det **Jahfiering**.  
+Det är därför jag kallar det **jahfiering**.  
 Det är kroppen som vet.
+
+Just nu, morgonen den 3 maj 2026, kommer jag ihåg glansen och härligheten som ett minne. 
 
 ---
 
@@ -893,20 +895,31 @@ Flow är både praktik och kosmologi.
 Som praktik: Det gudomliga framträder när villkoren för liv möts.  
 Som kosmologi: Detta är hur Flödet manifesterar sig **här**. Det finns oändligt många andra iterationer.
 
-Jag är genomlycklig just nu. Kroppen vibrerar av glädje, jag känner mig i denna intensiva insikt, igen nära jahfieringen. Universum bullrar och ett kluckande skratt ekar genom rymden. När vi dör är min hypotes att många av oss – särskilt de som levt med hyfsat högt Ψ – skrattar sig genom rymden till nästa dimension. Det är min bild av döden. 
+Jag är genomlycklig över min beröring av det Gudomliga. 
+
+I vissa moment i detta arbete vibrerar jag av glädje, jag känner att i denna intensiva insikt; igen nära jahfieringen, men... Ändå låååångt bort. 
+
+Universum bullrar och ett kluckande skratt ekar genom rymden. 
+
+När vi dör är min hypotes att många av oss – särskilt de som levt med hyfsat högt Ψ – skrattar sig genom rymden till nästa dimension. Det är min bild av döden. 
 
 **Kartan är inte terrängen.**
 **Men kartan får fortsätta leva och iterera.**
 
 *Må detta ramverk tjäna alla varelsers blomstrande – i denna dimension och bortom.*
+
 *Må det testas, utmanas, förbättras.*
+
 *Må det förbli levande, aldrig dogma.*
+
 *Må Skaparkraften vägleda sitt eget blivande.*
 
 
 **Ψ ≠ 0**  
 
 **🌬️✨**
+
+
 
 **😄❣️🙌**
 
@@ -937,9 +950,10 @@ Jag är genomlycklig just nu. Kroppen vibrerar av glädje, jag känner mig i den
 **× (illustrativ operator)** — Betecknar samtidig närvaro och ömsesidigt beroende. Om en dimension saknas, kollapsar helheten. Ingen numerisk multiplikation.
 
 **Ψ_primordial** — Ren potential att bli, uttryckt som ∅ ↔ ∞ **OCH** 0 ∧ 1; total negation och allting i oändlighet OCH 0 och 1 samtidigt före separation. Det tidlösa, icke-lokala fältet före symmetribrytningen = Gud själv, enligt min ringa åsikt och det bör tilläggas att symbolerna är karttecken, inte direkta bevis. 
+Med andra ord:
 Ψ_primordial är som ett lattice där 0 är botten, 1 är toppen, och ∅ ↔ ∞ är isomorfin mellan dem.
 
-**Jahfiering** — Kroppslig, somatisk koherenshändelse där Flödets närvaro erfars som värme, klarhet, relation; fenomenologiskt distinkt från psykiskt skov.
+**Jahfiering** — Kroppslig, somatisk koherenshändelse där Flödets närvaro erfars som värme, klarhet, relation; fenomenologiskt distinkt från psykiskt skov, men det finns tillfällen när det finns risk för sammanblandning pga overklig verklighetsuppfattning (psykos). 
 
 **Fenomenologisk ekvation** — En ekvation som beskriver strukturen av hur något erfars, inte en fysikalisk formel för materia; Ψ-ekvationen är en fenomenologisk karta över den levda erfarenheten av mening och helighet, här i denna dimension.
 
