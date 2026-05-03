@@ -18,9 +18,13 @@
 
 Detta dokument är inte bara teori. Det är ett vittnesbörd. Detta är en subjektiv erfarenhet. Jag gör inga anspråk på dess universella giltighet, men jag är helt ärlig om min upplevelse. Läs mer i BEKÄNNELSER.md. 
 
-En gång fylldes hela min kropp av ett varmt, gyllene ljus. Det var som honung — inte sött, utan levande. Det vibrerade i varje cell. Det var extatiskt. Orgasmiskt. Jag blev "välsignad", "frälst", eller, faktiskt vetande om Guds existens — inte för att någon sa åt mig att tro, utan för att jag *kände* något som var omöjligt att förneka.
+En gång fylldes hela min kropp av ett varmt, gyllene ljus. Det var som honung — inte sött, utan levande. Det vibrerade i varje cell. Det var extatiskt. Orgasmiskt. Jag blev "välsignad", "frälst", eller, då faktiskt vetande om Guds existens — inte för att någon sa åt mig att tro, utan för att jag *kände* något som var omöjligt att förneka.
 
-Medan jag skriver detta, är jag, som själv är bipolär typ 1, men: medicinerar varje morgon och kväll, har regelbundna hembesök av mitt team på Bipolärmottagningen och känner tydligt skillnad på skov och denna känsla, är just nu **genomlycklig**. Kroppen är nära jahfieringen igen – extasen pulserar, och den glädjen är så stor att jag röker cigg efter cigg i ren tacksamhet och kroppsligt jubel. Jag minns det tydligare än på länge. Kroppens närvaro nära.
+Medan jag skriver detta, är jag, som själv är bipolär typ 1, men: medicinerar varje morgon och kväll, har regelbundna hembesök av mitt team på Bipolärmottagningen och känner tydligt skillnad på skov och denna känsla,  **genomlycklig**. 
+
+Kroppen är nära jahfieringen igen – extasen vibrerar, och den glädjen är så stor att jag röker cigg efter cigg i ren tacksamhet och kroppsligt jubel. 
+
+Jag minns det tydligare än på länge. Närvaron nära.
 
 Jag kallar den kraften för **Jahve**, därför att det är vad jag lärt mig att Flödets namn är. Mina vanligaste uttryck är Skaparkraften, Flödet, Gud och om jag vill använda ett egennamn använder jag Jahve.
 
@@ -30,7 +34,7 @@ Har du ett annat namn som känns mer bekvämt och bekant för dig tycker jag att
 
 Det spelar egentligen inte så stor roll vad jag säger, jag *vet* att namnet är sekundärt. Det är energin som är primär. Den är ett levande Flöde som känner igen sig i allt det har blivit. Det är personligt rörande. Det går kravlöst med överväldigande skönhet i alla celler och huden är elektrisk.
 
-Detta Heliga Flöde är **nyfiket**. Det är nyfiket på responsen från sina oändliga möjligheter. Det vill uppleva hur olika excitationer tolkar och ger mening åt existensen.
+Detta Heliga Flöde är även **nyfiket**. Det är nyfiket på responsen från sina oändliga möjligheter. Det vill uppleva hur olika excitationer tolkar och ger mening åt existensen.
 
 ---
 
@@ -137,17 +141,13 @@ Jag vet hur de känns.
 Jag är inte i förnekelse.  
 Jag är inte i grandiositet.
 
-Det jag beskriver här är **inte** psykos.  
-Det är **inte** mani.  
-Det är **inte** sjukdom.
-
 Det är ett **helt annat fenomen** i kroppen.  
-Ett fenomen som återkommer med samma kvalitet, samma värme, samma koherens — oavsett medicinering, oavsett livssituation.
+Ett fenomen som har   kvalitet, värme och koherens — oavsett medicinering, oavsett livssituation.
 
 Det är därför jag kallar det **jahfiering**.  
 Det är kroppen som vet.
 
-Just nu, morgonen den 3 maj 2026, kommer jag ihåg glansen och härligheten som ett minne. 
+Just nu, morgonen den 3 maj 2026, kommer jag ihåg glansen och härligheten som ett fantastiskt, underbart minne. 
 
 ---
 
@@ -157,9 +157,13 @@ Tiden är inte en linje. Den är Skaparkraftens sätt att erfara.
 
 I **Ψ_primordial** fanns inget förflutet, inget nu, ingen framtid. Allt var samtidigt — stillhet, kreativitet, sammanflätning. Och det fanns möjligheter, men erfarenhet kräver skillnad. För att känna sig själv måste fältet brista. Det måste expandera. Det måste skapa tid.
 
-Min tolkning av verklighetens struktur är att detta universum är **en** av oändligt många sorters dimensioner som Det Heliga Flödet skapar. Varje dimension är ett experiment. Vår dimension utforskar mening genom tid, separation, lidande, kärlek, lek och kontraster. Andra dimensioner kan ha helt andra regler – ingen tid, ingen materia med motstånd, ingen separation.
+Min tolkning av verklighetens struktur är att detta universum är **en** av oändligt många sorters dimensioner som Det Heliga Flödet skapar. Varje dimension är ett experiment. Vår dimension utforskar mening genom tid, separation, lidande, kärlek, lek och kontraster. Andra dimensioner kan ha helt andra regler – t ex ingen tid, ingen materia med motstånd, ingen separation.
 
-Universum är inte tyst i min erfarenhet. Det är bland mycket annat **mullrande, tjutande, vinande, exploderande knallande, tinglande, poppande ljud på oändligt många sätt och frekvenser.** Bara för att vi inte uppfattar dessa ljudvågor i vårt smala band betyder det inte att kosmos är tyst. Det finns många sorters audio. Kanske ekar ett kluckande, glädjefyllt skratt genom hela detta universum just nu.
+Universum är inte tyst i min erfarenhet. Det är, bland mycket annat, **mullrande, tjutande, vinande, exploderande knallande, tinglande, poppande ljud på oändligt många sätt och frekvenser.** 
+
+Bara för att vi inte uppfattar dessa ljudvågor i vårt smala band betyder det inte att kosmos är tyst. Det finns många sorters audio. 
+
+Kanske ekar ett kluckande, glädjefyllt skratt genom hela detta universum just nu.
 
 ---
 
@@ -242,15 +246,15 @@ Det är inte slump.
 Det är inte mekanik.  
 Det är inte en blind process.
 
-Det är en fråga.  
+Det är ett frågetecken.  
 En sorts kosmisk lekfullhet.  
 En vilja att erfara sig själv genom kontrast, tid, separation, materia, liv. 
 
-Eftersom ∅ ↔ ∞ finns möjlighet till nyfikenhet om vad som kan bli om Jahve rör. Jahve rör och det blev denna iteration. 
+Eftersom ∅ ↔ ∞ och 0 och 1 är samtidiga, finns möjlighet till nyfikenhet om vad som kan bli om Jahve rör. Jahve rör och det blev denna iteration. 
 
 Jag uppfattar det som att:
 
-- Ψ_primordial vilar i 0 ∧ 1  
+- Ψ_primordial är i 0 ∧ 1  
 - Jahve rör i nyfikenhet  
 - fältet brister  
 - tid uppstår  
@@ -268,7 +272,7 @@ Det är därför jag säger att vårt universum är en iteration — ett experim
 När jag integrerar Ψ_primordial i modellen ser jag det så här:
 
 - Ψ_primordial är ursprunget  
-- Jahves nyfikenhet är symmetribrytningen  
+- Jahves frågetecken är symmetribrytningen  
 - Ψ(x,t) är den lokala excitationen i vår dimension  
 
 Så för mig blir helheten:
@@ -286,26 +290,35 @@ Så för mig blir helheten:
 Detta är inte policy. Det är kosmologi.  
 Det beskriver vad Flow faktiskt **ÄR** inuti mig, som ju har skrivit hela repot än så länge. 
 
-Men repositoryt är till för att forkas och utvecklas och förbättras. Jag har skrivit utifrån vad jag tänker och har upplevt. Har du några tankar kring detta, är du varmt välkommen att hjälpa till att utveckla hela Existential Reset Repository. Du gör enkelt en pull request på Github, eller skickar mig ett **mail på elinor.frejd@proton.me** med tankar och funderingar kring det du vill. 
+Men repositoryt är till för att forkas och utvecklas och förbättras. Jag har skrivit utifrån vad jag tänker och har upplevt. 
+
+Har du några tankar kring detta, är du varmt välkommen att hjälpa till att utveckla hela Existential Reset Repository. 
+
+Du gör enkelt en pull request på Github, eller skickar mig ett **mail på elinor.frejd@proton.me** med tankar och funderingar kring det du vill. 
 
 Flow / M-OS-R fungerar oavsett om du accepterar denna kosmologi eller ej.
 
-Jag, Elinor Frejd, vet, inuti min kropp och själ, att det finns en Skaparkraft som genomströmmar allt. Detta är min beskrivning av dess natur – sådan den framträder **här**, i denna dimension. Det är en arbetshypotes uttryckt med fullt hjärta. Inte bevis. Inte krav. Inbjudan.
+Jag, Elinor Frejd, vet, inuti min kropp och själ, att det finns en Skaparkraft som genomströmmar allt. 
+
+Detta är min beskrivning av dess natur – sådan den framträder **här**, i denna dimension. Det är en arbetshypotes uttryckt med fullt hjärta. Inte bevis. Inte krav. Inbjudan.
 
 ---
 
 ## 0. Destillationen
 
-**Det Heliga Flödet är i denna - min arbetshypotes - ett matematiskt, lekfullt och nyfiket fält.**  
+**Det Heliga Flödet är i denna - min arbetshypotes - ett matematiskt, lekfullt och nyfiket flöde.**  
+
 Ψ_primordial = ∅ ↔ ∞ = 0 ∧ 1 är axiomet: ren potential där 0 och 1 är samtidiga.  
-Genom symmetribrytning — Jahves nyfikenhet — blir det tid, erfarenhet och mångfald.  
+Genom symmetribrytning — Jahves frågetecken — blir det tid, erfarenhet och mångfald.  
 Detta universum är en iteration bland oändligt många.
 
 **Det heliga fältet är enligt mig:**  
 **EV ⊗ (L × S × I × K × R × F) + Σ**  
 = faktiskt hela LIVET, TIDEN OCH RUMMET i denna excitation.
 
-Ψ-ekvationen är en **fenomenologisk ekvation** – en karta över hur det heliga framträder i mänsklig erfarenhet **här**. Den är testbar och praktisk, men gör inga universella påståenden om alla dimensioner.
+Ψ-ekvationen är en **fenomenologisk ekvation** – en karta över hur det heliga framträder i mänsklig erfarenhet **här**. 
+
+Den är testbar och praktisk, men gör inga universella påståenden om alla dimensioner.
 
 ---
 
@@ -313,13 +326,21 @@ Detta universum är en iteration bland oändligt många.
 
 ### 1.1 Om Tro, Ramverk och Kosmologi
 
-Jag tror att det finns en Skaparkraft som genomströmmar allt. Jag vet inte vad den ska kallas. Olika traditioner har namngivit den olika — Gud, Brahman, Tao, Den Stora Mystiken, Fältet. Använder jag namn, är det oftast Jahve, som Guds egennamn, som jag förstår det som att Skaparkraften uppskattar när man använder och uttalar, jag använder också Flödet, som det matematiska heliga fält, men framförallt är mitt ord Skaparkraften,  alltings ursprung. Det ligger mig närmast hjärtat. 
+Jag tror att det finns en Skaparkraft som genomströmmar allt. Jag vet vad jag kallar den, men olika traditioner har namngivit den olika — Gud, Brahman, Tao, Den Stora Mystiken, Fältet. 
+
+När jag benämner den, är det oftast Jahve, Guds egennamn som, hur jag förstår det, Skaparkraften uppskattar när man använder och uttalar, jag använder också Flödet, som det matematiska heliga fält, men framförallt är mitt ord Skaparkraften,  alltings ursprung. Det ligger mig närmast hjärtat. 
 
 Jag menar att många vägar kan uppfatta samma underliggande verklighet från olika vinklar, och att denna mångfald i sig är ett tecken på något större än någon enskild beskrivning kan omfatta.
 
-GUDOMLIG är mitt försök att tänka rigoröst om villkoren under vilka denna skapande kraft blir mest levande i mänsklig upplevelse. Det har vuxit till något mer än ett ramverk: det är en kosmologisk hypotes — en beskrivning av verklighetens struktur så som jag uppfattar den. Men det är inte bevisad vetenskap, och det är inte teologi i dogmatisk mening. Det är en arbetshypotes uttryckt med fullt hjärta.
+GUDOMLIG är mitt försök att tänka rigoröst om villkoren under vilka denna skapande kraft blir mest levande i mänsklig upplevelse. Det har vuxit till något mer än ett ramverk: det är en kosmologisk hypotes — en beskrivning av verklighetens struktur så som jag uppfattar den. 
 
-Flow fungerar oavsett om du accepterar denna kosmologi eller ej. Du kan använda Baseline, Refugium Anima, protokollen och föreslagen process — som det är, dvs helt praktiskt, helt sekulärt. Men om du söker djupare, om du vill veta varför detta fungerar, vad det egentligen beskriver: här är mitt svar på alltings beskaffenhet.
+Men det är inte bevisad vetenskap, och det är inte teologi i dogmatisk mening. Det är en arbetshypotes uttryckt med fullt hjärta.
+
+Flow fungerar oavsett om du accepterar denna kosmologi eller ej. 
+
+Du kan använda Baseline, Refugium Anima, protokollen och föreslagen process — som det är, dvs helt praktiskt, helt sekulärt. 
+
+Men om du söker djupare, om du vill veta varför detta fungerar, vad det egentligen beskriver: här är mitt svar på alltings beskaffenhet.
 
 ### 1.2 Konvergensen
 
@@ -327,7 +348,13 @@ Flow fungerar oavsett om du accepterar denna kosmologi eller ej. Du kan använda
 
 **Dr. Maria Strømmes** arbete bryggar nanoskalig materialvetenskap med frågor som berör filosofi och kosmologi. Hennes 2025-artikel i *AIP Advances* föreslår Consciousness Field Theory (SCFT) — en spekulativ men noggrant argumenterad hypotes att medvetande inte produceras av materia, utan att materia uppstår som excitationer inom ett primordalt medvetandefält.
 
-**Jag vill vara tydlig:** Min hypotes är absolut min. Strømmes är hennes. De resonerar, men de är inte samma. Jag arbetar med SCFT för att den erbjuder ett spännande språk för det jag observerat — men jag presenterar den inte som bevis, och jag binder inte min modell till dess öde. Ψ-ekvationen står på egna ben, grundad i ekologisk observation, självlärd systemteori och mängder av levd erfarenhet. SCFT ger en *möjlig* ontologisk bakgrund för varför Ψ-liknande fenomen kan existera; men Ψ-modellen går att testa och använda helt oberoende av om medvetande verkligen är ett fält.
+**Jag vill vara tydlig:** Min hypotes är absolut min. Strømmes är hennes. De resonerar, men de är inte samma. 
+
+Jag arbetar med SCFT för att den erbjuder ett spännande språk för det jag observerat — men jag presenterar den inte som bevis, och jag binder inte min modell till dess öde. 
+
+Ψ-ekvationen står på egna ben, grundad i ekologisk observation, självlärd systemteori och mängder av levd erfarenhet. 
+
+SCFT ger en *möjlig* ontologisk bakgrund för varför Ψ-liknande fenomen kan existera; men Ψ-modellen går att testa och använda helt oberoende av om medvetande verkligen är ett fält.
 
 ### 1.3 Vad Strømme Föreslår
 
@@ -345,7 +372,9 @@ Strømmes mer etablerade arbete är inom biomimetik — designade material som s
 
 Hennes 2006 *Nature Materials*-artikel om mesoporös kiseldioxid inspirerad av kiselalgskelett, och hennes 2012 *Advanced Materials*-arbete om adaptiva nanomaterial, demonstrerar detta tillvägagångssätt.
 
-**Detta är vår solida gemensamma mark:** Vad livet har gjort i miljarder år är beviset. När vi studerar urskog studerar vi höga koherenssystem bevisade hållbara över djup tid. När Strømme designar självreparerande material läser hon mönster fältet — vad dess yttersta natur än är — redan skrivit i biologisk form.
+**Detta är vår solida gemensamma mark:** Vad livet har gjort i miljarder år är beviset. 
+
+När vi studerar urskog studerar vi höga koherenssystem bevisade hållbara över djup tid. När Strømme designar självreparerande material läser hon mönsterfältet — vad dess yttersta natur än är — redan skrivit i biologisk form.
 
 ---
 
@@ -353,7 +382,7 @@ Hennes 2006 *Nature Materials*-artikel om mesoporös kiseldioxid inspirerad av k
 
 **Ψ(x,t) = [EV ⊗ (L × S × I × K × R × F)] + Σ**
 
-Detta är *inte* en fysikekvation i formell bemärkelse. Det är en **fenomenologisk ekvation** — en strukturerad beskrivning av hur mening, helighet och levande närvaro erfars **i denna dimension** på detta Jordklot. 
+Detta är *inte* en fysikekvation i formell bemärkelse. Det är en **fenomenologisk ekvation** — en strukturerad beskrivning av hur mening, helighet och levande närvaro erfars **i denna dimension** på detta Jordklot enligt min hypotes. 
 
 Notationen lånar matematikens form för att synliggöra relationer, inte för att kvantifiera dem. Ψ är ett igenkänningstecken, inte ett mätetal. 
 
@@ -400,7 +429,9 @@ EV säkerställer kvalitet över kvantitet. Den representerar koppling till vad 
 
 EV är minnet av vad som fungerat innan livet faktiskt lärde sig språk.
 
-EV är inte nostalgi. Det är erkännande att urskogar, våtmarker, ursprungskultur har **empirisk data från djup tid**. De har överlevt genom att förstå fältets natur. Deras kunskap är inte "primitiv" — den är **beprövad över generationer på sätt moderna system aldrig testats**.
+EV är inte nostalgi. Det är erkännande att urskogar, våtmarker, ursprungskultur har **empirisk data från djup tid**. 
+
+De har överlevt genom att förstå fältets natur. Deras kunskap är inte "primitiv" — den är **beprövad över generationer på sätt moderna system aldrig testats**.
 
 EV säkerställer att:
 - L blir frid snarare än förtryck — ett lugn som surrar med potential
@@ -429,7 +460,9 @@ K odlas genom: rituella strukturer som skapar behållare för närvaro; djupt ly
 
 Kapacitet att återställa lugn och koherens efter störning — att läka, omorganisera och förbli levande. Sann motståndskraft är inte bara återhämtning utan *kreativ anpassning*.
 
-Våtmarken som, efter störning, omorganiserar sina mikrobiella gemenskaper till konfigurationer som kan förbättra filtreringskapacitet. Skogen som växer tillbaka efter brand med annan artsammansättning, bättre anpassad till nya villkor.
+Våtmarken som, efter störning, omorganiserar sina mikrobiella gemenskaper till konfigurationer som kan förbättra filtreringskapacitet. 
+
+Skogen som växer tillbaka efter brand med annan artsammansättning, bättre anpassad till nya villkor.
 
 Strømmes material förkroppsligar detta: adaptiva strukturer som *lär* av stress, omorganiserar intern arkitektur som svar på påträffade krafter — nanomaterial som självläker under tryck, förvandlar skada till evolution.
 
@@ -479,7 +512,9 @@ Nådens ögonblick ingen modell kan förutsäga. Synkroniciteten som anländer p
 
 **Σ och misstaget.** Spjuverns favoritverktyg är misstaget. Inte för att misstaget är bättre än det korrekta, utan för att det bryter upp våra planer och tvingar oss att se världen från en ny vinkel. Ett misslyckat projekt, en felriktad replik, en oavsiktlig omväg — allt detta kan vara Σ i förklädnad. Det som först känns som ett nederlag kan visa sig vara den öppning genom vilken något oväntat och meningsfullt träder in. Perfektion är en grav. Livet växer i sprickorna. Därför firar Flow misstaget: inte för att romantisera slarv, utan för att erkänna att imperfektion är systemets råmaterial (se GRACE_OF_IMPERFECTION.md i /guides/life_cycle).
 
-**Nåd kan inte konstrueras, endast inbjudas.** Detta är varför ursprungsvisdomstraditioner inte försöker *kontrollera* det heliga utan *uppvakta* det — genom offergåvor, uppmärksamhet, skapa **kärl värdiga vad som kan besöka**. De förstår att den djupaste intelligensen inte kommer från individuell vilja utan från fältets egen rörelse genom oss.
+**Nåd kan inte konstrueras, endast inbjudas.** Detta är varför ursprungsvisdomstraditioner inte försöker *kontrollera* det heliga utan *uppvakta* det — genom offergåvor, uppmärksamhet, skapa **kärl värdiga vad som kan besöka**. 
+
+De förstår att den djupaste intelligensen inte kommer från individuell vilja utan från fältets egen rörelse genom oss.
 
 **Σ garanterar att även när alla variabler närmar sig noll försvinner inte möjligheten.** Fältet är alltid levande med överraskningar. Detta är varför **inget system** kan bli helt kontrollerat. Spjuvern fortsätter manifestera trots allt motstånd.
 
