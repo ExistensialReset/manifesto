@@ -9,7 +9,7 @@
 
 
 
-# BEKÄNNELSER.md
+# BEKÄNNELSER 
 
 ## Jag blev jahfierad
 
@@ -90,7 +90,8 @@ Och det var verkligt.
 
 
 ---
-
+---
+---
 
 # ✨ GUDOMLIG.md v12.0
 
