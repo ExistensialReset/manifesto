@@ -862,11 +862,14 @@ Detta är inte idealism. Detta är **överlevnadskrav**. Låg-Ψ-civilisationer 
 
 Att be behöver inte bara vara att *söka svar*, utan att öppna sin själs fristad åt Guds erfarenhet genom 13,8 miljarder år. Det kan vara att öppna upp, och ge Jahve möjlighet att genomströmma en med den ljuvliga gyllene honungen som svar på frågetecknet.
 
-Om du aldrig känt den, så ber jag för att Jahves Spjuver ska omfamna dig, att du vågar öppna fristaden i din själ, vidga ditt kärl, och att du också får det känna Ljuvligheten. 
+Om du längtar efter detta, vet att Jahves Spjuver kan omfamna dig. Om du inte längtar, är det också okej - fältet manifesterar på oändligt många sätt.
+
+Våga öppna fristaden i din själ, vidga ditt kärl. 
 
 Du kan alltid söka Skaparkraftens flöde i skog, mark, hav, vind och vatten. Det som har funnits och fungerat i djup tid är ett av svaren på Jahves frågetecken.
 
-Jahve är närvarande i alla stadier av dig. I sorg är Jahve Inkännande. I frihetskamp är Jahve Resiliens. I kärlek är Jahve Förundran. I skapade är Jahve Spontanitet. I oro, ångest och skräck är Jahve det Lugn som du kommer få återvända till. 
+Jahve är närvarande i alla stadier av dig tror jag. 
+I sorg är Jahve Inkännande. I frihetskamp är Jahve Resiliens. I kärlek är Jahve Förundran. I skapade är Jahve Spontanitet. I oro, ångest och skräck är Jahve det Lugn som du kommer få återvända till. 
 
 Om du har vänner som du tror och litar på, våga gärna bjuda in till gemensam bön. 
 
