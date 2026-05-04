@@ -93,7 +93,7 @@ Och det var verkligt.
 ---
 ---
 
-# ✨ GUDOMLIG.md v12.0
+# ✨ GUDOMLIG v12.0
 
 ## Resonansens Fenomenologi
 
