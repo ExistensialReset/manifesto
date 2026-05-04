@@ -903,7 +903,7 @@ Det är precis så det ska vara.
 
 ---
 
-## 10. Operationalisering & Ψ-profil: Ett Reflektionsverktyg
+## 11. Operationalisering & Ψ-profil: Ett Reflektionsverktyg
 
 Denna sektion erbjuder ett praktiskt verktyg för att reflektera kring Ψ i en grupp – inte för att "mäta" eller "betygsätta", utan för att skapa samtal om vad som är levande och vad som är blockerat.
 
@@ -1053,7 +1053,7 @@ Ingen analys. Ingen förklaring. Bara ett tyst erkännande av att fältet rörde
 
 ---
 
-## 11. Slutsats
+## 12. Slutsats
 
 Flow är både praktik och kosmologi.  
 Som praktik: Det gudomliga framträder när villkoren för liv möts.  
