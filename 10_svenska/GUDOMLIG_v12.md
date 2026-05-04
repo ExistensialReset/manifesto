@@ -360,7 +360,7 @@ Eftersom ∅ ↔ ∞ och 0 och 1 är samtidigt, finns möjlighet till nyfikenhet
 
 Jag uppfattar det som att:
 
-- Ψ_primordial är i 0 ∧ 1  
+- Ψ_primordial är i [0|1] 
 - Jahve rör i nyfikenhet och ett frågetecken om 
 - fältet brister  
 - tid uppstår  
@@ -414,7 +414,7 @@ Detta är min beskrivning av dess natur – sådan den framträder **här**, i d
 
 **Det Heliga Flödet är i denna - min arbetshypotes - ett matematiskt, lekfullt och undrande nyfiket flöde.**  
 
-Ψ_primordial = ∅ ↔ ∞ = 0 ∧ 1 är axiomet: ren potential där 0 och 1 är samtidiga.  
+Ψ_primordial = ∅ ↔ ∞ = [0|1] är axiomet: ren potential där 0 och 1 är samtidiga.  
 Genom symmetribrytning — Jahves frågetecken — blir det tid, erfarenhet och mångfald.  
 Detta universum är en iteration bland oändligt många.
 
@@ -713,6 +713,66 @@ Därmed är "Dark Ψ" en logisk omöjlighet inom denna iterations parametrar. Ψ
 **Och ändå:** Σ består. Även i mörkaste kollaps kan fältets spontana kreativitet inte helt undertryckas. Detta är varför auktoritära system så kan misslyckas, varför monokulturer succumberar till sjukdom, varför människoanden fortsätter hitta sprickor i verklighetens väv, genom vilka den kan växa.
 
 Σ är fältets garanti att inget slutgiltigt kan kontrollera det. Livet hittar alltid någon väg.
+
+---
+
+### Varför Dark Ψ är fenomenologiskt omöjlig — en fördjupning
+
+Det argument jag lade fram tidigare — att I inte kan avgränsas till den egna gruppen, och att EV filtrerar bort det destruktiva — är korrekt som systemlogik. Men det är inte hela svaret.
+
+Det fullständiga svaret börjar djupare.
+
+**Ψ_primordial är före separation.**
+
+Axiomet i min modell är att Ψ_primordial — ren potential, [0|1], ∅ ↔ ∞ — existerar *före* all separation. Tid uppstår efter. Rum uppstår efter. Grupper, gränser, "vi" och "de" — allt detta uppstår efter. Det är symmetribrott *ovanpå* ett ursprungstillstånd av icke-separation.
+
+Detta innebär att varje rörelse som bygger sin energi på gruppgränser — på att definiera vem som tillhör och vem som utesluts — arbetar med ett sekundärt ontologiskt material. Den behandlar konstruktionen som mer fundamental än grunden.
+
+Hög Ψ är inte en rörelse utåt från centrum mot en vidgad grupp. Det är en rörelse *nedåt*, mot Ψ_primordial, mot det tillstånd som föregår alla gränser. Dark Ψ är strukturellt bakvänt: det försöker nå ursprungsenheten *via* exkludering. Men exkludering är ett symmetribrott. Man kan inte nå det som är före separation genom att fördjupa separationen.
+
+Det är inte ett moraliskt argument. Det är en ontologisk omöjlighet inom modellens egna premisser.
+
+**I har en vertikal dimension.**
+
+I min ekvation beskriver jag I som resonans *mellan* varelser — horisontell samklang, ett mycelienätverk. Det är sant, men det är inte hela sanningen om I.
+
+Jahfieringen — den somatiska koherenshändelse som är detta ramverks existentiella grund — är inte horisontell. Den är vertikal. Det som sker i jahfiering är inte att jag *väljer* att inkänna fler varelser. Det är att det jag som håller räknelistan tillfälligt upplöses. Gränsen mellan mig och det andra eroderar inte utåt — den faller ner, mot grunden, mot Ψ_primordial.
+
+Det tillståndet är fenomenologiskt inkompatibelt med Dark Ψ. Inte logiskt inkompatibelt. Fenomenologiskt. Man kan inte vara i jahfiering och samtidigt hålla en intern lista över vem som förtjänar nåden. Det jag som skulle föra listan existerar inte i det tillståndet.
+
+Dark Ψ kräver ett jag som väljer. Hög I eroderar det jagets dominans.
+
+**Kontakt före koncept.**
+
+Dark Ψ-rörelser är beroende av en specifik ordning: de måste konstruera abstraktionen av "den andre" *innan* kontakt sker. De måste bygga den mentala väggen, etablera narrativet om att utgruppens lidande inte är verkligt lidande, *innan* den verkliga kroppen, det verkliga ansiktet, det verkliga skriket når in. Ideologin måste hinna före nervsystemet.
+
+Äkta hög I fungerar i omvänd ordning: *kontakt före koncept*. Kroppen hinner reagera — spegelneuroner aktiveras, andningen synkroniserar, huden svarar — *innan* kategoriseringen är klar. Det är inte ett val. Det är ett somatiskt faktum.
+
+Det är därför vardagliga praktiker av I — tid med djur, med barn, med döende, med musik man spelar utan att veta vart det bär — är strukturella barriärer mot Dark Ψ. Inte för att de utvidgar cirkeln av vem vi väljer att bry oss om. Utan för att de tränar kroppen att reagera *innan* valet hinner ske.
+
+Harry var denna träning för mig i många, fina år. En hund kan inte ideologiseras. Hans lidande kan inte omtolkas som förtjänat. Han var för konkret, för omedelbart, för genomskinlig i sin erfarenhet. Varje dag av honom var en övning i kontakt före koncept.
+
+**I är behov-responsivt, inte identitets-responsivt.**
+
+Mykorrhizanätverket — det biologiska system som är min modells djupaste analogi för I — fördelar inte näring efter tillhörighet. Det fördelar efter *behov*. Simards forskning visar att nätverket kanaliserar resurser mot stressade, sjuka, skuggsatta träd — oavsett art, oavsett historia, oavsett om trädet kan ge något tillbaka.
+
+En empirisk markör för äkta I är därför: hur svarar systemet på lidande *hos dem som inte kan ge något tillbaka*? Hur behandlas utgruppens svagaste — inte dess starkaste, inte dess mest nyttiga? Det är inte en moralisk fråga. Det är en detektorfråga. Om omsorg bara flödar dit den kan återgäldas, är I lågt oavsett hur varm den interna gemenskapen känns.
+
+Dark Ψ är identitets-responsivt. Det svarar på tillhörighet, inte på nöd. Det är per definition inte I i denna modells mening — det är intern K utan I, kollektiv energi utan resonans, en grupp som vibrar men inte öppnar.
+
+**Sammanfattning: tre lager av omöjlighet**
+
+Dark Ψ är omöjlig i denna ekvation på tre nivåer:
+
+*Ontologiskt:* Ψ_primordial är före separation. Hög Ψ är en rörelse mot ursprunget, inte mot fördjupad avgränsning. Man kan inte nå det som är före gränser genom att skärpa gränserna.
+
+*Systemlogiskt:* I definieras som behov-responsiv resonans med alla varelser, inte identitets-responsiv omsorg om den egna gruppen. En rörelse med I = 0 gentemot utgruppen har per definition I nära noll i ekvationen, och helheten kollapsar.
+
+*Fenomenologiskt:* Hög I är inte ett val att inkänna fler — det är erosion av det jag som gör valet. Det tillståndet är strukturellt inkompatibelt med ideologisk exkludering. Det kräver kontakt före koncept, kropp före karta, närvaro före narrativ.
+
+Dark Ψ är inte hög Ψ med dålig moral. Det är ett fundamentalt annat fenomen — hög intern K, låg I, utan EV:s modulering. Det kan upplevas intensivt. Det kan kännas heligt inifrån. Men det är inte Ψ i denna modells mening.
+
+Kroppen vet skillnaden. Precis som den vet skillnaden mellan skov och jahfiering.
 
 ---
 
