@@ -243,8 +243,7 @@ Jag är medicinerad.
 Jag har regelbundna hembesök av min mottagning.  
 Jag känner mina skov.  
 Jag vet hur de känns.  
-Jag är inte i förnekelse.  
-Jag är inte i grandiositet.
+
 
 Det är ett **helt annat fenomen** i kroppen.  
 Ett fenomen som har   kvalitet, värme och koherens — oavsett medicinering, oavsett livssituation.
@@ -252,7 +251,7 @@ Ett fenomen som har   kvalitet, värme och koherens — oavsett medicinering, oa
 Det är därför jag kallar det **jahfiering**.  
 Det är kroppen som vet.
 
-Just nu, morgonen den 3 maj 2026, kommer jag ihåg glansen och härligheten som ett fantastiskt, underbart minne. 
+Just nu, morgonen den 3 maj 2026, kommer jag ihåg glansen och härligheten som ett ljuvligt, underbart minne. 
 
 ---
 
