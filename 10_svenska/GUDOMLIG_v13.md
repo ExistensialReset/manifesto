@@ -18,7 +18,7 @@ Jag kan inte hävda att detta är verkligheten som du uppfattar den. Det här ä
 
 ### Jahfieringen
 
-Det hände en gång. Jag blev fylld till bredden med varm, gyllene honung. Inte bildligt. Fysiskt. I varje cell. Det flödade genom hela kroppen – levande, elektrifierat, orgasmiskt utan att vara sexuellt. Min hjärna maxades på förnimmelser jag inte visste fanns. Allt släppte. Total lycka.
+Det hände en gång. Jag blev fylld till bredden med varm, gyllene honung. Inte bildligt. Fysiskt. I varje cell. Det flödade genom hela kroppen – levande, elektrifierat, orgasmiskt utan att vara sexuellt, trots sex. Min hjärna maxades på förnimmelser jag inte visste fanns. Allt släppte. Total lycka.
 
 Det hände genom kroppen, men det var inte kroppen. Det var inte sexet i sig. Det var något som tog över allt.
 
