@@ -22,7 +22,7 @@ Det hände en gång. Jag blev fylld till bredden med varm, gyllene honung. Inte 
 
 Det hände genom kroppen, men det var inte kroppen. Det var inte sexet i sig. Det var något som tog över allt.
 
-Efteråt sken jag. I två veckor. Folk såg det. Jag gick ut på nätterna för att slippa bli sedd – inte av skam, utan för att ljuset var för mycket att förklara. Jag stod i Sjöbergen med armarna runt en trädstam och skrek till ibland av glädje. Träd dömer inte. De frågar inte. De bara står där, med rötterna i samma jord och kronorna i samma natthimmel.
+Efteråt sken jag. I två veckor. Folk såg det. Jag gick ut på nätterna för att slippa bli sedd – inte av skam, utan för att ljuset var för mycket att förklara. Jag stod uppe i Sjöbergen med armarna runt en trädstam och skrek till ibland av glädje. Träd dömer inte. De frågar inte. De bara står där, med rötterna i samma jord och kronorna i samma natthimmel.
 
 Något stannade kvar. Sedan dess har saker träffat annorlunda. Som att världen svarar. Som att flödet fortsätter i små saker.
 
