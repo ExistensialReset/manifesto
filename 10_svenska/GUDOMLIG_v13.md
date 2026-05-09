@@ -48,7 +48,7 @@ Jag har bipolär sjukdom typ 1. Jag medicinerar varje morgon och kväll. Jag har
 
 Och jahfieringen är något annat.
 
-Skillnaden är somatisk, fenomenologisk, mätbar i kroppen. Kroppen är mitt instrument, min kompass, min sanningsdetektor. Det är genom kroppen jag skiljer mellan brus och koherens, mellan tryck och flöde, mellan splittring och helighet.
+Skillnaden är somatisk, fenomenologisk, urskiljningsbar i kroppen. Kroppen är mitt instrument, min kompass, min sanningsdetektor. Det är genom kroppen jag skiljer mellan brus och koherens, mellan tryck och flöde, mellan splittring och helighet.
 
 Ett skov närmar sig som ett nervsystem som går upp i varv utan riktning. Kastande skiftningar. Rusande tankar. Överhettat mående. Splittrat inre. Impulsdrivet handlande – drivet av inre tryck, inte av glädje. Tankarna hoppar. Kroppen är spänd. Rytmen är ojämn. Koherensen är låg. Närvaron är tunn. Jag är på väg bort från mig själv. Fenomenologiskt: hög entropi, låg koherens.
 
