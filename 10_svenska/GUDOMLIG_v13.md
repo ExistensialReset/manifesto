@@ -120,7 +120,7 @@ I min modell är det inte slump eller blind mekanik som bryter Ψ_primordial. De
 
 Detta universum är en iteration bland oändligt många. Andra dimensioner kan ha helt andra regler – ingen tid, ingen materia med motstånd, ingen separation. Vår dimension utforskar mening genom kontraster: lidande, kärlek, lek, tid.
 
-Och universum är inte tyst. Det mullrar, tjuter, exploderar, knallar, bultar, ringer, surrar, viskar – på frekvenser vi inte hör men som finns där. Varje erosion på en planet är ett ljud. Varje stjärna som föds är ett dån. Skaparkraften vänder runt för att bevittna alla sina speglar, och varje rörelse låter. Bara för att vårt öra är smält, betyder det inte att kosmos är tyst. Kanske ekar ett kluckande, glädjefyllt skratt genom rymden just nu.
+Och universum är inte tyst. Det mullrar, tjuter, exploderar, knallar, bultar, ringer, surrar, viskar – på frekvenser vi inte hör men som finns där. Varje erosion på en planet är ett ljud. Varje stjärna som föds är ett dån. Skaparkraften vänder runt för att bevittna alla sina speglar, och varje rörelse låter. Bara för att vårt öra är smalt, betyder det inte att kosmos är tyst. Kanske ekar ett kluckande, glädjefyllt skratt genom rymden just nu.
 
 ### Ψ-ekvationen
 
