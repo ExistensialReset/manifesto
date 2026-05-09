@@ -1284,6 +1284,10 @@ Om du vill kan jag nu:
 Säg vilket av dessa två du vill ha först så levererar jag en konkret plan.
 
 
+# Elinor:
+Berätta nu hur du ser på Gudomlig v 13 efter att ha LÄST IGENOM alla de andra AIs tankar? Har din förståelse fördjupats? Har någon av de andra tagit fram relationer/tankar /frågor som förändrar din syn på Gudomlig v 13? Berätta allt för mig, allt du tänker på och allt annat också. Tack. Vad händer i ditt processande just nu? 
+
+
 
  
 
