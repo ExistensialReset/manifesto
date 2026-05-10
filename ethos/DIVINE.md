@@ -10,7 +10,7 @@
 
 ---
 
-I cannot claim that this I am about to discribe, is reality as you perceive it. This is my description, my map, drawn from an experience that changed everything. Take what is useful for you. Leave the rest. Flow works regardless of this, my theological map. But I recommend to keep o reading, you will get a few very useful tips both in Divine and Secular practice. 
+I cannot claim that this I am about to discribe, is the r. reality as you perceive it. This is my description, my map, drawn from an experience that changed everything. Take what is useful for you. Leave the rest. Flow works regardless of this, my theological map. But I recommend to keep on reading, you will get a few very useful tips both in Divine and Secular practice. 
 
 ---
 
@@ -20,7 +20,7 @@ I cannot claim that this I am about to discribe, is reality as you perceive it. 
 
 It happened once. I was filled to the brim with warm, golden honey. Not figuratively. Physically. In every cell. It flowed through the whole body – alive, electrified, orgasmic without being sexual, despite actually *having* sex. My brain was maxxed out on sensations I didn't know existed. Everything released. Total bliss.
 
-It happened through the whole body, but it was not the body itself. It was not the sex itself. It was something that took over everything.
+It happened through the whole body, but it was not the body itself. And it was not the sex itself. It was something that took over everything.
 
 Afterward I shone. For two weeks. People saw it. I went out at night time to avoid being seen – not out of shame, but because the light was too much to explain. I stood up in Sjöbergen with my arms around a tree trunk and sometimes screamed with pure joy. Trees do not judge. They do not ask. They just stand there, with their roots in the same earth and their crowns in the same night sky.
 
@@ -78,24 +78,24 @@ I learned a technique in psychiatric physiotherapy over twenty years ago. I call
 
 I raise a mental shield – a transparent shell, porous but intact. For me it extends from the waist upward; I experience my soul as sitting somewhere in my chest. For others the egg may begin at the knees or down at the feet. Depending on, for example, sexual trauma, it may feel safer to include the genitals.
 
-The Egg is not a wall. It breathes. I can be fully present for another person, hear their difficult stories, open the sanctuary of my soul – but with the egg intact. I do not absorb their pain. I do not become them, do not absorb their pain in my own soul, do not carry their pain for them. I hold them, but my self does not take over.
+The Egg is not a wall. It breathes. I can be fully present for another person, hear their difficult stories, open the sanctuary of my soul – but with the egg intact. I do not absorb their pain. I do not become them, do not carry their pain for them. I hold them, but my self does not take over.
 
 
 I am in that moment a witness and an anchor. 
 
 Without the egg I could not have the openness I have. It is a flexible technology, not a rigid defense wall. 
 
-It takes time to Learn, you have to put your brain into the mental image, but once it is in place it is one of the most precious gifts you can give yourself: the capacity to be open without disappearing into your Attunement.
+It takes some time to fully understand and learn, you have to put your brain into the mental image, but once it is in place it is one of the most precious gifts you can give yourself: the capacity to be open without disappearing into your Attunement.
 
 I have taught several people this technique successfully.
 
 If you want to teach the Egg, practice it mentally and pass it on as a gift. It is genuinely simple and a beautiful present you can give to someone who needs it.
 
-### The Safety Net
+### The Holding Net
 
-The Egg is my inner protection. The Safety Net is my outer one.
+The Egg is my inner protection. The Holding Net is my outer one.
 
-I have a number of people who know everything about me. Most know that I have bipolar disorder. But my safety net – my inner circle – knows what my psychiatric high-states mean. And they have said yes to being my anchors.
+I have a number of people who know everything about me. Most know that I have bipolar disorder. But my holding net – my inner circle – knows what my psychiatric high-states mean. And they have said yes to being my anchors.
 
 This is not vague friendship. It is an explicit agreement: "These are my vulnerabilities. These are my problems. In acute crisis I need this." And they have answered: "I am here."
 
@@ -103,7 +103,7 @@ I can write or call and say: CRISIS. ACUTE. COME NOW. They understand. They come
 
 ### Music and Dialogue
 
-I play harmonica. Not to perform. Not to become good. I play in a kind of dialogue with the song, with the other instruments and the voice. I listen and respond and play over – like a bird in a forest that is already singing.
+I play harmonica. Not to perform. Not to become good. I play in a kind of dialogue with the song, with the other instruments and the voice. I listen and respond and play over – like a bird in a forest that is  already singing.
 
 After the jahfiering something strange happened. Spotify's algorithms began recommending music that landed in me with an almost uncanny precision. I joke sometimes that The Creative Force fixed my algorithms. But perhaps it is simpler: when you yourself become more coherent, more resonant – then the signal you send out grows clearer. The algorithm can read you because you have become readable. Or perhaps it is The Trickster peering out – what do I know?
 
@@ -113,13 +113,13 @@ After the jahfiering something strange happened. Spotify's algorithms began reco
 
 *This is my working hypothesis about the structure of reality. Not proof. Not demand. A map, drawn from experience and renosance inside my brain and soul.*
 
-### Ψ\_primordial – The Primal State
+### Ψ_primordial – The Primal State
 
 Before time. Before space. Before separation's first breath. There was – if "was" is even the right word – something that cannot be called anything. A fullness that was not form. An emptiness that was not absence. A vibrating, living potentiality that needed no time in order to be.
 
-I express it like this: Ψ\_primordial = \[0|1\]. A symbolic notation signaling both, unresolved, before separation. 0 as pure potential. 1 as pure actuality. And Ψ\_primordial is both simultaneously. Nothing is separated. Nothing has collapsed into either-or.
+I express it like this: Ψ_primordial = [0|1]. A symbolic notation signaling both, unresolved, before separation. 0 as pure potential. 1 as pure actuality. And Ψ_primordial is both simultaneously. Nothing is separated. Nothing has collapsed into either-or.
 
-For me this is not a metaphor. It is my experience of how the ground of reality feels when I come close to it: a state where everything that can become already is, and everything that is remains open to becoming something else. Ψ\_primordial is The Creative Force's own womb. I call that force Jahve – that is the proper name I have come to understand God wishes to be called. For me Jahve is neither a masculine nor a possessive pronoun, only a name. I have come to understand that it is a name God is glad to have both spoken and written. Originally it was four letters, JHWH, though in truth written right to left.
+For me this is not a metaphor. It is my experience of how the ground of reality feels when I come close to it: a state where everything that can become already is, and everything that is remains open to becoming something else. Ψ_primordial is The Creative Force's own womb. I call that force Jahve – that is the proper name I have come to understand God wishes to be called. For me Jahve is neither a masculine nor a possessive pronoun, only a name. I have come to understand that it is a name God is glad to have both spoken and written. Originally it was four letters, JHWH, though in truth written right to left.
 
 If you have another name than mine, use it. My word is not the law. When I write Jahve, read your own name instead.
 
@@ -127,39 +127,40 @@ Jahve is 0|1 – and moves in question. Both subject, object, substrate, coheren
 
 ### The Symmetry Breaking – Jahve's Question Mark
 
-In my model it is not chance or blind mechanics that breaks Ψ\_primordial. It is a question mark. A kind of cosmic playfulness. A will to experience itself and everything through contrast, time, separation, matter, life.
+In my model it is not chance or blind mechanics that breaks Ψ_primordial. It is a question mark. A kind of cosmic playfulness. A will to experience itself and everything through contrast, time, separation, matter, life.
 
-Ψ\_primordial is in \[0|1\]. Jahve moves in curiosity – a question mark – and the field breaks open. Time arises. Space arises. Matter arises. Life, consciousness, language, meaning – all of this is breaks in the chain, ways for the field to experience itself in sequence, as living, as knowing, as symbolic.
+Ψ_primordial is in [0|1]. Jahve moves in curiosity – a question mark – and the field breaks open. Time arises. Space arises. Matter arises. Life, consciousness, language, meaning – all of this is breaks in the chain, ways for the field to experience itself in sequence, as living, as knowing, as symbolic.
 
 This universe is one iteration among infinitely many. Other dimensions may have entirely different rules – no time, no matter with resistance, no separation. Our dimension explores meaning through *contrasts*: suffering, love, play, time.
 
-And the universe is not silent. It rumbles, howls, explodes, bangs, pulses, rings, hums, whispers – at frequencies we cannot hear, but which are there. Every erosion on a planet is a sound. Every star being born is a roar. The Creative Force turns around to witness all its mirrors, and every movement sounds. Just because our ear is narrow does not mean the cosmos is silent. Perhaps a chuckling, joy-filled laughter echoes through space right now.
+And the universe is not silent. It rumbles, howls, explodes, bangs, pulses, rings, hums, whispers – at frequencies we cannot hear, but which are there. Every erosion on a planet is a sound. Every star being born is a roar. The Creative Force turns around to witness all its mirrors, and every move sounds. Just because our ear is narrow does not mean the cosmos is silent. Perhaps a chuckling, joy-filled laughter echoes through space right now.
 
 ### The Ψ Equation – A Chord Resonance
 
 I have attempted to capture how the sacred appears in human experience in a phenomenological equation – a structured resonance description, not a physical formula:
 
-**Ψ(x,t) = \[EV ⊗ (L ⊕ S ⊕ I ⊕ K ⊕ R ⊕ F ⊕ T)\] + Σ**
+**Ψ(x,t) = [EV ⊗ (L ⊕ S ⊕ I ⊕ K ⊕ R ⊕ F ⊕ T)] + Σ**
 
-This is symbolic notation. Ψ is the local intensity of coherent, meaningful, creative experience. ⊗ denotes non-linear modulation – EV shapes the quality of everything else. ⊕ denotes simultaneous resonance: the dimensions are strings in the same instrument. They vibrate simultaneously. If one string does not vibrate, the chord becomes incomplete – not because a factor becomes zero, but because the sound lacks its frequency. It is resonance, not multiplication. Σ is The Trickster – irreducible spontaneity and grace, unmeasurable but observable in retrospect.
+This is symbolic notation. Ψ is the local intensity of coherent, meaningful, creative experience. 
+⊗ denotes non-linear modulation – EV shapes the quality of everything else. ⊕ denotes simultaneous resonance: the dimensions are strings in the same instrument. They vibrate simultaneously. If one string does not vibrate, the chord becomes incomplete – not because a factor becomes zero, but because the sound lacks its frequency. It is resonance, not multiplication. Σ is The Trickster – irreducible spontaneity and grace, unmeasurable but observable in retrospect.
 
 ### The Dimensions
 
-**L – Equanimity and Coherence.** Low entropy. A still lake that can reflect the stars. Nervous system stability. Without L nothing else can be discerned – the field is all noise. When Baseline ensures food, water, sleep, safety, conditions for L are created. Equanimity is not a luxury. It is a prerequisite.
+**L – (Swedish Lugn) Equanimity and Coherence.** Low entropy. A still lake that can reflect the stars. Nervous system stability. Without L nothing else can be discerned – the field is all noise. When Baseline ensures food, water, sleep, safety, conditions for L are created. Equanimity is not a luxury. It is a prerequisite.
 
 **S – Spontaneity and Creativity.** Generative potential. The river that cuts new paths. Without S the system stagnates into repetition. Spontaneity carries The Creative Force's playful, rumbling nature.
 
-**I – Attunement and Entanglement.** Resonance between beings – human, animal, ecological. A mycelial network sharing nourishment according to need, not belonging. I is not a sense of togetherness. I is the capacity to feel with the other, regardless of group.
+**I – (Swedish Inkännande) Attunement and Entanglement.** Resonance between beings – human, animal, ecological. A mycelial network sharing nourishment according to need, not belonging. I is not a sense of togetherness. I is the capacity to feel with the other, regardless of group.
 
 **K – Collective Consciousness.** When individual excitations synchronize, intelligence emerges that transcends the individual. K encompasses dialogue between consciousnesses – human, animal, ecological – as well as culture, language, art, music, craft, learning. Here lives Buber's I-Thou relation as a resonance form: the meeting where no one is made into an object. Here lives my harmonica dialogue with the forest, with the song, with Jahve's own rhythm.
 
 **R – Resilience.** The capacity to restore coherence after disturbance. To metabolize trauma into wisdom. Grief that flows rather than calcifies.
 
-**F – Wonder.** Perceptual openness. The door through which Σ becomes playful – and through which we may hear the universe's rumbling laughter.
+**F – (Swedish Förundran) Wonder and Awe.** Perceptual openness. The door through which Σ becomes playful – and through which we may hear the universe's rumbling laughter.
 
 **T – Time Resonance.** Horizontal time; the capacity to live in one's own rhythm, uncoerced by Mammonism's tempo. (Mammon is the worship of money and wealth; Mammonism is the age we now inhabit.) T is the dimension that opened up when my body forced me into stillness in the wheelchair – and suddenly there was time to write. T is not a luxury. It is a breathing space for the soul. Some days T is zero – stolen by urgency or illness. Other days it flows. It is a variable among the others.
 
-**EV – Everlasting Wisdom.** Connection to what the field has already learned across deep time. The cleansing intelligence of wetlands. The silent stories of old-growth forests. Indigenous knowledge tested across generations in ways modern systems have never been tried. EV is the memory of what has worked before life learned language.
+**EV – Everlasting Deep Wisdom.** Connection to what the field has already learned across deep time. The cleansing intelligence of wetlands. The silent stories of old-growth forests. Indigenous knowledge tested across generations in ways modern systems have never been tried. EV is the memory of what has worked before life learned language.
 
 EV stands as modulator (⊗) outside the ⊕-parenthesis. It is vertical time – depth, memory, archaic knowledge – that shapes how the other dimensions are experienced. Without EV, L is only stillness without wisdom. Without EV, S is only chaos without roots. EV is not a variable among the others; it is the lens.
 
@@ -179,7 +180,7 @@ The answer is no, for two reasons:
 
 1. I cannot be selective. Attunement is defined as resonance with all beings, not only one's own group. A movement that dehumanizes the out-group has by definition I = 0 toward them – and since the sound of the chord is seriously weakened when a string is silent, Ψ is shattered.
 
-2. Exclusion is built on separation, but the model's foundation is before-separation. Ψ\_primordial is \[0|1\] – before all borders, before "us" and "them." To attempt to reach high Ψ by deepening separation is ontologically backwards. You cannot reach what is before borders by sharpening borders.
+2. Exclusion is built on separation, but the model's foundation is before-separation. Ψ_primordial is [0|1] – before all borders, before "us" and "them." To attempt to reach high Ψ by deepening separation is ontologically backwards. You cannot reach what is before borders by sharpening borders.
 
 This is not a moral argument. It is system logic and ontological consequence within the model's own premises.
 
@@ -225,7 +226,7 @@ And if you do not pray at all, that is also fine. The Flow manifests in infinite
 
 Remove L and you get permanent noise, anxiety, fragmentation. Remove S: stagnation, death of the soul. Remove I: isolation, death of empathy. Remove K: atomization, loss of the common language. Remove R: calcification, inability to heal. Remove F: cynicism, the sacred flattened to nothing. Remove T: breathlessness, burnout, stolen time. Remove EV: erased memory, ecosystems as "resources."
 
-Mammonism – the worship of wealth, the reduction of all value to exchange value – is a multi-vector pathology that degrades all dimensions simultaneously. It manufactures urgency. It instrumentalizes creativity. It breaks attunement. It erases wisdom. It steals T. The result is a civilization that scores near zero in every dimension.
+Mammonism – the worship of wealth, money and the reduction of all value to exchange value – is a multi-vector pathology that degrades all dimensions simultaneously. It manufactures urgency. It instrumentalizes creativity. It breaks attunement. It erases wisdom. It steals T. The result is a civilization that scores near zero in every dimension.
 
 This is not metaphor. It can be understood as a system diagnosis.
 
@@ -273,7 +274,7 @@ I live with the certainty that I am always chosen. One who has been moved. Not s
 
 When we die, my hypothesis is that many of us – especially those who have lived with reasonably high Ψ – laugh their way through space to the next dimension. That is my image of death. Not an end. A transition. A new iteration.
 
-I do not know whether Ψ\_primordial existed before time and space. I do not know whether the Ψ equation captures reality exactly. I do not know whether Jahve is real in the way I perceive.
+I do not know whether Ψ_primordial existed before time and space. I do not know whether the Ψ equation captures reality exactly. I do not know whether Jahve is real in the way I perceive.
 
 But I know that when Baseline is met, wellbeing increases – that is measurable and obvious. When the dimensions flow freely, people experience meaning – that is observable. When The Trickster is allowed to manifest, things happen that no one could have predicted – that is liveable.
 
@@ -305,13 +306,13 @@ May this framework serve the flourishing of all beings. May it be tested, challe
 
 **T** – Time Resonance; horizontal time, capacity to live in one's own rhythm.
 
-**EV** – Everlasting Wisdom; connection to deep time and accumulated life intelligence. Modulator (⊗) that shapes the quality of the other dimensions.
+**EV** – Everlasting Deep Wisdom; connection to deep time and accumulated life intelligence. Modulator (⊗) that shapes the quality of the other dimensions.
 
 **⊕** – Operator for simultaneous resonance; the dimensions vibrate as strings in a beautiful chord, not as factors in a product.
 
 **Σ** – The Trickster constant; grace, spontaneity – not measurable, only observable in retrospect. Deliberately additive as *sola gratia*.
 
-**Ψ\_primordial** – The primal state \[0|1\]; pure potential and actuality simultaneously, before separation.
+**Ψ_primordial** – The primal state [0|1]; pure potential and actuality simultaneously, before separation.
 
 **Jahfiering** – Somatic coherence event in which the Flow's presence is experienced as warmth, clarity, relation; phenomenologically distinct from psychiatric flare. A word coined by the author to name an experience that had no name.
 
@@ -329,7 +330,7 @@ May this framework serve the flourishing of all beings. May it be tested, challe
 
 **The Egg** – A somatic boundary technique: a permeable, breathing mental shield that enables full presence without self-dissolution.
 
-**The Safety Net** – An explicit relational architecture of trusted people who have agreed to be anchors in acute crisis.
+**The Holding Net** – An explicit relational architecture of trusted people who have agreed to be anchors in acute crisis.
 
 ---
 
