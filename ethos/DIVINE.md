@@ -36,7 +36,7 @@ I call it jahfiering. I don't know what it was. But it happened. And it was real
 
 My dog. Born September 21, 2012. Died May 3, 2026. He fell asleep on my mother's foot at the Blå Stjärnan animal clinic, while she stroked him over the head.
 
-He was my hall monitor. If he reacted to a sound, I knew something had actually made a noise – not just inside my head. He never needed to be on a leash. He just wanted to be with me.
+He was my hallicution checker. If he reacted to a sound, I knew something had actually made a noise – not just inside my head. He never needed to be on a leash. He just wanted to be with me.
 
 Love is the center of cosmology, not its footnote. A dog cannot be ideologized. His suffering could not be reinterpreted as deserved. He was too concrete, too immediate, too transparent in his experience. Every day with him was a practice in contact before concept.
 
