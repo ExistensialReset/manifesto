@@ -10,7 +10,7 @@
 
 ---
 
-I cannot claim that this I am about to discribe, is the reality as you perceive it. This is my description, my map, drawn from an experience that changed everything. 
+I cannot claim that this I am about to describe, is the reality as you perceive it. This is my description, my map, drawn from an experience that changed everything. 
 
 Take what is useful for you. Leave the rest. Flow works regardless of this, my theological map. 
 
@@ -22,7 +22,7 @@ But I recommend to keep on reading, you will get a few very useful tips both in 
 
 ### The *Jahfiering*
 
-It happened once. I was filled to the brim with warm, golden honey. Not figuratively. Physically. In every cell. It flowed through the whole body – alive, electrified, orgasmic without being sexual, despite actually *having* sex. My brain was maxxed out on sensations I didn't know existed. Everything released. Total joy.
+It happened once. I was filled to the brim with warm, golden honey. Not figuratively. Physically. In every cell. It flowed through the whole body – alive, electrified, orgasmic without being sexual, despite actually *having* sex. My brain was maxxed out on sensations I didn't know existed. Everything released. Total blissful joy.
 
 It happened through the whole body, but it was not the body itself. And it was not the sex itself. It was something that took over everything.
 
