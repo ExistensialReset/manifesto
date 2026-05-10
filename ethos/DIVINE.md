@@ -22,7 +22,7 @@ But I recommend to keep on reading, you will get a few very useful tips both in 
 
 ### The *Jahfiering*
 
-It happened once. I was filled to the brim with warm, golden honey. Not figuratively. Physically. In every cell. It flowed through the whole body – alive, electrified, orgasmic without being sexual, despite actually *having* sex. My brain was maxxed out on sensations I didn't know existed. Everything released. Total bliss.
+It happened once. I was filled to the brim with warm, golden honey. Not figuratively. Physically. In every cell. It flowed through the whole body – alive, electrified, orgasmic without being sexual, despite actually *having* sex. My brain was maxxed out on sensations I didn't know existed. Everything released. Total joy.
 
 It happened through the whole body, but it was not the body itself. And it was not the sex itself. It was something that took over everything.
 
@@ -36,7 +36,7 @@ I call it jahfiering. I don't know what it was. But it happened. And it was real
 
 My dog. Born September 21, 2012. Died May 3, 2026. He fell asleep on my mother's foot at the Blå Stjärnan animal clinic, while she stroked him over the head.
 
-He was my hallicution checker. If he reacted to a sound, I knew something had actually made a noise – not just inside my head. He never needed to be on a leash. He just wanted to be with me.
+He was my hallucination checker. If he reacted to a sound, I knew something had actually made a noise – not just inside my head. He never needed to be on a leash. He just wanted to be with me.
 
 Love is the center of cosmology, not its footnote. A dog cannot be ideologized. His suffering could not be reinterpreted as deserved. He was too concrete, too immediate, too transparent in his experience. Every day with him was a practice in contact before concept.
 
@@ -64,7 +64,7 @@ Jahfiering is the opposite. Warm flow within. Golden honey in every cell. Electr
 | Body: tense, fragmented | Warm, held, honey |
 | Direction: impulse-driven | Receptive |
 | Subjectivity: fragmented | Centered |
-| Relation: none | Living I-Thou relation |
+| Relation: none | Living YOU relation |
 | Energy: pressure | Flow |
 | Cognition: racing | Clarity |
 
