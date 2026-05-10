@@ -66,7 +66,7 @@ Jahfiering is the opposite. Warm flow within. Golden honey in every cell. Electr
 
 In a flare, I am alone. In jahfiering, I am held. Flare: I lose myself. Jahfiering: I become more present than usual.
 
-I am not saying that all spiritual experience, especially if you have a diagnos like mine, are automatically jahfiering. I am saying that in my body, with my illness insight, with my team, these states are phenomenologically distinct. This is a claim that can be investigated in lived experience. Ask your body. Ask those closest to you. Ask your psychiatrist if you have one. This is important. 
+I am not saying that all spiritual experience, especially if you have a diagnosis like mine, are automatically jahfiering. I am saying that in my body, with my illness insight, with my team, these states are phenomenologically distinct. This is a claim that can be investigated in lived experience. Ask your body. Ask those closest to you. Ask your psychiatrist if you have one. This is important. 
 
 ---
 
@@ -110,7 +110,7 @@ After the jahfiering something strange happened. Spotify's algorithms began reco
 
 ## PART FOUR: THE COSMOLOGY
 
-*This is my working hypothesis about the structure of reality. Not proof. Not demand. A map, drawn from experience and renosance inside my brain and soul.*
+*This is my working hypothesis about the structure of reality. Not proof. Not demand. A map, drawn from experience and resonance inside my brain and soul.*
 
 ### Ψ_primordial – The Primal State
 
