@@ -10,7 +10,11 @@
 
 ---
 
-I cannot claim that this I am about to discribe, is the r. reality as you perceive it. This is my description, my map, drawn from an experience that changed everything. Take what is useful for you. Leave the rest. Flow works regardless of this, my theological map. But I recommend to keep on reading, you will get a few very useful tips both in Divine and Secular practice. 
+I cannot claim that this I am about to discribe, is the reality as you perceive it. This is my description, my map, drawn from an experience that changed everything. 
+
+Take what is useful for you. Leave the rest. Flow works regardless of this, my theological map. 
+
+But I recommend to keep on reading, you will get a few very useful tips both in Divine and Secular practice. 
 
 ---
 
