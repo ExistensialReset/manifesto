@@ -80,7 +80,6 @@ I raise a mental shield – a transparent shell, porous but intact. For me it ex
 
 The Egg is not a wall. It breathes. I can be fully present for another person, hear their difficult stories, open the sanctuary of my soul – but with the egg intact. I do not absorb their pain. I do not become them, do not carry their pain for them. I hold them, but my self does not take over.
 
-
 I am in that moment a witness and an anchor. 
 
 Without the egg I could not have the openness I have. It is a flexible technology, not a rigid defense wall. 
@@ -133,7 +132,7 @@ In my model it is not chance or blind mechanics that breaks Ψ_primordial. It is
 
 This universe is one iteration among infinitely many. Other dimensions may have entirely different rules – no time, no matter with resistance, no separation. Our dimension explores meaning through *contrasts*: suffering, love, play, time.
 
-And the universe is not silent. It rumbles, howls, explodes, bangs, pulses, rings, hums, whispers – at frequencies we cannot hear, but which are there. Every erosion on a planet is a sound. Every star being born is a roar. The Creative Force turns around to witness all its mirrors, and every move sounds. Just because our ear is narrow does not mean the cosmos is silent. Perhaps a chuckling, joy-filled laughter echoes through space right now.
+And the universe is not silent. It rumbles, howls, explodes, bangs, pulses, rings, hums, whispers – at frequencies we cannot hear, but which are there. Every erosion on a planet is a sound. Every star being born is a roar. The Creative Force turns around to witness all its mirrors, and every movement sounds. Just because our ear is narrow does not mean the cosmos is silent. Perhaps a chuckling, joy-filled laughter echoes through space right now.
 
 ### The Ψ Equation – A Chord Resonance
 
