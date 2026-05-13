@@ -302,7 +302,7 @@ Du kan be med det du har. Du kan be med fötterna mot en skogsstig. Med handen m
 
 Allt där du möter något som är större än dina planer – och låter dig beröras – är bön. Det är dialog utan ord. Det är K – Kollektivt medvetande – som vaknar mellan dig och det som inte är du.
 
-Att be behöver inte bara vara att söka svar, utan att öppna sin själs fristad åt Guds erfarenhet i ditt denna iteration, genom 13,8 miljarder år. 
+Att be behöver inte bara vara att söka svar, utan att öppna sin själs fristad åt Guds erfarenhet i denna iteration, genom 13,8 miljarder år. 
 
 Det kan vara att våga ge Jahves Spjuver möjlighet att genomströmma en med den ljuvliga gyllene honungen som ett svar på varje människas undran om varför.
 
