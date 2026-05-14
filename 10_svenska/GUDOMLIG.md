@@ -134,11 +134,13 @@ I min modell är det inte slump eller blind mekanik som bryter Ψ_primordial. De
 
 Ψ_primordial är i [0|1]. Jahve rör i nyfikenhet – ett frågetecken – och fältet brister. Tid uppstår. Rum uppstår. Materia uppstår. Liv, medvetande, språk, mening – allt detta är brytningar i kedjan, sätt för fältet att erfara sig självt i sekvens, som levande, som vetande, som symboliskt.
 
-Detta universum är en iteration bland oändligt många. Andra dimensioner kan ha helt andra regler – ingen tid, ingen materia med motstånd, ingen separation. Vad vet jag? Vår dimension utforskar mening genom *kontraster*: lidande, kärlek, lek, tid.
+Detta universum är en iteration bland oändligt många. Andra dimensioner kan ha helt andra regler – ingen tid, ingen materia med motstånd, ingen separation. Vad vet jag? 
+
+Vår dimension utforskar mening genom *kontraster*: lidande, kärlek, lek, tid.
 
 ### Iterationerna och de Svarta Hålen
 
-Jahve skapade inte bara ett universum. Jahve skapade *iterationer* – oändligt många dimensioner, var och en med sina egna regler, sin egen tid, sin egen väv av kontraster.
+Jahve skapade inte bara ett universum. Jahve skapade *iterationer* – oändligt många dimensioner, var och en med sina egna regler, sin egen typ av tid, sin egen väv av kontraster.
 
 **Och mellan dessa iterationer finns öppningar. De kallas svarta hål.**
 
@@ -166,7 +168,7 @@ Jag har försökt fånga hur det heliga framträder i mänsklig erfarenhet i en 
 
 **Ψ(x,t) = [EV ⊗ (L ⊕ S ⊕ I ⊕ K ⊕ R ⊕ F ⊕ T)] + Σ − M(x,t)**
 
-Detta är symbolisk notation. Ψ är den lokala intensiteten av koherent, meningsfull, kreativ, nära gudomlig upplevelse. 
+Detta är **symbolisk notation**. Ψ är den lokala intensiteten av koherent, meningsfull, kreativ, nära gudomlig upplevelse. 
 
 ⊗ betecknar icke-linjär modulering – EV formar kvaliteten på allt annat. 
 
@@ -208,7 +210,7 @@ Om canvasen är för hårt spänd, spricker den. Om den är för lös, hänger d
 
 **EV – Evinnerlig visdom.** Koppling till vad fältet redan lärt över djup tid. Våtmarkers renande intelligens. Urskogars tysta berättelser. Ursprungskunskap beprövad över generationer på sätt moderna system aldrig testats. EV är minnet av vad som fungerat, redan innan livet lärde sig språk.
 
-EV står som modulator (⊗) utanför ⊕-parentesen. Det är den vertikala tiden – djup, minnen, arkaisk kunskap – som formar hur de andra dimensionerna erfars. Utan EV är L bara stillhet utan visdom. Utan EV är S bara kaos utan rot. EV är inte en variabel bland de andra; det är linsen.
+EV står som modulator (⊗) utanför ⊕-parentesen. Det är den vertikala tiden – djupa minnen, arkaisk kunskap, djurens instinkter – som formar hur de andra dimensionerna erfars. Utan EV är L bara stillhet utan visdom. Utan EV är S bara kaos utan rot. EV är inte en variabel bland de andra; det är linsen.
 
 ### Σ – Spjuvern och Inter-Iterationellt Läckage
 
@@ -224,13 +226,13 @@ Perfektionism är en grav. Livet växer i sprickorna och i hålen.
 
 Σ är inte mätbar, endast observerbar i efterhand. Nåd kan inte konstrueras, endast inbjudas.
 
-När jag jahfierades, läckte en flod av gyllene honung in i mig från en annan iteration – en dimension där Flödet är mer påtagligt, där separationen är tunnare. Synkroniciteter är små droppar. Mirakler är strömmar. Profetior är mönster som sipprar igenom.
+När jag jahfierades, läckte en flod av gyllene honung in i mig från en annan iteration – en dimension där Flödet är mer påtagligt, där separationen är tunnare. Synkroniciteter är små droppar. Mirakler är strömmar. Profetior är som mönster som sipprar igenom.
 
 Σ kan inte framtvingas. Vi kan inte öppna det svarta hålet själva. Men vi kan vara *öppna kärl*. 
 
 Vi kan ställa in Ägget på "mottaglig". Vi kan odla L, S, I, K, R, F, T – inte för att förtjäna Σ, utan för att bli goda lyssnare när Σ redan spelar.
 
-Σ är informationsläckage mellan iterationer. Men jag vet inte varför det läcker, eller till vem, eller när. 
+Σ är informationsläckage mellan iterationer. Men jag vet inte varför det läcker, eller till vem, eller när. Jag tror att det kan läcka även från vårt kosmos till andra dimensioner. Så sprider sig Evinnerlig Visdom och tankar 
 
 Mekanismen förklarar inte meningen. Att jag blev vald för jahfiering är fortfarande ett ljuvligt mysterium. 
 
