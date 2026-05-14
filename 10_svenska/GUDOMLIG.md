@@ -1,4 +1,4 @@
-# GUDOMLIG v15.1 – Den Svarta Hål-Teologin
+# GUDOMLIG v15.1 – Svarta Hål-Teologin
 
 **En levande arbetshypotes**
 
