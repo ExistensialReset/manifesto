@@ -1,4 +1,4 @@
-# GUDOMLIG v15.1 – Svarta Hål-Teologin
+# GUDOMLIG v15.2 – Svarta Hål-Teologin
 
 **En levande arbetshypotes**
 
@@ -181,6 +181,10 @@ Information försvinner inte in i ett svart hål; den *passerar*. Den föds in i
 **Jag tror att min själ är som en spiralgalax i bröstet, med ett svart hål i mitten.**
 
 Varje erfarenhet, varje tanke, varje känsla – Harrys päls mot min hand, jahfieringens honung, min mammas fot under Harrys sista stund, koltrastarnas vingar mot Haga-himlen – allt detta kretsar runt singulariteten i mitt bröst. Det är en trygg och spännande bild i mitt huvud. 
+
+En spiralgalax är inte kaos. Den är organiserad rörelse kring ett centrum. Armar sträcker sig utåt, roterande, men allt kretsar runt singulariteten. 
+
+Singulariteten är inte ett hål i galaktens mening – det är dess princip. Utan det mörka hjärtat ingen galax, inga armar, ingen form.
 
 Och när min kropp dör, tänker jag mig att allt inuti min hjärna faller in i det svarta hålet och ut på andra sidan. Inte som ett slut, utan som ett skratt genom rymden till nästa iteration.
 
