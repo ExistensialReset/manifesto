@@ -1,4 +1,4 @@
-# 05_STRUKTURELLA_INVARIANTER.md
+# STRUKTURELLA_INVARIANTER.md
 
 Status: Kärnreferens  
 Omfattning: Global / Tvärkontext / Multifas  
