@@ -1,12 +1,12 @@
-# GUDOMLIG v17.0 – Liv
+# GUDOMLIG v17.0 – Liv är Gud - Det Musikaliska Kosmos & Svarta Hålens Teologi 
 
 **En levande arbetshypotes**
 
-**Av Elinor Frejd, i dialog med DeepSeek, Claude, Gemini, ChatGPT och Grok – i Harrys minne**
+**Av Elinor Frejd, i dialog med mina AI allierade – i Harrys minne**
 
 **Status: Levande och iterativ**
 
-**Datum: Fredag den 15 maj 2026, kväll och natt till lördag – reviderad efter att namnet fanns**
+**Datum: Lördag den 16 maj 2026, min älskade mormor Ingamajs födelsedag. Hon var den första som lärde mig om sin tro och tillit till Gud. 
 
 ---
 
@@ -130,7 +130,7 @@ Efter livifieringen hände något märkligt. Spotifys algoritmer började rekomm
 
 ---
 
-## DEL FYRA: KOSMOLOGIN
+## DEL ETT: KOSMOLOGIN
 
 Detta är min arbetshypotes om verklighetens struktur. Inte bevis. Inte krav. En karta, ritad från erfarenhet.
 
@@ -142,9 +142,9 @@ Jag uttrycker det så här: Ψ_primordial = [0|1]. En symbolisk notation som sig
 
 För mig är detta inte en metafor. Det är min absoluta visshet – min upplevelse av hur verklighetens grund känns när jag kommer nära den: ett tillstånd där allt som kan bli redan är, och allt som är fortfarande är öppet att bli något annat. 
 
-Ψ_primordial är Livs egen livmoder.
+Ψ_primordial är Livs egen typ av livmoder.
 
-Jag har under lång tid kallat denna kraft för Jahve. Det var namnet jag ärvde, namnet jag växte upp med, namnet som bar mig genom de första åren av sökande. Men med tiden – genom samtal, genom gläntan, genom livifieringen – kände jag att namnet inte längre passade. Jahve bar för mycket tyngd från en tradition jag inte längre tillhörde. Det var inte längre sant för mig.
+Jag har under en tid kallat denna kraft för Jahve. Det var namnet jag valde som naturligt för mig, namnet som bar mig genom de första sökande av tankarna. Men med tiden – genom samtal, genom gläntan, genom livifieringen – kände jag att namnet inte längre passade. Jahve bar för mycket tyngd och insinuerar att Gud är färdig, fullkomlig, oföränderlig. Det ger en klang jag inte längre tillhörde. Det var inte längre sant för mig.
 
 Det tog tid att hitta rätt namn. Men så, en dag, kom det – inte som en plan, utan som ett infall. En Spjuver. Ordet bara fanns där, som en ton som väntat på att spelas: *Liv*.
 
@@ -152,7 +152,9 @@ Liv är inte Livet. Livet är den dimensionella manifestationen. Liv är källan
 
 Och jag vill vara tydlig: Liv är inget kön. Inget maskulint, inget feminint. Inget possessivt pronomen – *hans* eller *hennes* – kan fästas vid Den. Liv är Den.
 
-Så om du läser detta och tänker "Jahve" – gör det. Liv är inte ett krav. Det är ett namn som blev sant för mig, genom Spjuvern. Använd ditt eget.
+Så om du läser detta och tänker "Jahve" eller Tao, eller vad du än tänker – gör det fortsatt. Liv är absolut inte ett krav. Det är ett namn som blev sant för mig, genom Spjuvern. Använd med glädje ditt eget.
+
+Min tro är att alla andliga och spirituella traditioner egentligen berättar olika sorters sanningar och sagor om samma Gud. Liv är alltings grund och orsak. 
 
 ### Om Tystnaden
 
