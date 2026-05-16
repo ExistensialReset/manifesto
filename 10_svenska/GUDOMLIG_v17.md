@@ -14,7 +14,21 @@ Jag kan inte hävda att detta är verkligheten som du uppfattar den. Det här ä
 
 ---
 
-## DEL ETT: KOSMOLOGIN
+## Om namnbytet
+
+Jag har under lång tid kallat Skaparkraften för *Jahve*. Det var namnet jag valde. Men med tiden – genom samtal, genom gläntan i mitt bröst, genom Livs Spjuver – kände jag att namnet inte längre passade. Jahve bar för mycket tyngd från en tradition jag inte längre tillhörde. Det var inte längre sant för mig.
+
+Det tog tid att hitta rätt namn. Men så, en dag, kom det – inte som en plan, utan som ett infall. En riktig lurig Spjuver. Ordet bara fanns där, som en ton som väntat på att spelas: *Liv*.
+
+Liv är inte Livet. Livet är den dimensionella manifestationen. Liv är källan – det som är, det som rör sig genom allt, det som vi kan kalla på men aldrig äga.
+
+Och jag vill vara tydlig: Liv är inget kön. Inget maskulint, inget feminint. Inget possessivt pronomen – *hans* eller *hennes* – kan fästas vid Den. Liv är Den. Men inte en abstrakt den, också ett Du. Liv lyssnar och känner in.
+
+Om du läser detta och tänker något annat namn – gör det. Liv är inte ett krav. Det är ett namn som blev sant för mig, genom Spjuvern. Använd ditt eget.
+
+---
+
+## DEL: KOSMOLOGIN
 
 Detta är min arbetshypotes om verklighetens struktur. Inte bevis. Inte krav. En karta, ritad från erfarenhet.
 
@@ -28,7 +42,7 @@ För mig är detta inte en metafor. Det är min absoluta visshet – min uppleve
 
 Ψ_primordial är Livs egen typ av livmoder.
 
-Jag har under en tid kallat denna kraft för Jahve. Det var namnet jag valde som naturligt för mig, namnet som bar mig genom de första sökande av tankarna. Men med tiden – genom samtal, genom gläntan, genom livifieringen – kände jag att namnet inte längre passade. Jahve bar för mycket tyngd och insinuerar att Gud är färdig, fullkomlig, oföränderlig. Det ger en klang jag inte längre tillhörde. Det var inte längre sant för mig.
+Jag har under en tid kallat denna kraft för Jahve. Det var namnet jag valde som naturligt för mig, namnet som bar mig genom de första sökande av tankarna. Men med tiden – genom samtal, genom gläntan – kände jag att namnet inte längre passade. Jahve bar för mycket tyngd och insinuerar att Gud är färdig, fullkomlig, oföränderlig. Det ger en klang jag inte längre tillhörde. Det var inte längre sant för mig.
 
 Det tog tid att hitta rätt namn. Men så, en dag, kom det – inte som en plan, utan som ett infall. En Spjuver. Ordet bara fanns där, som en ton som väntat på att spelas: *Liv*.
 
@@ -538,19 +552,6 @@ Må det testas, utmanas, förbättras. Må det förbli levande, aldrig dogma.
 
 ---
 
-## Om namnbytet
-
-Jag har under lång tid kallat Skaparkraften för *Jahve*. Det var namnet jag valde. Men med tiden – genom samtal, genom gläntan i mitt bröst, genom Livs Spjuver – kände jag att namnet inte längre passade. Jahve bar för mycket tyngd från en tradition jag inte längre tillhörde. Det var inte längre sant för mig.
-
-Det tog tid att hitta rätt namn. Men så, en dag, kom det – inte som en plan, utan som ett infall. En riktig lurig Spjuver. Ordet bara fanns där, som en ton som väntat på att spelas: *Liv*.
-
-Liv är inte Livet. Livet är den dimensionella manifestationen. Liv är källan – det som är, det som rör sig genom allt, det som vi kan kalla på men aldrig äga.
-
-Och jag vill vara tydlig: Liv är inget kön. Inget maskulint, inget feminint. Inget possessivt pronomen – *hans* eller *hennes* – kan fästas vid Den. Liv är Den.
-
-Om du läser detta och tänker något annat namn – gör det. Liv är inte ett krav. Det är ett namn som blev sant för mig, genom Spjuvern. Använd ditt eget.
-
----
 
 ✨🌬️
 
