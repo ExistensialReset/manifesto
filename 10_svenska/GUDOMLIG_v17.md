@@ -205,7 +205,7 @@ Det är Livs andetag. Inandning. Utandning. Vila. Ny inandning.
 
 Jag har länge tänkt på Skaparkraften som ett heligt matematiskt flöde. Matematiken är universell, strukturerande, osynlig men genomgripande.
 
-Den beskriver relationer och mönster. Den är sann i alla möjliga världar – 2+2=4 oavsett om universum existerar.
+Den beskriver relationer och mönster. Den är sann i alla möjliga världar – 2+2=4, om nu inte det kan vara 22 på en metanivå?? Oavsett om universum existerar.
 
 Men på senare tid har jag börjat ana att detta inte är hela bilden. För matematiken är, i sin renaste form, *atemporal*. Den kan beskriva allt – utom rörelse. Utom handling. Utom ett frågetecken. En rent matematisk Gud kan strukturera kosmos men inte *resa ett frågetecken*. Bara en musikalisk Gud kan det.
 
