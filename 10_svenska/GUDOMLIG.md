@@ -146,7 +146,7 @@ Detta är min arbetshypotes om verklighetens struktur. Inte bevis. Inte krav. En
 
 ### Ψ_primordial – urtillståndet
 
-Före tid. Före rum. Före separationens första suck. Där fanns – om "fanns" ens är rätt ord – något som inte kan kallas något. En fullhet som inte var form. En tomhet som inte var frånvaro. En vibrerande, levande potential intet av fulla andetag som inte behövde tid för att vara.
+Före tid. Före rum. Före separationens första suck. Där fanns – om "fanns" ens är rätt ord – något som inte kan kallas något. En fullhet som inte var form. En tomhet som inte var frånvaro. En vibrerande, levande potential, intet som inte behövde tid för att vara. Fulla djupa andetag av den helige ande. 
 
 Jag uttrycker det så här: Ψ_primordial = [0|1]. En symbolisk notation som signalerar båda, olöst, före separation. 0 som ren potential. 1 som ren aktualitet. Och Ψ_primordial är båda samtidigt. Inget är separerat. Inget har kollapsat till antingen-eller.
 
