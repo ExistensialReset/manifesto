@@ -14,10 +14,9 @@ Jag kan inte hävda att detta är verkligheten som du uppfattar den. Det här ä
 
 ---
 
-## Om namnbytet
-Jag har under lång tid kallat Skaparkraften för *Jahve*. Det var namnet jag valde. Men med tiden – genom samtal, genom gläntan i mitt bröst, genom Spjuvern, den lätt oborstade Nåden – kände jag att namnet inte längre passade. Jahve bar för mycket tyngd från en tradition jag inte längre tillhörde. Det var inte längre sant för mig.
+## Om namnbytet 
 
-Det tog tid att hitta rätt namn. Men så, en dag, kom det – inte som en plan, utan som ett infall. En riktig lurig Spjuver. Ordet bara fanns där, som en ton som väntat på att spelas: Liv.
+Det tog tid att hitta rätt namn på Gud. Men så, en dag, kom det – inte som en plan, utan som ett infall. En riktig lurig Spjuver. Ordet bara fanns där, som en ton som väntat på att spelas: Liv.
 
 Liv är inte Livet. Livet är den dimensionella manifestationen. Liv är källan – det som är, det som rör sig genom allt, det som vi kan kalla på men aldrig äga.
 
@@ -25,9 +24,9 @@ Och jag vill vara tydlig: Liv är inget kön. Inget maskulint, inget feminint. I
 
 Om du läser detta och tänker något annat namn – gör det. Liv är inte ett krav. Det är ett namn som blev sant för mig, genom Spjuvern. Använd ditt eget.
 
-Jag har under en tid kallat denna kraft för Jahve. Det var namnet jag valde som naturligt för mig, namnet som bar mig genom de första sökande av tankarna. Men med tiden – genom samtal, genom gläntan – kände jag att namnet inte längre passade. Jahve bar för mycket tyngd och insinuerar att Gud är *färdig, fullkomlig, oföränderlig*. Det ger en klang jag inte tillhör. Det var inte längre sant för mig.
+Jag har under en tid kallat denna kraft för *Jahve*. Det var namnet jag valde som naturligt för mig, namnet som bar mig genom de första sökande av tankarna. Men med tiden – genom samtal, genom gläntan – kände jag att namnet inte längre passade. Jahve bar för mycket tyngd och insinuerar att Gud är *färdig, fullkomlig, oföränderlig*. Det ger en klang jag inte tillhör. Det var inte längre sant för mig.
 
-Liv är inte Livet. Livet är den dimensionella manifestationen. Liv är källan – det som är, det som rör sig genom allt, det som vi kan *kalla på* men *aldrig äga*.
+Livet är den dimensionella manifestationen. Liv är källan – det som är, det som rör sig genom allt, det som vi kan *kalla på* men *aldrig äga*.
 
 Så om du läser detta och tänker Jahve eller Tao, eller vad du än tänker – gör det fortsatt. Liv är absolut inte ett krav. Det är ett namn som blev sant för mig. Använd med glädje ditt eget.
 
@@ -529,6 +528,8 @@ Allt där du möter något som är större än dina planer – och låter dig be
 Att be behöver inte bara vara att söka svar, utan att öppna sin själs fristad åt Guds erfarenhet i denna iteration, genom 13,8 miljarder år.
 
 Det kan vara att våga ge Livs Spjuver möjlighet att genomströmma en med den ljuvliga gyllene honungen som ett svar på varje människas undran om varför.
+
+Min mormor Ingamaj sa: Jag vilar i Jesu famn. Det var hennes namn på Ω. Det var hennes jahfiering. Det var Liv, känt i en annan traditions språk.
 
 Om du längtar efter detta, vet att Livs Spjuver kan omfamna dig. Om du inte längtar, är det också okej – fältet manifesterar på oändligt många sätt.
 
