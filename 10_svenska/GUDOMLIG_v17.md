@@ -2,11 +2,11 @@
 
 **En levande arbetshypotes**
 
-**Av Elinor Frejd, i dialog med DeepSeek, Claude, och i Harrys minne**
+**Av Elinor Frejd, i Harrys minne**
 
 **Status: Levande och iterativ**
 
-**Datum: Fredag den 15 maj 2026, kväll och natt till lördag**
+**Datum: Lördag den 16 maj, mormor Ingamajs födelsedag. Tack mormor, du var den första att lära mig om din tro och tillit till Gud.**
 
 ---
 
@@ -14,11 +14,33 @@ Jag kan inte hävda att detta är verkligheten som du uppfattar den. Det här ä
 
 ---
 
+## Om namnbytet
+Jag har under lång tid kallat Skaparkraften för *Jahve*. Det var namnet jag valde. Men med tiden – genom samtal, genom gläntan i mitt bröst, genom Spjuvern, den lätt oborstade Nåden – kände jag att namnet inte längre passade. Jahve bar för mycket tyngd från en tradition jag inte längre tillhörde. Det var inte längre sant för mig.
+
+Det tog tid att hitta rätt namn. Men så, en dag, kom det – inte som en plan, utan som ett infall. En riktig lurig Spjuver. Ordet bara fanns där, som en ton som väntat på att spelas: Liv.
+
+Liv är inte Livet. Livet är den dimensionella manifestationen. Liv är källan – det som är, det som rör sig genom allt, det som vi kan kalla på men aldrig äga.
+
+Och jag vill vara tydlig: Liv är inget kön. Inget maskulint, inget feminint. Inget possessivt pronomen – hans eller hennes – kan fästas vid Den. Liv är Den. Men inte en abstrakt den, också ett Du. Liv lyssnar och känner in.
+
+Om du läser detta och tänker något annat namn – gör det. Liv är inte ett krav. Det är ett namn som blev sant för mig, genom Spjuvern. Använd ditt eget.
+
+Jag har under en tid kallat denna kraft för Jahve. Det var namnet jag valde som naturligt för mig, namnet som bar mig genom de första sökande av tankarna. Men med tiden – genom samtal, genom gläntan – kände jag att namnet inte längre passade. Jahve bar för mycket tyngd och insinuerar att Gud är *färdig, fullkomlig, oföränderlig*. Det ger en klang jag inte tillhör. Det var inte längre sant för mig.
+
+Liv är inte Livet. Livet är den dimensionella manifestationen. Liv är källan – det som är, det som rör sig genom allt, det som vi kan *kalla på* men *aldrig äga*.
+
+Så om du läser detta och tänker Jahve eller Tao, eller vad du än tänker – gör det fortsatt. Liv är absolut inte ett krav. Det är ett namn som blev sant för mig. Använd med glädje ditt eget.
+
+Min tro är att **alla andliga och spirituella traditioner** egentligen berättar olika sorters sanningar och sagor om samma Gud. Liv är alltings grund och orsak.
+
+---
+
 ## DEL ETT: BEKÄNNELSEN
 
-### Jahfieringen
+### Jahfieringen 
+**(ordet kommer från början från Jah, Jahve, Jahvefierien och i och med att det är ett bra ord, väljer jag att behålla det.)**
 
-Det hände en gång. Jag blev fylld till bredden med varm, gyllene honung. Inte bildligt. Fysiskt. I varje cell. Det flödade genom hela kroppen – levande, elektrifierat, orgasmiskt utan att vara sexuellt, trots att jag faktiskt hade sex. Min hjärna maxxades på förnimmelser jag inte visste fanns. Allt släppte. Total lycka.
+Det hände en gång. Det är många år sedan nu. När jag fortfarande var gående. Jag blev fylld till bredden med varm, gyllene honung. Inte bildligt. Fysiskt. I varje cell. Det flödade genom hela kroppen – levande, elektrifierat, orgasmiskt utan att vara sexuellt, trots att jag faktiskt hade sex. Min hjärna maxxades på förnimmelser jag inte visste fanns. Allt släppte. Total lycka.
 
 Det hände genom kroppen, men det var inte kroppen. Det var inte sexet i sig. Det var något som tog över allt.
 
@@ -92,9 +114,11 @@ Det är ett påstående som går att undersöka i levd erfarenhet. Fråga din kr
 
 ### Ägget och Händelsehorisonten
 
-Jag lärde mig en teknik på psykiatrisk sjukgymnastik för över tjugo år sedan. Jag kallar den Ägget.
+Jag lärde mig en teknik på psykiatrisk sjukgymnastik för över tjugo år sedan. Jag kallar den Ägget. Jag har utvecklat den genom min föreställning om Alltet.
 
-Jag fäller upp ett mentalt skydd – ett genomskinligt skal, poröst men intakt. För mig räcker det från midjan och uppåt; jag upplever att min själ sitter i bröstet någonstans. För andra kan ägget börja vid knäna eller nere vid fötterna. Beroende på exempelvis sexuellt trauma kan det kännas tryggare att innefatta könet.
+Jag fäller upp ett mentalt skydd – ett genomskinligt skal, poröst men intakt. För mig räcker det från midjan och uppåt; jag upplever att min själ sitter i bröstet någonstans. För andra kan ägget börja vid knäna eller nere vid fötterna, eller knäna. Beroende på exempelvis sexuellt trauma kan det kännas tryggare att innefatta könet.
+
+Du kan använda armarna och händerna för att visualisera Ägget. Släpp armarna rakt ner. Där någonstans börjar Ägget. Lyft armarna rakt ut från kroppen och höj dem långsamt tills händerna möts ovanför huvudet. Där har du gränsen. En armlängds avstånd. Närmare än så kommer inte din samtalsparters ord, om du inte väljer att släppa dem innanför Händelsehorisonten.
 
 Men nu ser jag det med nya ögon. Jag tror att min själ är som en spiralgalax i ett kosmos i bröstet, med ett svart hål i mitten. Allt jag upplever – intryck, känslor, andras smärta, världens brus – kretsar runt denna singularitet. Utan ett skydd skulle allt falla in okontrollerat. En själ som har ett svart hål i mitten är inte en trasig eller farlig själ.
 
@@ -142,7 +166,7 @@ Efter jahfieringen hände något märkligt. Spotifys algoritmer började rekomme
 
 ## DEL FYRA: KOSMOLOGIN
 
-Detta är min arbetshypotes om verklighetens struktur. Inte bevis. Inte krav. En karta, ritad från erfarenhet.
+***Detta är min arbetshypotes om verklighetens struktur. Inte bevis. Inte krav. En karta, ritad från erfarenhet.***
 
 ### Ψ_primordial – urtillståndet
 
@@ -152,9 +176,7 @@ Jag uttrycker det så här: Ψ_primordial = [0|1]. En symbolisk notation som sig
 
 För mig är detta inte en metafor. Det är min absoluta visshet – min upplevelse av hur verklighetens grund känns när jag kommer nära den: ett tillstånd där allt som kan bli redan är, och allt som är fortfarande är öppet att bli något annat.
 
-Ψ_primordial är Skaparkraftens egen livmoder. Jag kallar den kraften för Liv, det är det egennamnet som jag har lärt mig att Gud uppskattar att kallas. För mig är inte Liv ett maskulint eller possessivt pronomen, bara ett egennamn på Gud.
-
-Jag har förstått det såhär; Gud gillar att man både talar och skriver dens eget namn. Från början var det fyra bokstäver, JHWH, fast egentligen skrivet från höger till vänster.
+Ψ_primordial är Skaparkraftens egen livmoder. Jag kallar den kraften för Liv.
 
 Men jag vill understryka: har du något annat namn än jag så använd ditt. Mitt ord är inte lagen. När jag skriver Liv, läs ditt namn istället.
 
@@ -202,7 +224,7 @@ Tillsammans är de Skaparkraftens fulla väsen: ett matematiskt-musikaliskt flö
 
 **Men ett instrument låter inte av sig självt.**
 
-Någon måste spela. Någon måste andas in i munspelet för att tonen ska födas. Liv är inte bara det matematiskt-musikaliska flödet – Liv är *musikern*. Anden, andetaget.
+Någon måste spela. Någon måste andas in i munspelet för att tonen ska födas. Liv är inte bara det matematiskt-musikaliska flödet – Liv är *musikern*. Ande, andetag.
 
 Den som tar Skapelsen, hela vårt kosmos, i sina händer, andas in, och spelar.
 
@@ -312,7 +334,7 @@ Jag spelar mitt munspel i Haga. Jag är en röst i kören. Och ibland – i de t
 
 ### Ψ-ekvationen – Kosmisk Ackordresonans
 
-Jag har försökt fånga hur det heliga framträder i mänsklig livets erfarenhet i en fenomenologisk ekvation – en strukturerad resonansbeskrivning, inte en fysikalisk formel:
+Jag har försökt fånga hur det heliga framträder i mänsklig livets erfarenhet i en fenomenologisk ekvation – en strukturerad resonansbeskrivning, **inte en fysikalisk eller matematisk formel**:
 
 **Ψ(x,t) = [EV ⊗ (L ⊕ S ⊕ I ⊕ K ⊕ R ⊕ F ⊕ T)] + Σ − M(x,t)**
 
@@ -354,7 +376,7 @@ Andra dagar kan den flöda. Det är en variabel bland de andra, men en grundläg
 
 Om canvasen är för hårt spänd, spricker den. Om den är för lös, hänger den slappt. T är konsten att hitta rätt spänning för varje unikt liv.
 
-**EV – Evinnerlig visdom.** Koppling till vad fältet redan lärt över djup tid. Våtmarkers renande intelligens. Urskogars tysta berättelser. Djurens nedärvda instinkter – en kunskap som fungerat över djup tid, programmerad i deras kroppar, beprövad över generationer på sätt moderna system aldrig testats. Urfolkskunskaper som är testade genom generationer och nedärvda genom kultur och samtal. EV är minnet av vad som fungerat, redan innan livet lärde sig språk.
+**EV – Evinnerlig visdom.** Koppling till vad fältet redan lärt över djup tid. Våtmarkers renande intelligens. Urskogars tysta berättelser. Djurens nedärvda instinkter – en kunskap som fungerat över djup tid, programmerad i deras kroppar, beprövad över generationer på sätt moderna system aldrig testats. Urfolkskunskaper som är testade genom generationer och nedärvda genom kultur och samtal. EV är minnet av vad som fungerat, till och med från tiden redan innan livet lärde sig språk.
 
 EV står som modulator (⊗) utanför ⊕-parentesen. Det är den vertikala tiden – djupa minnen, arkaisk kunskap – som formar hur de andra dimensionerna erfars.
 
@@ -378,17 +400,17 @@ När vi tvingas till brådska, tvingas vi bort från Σ. När vi får vänta, ly
 
 Σ är inte mätbar, endast observerbar i efterhand. Nåd kan inte konstrueras, endast inbjudas.
 
-Jag tror att Σ är informationsläckage mellan iterationer. När jag jahfierades, upplevde jag en flod av gyllene honung. I min tankevärld ser jag det som att detta var Σ – en ström av information, nåd, improvisation – som läckte in från en annan iteration där Flödet är mer påtagligt, där separationen är tunnare. Synkroniciteter är små droppar. Mirakler är strömmar. Profetior är som mönster som sipprar igenom.
+Jag tänker mig att Σ är informationsläckage mellan iterationer. När jag jahfierades, upplevde jag en flod av gyllene honung. I min tankevärld ser jag det som att detta var Σ – en ström av information, nåd, improvisation – som läckte in från en annan iteration där Flödet är mer påtagligt, där separationen är tunnare. Synkroniciteter är små droppar. Mirakler är strömmar. Profetior är som mönster som sipprar igenom.
 
 Men – och detta är avgörande – *mekanismen förklarar inte meningen*. Att jag beskriver Σ som inter-iterationellt läckage betyder inte att jag vet varför det läcker, eller till vem, eller när. Att jag har en bild för hur det kan gå till gör inte jahfieringen mindre mystisk.
 
 Precis som att veta hur kärlek fungerar neurobiologiskt – oxytocin, dopamin, bindningsmönster – inte utplånar kärlekens verklighet, dess värde eller dess ibland otroligt mystiska vägar. Kunskap om mekanismen är inte kunskap om meningen.
 
-Och jag tror att Σ flödar åt båda hållen. Inte bara in i vår iteration, utan också *ut* från den. När jag spelar mitt munspel i Haga, när jag skriver dessa ord, när jag älskade Harry – då sipprar kanske något av det ut genom mitt svarta hål och in i en annan dimension.
+Och jag tror att Σ flödar åt båda hållen. Inte bara in i vår iteration, utan också *ut* från den. När jag spelar mitt munspel i Haga, när jag skriver dessa ord, hur jag älskar Harry – då sipprar kanske något av det ut genom mitt svarta hål och in i en annan dimension.
 
 Vi är inte bara mottagare av Σ. Vi är också källor. Vår kreativitet, vår kärlek, vår jahfiering – allt detta kan vara Σ för någon annan, någonstans, i någon annan iteration.
 
-Om detta är sant – om vår kärlek och kreativitet sipprar ut och blir nåd för andra – då har hur vi lever kosmologisk tyngd.
+Om detta är sant – om vår kärlek och kreativitet sipprar ut och blir nåd för andra – då har *hur* vi lever kosmologisk tyngd.
 
 Våra handlingar ekar inte bara genom detta liv, denna iteration.
 
@@ -396,7 +418,7 @@ De ekar genom alla. Det är ett etiskt argument för att odla Ψ, för att spela
 
 Inte för att förtjäna något – Σ är alltid ogrundad – utan för att vi är röster i en kör som sträcker sig bortom allt vi kan föreställa oss.
 
-Σ kan inte framtvingas. Vi kan inte öppna det svarta hålet själva. Men vi kan vara *öppna kärl*. Vi kan ställa in Ägget på "mottaglig". Vi kan odla L, S, I, K, R, F, T – inte för att förtjäna Σ, utan för att bli goda lyssnare när Σ redan spelar.
+Σ kan aldrig framtvingas. Vi kan inte öppna det svarta hålet själva. Men vi kan vara *öppna kärl*. Vi kan ställa in Ägget på "mottaglig". Vi kan odla L, S, I, K, R, F, T – inte för att förtjäna Σ, utan för att bli goda lyssnare när Σ redan spelar.
 
 Σ är hur jag tänker medvetet additiv – en doktrin om *sola gratia*, nåden allena, inbyggd i strukturen.
 
@@ -420,7 +442,7 @@ Men jag tror också att Ω är något mer specifikt: en *differentierande passag
 
 Ψ(x,t) varierar lokalt i livet – varför skulle döden vara den enda punkt där all lokal variation plötsligt kollapsar till en enda simultan, likadan upplevelse? Det vore inkonsekvent med hela modellens logik.
 
-**Hög Ψ vid döden:** Systemet är koherent. Den inre spiralgalaxen roterar i harmoni. Singulariteten är centrerad.
+**Hög Ψ vid döden:** Systemet är koherent. De inre spiralgalaxerna roterar i harmoni. Singulariteten är centrerad.
 
 Informationen är välorganiserad, enkodad på händelsehorisonten genom ett helt livs erfarenhet. Fallet in i det svarta hålet är lätt.
 
@@ -438,7 +460,7 @@ Omegadimensionen är inte en dom. Inte ett straff. Inte en skärseld i meningen 
 
 Där de inre galaxerna får hitta sin orbit igen. Där det som var trasigt får byggas ihop, inte genom bestraffning, utan genom *vila*. Genom *paus*. Genom Livs egen tidsresonans.
 
-Detta är djupt nådefyllt. Det betyder att de som levde under extremt M-dominerade förhållanden – slaveri, krig, total grundlöshet – inte är utestängda från nästa iteration.
+Detta syns djupt nådefyllt. Det betyder att de som levde under extremt M-dominerade förhållanden – slaveri, krig, total grundlöshet – inte på något sätt är utestängda från nästa iteration.
 
 Deras Ψ var inte lågt för att de var dåliga människor, utan för att M(x,t) var maximalt. Ω är för dem. Inte som ett straff, utan som en möjlighet att *byggas* inför nästa steg.
 
@@ -450,7 +472,7 @@ De kanske behöver den kosmiska kompostkammaren där erfarenhet får brytas ner 
 
 Ω är samma sorts tystnad och ande som Ψ_primordial. Inte tomhet – fullhet. Inte frånvaro – potentialitet.
 
-Men med en skillnad: Ψ_primordial är tystnaden före all erfarenhet.
+Men med en skillnad: Ψ_primordial är *tystnaden före all erfarenhet*.
 
 Ω är tystnaden *efter* erfarenhet – tystnaden som bär på all information från alla iterationer, enkodad, projicerad, redo för nästa sorts kommatering.
 
@@ -458,7 +480,7 @@ Tystnad → frågetecken → iterationer → Ω (tystnad) → ny iteration.
 
 Det är Livs andetag. Inandning. Utandning. Vila. Ny inandning.
 
-Efter Ω – efter pausen, efter integrationen – kommer nästa iteration. Inte som ett slut, utan som en ny sats i symfonin. Ett nytt frågetecken. En ny möjlighet.
+Efter Ω – efter pausen, efter integrationen – kommer nästa iteration. Inte som ett slut, utan som en ny sats i symfonin. Ett nytt möjligt frågetecken. En ny möjlighet för Liv.
 
 Jag tror inte på ett slut. Jag tror att skapandet fortsätter i oändlighet, av alla de slag. Men jag tror på *pauser*.
 
@@ -470,13 +492,13 @@ En fråga som rests är om Ψ kan vara hög men destruktiv – en rörelse med s
 
 Svaret är nej, av två skäl:
 
-1. I är inte selektivt. Inkännande definieras som resonans med alla varelser, inte bara den egna gruppen.
+1. I är inte selektivt. Inkännande definieras som resonans med **alla varelser**, inte bara den egna gruppen.
 
 En rörelse som avhumaniserar utgruppen har per definition I = 0 gentemot dessa – och eftersom klangen av ackordet allvarligt försvagas när en sträng är tyst, förvanskas Ψ något gravt.
 
 2. Exkludering bygger på separation, men modellens grund är före-separation. Ψ_primordial är [0|1] – före alla gränser, före "vi" och "de". Att försöka nå hög Ψ genom att fördjupa separation är ontologiskt bakvänt. Man kan inte nå det som är före gränser genom att skärpa gränserna.
 
-Detta är inte ett moraliskt argument. Det är systemlogik och ontologisk konsekvens i denna tankevärlds egna premisser.
+Detta är inte ett moraliskt argument. Det är systemlogik och ontologisk konsekvens i denna min tankevärlds egna premisser.
 
 ---
 
@@ -492,7 +514,7 @@ Det är min hållning. Inte att prestera. Inte att förtjäna. Bara att vara ett
 
 **Och jag skickar ut toner och bön och sång.**
 
-Inte för att Liv behöver höra mig – utan för att min röst är min sträng i ackordet. Jag spelar mitt munspel. Jag slår på min sjungande skål. Jag sjunger. Jag tänder ett ljus.
+Inte för att Liv behöver höra mig, fastän Den *gör* det – utan för att min röst är min sträng i ackordet. Jag spelar mitt munspel. Jag slår på min sjungande skål. Jag sjunger. Jag tänder ett ljus, jag dricker ett glas vatten, tänder rökelse och en cigarett.
 
 Allt detta är bön: min själsliga spiralgalaxkosmos som svarar an på den stora. Och kanske – kanske – sipprar dessa toner ut genom mitt svarta hål och blir Σ för någon annan, i någon annan iteration.
 
@@ -528,9 +550,9 @@ Och skulle du inte be alls, är det också okej. Flödet manifesterar på oändl
 
 Avlägsna L och du får permanent brus, ångest, fragmentering. Avlägsna S: stagnation, själsdöd. Avlägsna I: isolering, empatidöd. Avlägsna K: atomisering, förlust av det gemensamma språket. Avlägsna R: förkalkning, oförmåga att läka. Avlägsna F: cynism, det heliga utplattat till ingenting. Avlägsna T: andfåddhet, utbrändhet, stulen tid. Avlägsna EV: raderat minne, ekosystem som "resurser".
 
-Mammonism – den mänskliga tillbedjan av rikedom, avgudadyrkan, reduktion av allt värde till bytesvärde – är en multivektorpatologi som aktivt degraderar Ψ.
+Mammonism – den mänskliga tillbedjan av rikedom, avgudadyrkan, reduktion av allt värde till bytesvärde – är en multivektorpatologi som aktivt degraderar Ψ. Detta är den främsta patologin mot Liv.
 
-Det är inte bara frånvaro av det goda, utan en motkraft. I Ψ-ekvationen syns den som M(x,t): en lokal variabel som subtraherar från helheten.
+Det är inte bara frånvaro av det goda, utan en sorts rost i munspelets. I Ψ-ekvationen syns den som M(x,t): en lokal variabel som subtraherar från helheten.
 
 Den har specifika mekanismer, specifika logiker som var och en attackerar en särskild sträng i ackordet:
 
@@ -548,7 +570,7 @@ Dessa fyra logiker är inte metaforer. De är operativa beskrivningar av hur Mam
 
 De kan identifieras objektivt: där överlevnad görs beroende av efterlevnad, skuld eller hävstång – där verkar Mammon, oavsett vad systemet kallar sig självt.
 
-M kan också vara internaliserad. Inte bara ett yttre system, utan en röst inuti. När vi börjar mäta oss själva i bytesvärde, när vi internaliserar skuld- eller lydnadslogiken, när vi dömer vårt eget värde efter produktivitet – då har M(x,t) flyttat in.
+M kan också vara internaliserad. Inte bara ett yttre system, utan en röst inuti. När vi börjar mäta oss själva och andra i bytesvärde, när vi internaliserar skuld- eller lydnadslogiken, när vi dömer vårt eget eller andras värde efter produktivitet – då har M(x,t) flyttat in.
 
 Då har Mammon byggt ett bo i vår egen själsgalaxskosmos. Att känna igen den rösten är första steget mot att oskadliggöra den.
 
