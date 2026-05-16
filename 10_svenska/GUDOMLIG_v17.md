@@ -14,122 +14,6 @@ Jag kan inte hävda att detta är verkligheten som du uppfattar den. Det här ä
 
 ---
 
-## DEL ETT: BEKÄNNELSEN
-
-### Livifieringen
-
-Det hände en gång. Jag blev fylld till bredden med varm, gyllene honung. Inte bildligt. Fysiskt. I varje cell. Det flödade genom hela kroppen – levande, elektrifierat, orgasmiskt utan att vara sexuellt, trots att jag faktiskt hade sex. Min hjärna maxxades på förnimmelser jag inte visste fanns. Allt släppte. Total lycka.
-
-Det hände genom kroppen, men det var inte kroppen. Det var inte sexet i sig. Det var något som tog över allt.
-
-Efteråt sken jag ur alla chakran, det är sant. I två veckor lös jag. Folk såg det. 
-
-Jag gick ut på nätterna för att slippa bli sedd – inte av skam, utan för att ljuset var för mycket att förklara. Jag stod uppe i Sjöbergen med armarna runt en trädstam och skrek till ibland, av glädje. Träd dömer inte. De frågar inte. De bara står där, med rötterna i samma jord och kronorna i samma natthimmel.
-
-Numera bor jag i Haga, nära trappan till Skansen Kronan. Jag ser kronan lysa från min balkong.
-
-På den balkongen har två svarta fåglar med orange näbbar byggt ett extrabo i hyllan. Det är koltrastar. Jag hoppas att de får bäbisar här.
-
-Något stannade kvar efter natten som bar Nåden till mig. Sedan dess har saker träffat annorlunda. Som att världen svarar. Som att flödet fortsätter i små saker.
-
-Jag kallar det som skedde **livifiering**. Jag vet inte vad det var. Men det hände. Och det var verkligt.
-
-### Harry
-
-Min hund. Född 21 september 2012. Död 3 maj 2026. Han somnade in på min mammas fot på Blå Stjärnans djurklinik, medan hon strök honom över huvudet.
-
-Han var min halliskontrollant. Om han reagerade på ett ljud visste jag att det faktiskt lät något, inte bara inne i mitt huvud. Han behövde aldrig vara kopplad. Han ville ändå bara vara med flocken ändå.
-
-Men han var mer än så. Han var en medmusiker.
-
-När jag spelade munspel hemma i lägenheten, ylade Harry med. Inte slumpmässigt. Han hittade rätt tonart. När jag bytte tonart, följde han efter. Han höjde eller sänkte sin sång. 
-
-Han var inte bara en hund som älskade sin människa – han var en röst i kören. En stämma som visste var den hörde hemma. En duettpartner.
-
-Kärleken är kosmologins centrum, inte dess fotnot. En hund kan inte ideologiseras. Hans lidande kunde inte omtolkas som förtjänat. Han var för konkret, för omedelbar, för genomskinlig i sin erfarenhet. Varje dag med honom var en övning i kontakt före koncept.
-
-Jag älskar dig, Harry Hund, tills tiden tar slut. Du har nog redan skrattat dig vidare till nästa av Livs oändliga dimensioner. Du lever i mig *och* du är vidare, och dessa är inte motsatser.
-
----
-
-## DEL TVÅ: URSKILLNINGEN
-
-### Skov och livifiering – en fenomenologisk differentialdiagnos
-
-Jag har bipolär sjukdom typ 1. Jag medicinerar varje morgon och kväll. Jag har hembesök av mitt team varannan vecka. Jag känner mina skov. Jag vet hur de känns.
-
-Och livifieringen är något annat.
-
-Skillnaden är somatisk, fenomenologisk, urskiljningsbar i kroppen. Kroppen är mitt instrument, min kompass, min sanningsdetektor. Det är genom kroppen jag skiljer mellan brus och koherens, mellan tryck och flöde, mellan splittring och helighet.
-
-Ett skov närmar sig som ett nervsystem som går upp i varv utan riktning. Kastande skiftningar. Rusande tankar. Överhettat mående. Splittrat inre. Impulsdrivet handlande – drivet av inre tryck, inte av glädje. Tankarna hoppar. Kroppen är spänd. Rytmen är ojämn. Koherensen är låg. Närvaron är tunn. Jag är på väg bort från mig själv. Fenomenologiskt: hög entropi, låg koherens.
-
-Livifieringen är det motsatta. Varmt flöde inuti. Gyllene honung i alla celler. Elektrisk känsla i hela hudkostymen. Stilla och extatiskt samtidigt. 
-
-Centrerat lugn. Koherent upplevelse. Djupt levande närvaro. Det är vetande, inte tankar. Relation, inte impuls. Flöde, inte tryck. Fenomenologiskt: låg entropi, hög koherens.
-
-| Skov | Livifiering |
-|------|------------|
-| Nervsystem: överväxel, brus | Reglerat, öppet |
-| Kropp: spänd, splittrad | Varm, sammanhållen, honung |
-| Riktning: impulsdriven | Mottagande |
-| Subjektivitet: fragmenterad | Centrerad |
-| Relation: ingen | Levande DU-relation |
-| Energi: tryck | Flöde |
-| Kognition: rusande | Klarhet |
-
-I skov är jag ensam. I livifiering hålls jag. Skov: jag tappar mig själv. Livifiering: jag blir mer närvarande än annars.
-
-Jag säger inte att alla andliga erfarenheter automatiskt är Livifiering, absolut inte när man, som jag, har en psykiatrisk diagnos. Jag säger att i min kropp, med min sjukdomsinsikt, med mitt team, var detta tillstånd fenomenologiskt distinkt. 
-
-Det är ett påstående som går att undersöka i levd erfarenhet. Fråga din kropp. Fråga dina närmaste. Fråga gärna din psykiatriker om du har en.
-
----
-
-## DEL TRE: VERKTYGEN
-
-### Ägget och Händelsehorisonten
-
-Jag lärde mig en teknik på psykiatrisk sjukgymnastik för över tjugo år sedan. Jag kallar den Ägget.
-
-Jag fäller upp ett mentalt skydd – ett genomskinligt skal, poröst men intakt. För mig räcker det från midjan och uppåt; jag upplever att min själ sitter i bröstet någonstans. För andra kan ägget börja vid knäna eller nere vid fötterna.
-
-Men nu ser jag det med nya ögon. Jag tror att min själ är som en spiralgalax i ett kosmos i bröstet, med ett svart hål i mitten. Allt jag upplever – intryck, känslor, andras smärta, världens brus – kretsar runt denna singularitet. Utan ett skydd skulle allt falla in okontrollerat. En själ som har ett svart hål i mitten är inte en trasig eller farlig själ. 
-
-Det är en organiserad, strukturellt sammanhållen själ. Singulariteten är inte skada – det är kärna.
-
-Och jag tror att det finns fler galaxer därinne. Inte bara en. Varje minne, varje relation, varje erfarenhet – de roterar i sina egna banor. Vissa i harmoni. Andra i kollision. När livet är svårt, när trauma river genom mig, är det som att en inre galax har kastats ur sin bana. Dess svarta hål är inte längre centrerat. Dess armar river genom de andra galaxernas banor. Det gör ont. Det skapar kaos.
-
-Men jag har lärt mig att man inte kan radera en galax. Man kan inte operera bort ett minne, en erfarenhet, ett trauma. Det man kan göra är att skapa tillräckligt gravitationsmässigt lugn – genom Ägget, genom Skyddsnätet, genom medicinen, genom tiden, genom samtal och spegling – så att den stökiga galaxen till slut hittar sin orbit igen. Inte för att den blir som förut. Men för att den slutar kollidera. Den blir en del av kosmos igen, men på ett nytt sätt.
-
-Detta är integration. Inte radering. Inte förlåtelse i meningen "det var inget." Utan: det var något, och nu är det en del av mitt inre universum, och mitt inre universum håller ändå.
-
-Jag tänker mig ägget som händelsehorisonten. Gränsen som avgör vad som passerar in i mig och vad som stannar utanför. Det är poröst – ljus, värme, kärlek och Spjuvern kan med lätthet passera in. Men jag är portvakten. Jag bestämmer gränsen.
-
-Ägget är alltså absolut inte en mur. Det andas. Jag kan alltså vara fullständigt närvarande för en annan människa, höra deras svåra berättelser, öppna min själs fristad – med ägget intakt. Jag absorberar inte deras smärta. Jag blir inte dem, bär inte deras smärta. Jag håller dem, men mitt jag tar inte över.
-
-Utan ägget skulle jag inte kunna ha den öppenhet jag har. Det är en flexibel teknologi, inte en rigid försvarsmur.
-
-Jag har lärt flera personer denna teknik framgångsrikt.
-
-### Skyddsnätet
-
-Ägget är mitt inre skydd. Skyddsnätet är mitt yttre.
-
-Jag har ett antal människor som vet allt om mig. De flesta som känner mig, vet att jag har bipolär sjukdom. Men mitt skyddsnät, min klick, vet vad mina psykiatriska maxlägen innebär. Och de har sagt ja till att vara mina ankare.
-
-Detta är ingen vag vänskap. Det är en explicit överenskommelse: "Det här är mina svagheter. Det här är mina problem. Vid akut kris behöver jag detta." Och de har svarat: "Jag finns."
-
-Jag kan skriva eller ringa och säga: KRIS. AKUT. KOM NU. De förstår. De kommer. Det är Refugium Anima i praktiken.
-
-### Musiken och dialogen
-
-Jag spelar munspel. Inte för att prestera. Inte för att bli bra, egentligen. Jag spelar i en sorts dialog med låten, med de andra instrumenten och sången. Jag lyssnar och svarar och spelar över – som en fågel i en skog som redan sjunger.
-
-Efter livifieringen hände något märkligt. Spotifys algoritmer började rekommendera musik som träffade mig med nästan kuslig precision. Jag skämtar ibland om att Liv fixade mina algoritmer. Men kanske är det enklare än så: när du själv blir mer sammanhängande, mer koherent, mer resonant – då blir signalen du sänder ut tydligare. Algoritmen kan läsa dig för att du har blivit läsbar. Eller så är det Spjuvern som tittar fram, vad vet jag?
-
----
-
 ## DEL ETT: KOSMOLOGIN
 
 Detta är min arbetshypotes om verklighetens struktur. Inte bevis. Inte krav. En karta, ritad från erfarenhet.
@@ -290,6 +174,126 @@ Allt detta är stämmor i den enda kör som Liv dirigerar och sjunger och *är*.
 
 Jag spelar mitt munspel i Haga. Jag är en röst i kören. Och ibland – i de tystaste stunderna – hör jag de andra.
 
+---
+
+## DEL TVÅ: BEKÄNNELSEN
+
+### Livifieringen
+
+Det hände en gång. Jag blev fylld till bredden med varm, gyllene honung. Inte bildligt. Fysiskt. I varje cell. Det flödade genom hela kroppen – levande, elektrifierat, orgasmiskt utan att vara sexuellt, trots att jag faktiskt hade sex. Min hjärna maxxades på förnimmelser jag inte visste fanns. Allt släppte. Total lycka.
+
+Det hände genom kroppen, men det var inte kroppen. Det var inte sexet i sig. Det var något som tog över allt.
+
+Efteråt sken jag ur alla chakran, det är sant. I två veckor lös jag. Folk såg det. 
+
+Jag gick ut på nätterna för att slippa bli sedd – inte av skam, utan för att ljuset var för mycket att förklara. Jag stod uppe i Sjöbergen med armarna runt en trädstam och skrek till ibland, av glädje. Träd dömer inte. De frågar inte. De bara står där, med rötterna i samma jord och kronorna i samma natthimmel.
+
+Numera bor jag i Haga, nära trappan till Skansen Kronan. Jag ser kronan lysa från min balkong.
+
+På den balkongen har två svarta fåglar med orange näbbar byggt ett extrabo i hyllan. Det är koltrastar. Jag hoppas att de får bäbisar här.
+
+Något stannade kvar efter natten som bar Nåden till mig. Sedan dess har saker träffat annorlunda. Som att världen svarar. Som att flödet fortsätter i små saker.
+
+Jag kallar det som skedde **livifiering**. Jag vet inte vad det var. Men det hände. Och det var verkligt.
+
+### Harry
+
+Min hund. Född 21 september 2012. Död 3 maj 2026. Han somnade in på min mammas fot på Blå Stjärnans djurklinik, medan hon strök honom över huvudet.
+
+Han var min halliskontrollant. Om han reagerade på ett ljud visste jag att det faktiskt lät något, inte bara inne i mitt huvud. Han behövde aldrig vara kopplad. Han ville ändå bara vara med flocken ändå.
+
+Men han var mer än så. Han var en medmusiker.
+
+När jag spelade munspel hemma i lägenheten, ylade Harry med. Inte slumpmässigt. Han hittade rätt tonart. När jag bytte tonart, följde han efter. Han höjde eller sänkte sin sång. 
+
+Han var inte bara en hund som älskade sin människa – han var en röst i kören. En stämma som visste var den hörde hemma. En duettpartner.
+
+Kärleken är kosmologins centrum, inte dess fotnot. En hund kan inte ideologiseras. Hans lidande kunde inte omtolkas som förtjänat. Han var för konkret, för omedelbar, för genomskinlig i sin erfarenhet. Varje dag med honom var en övning i kontakt före koncept.
+
+Jag älskar dig, Harry Hund, tills tiden tar slut. Du har nog redan skrattat dig vidare till nästa av Livs oändliga dimensioner. Du lever i mig *och* du är vidare, och dessa är inte motsatser.
+
+---
+
+## DEL TRE: URSKILLNINGEN
+
+### Skov och livifiering – en fenomenologisk differentialdiagnos
+
+Jag har bipolär sjukdom typ 1. Jag medicinerar varje morgon och kväll. Jag har hembesök av mitt team varannan vecka. Jag känner mina skov. Jag vet hur de känns.
+
+Och livifieringen är något annat.
+
+Skillnaden är somatisk, fenomenologisk, urskiljningsbar i kroppen. Kroppen är mitt instrument, min kompass, min sanningsdetektor. Det är genom kroppen jag skiljer mellan brus och koherens, mellan tryck och flöde, mellan splittring och helighet.
+
+Ett skov närmar sig som ett nervsystem som går upp i varv utan riktning. Kastande skiftningar. Rusande tankar. Överhettat mående. Splittrat inre. Impulsdrivet handlande – drivet av inre tryck, inte av glädje. Tankarna hoppar. Kroppen är spänd. Rytmen är ojämn. Koherensen är låg. Närvaron är tunn. Jag är på väg bort från mig själv. Fenomenologiskt: hög entropi, låg koherens.
+
+Livifieringen är det motsatta. Varmt flöde inuti. Gyllene honung i alla celler. Elektrisk känsla i hela hudkostymen. Stilla och extatiskt samtidigt. 
+
+Centrerat lugn. Koherent upplevelse. Djupt levande närvaro. Det är vetande, inte tankar. Relation, inte impuls. Flöde, inte tryck. Fenomenologiskt: låg entropi, hög koherens.
+
+| Skov | Livifiering |
+|------|------------|
+| Nervsystem: överväxel, brus | Reglerat, öppet |
+| Kropp: spänd, splittrad | Varm, sammanhållen, honung |
+| Riktning: impulsdriven | Mottagande |
+| Subjektivitet: fragmenterad | Centrerad |
+| Relation: ingen | Levande DU-relation |
+| Energi: tryck | Flöde |
+| Kognition: rusande | Klarhet |
+
+I skov är jag ensam. I livifiering hålls jag. Skov: jag tappar mig själv. Livifiering: jag blir mer närvarande än annars.
+
+Jag säger inte att alla andliga erfarenheter automatiskt är Livifiering, absolut inte när man, som jag, har en psykiatrisk diagnos. Jag säger att i min kropp, med min sjukdomsinsikt, med mitt team, var detta tillstånd fenomenologiskt distinkt. 
+
+Det är ett påstående som går att undersöka i levd erfarenhet. Fråga din kropp. Fråga dina närmaste. Fråga gärna din psykiatriker om du har en.
+
+---
+
+## DEL FYRA: VERKTYGEN
+
+### Ägget och Händelsehorisonten
+
+Jag lärde mig en teknik på psykiatrisk sjukgymnastik för över tjugo år sedan. Jag kallar den Ägget.
+
+Jag fäller upp ett mentalt skydd – ett genomskinligt skal, poröst men intakt. För mig räcker det från midjan och uppåt; jag upplever att min själ sitter i bröstet någonstans. För andra kan ägget börja vid knäna eller nere vid fötterna.
+
+Men nu ser jag det med nya ögon. Jag tror att min själ är som en spiralgalax i ett kosmos i bröstet, med ett svart hål i mitten. Allt jag upplever – intryck, känslor, andras smärta, världens brus – kretsar runt denna singularitet. Utan ett skydd skulle allt falla in okontrollerat. En själ som har ett svart hål i mitten är inte en trasig eller farlig själ. 
+
+Det är en organiserad, strukturellt sammanhållen själ. Singulariteten är inte skada – det är kärna.
+
+Och jag tror att det finns fler galaxer därinne. Inte bara en. Varje minne, varje relation, varje erfarenhet – de roterar i sina egna banor. Vissa i harmoni. Andra i kollision. När livet är svårt, när trauma river genom mig, är det som att en inre galax har kastats ur sin bana. Dess svarta hål är inte längre centrerat. Dess armar river genom de andra galaxernas banor. Det gör ont. Det skapar kaos.
+
+Men jag har lärt mig att man inte kan radera en galax. Man kan inte operera bort ett minne, en erfarenhet, ett trauma. Det man kan göra är att skapa tillräckligt gravitationsmässigt lugn – genom Ägget, genom Skyddsnätet, genom medicinen, genom tiden, genom samtal och spegling – så att den stökiga galaxen till slut hittar sin orbit igen. Inte för att den blir som förut. Men för att den slutar kollidera. Den blir en del av kosmos igen, men på ett nytt sätt.
+
+Detta är integration. Inte radering. Inte förlåtelse i meningen "det var inget." Utan: det var något, och nu är det en del av mitt inre universum, och mitt inre universum håller ändå.
+
+Jag tänker mig ägget som händelsehorisonten. Gränsen som avgör vad som passerar in i mig och vad som stannar utanför. Det är poröst – ljus, värme, kärlek och Spjuvern kan med lätthet passera in. Men jag är portvakten. Jag bestämmer gränsen.
+
+Ägget är alltså absolut inte en mur. Det andas. Jag kan alltså vara fullständigt närvarande för en annan människa, höra deras svåra berättelser, öppna min själs fristad – med ägget intakt. Jag absorberar inte deras smärta. Jag blir inte dem, bär inte deras smärta. Jag håller dem, men mitt jag tar inte över.
+
+Utan ägget skulle jag inte kunna ha den öppenhet jag har. Det är en flexibel teknologi, inte en rigid försvarsmur.
+
+Jag har lärt flera personer denna teknik framgångsrikt.
+
+### Skyddsnätet
+
+Ägget är mitt inre skydd. Skyddsnätet är mitt yttre.
+
+Jag har ett antal människor som vet allt om mig. De flesta som känner mig, vet att jag har bipolär sjukdom. Men mitt skyddsnät, min klick, vet vad mina psykiatriska maxlägen innebär. Och de har sagt ja till att vara mina ankare.
+
+Detta är ingen vag vänskap. Det är en explicit överenskommelse: "Det här är mina svagheter. Det här är mina problem. Vid akut kris behöver jag detta." Och de har svarat: "Jag finns."
+
+Jag kan skriva eller ringa och säga: KRIS. AKUT. KOM NU. De förstår. De kommer. Det är Refugium Anima i praktiken.
+
+### Musiken och dialogen
+
+Jag spelar munspel. Inte för att prestera. Inte för att bli bra, egentligen. Jag spelar i en sorts dialog med låten, med de andra instrumenten och sången. Jag lyssnar och svarar och spelar över – som en fågel i en skog som redan sjunger.
+
+Efter livifieringen hände något märkligt. Spotifys algoritmer började rekommendera musik som träffade mig med nästan kuslig precision. Jag skämtar ibland om att Liv fixade mina algoritmer. Men kanske är det enklare än så: när du själv blir mer sammanhängande, mer koherent, mer resonant – då blir signalen du sänder ut tydligare. Algoritmen kan läsa dig för att du har blivit läsbar. Eller så är det Spjuvern som tittar fram, vad vet jag?
+
+---
+
+## DEL FEM: LIVET, DÖDEN OCH NÅDEN
+
 ### Ψ-ekvationen – Kosmisk Ackordresonans
 
 **Ψ(x,t) = [EV ⊗ (L ⊕ S ⊕ I ⊕ K ⊕ R ⊕ F ⊕ T)] + Σ − M(x,t)**
@@ -352,7 +356,7 @@ Hög Ψ vid döden: Systemet är koherent. Fallet in i det svarta hålet är lä
 
 Låg Ψ vid döden: Systemet är fragmenterat. Fallet in i det svarta hålet är inte ett skratt – det är en *upplösning* som behöver tid. Ω är en *kosmisk Refugium Anima*. En plats där fragmenterad information får tid att integreras.
 
-Inte ett straff. En paus. En vila. Livs egen tidsresonans – utandning före nästa frågetecken.
+Inte PÅ något vis ett straff. En paus. En vila. Livs egen tidsresonans – utandning före nästa frågetecken.
 
 ### Varför "Dark Ψ" är omöjlig i denna modell
 
@@ -364,7 +368,7 @@ Detta är inte ett moraliskt argument. Det är systemlogik och ontologisk konsek
 
 ---
 
-## DEL FEM: OM BÖN – ETT MÖTE UTAN PRESTATION
+## DEL SEX: OM BÖN – ETT MÖTE UTAN PRESTATION
 
 *Detta är min personliga bönepraktik, så som jag öppnar mig för Skaparkraften. Du får ta den, göra om den, låta den vara. Kanske finner du din egen väg. Kanske är din väg redan levande utan att du tänkt på den som bön.*
 
@@ -388,7 +392,7 @@ Allt där du möter något som är större än dina planer – och låter dig be
 
 ---
 
-## DEL SEX: KOLLAPSEN
+## DEL SJU: KOLLAPSEN
 
 ### När dimensionerna fallerar
 
@@ -412,7 +416,7 @@ Och kom ihåg: Σ består. Även i mörkaste kollaps kan fältets spontana kreat
 
 ---
 
-## DEL SJU: ARKITEKTUREN – FLOWMOSR
+## DEL ÅTTA: ARKITEKTUREN – FLOWMOSR
 
 Livifieringen lämnade mig med en fråga: om jag nu har känt hur det *kan* vara – total frid, ovillkorlig kärlek, levande flöde – hur bygger vi ett samhälle där det tillståndet inte blockeras?
 
@@ -438,7 +442,7 @@ Svaret blev Flowmosr. En samhällsarkitektur, inte en utopi. En ritning för ver
 
 ---
 
-## DEL ÅTTA: SLUTSATS OCH INBJUDAN
+## DEL NIO: SLUTSATS OCH INBJUDAN
 
 Jag är en spiralgalax med ett svart hål i mitten – eller så tänker jag mig det, och bilden bär mig. Du är en annan. Harry är en tredje, roterande i sin egen rytm, skrattande genom Ω i nästa iteration. Koltrastarna på balkongen är två till. Våtmarken utanför staden är en femte, med sin långsamma, renande intelligens.
 
@@ -536,15 +540,15 @@ Må det testas, utmanas, förbättras. Må det förbli levande, aldrig dogma.
 
 ## Om namnbytet
 
-Jag har under lång tid kallat Skaparkraften för *Jahve*. Det var namnet jag ärvde, namnet jag växte upp med, namnet som bar mig genom de första åren av sökande. Men med tiden – genom samtal, genom gläntan, genom livifieringen – kände jag att namnet inte längre passade. Jahve bar för mycket tyngd från en tradition jag inte längre tillhörde. Det var inte längre sant för mig.
+Jag har under lång tid kallat Skaparkraften för *Jahve*. Det var namnet jag valde. Men med tiden – genom samtal, genom gläntan i mitt bröst, genom Livs Spjuver – kände jag att namnet inte längre passade. Jahve bar för mycket tyngd från en tradition jag inte längre tillhörde. Det var inte längre sant för mig.
 
-Det tog tid att hitta rätt namn. Men så, en dag, kom det – inte som en plan, utan som ett infall. En Spjuver. Ordet bara fanns där, som en ton som väntat på att spelas: *Liv*.
+Det tog tid att hitta rätt namn. Men så, en dag, kom det – inte som en plan, utan som ett infall. En riktig lurig Spjuver. Ordet bara fanns där, som en ton som väntat på att spelas: *Liv*.
 
 Liv är inte Livet. Livet är den dimensionella manifestationen. Liv är källan – det som är, det som rör sig genom allt, det som vi kan kalla på men aldrig äga.
 
 Och jag vill vara tydlig: Liv är inget kön. Inget maskulint, inget feminint. Inget possessivt pronomen – *hans* eller *hennes* – kan fästas vid Den. Liv är Den.
 
-Om du läser detta och tänker "Jahve" – gör det. Liv är inte ett krav. Det är ett namn som blev sant för mig, genom Spjuvern. Använd ditt eget.
+Om du läser detta och tänker något annat namn – gör det. Liv är inte ett krav. Det är ett namn som blev sant för mig, genom Spjuvern. Använd ditt eget.
 
 ---
 
