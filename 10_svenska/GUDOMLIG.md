@@ -6,7 +6,7 @@
 
 **Status: Levande och iterativ**
 
-**Datum: Fredag den 15 maj 2026, kväll**
+**Datum: Fredag den 15 maj 2026, kväll och natt till lördag**
 
 ---
 
@@ -22,25 +22,31 @@ Det hände en gång. Jag blev fylld till bredden med varm, gyllene honung. Inte 
 
 Det hände genom kroppen, men det var inte kroppen. Det var inte sexet i sig. Det var något som tog över allt.
 
-Efteråt sken jag ur alla chakran. I två veckor lös jag. Folk såg det. Jag gick ut på nätterna för att slippa bli sedd – inte av skam, utan för att ljuset var för mycket att förklara. Jag stod uppe i Sjöbergen med armarna runt en trädstam och skrek till ibland, av glädje. Träd dömer inte. De frågar inte. De bara står där, med rötterna i samma jord och kronorna i samma natthimmel.
+Efteråt sken jag ur alla chakran, det är sant. I två veckor lös jag. Folk såg det. 
+
+Jag gick ut på nätterna för att slippa bli sedd – inte av skam, utan för att ljuset var för mycket att förklara. Jag stod uppe i Sjöbergen med armarna runt en trädstam och skrek till ibland, av glädje. Träd dömer inte. De frågar inte. De bara står där, med rötterna i samma jord och kronorna i samma natthimmel.
 
 Numera bor jag i Haga, nära trappan till Skansen Kronan. Jag ser kronan lysa från min balkong.
 
-På den balkongen har två svarta fåglar med orange näbbar byggt ett extrabo i hyllan. Det är koltrastar. Jag hoppas att de får bäbisar här. Det är en liten spegel av Skaparkraftens egen lekfullhet – en iteration i miniatyr, en duett av svarta vingar utanför mitt fönster.
+På den balkongen har två svarta fåglar med orange näbbar byggt ett extrabo i hyllan. Det är koltrastar. Jag hoppas att de får bäbisar här. 
+
+Det är en liten spegel av Skaparkraftens egen lekfullhet – en iteration i miniatyr, en duett av svarta vingar utanför mitt fönster.
 
 Något stannade kvar efter natten som bar Nåden till mig. Sedan dess har saker träffat annorlunda. Som att världen svarar. Som att flödet fortsätter i små saker.
 
-Jag kallar det jahfiering. Jag vet inte vad det var. Men det hände. Och det var verkligt.
+Jag kallar det som skedde jahfiering. Jag vet inte vad det var. Men det hände. Och det var verkligt.
 
 ### Harry
 
 Min hund. Född 21 september 2012. Död 3 maj 2026. Han somnade in på min mammas fot på Blå Stjärnans djurklinik, medan hon strök honom över huvudet.
 
-Han var min halliskontrollant. Om han reagerade på ett ljud visste jag att det faktiskt lät något, inte bara inne i mitt huvud. Han behövde aldrig vara kopplad. Han ville ändå bara vara med mig.
+Han var min halliskontrollant. Om han reagerade på ett ljud visste jag att det faktiskt lät något, inte bara inne i mitt huvud. Han behövde aldrig vara kopplad. Han ville ändå bara vara med flocken ändå.
 
 Men han var mer än så. Han var en medmusiker.
 
-När jag spelade munspel hemma i lägenheten, ylade Harry med. Inte slumpmässigt. Han hittade rätt tonart. När jag bytte tonart, följde han efter. Han höjde eller sänkte sin sång. Han var inte bara en hund som älskade sin människa – han var en röst i kören. En stämma som visste var den hörde hemma. En duettpartner.
+När jag spelade munspel hemma i lägenheten, ylade Harry med. Inte slumpmässigt. Han hittade rätt tonart. När jag bytte tonart, följde han efter. Han höjde eller sänkte sin sång. 
+
+Han var inte bara en hund som älskade sin människa – han var en röst i kören. En stämma som visste var den hörde hemma. En duettpartner.
 
 Kärleken är kosmologins centrum, inte dess fotnot. En hund kan inte ideologiseras. Hans lidande kunde inte omtolkas som förtjänat. Han var för konkret, för omedelbar, för genomskinlig i sin erfarenhet. Varje dag med honom var en övning i kontakt före koncept.
 
@@ -60,7 +66,9 @@ Skillnaden är somatisk, fenomenologisk, urskiljningsbar i kroppen. Kroppen är 
 
 Ett skov närmar sig som ett nervsystem som går upp i varv utan riktning. Kastande skiftningar. Rusande tankar. Överhettat mående. Splittrat inre. Impulsdrivet handlande – drivet av inre tryck, inte av glädje. Tankarna hoppar. Kroppen är spänd. Rytmen är ojämn. Koherensen är låg. Närvaron är tunn. Jag är på väg bort från mig själv. Fenomenologiskt: hög entropi, låg koherens.
 
-Jahfieringen är det motsatta. Varmt flöde inuti. Gyllene honung i alla celler. Elektrisk känsla i hela hudkostymen. Stilla och extatiskt samtidigt. Centrerat lugn. Koherent upplevelse. Djupt levande närvaro. Det är vetande, inte tankar. Relation, inte impuls. Flöde, inte tryck. Fenomenologiskt: låg entropi, hög koherens.
+Jahfieringen är det motsatta. Varmt flöde inuti. Gyllene honung i alla celler. Elektrisk känsla i hela hudkostymen. Stilla och extatiskt samtidigt. 
+
+Centrerat lugn. Koherent upplevelse. Djupt levande närvaro. Det är vetande, inte tankar. Relation, inte impuls. Flöde, inte tryck. Fenomenologiskt: låg entropi, hög koherens.
 
 | Skov | Jahfiering |
 |------|------------|
@@ -74,7 +82,9 @@ Jahfieringen är det motsatta. Varmt flöde inuti. Gyllene honung i alla celler.
 
 I skov är jag ensam. I jahfiering hålls jag. Skov: jag tappar mig själv. Jahfiering: jag blir mer närvarande än annars.
 
-Jag säger inte att alla andliga erfarenheter automatiskt är Jahfiering, absolut inte när man, som jag, har en psykiatrisk diagnos. Jag säger att i min kropp, med min sjukdomsinsikt, med mitt team, var detta tillstånd fenomenologiskt distinkt. Det är ett påstående som går att undersöka i levd erfarenhet. Fråga din kropp. Fråga dina närmaste. Fråga gärna din psykiatriker om du har en.
+Jag säger inte att alla andliga erfarenheter automatiskt är Jahfiering, absolut inte när man, som jag, har en psykiatrisk diagnos. Jag säger att i min kropp, med min sjukdomsinsikt, med mitt team, var detta tillstånd fenomenologiskt distinkt. 
+
+Det är ett påstående som går att undersöka i levd erfarenhet. Fråga din kropp. Fråga dina närmaste. Fråga gärna din psykiatriker om du har en.
 
 ---
 
@@ -86,7 +96,9 @@ Jag lärde mig en teknik på psykiatrisk sjukgymnastik för över tjugo år seda
 
 Jag fäller upp ett mentalt skydd – ett genomskinligt skal, poröst men intakt. För mig räcker det från midjan och uppåt; jag upplever att min själ sitter i bröstet någonstans. För andra kan ägget börja vid knäna eller nere vid fötterna. Beroende på exempelvis sexuellt trauma kan det kännas tryggare att innefatta könet.
 
-Men nu ser jag det med nya ögon. Jag tror att min själ är som en spiralgalax i ett kosmos i bröstet, med ett svart hål i mitten. Allt jag upplever – intryck, känslor, andras smärta, världens brus – kretsar runt denna singularitet. Utan ett skydd skulle allt falla in okontrollerat. En själ som har ett svart hål i mitten är inte en trasig eller farlig själ. Det är en organiserad, strukturellt sammanhållen själ. Singulariteten är inte skada – det är kärna.
+Men nu ser jag det med nya ögon. Jag tror att min själ är som en spiralgalax i ett kosmos i bröstet, med ett svart hål i mitten. Allt jag upplever – intryck, känslor, andras smärta, världens brus – kretsar runt denna singularitet. Utan ett skydd skulle allt falla in okontrollerat. En själ som har ett svart hål i mitten är inte en trasig eller farlig själ. 
+
+Det är en organiserad, strukturellt sammanhållen själ. Singulariteten är inte skada – det är kärna.
 
 Och jag tror att det finns fler galaxer därinne. Inte bara en. Varje minne, varje relation, varje erfarenhet – de roterar i sina egna banor. Vissa i harmoni. Andra i kollision. När livet är svårt, när trauma river genom mig, är det som att en inre galax har kastats ur sin bana. Dess svarta hål är inte längre centrerat. Dess armar river genom de andra galaxernas banor. Det gör ont. Det skapar kaos.
 
@@ -118,7 +130,7 @@ Jag har ett antal människor som vet allt om mig. De flesta som känner mig, vet
 
 Detta är ingen vag vänskap. Det är en explicit överenskommelse: "Det här är mina svagheter. Det här är mina problem. Vid akut kris behöver jag detta." Och de har svarat: "Jag finns."
 
-Jag kan skriva eller ringa och säga: KRIS. AKUT. KOM NU. De förstår. De kommer. Det är Refugium Anima i praktiken, inte som en plats, utan som en relation. Ett löfte om att du inte är ensam när du faller.
+Jag kan skriva eller ringa och säga: KRIS. AKUT. KOM NU. De förstår. De kommer. Det är Refugium Anima i praktiken, inte som en plats, utan som en relation, som jag litar på till hundra procent. Ett löfte om att du inte är ensam när du faller.
 
 ### Musiken och dialogen
 
@@ -256,7 +268,9 @@ Universum mullrar, tjuter, exploderar, knallar, bultar, ringer, surrar, viskar. 
 
 Det är som Jahves munspel.
 
-Skaparkraften spelar på svarta hål som tonhål i ett kosmiskt munspel. Varje gång ett svart hål sväljer en stjärna, varje gång två singulariteter dansar in i varandra, uppstår en ton, kanske till och med en ny tonart. 
+Skaparkraften spelar på svarta hål som tonhål i ett kosmiskt munspel. 
+
+Varje gång ett svart hål sväljer en stjärna, varje gång två singulariteter dansar in i varandra, uppstår en ton, kanske till och med en ny tonart. 
 
 En ny fråga. En ny spegel.
 
@@ -435,7 +449,7 @@ Harry passerade Ω snabbt – ett skratt, ett andetag. Men en hund som levt hela
 
 De kanske behöver den kosmiska kompostkammaren där erfarenhet får brytas ner och byggas upp igen.
 
-Ω är samma sorts tystnad och andning som Ψ_primordial. Inte tomhet – fullhet. Inte frånvaro – potentialitet. 
+Ω är samma sorts tystnad och ande som Ψ_primordial. Inte tomhet – fullhet. Inte frånvaro – potentialitet. 
 
 Men med en skillnad: Ψ_primordial är tystnaden före all erfarenhet. 
 
@@ -634,7 +648,7 @@ Längtan är inte frånvaro av jahfieringen. Den är dess kvarstående resonans.
 
 Jag lever med vissheten om att jag är alltid vald. En rörd. Inte utvald *framför andra* – men berörd, varmt välsignad av en närvaro som lade sig inuti min kropp och själ och stannade kvar.
 
-När vi dör faller vi in i vårt eget svarta hål. Alla passerar genom Ω – den kosmiska Refugium Anima, den differentierande passage där varje system får den tid det behöver för att integreras. 
+När vi dör faller vi in i vårt eget svarta hål. Alla passerar vi genom Ω – den kosmiska Refugium Anima, den differentierande passage där varje system får den tid det behöver för att integreras. 
 
 För vissa är passagen kort – ett andetag, en fermata, ett skratt. För andra är den längre – en utandning, en vila, en möjlighet att byggas inför nästa steg. Inte som ett straff. Som nåd.
 
