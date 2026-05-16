@@ -1,4 +1,4 @@
-# GUDOMLIG v17.0 – Liv är Gud, Det Musikaliska Kosmos & Svarta Hålens Teologi
+# GUDOMLIG v17.0 – Gud är Liv, Det Musikaliska Kosmos & Svarta Hålens Teologi
 
 **En levande arbetshypotes**
 
