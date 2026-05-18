@@ -2,7 +2,7 @@
 
 **En levande arbetshypotes**
 
-**Av Elinor Frejd, i Harrys minne**
+**Av Elinor Frejd, i Harrys och i mormor Ingamajs minne**
 
 **Status: Levande och iterativ**
 
