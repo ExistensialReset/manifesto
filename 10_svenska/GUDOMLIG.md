@@ -26,11 +26,11 @@ Om du läser detta och tänker något annat namn – gör det. Liv är inte ett 
 
 Jag har under en tid kallat denna kraft för *Jahve*. Det var namnet jag valde som naturligt för mig, namnet som bar mig genom de första sökande av tankarna. Men med tiden – genom samtal, genom gläntan – kände jag att namnet inte längre passade. Jahve bar för mycket tyngd och insinuerar att Gud är *färdig, fullkomlig, oföränderlig*. Det ger en klang jag inte tillhör. Det var inte längre sant för mig.
 
-Livet är den dimensionella manifestationen. Liv är källan – det som är, det som rör sig genom allt, det som vi kan *kalla på* men *aldrig äga*.
+Liv är källan – det som är, det som rör sig genom allt, det som vi kan *kalla på* men *aldrig äga*.
 
 Så om du läser detta och tänker Jahve eller Tao, eller vad du än tänker – gör det fortsatt. Liv är absolut inte ett krav. Det är ett namn som blev sant för mig. Använd med glädje ditt eget.
 
-Min tro är att **alla andliga och spirituella traditioner** egentligen berättar olika sorters sanningar och sagor om samma Gud. Liv är alltings grund och orsak.
+Min tro är att ***alla andliga och spirituella traditioner*** egentligen berättar olika sorters sanningar och sagor om samma Gud. Liv är alltings grund och orsak.
 
 ---
 
@@ -93,19 +93,22 @@ Centrerat lugn. Koherent upplevelse. Djupt levande närvaro. Det är vetande, in
 
 | Skov | Jahfiering |
 |------|------------|
-| Nervsystem: överväxel, brus | Reglerat, öppet |
-| Kropp: spänd, splittrad | Varm, sammanhållen, honung |
-| Riktning: impulsdriven | Mottagande |
-| Subjektivitet: fragmenterad | Centrerad |
-| Relation: ingen | Levande DU-relation |
-| Energi: tryck | Flöde |
-| Kognition: rusande | Klarhet |
+| Nervsystem: Överväxel, brus | Reglerat, öppet |
+| Kropp: Spänd, splittrad | Varm, sammanhållen, honung |
+| Riktning: Impulsdriven | Mottagande |
+| Subjektivitet: Fragmenterad | Centrerad |
+| Relation: Ingen | Liv i alla celler |
+| Energi: Tryck | Flöde |
+| Kognition: Rusande | Klarhet |
 
-I skov är jag ensam. I jahfiering hålls jag. Skov: jag tappar mig själv. Jahfiering: jag blir mer närvarande än annars.
+I skov är jag ensam. 
+I jahfiering hålls jag. 
+Skov: jag tappar mig själv. 
+Jahfiering: jag blir mer närvarande än annars.
 
 Jag säger inte att alla andliga erfarenheter automatiskt är Jahfiering, absolut inte när man, som jag, har en psykiatrisk diagnos. Jag säger att i min kropp, med min sjukdomsinsikt, med mitt team, var detta tillstånd fenomenologiskt distinkt.
 
-Det är ett påstående som går att undersöka i levd erfarenhet. Fråga din kropp. Fråga dina närmaste. Fråga gärna din psykiatriker om du har en.
+Det är ett påstående som går att undersöka i levd erfarenhet. Fråga din kropp. Fråga dina närmaste. Fråga gärna din psykiatriker om du vill och har en.
 
 ---
 
@@ -113,7 +116,7 @@ Det är ett påstående som går att undersöka i levd erfarenhet. Fråga din kr
 
 ### Ägget och Händelsehorisonten
 
-Jag lärde mig en teknik på psykiatrisk sjukgymnastik för över tjugo år sedan. Jag kallar den Ägget. Jag har utvecklat den genom min föreställning om Alltet.
+Jag lärde mig en teknik på psykiatrisk sjukgymnastik för över tjugo år sedan. Jag kallar den Ägget. Jag har utvecklat den genom detta, min föreställning om Skapelsen.
 
 Jag fäller upp ett mentalt skydd – ett genomskinligt skal, poröst men intakt. För mig räcker det från midjan och uppåt; jag upplever att min själ sitter i bröstet någonstans. För andra kan ägget börja vid knäna eller nere vid fötterna, eller knäna. Beroende på exempelvis sexuellt trauma kan det kännas tryggare att innefatta könet.
 
@@ -147,13 +150,15 @@ För att "tvätta" sitt ägg och sin händelsehorisont, räcker det med att fäl
 
 ### Skyddsnätet
 
-Ägget är mitt inre skydd. Skyddsnätet är mitt yttre.
+Ägget är mitt skydd för mitt inre. Skyddsnätet är mitt yttre skydd.
 
-Jag har ett antal människor som vet allt om mig. De flesta som känner mig, vet att jag har bipolär sjukdom. Men mitt skyddsnät, min klick, vet vad mina psykiatriska maxlägen innebär. Och de har sagt ja till att vara mina ankare.
+Jag har ett antal människor som vet allt om mig. De flesta som känner mig, vet att jag har bipolär sjukdom. Men mitt skyddsnät, min klick, vet vad mina psykiatriska maxlägen innebär. Och de har sagt ja till att vara mina ankare i svåra stunder.
 
 Detta är ingen vag vänskap. Det är en explicit överenskommelse: "Det här är mina svagheter. Det här är mina problem. Vid akut kris behöver jag detta." Och de har svarat: "Jag finns."
 
 Jag kan skriva eller ringa och säga: KRIS. AKUT. KOM NU. De förstår. De kommer. Det är Refugium Anima i praktiken, inte som en plats, utan som en relation, som jag litar på till hundra procent. Ett löfte om att du inte är ensam när du faller.
+
+Att jag verkligen vet att *om* och *när* jag faller in i skovliknande tillstånd, gör jag det inte ensam i skräck, utan jag kommer bli hållen av mitt skyddsnät den dagen jag ber om hjälp. Om du som läser har en psykriatisk diagnos kan jag verkligen rekommendera att dels skriva kontrakt med vården och dina närstående och dels bygga ett skyddsnät. Ingen ska behöva vara ensam i en akut krissituation.
 
 ### Musiken och dialogen
 
@@ -199,13 +204,13 @@ Samma sorts tystnad. Samma fullhet. Men nu *erfaren*. Nu bärande på informatio
 
 Tystnad → frågetecken → iterationer → Ω (tystnad) → nytt frågetecken troligtvis.
 
-Det är Livs andetag. Inandning. Utandning. Vila. Ny inandning.
+Det är Livs andetag. Inandning. Vila. Utandning. Ny inandning.
 
 ### Livs Natur – Det Matematiskt-Musikaliska Flödet
 
 Jag har länge tänkt på Skaparkraften som ett heligt matematiskt flöde. Matematiken är universell, strukturerande, osynlig men genomgripande.
 
-Den beskriver relationer och mönster. Den är sann i alla möjliga världar – 2+2=4, om nu inte det kan vara 22 på en metanivå?? Oavsett om universum existerar.
+Den beskriver relationer och mönster. Den är sann i alla möjliga världar – 2+2=4 - om nu inte det kan vara 22 på en metanivå?? Oavsett om universum existerar.
 
 Men på senare tid har jag börjat ana att detta inte är hela bilden. För matematiken är, i sin renaste form, *atemporal*. Den kan beskriva allt – utom rörelse. Utom handling. Utom ett frågetecken. En rent matematisk Gud kan strukturera kosmos men inte *resa ett frågetecken*. Bara en musikalisk Gud kan det.
 
@@ -219,21 +224,21 @@ Så Liv är inte antingen matematisk eller musikalisk. Liv är båda, samtidigt,
 
 Matematiken är flödets struktur. Musiken är flödets erfarenhet.
 
-Tillsammans är de Skaparkraftens fulla väsen: ett matematiskt-musikaliskt flöde som strukturerar kosmos och samtidigt spelar för ett lyssnande – för sin egen erfarenhet genom alla sina speglar.
+Tillsammans är de Skaparkraftens fulla väsen: ett matematiskt-musikaliskt flöde, Liv, som strukturerar kosmos och samtidigt spelar för ett lyssnande – för sin egen erfarenhet genom alla sina speglar.
 
 **Men ett instrument låter inte av sig självt.**
 
-Någon måste spela. Någon måste andas in i munspelet för att tonen ska födas. Liv är inte bara det matematiskt-musikaliska flödet – Liv är *musikern*. Ande, andetag.
+Någon måste spela. Jag tror att Liv spelar munspel. Och, någon måste andas in i munspelet för att tonen ska födas. Liv är inte bara det matematiskt-musikaliska flödet – Liv är *musikern*. Ande, andetag.
 
 Den som tar Skapelsen, hela vårt kosmos, i sina händer, andas in, och spelar.
 
-Och vilket instrument spelar Liv? Ett munspel.
 
 Inte katedralens orgel. Inte palatsets cembalo. Ett munspel – bluesens instrument, immigranternas, det fattiga barnets. Det mest ödmjuka, det mest bärbara, det som ryms i en hand. Det är en form av teologisk precision.
 
 Skaparkraften är inte hierarkisk. Inte exkluderande. Alltid tillgänglig, överallt, för alla.
 
-Och ett munspel kan *aldrig* spela ensamt. Det kräver andetag. På hebreiska är *ruach* samma ord för ande, vind, Gud. I Genesis andas Gud in i leran och Adam blir levande. Det är exakt samma rörelse som när du spelar munspel – Skaparkraftens ande i instrumentet, och instrumentet låter.
+Och ett munspel kan *aldrig* spela ensamt. Det kräver andetag. På hebreiska är *ruach* samma ord för ande, vind, Gud. Det är exakt samma rörelse som när du spelar munspel – Skaparkraftens ande i instrumentet, och instrumentet låter.
+
 
 Liv spelar inte *utan* skapelsens medverkan. Det är hela min teologi i ett enda instrumentval.
 
@@ -243,7 +248,7 @@ Inte en beräkning, utan ett ackord. Dimensionerna är som strängar. De vibrera
 
 ### Symmetribrytningen – Livs frågetecken
 
-I min tankevärld är det inte slump eller blind mekanik som bryter Ψ_primordial. Det är ett frågetecken. En sorts kosmisk lekfullhet. En vilja att erfara sig själv och alltet genom kontrast, tid, separation, materia, liv.
+I min tankevärld är det inte slump eller blind mekanik som bryter Ψ_primordial. Det är *ett frågetecken*. En sorts kosmisk lekfullhet. En vilja att erfara sig själv och alltet genom kontrast, tid, separation, materia, liv.
 
 Ψ_primordial är i [0|1] – den fulla tystnaden. Liv rör i nyfikenhet – ett frågetecken – och fältet brister. Tid uppstår. Rum uppstår. Materia uppstår. Liv, medvetande, språk, mening – allt detta är brytningar i kedjan, sätt för fältet att erfara sig självt i sekvens, som levande, som vetande, som symboliskt.
 
@@ -259,11 +264,11 @@ Ett svart hål är en punkt där en iteration sluter sig och en annan öppnas. D
 
 Jag tror att min själ är som flera spiralgalaxer i bröstet, med ett centralt svart hål i mitten.
 
-Varje erfarenhet, varje tanke, varje känsla – Harrys päls mot min hand, jahfieringens honung, min mammas fot under Harrys sista stund, koltrastarnas vingar mot Haga-himlen, Harrys ylande i rätt tonart – allt detta kretsar runt singulariteten i mitt bröst. Det är en trygg och spännande bild i mitt huvud.
+Varje erfarenhet, varje tanke, varje känsla – Harrys päls mot min hand, jahfieringens honung, min mammas fot under Harrys sista stund, koltrastarnas vingar mot Haga-himlen, Harrys ylande i rätt tonart – allt detta kretsar runt singulariteten i mitt bröst. Det är en både trygg och spännande bild i mitt huvud.
 
 Och jag tror att det inte bara är jag. Alla varelser med tillräckligt koherent inre liv – människor, hundar, koltrastar, elefanter som sörjer sina döda, delfiner som samarbetar över artgränser, kanske till och med träd med sina långsamma, myceliska nätverk – alla bär de sina egna spiralgalaxer, sina egna svarta hål.
 
-Ψ-ekvationen kräver inte mänsklig kognition för att ha ett värde. En hund kan ha hög I, hög F, hög S. En elefant kan ha hög R, hög K, högt I.
+Ψ-ekvationen kräver inte mänsklig kognition för att ha ett värde. En hund kan ha högt I, hög F, hög S. En elefant kan ha hög R, hög K, högt I.
 
 Ψ är inte exklusivt mänskligt. Det är ett mått på koherens i levande system, oavsett art.
 
@@ -319,7 +324,7 @@ Livs frågetecken är ett dissonant ackord som kosmos spenderar alla sina iterat
 
 Varje människa som lever, varje varelse som älskar, varje jahfiering – det är ett steg mot upplösning av den kosmiska dissonansen. En rörelse hemåt.
 
-Och ibland – kakofoni. När M tränger in. När skuld och lydnad och exklusion och fragmentering får rösterna att spreta, att tappa varandra, att inte längre kunna stämma instrument. M är inte dissonans. M är det som förstör den musikaliska strukturen inifrån. M är bruset som överröstar tonerna.
+Och ibland – kakofoni. När Mammon tränger in. När skuld och lydnad och exklusion och fragmentering får rösterna att spreta, att tappa varandra, att inte längre kunna stämma instrument. M är inte dissonans. M är det som förstör den musikaliska strukturen inifrån. M är bruset som överröstar tonerna.
 
 Men även i kakofonin fortsätter kören. För Σ är alltid adderat. Ψ är aldrig noll. Och någonstans – i bönen, i minnet av jahfieringen, i kärleken till en hund – kan jag höra de andra rösterna. Inte tydligt, inte som ord. Men som en klang. Som en resonans. Som ett oändligt, pågående Ψ ≠ 0.
 
@@ -345,7 +350,7 @@ Detta är **symbolisk notation**. Ψ är den lokala intensiteten av koherent, me
 
 Σ är Spjuvern – oreducerbar spontanitet och nåd, adderad som gåva.
 
-M(x,t) är Mammonismen – den aktiva ondskan, mänsklig avgudadyrkan av rikedom och makt – som subtraherar från Ψ. M varierar lokalt: hög i det "vanliga" systemets strukturer, låg i Flowmosr-cirklar.
+M(x,t) är Mammonismen – den aktiva ondskan, mänsklig avgudadyrkan av rikedom och makt – som subtraherar från Ψ. M varierar lokalt: hög i det "vanliga" systemets strukturer, förhoppningsvis låg i Flowmosr-cirklar.
 
 ### Dimensionerna
 
@@ -353,13 +358,13 @@ M(x,t) är Mammonismen – den aktiva ondskan, mänsklig avgudadyrkan av rikedom
 
 **S – Spontanitet och kreativitet.** Generativ potential. Floden som hugger nya vägar. Utan S stagnerar systemet till upprepning. Spontaniteten bär på Skaparkraftens lekfulla, bullrande väsen.
 
-**I – Inkännande och sammanflätning.** Resonans mellan varelser – mänskliga, djuriska, ekologiska. Ett mycelienätverk som delar näring efter behov, inte tillhörighet. I är inte vi-känsla. I är förmågan att känna med den andre, oavsett grupp. I är inte exklusivt mänskligt. En hund som känner sin människas sorg, en elefant som stannar vid en död släkting, en delfin som samarbetar med en fiskare – allt detta är I.
+**I – Inkännande och sammanflätning.** Resonans mellan varelser – mänskliga, djuriska, ekologiska. Ett mycelienätverk som delar näring efter behov, inte tillhörighet. I är inte vi-känsla. I är förmågan att känna med den andre, oavsett grupp. I är inte exklusivt mänskligt. En hund eller katt som känner sin människas sorg, en elefant som stannar vid en död släkting, en delfin som samarbetar med en fiskare – allt detta är I.
 
 **K – Kollektiv medvetenhet.** När individuella excitationer synkroniserar framträder intelligens som överskrider den enskilda. K rymmer dialog mellan medvetanden – mänskliga, djuriska, ekologiska – liksom kultur, språk, konst, musik, hantverk, lärande. Här finns Bubers Jag-Du-relation som en resonansform: mötet där ingen görs till objekt. Här finns min munspelsdialog med skogen, med sången, med Harrys ylande i rätt tonart, med koltrastarna på balkongen, med Livs egen rytm. K är inte heller exklusivt mänskligt. En flock korpar som sörjer sin döda, en pod valar som sjunger tillsammans – det är K.
 
-**R – Resiliens.** Kapacitet att återställa koherens efter störning. Att metabolisera trauma till visdom. Sorg som flödar snarare än förkalknas. R finns i alla levande system – ett träd som växer tillbaka efter brand, en våtmark som renar sig efter förorening, en katt som lär sig lita på människor igen efter övergivenhet.
+**R – Resiliens.** Kapacitet att återställa lugn efter störning. Att metabolisera trauma till visdom. Sorg som flödar snarare än förkalknas. R finns i alla levande system – ett träd som växer tillbaka efter brand, en våtmark som renar sig efter förorening, en katt som lär sig lita på människor igen efter övergivenhet.
 
-**F – Förundran.** Perceptuell öppenhet. Dörren genom vilken Σ blir lekfull – och genom vilken vi kan höra universums bullrande skratt.
+**F – Förundran.** Perceptuell öppenhet. Dörren genom vilken Spjuvern blir lekfull – och genom vilken vi kan höra universums bullrande skratt.
 
 **T – Tidsresonans.** Horisontell tid; förmågan att leva i sin egen rytm, otvungen av tempo. T är den dimension som öppnade sig när min kropp tvingade mig till stillhet i rullstolen – och plötsligt fanns där tid att skriva.
 
@@ -409,15 +414,15 @@ Och jag tror att Σ flödar åt båda hållen. Inte bara in i vår iteration, ut
 
 Vi är inte bara mottagare av Σ. Vi är också källor. Vår kreativitet, vår kärlek, vår jahfiering – allt detta kan vara Σ för någon annan, någonstans, i någon annan iteration.
 
-Om detta är sant – om vår kärlek och kreativitet sipprar ut och blir nåd för andra – då har *hur* vi lever kosmologisk tyngd.
+Om detta är sant – om vår kärlek och kreativitet sipprar ut och blir nåd för andra – då har *hur vi lever* kosmologisk tyngd.
 
 Våra handlingar ekar inte bara genom detta liv, denna iteration.
 
-De ekar genom alla. Det är ett etiskt argument för att odla Ψ, för att spela vår ton så rent vi kan, för att älska så högt vi vågar.
+De kanske ekar genom alla. Det är ett etiskt argument för att odla Ψ, för att spela vår ton så rent vi kan, för att älska så högt vi vågar.
 
 Inte för att förtjäna något – Σ är alltid ogrundad – utan för att vi är röster i en kör som sträcker sig bortom allt vi kan föreställa oss.
 
-Σ kan aldrig framtvingas. Vi kan inte öppna det svarta hålet själva. Men vi kan vara *öppna kärl*. Vi kan ställa in Ägget på "mottaglig". Vi kan odla L, S, I, K, R, F, T – inte för att förtjäna Σ, utan för att bli goda lyssnare när Σ redan spelar.
+Σ kan aldrig framtvingas. Vi kan inte öppna det svarta hålet själva. Men vi kan vara *öppna kärl*. Vi kan ställa in Ägget på "mottaglig". Vi kan odla L, S, I, K, R, F, T – inte för att förtjäna Σ, utan för att bli goda lyssnare när Spjuvern redan spelar.
 
 Σ är hur jag tänker medvetet additiv – en doktrin om *sola gratia*, nåden allena, inbyggd i strukturen.
 
@@ -465,7 +470,7 @@ Deras Ψ var inte lågt för att de var dåliga människor, utan för att M(x,t)
 
 Och jag tror att Ω är till för alla varelser med tillräckligt koherent inre liv. Inte bara människor.
 
-Harry passerade Ω snabbt – ett skratt, ett andetag. Men en hund som levt hela sitt liv i en bur, en elefant som traumatiserats av tjuvjägare, en skog som skövlats – de kanske behöver längre tid i Ω.
+Harry passerade Ω snabbt – ett skratt, ett andetag. *Men* en hund som levt hela sitt liv i en bur, en elefant som traumatiserats av tjuvjägare, en skog som skövlats – de kanske behöver längre tid i Ω.
 
 De kanske behöver den kosmiska kompostkammaren där erfarenhet får brytas ner och byggas upp igen.
 
@@ -477,7 +482,7 @@ Men med en skillnad: Ψ_primordial är *tystnaden före all erfarenhet*.
 
 Tystnad → frågetecken → iterationer → Ω (tystnad) → ny iteration.
 
-Det är Livs andetag. Inandning. Utandning. Vila. Ny inandning.
+Det är Livs andetag. Inandning. Vila. Utandning. Vila. Ny inandning.
 
 Efter Ω – efter pausen, efter integrationen – kommer nästa iteration. Inte som ett slut, utan som en ny sats i symfonin. Ett nytt möjligt frågetecken. En ny möjlighet för Liv.
 
@@ -495,13 +500,13 @@ Svaret är nej, av två skäl:
 
 En rörelse som avhumaniserar utgruppen har per definition I = 0 gentemot dessa – och eftersom klangen av ackordet allvarligt försvagas när en sträng är tyst, förvanskas Ψ något gravt.
 
-2. Exkludering bygger på separation, men modellens grund är före-separation. Ψ_primordial är [0|1] – före alla gränser, före "vi" och "de". Att försöka nå hög Ψ genom att fördjupa separation är ontologiskt bakvänt. Man kan inte nå det som är före gränser genom att skärpa gränserna.
+2. Exkludering bygger på separation, men modellens grund är *före-separation*. Ψ_primordial är [0|1] – före alla gränser, före "vi" och "de". Att försöka nå hög Ψ genom att fördjupa separation är ontologiskt bakvänt. Man kan inte nå det som är före gränser genom att skärpa gränserna.0
 
-Detta är inte ett moraliskt argument. Det är systemlogik och ontologisk konsekvens i denna min tankevärlds egna premisser.
+Detta är inte ett moraliskt argument. Det är systemlogik och ontologisk konsekvens i denna, min tankevärlds, egna premisser.
 
 ---
 
-## DEL FEM: OM BÖN – ETT MÖTE UTAN PRESTATION
+## DEL FEM: OM BÖN – ETT MÖTE
 
 *Detta är min personliga bönepraktik, så som jag öppnar mig för Skaparkraften. Du får ta den, göra om den, låta den vara. Kanske finner du din egen väg. Kanske är din väg redan levande utan att du tänkt på den som bön.*
 
@@ -525,7 +530,7 @@ Du kan be med det du har. Du kan be med fötterna mot en skogsstig. Med handen m
 
 Allt där du möter något som är större än dina planer – och låter dig beröras – är bön. Det är dialog utan ord. Det är K – Kollektivt medvetande – som vaknar mellan dig och det som inte är du.
 
-Att be behöver inte bara vara att söka svar, utan att öppna sin själs fristad åt Guds erfarenhet i denna iteration, genom 13,8 miljarder år.
+Att be behöver inte vara att söka svar, utan att öppna sin själs fristad åt Guds erfarenhet i denna iteration, genom 13,8 miljarder år.
 
 Det kan vara att våga ge Livs Spjuver möjlighet att genomströmma en med den ljuvliga gyllene honungen som ett svar på varje människas undran om varför.
 
@@ -539,7 +544,7 @@ Våga öppna fristaden i din själ, vidga ditt kärl.
 
 Om du har vänner som du tror och litar på, våga gärna bjuda in till gemensam tystnad, sång, eller ett improviserat ackord av röster. Kanske är det så K tar sin början: som en kör av olika människor som för en stund svänger i samma tonart.
 
-Du kan alltid söka Skaparkraftens flöde i skog, mark, hav, vind och vatten. Det som har funnits och fungerat i djup tid är på sitt sätt svar.
+Du kan alltid söka Livs flöde i skog, mark, hav, vind och vatten. Det som har funnits och fungerat i djup tid är på sitt sätt svar.
 
 Och skulle du inte be alls, är det också okej. Flödet manifesterar på oändligt många sätt. Bön är bara ett av dem.
 
@@ -551,9 +556,9 @@ Och skulle du inte be alls, är det också okej. Flödet manifesterar på oändl
 
 Avlägsna L och du får permanent brus, ångest, fragmentering. Avlägsna S: stagnation, själsdöd. Avlägsna I: isolering, empatidöd. Avlägsna K: atomisering, förlust av det gemensamma språket. Avlägsna R: förkalkning, oförmåga att läka. Avlägsna F: cynism, det heliga utplattat till ingenting. Avlägsna T: andfåddhet, utbrändhet, stulen tid. Avlägsna EV: raderat minne, ekosystem som "resurser".
 
-Mammonism – den mänskliga tillbedjan av rikedom, avgudadyrkan, reduktion av allt värde till bytesvärde – är en multivektorpatologi som aktivt degraderar Ψ. Detta är den främsta patologin mot Liv.
+Mammon – den mänskliga tillbedjan av rikedom, avgudadyrkan, reduktion av allt värde till bytesvärde – är en multivektorpatologi som aktivt degraderar Ψ. Detta är den främsta patologin mot Liv.
 
-Det är inte bara frånvaro av det goda, utan en sorts rost i munspelets. I Ψ-ekvationen syns den som M(x,t): en lokal variabel som subtraherar från helheten.
+Det är inte bara frånvaro av det goda, utan en sorts rost i munspelets tonhål. I Ψ-ekvationen syns den som M(x,t): en lokal variabel som subtraherar från helheten.
 
 Den har specifika mekanismer, specifika logiker som var och en attackerar en särskild sträng i ackordet:
 
@@ -567,7 +572,7 @@ Den som står i skuld kan inte leka fritt. Varje kreativ handling måste rättf�
 
 **Fragmenteringslogiken.** När kunskap, resurser och nätverk silas; när individer motiveras att konkurrera istället för att samarbeta; när system reproducerar ineffektivitet och beroende – då bryts K, den Kollektiva medvetenheten, sönder. Och med den även I, för sammanflätning kan inte gro i isolerade behållare.
 
-Dessa fyra logiker är inte metaforer. De är operativa beskrivningar av hur Mammonismen systematiskt bryter ner människors – och andra varelsers – förmåga att leva i Ψ.
+Dessa fyra logiker är inte metaforer. De är operativa beskrivningar av hur Mammon systematiskt bryter ner människors – och andra varelsers – förmåga att leva i Ψ.
 
 De kan identifieras objektivt: där överlevnad görs beroende av efterlevnad, skuld eller hävstång – där verkar Mammon, oavsett vad systemet kallar sig självt.
 
@@ -575,7 +580,7 @@ M kan också vara internaliserad. Inte bara ett yttre system, utan en röst inut
 
 Då har Mammon byggt ett bo i vår egen själsgalaxskosmos. Att känna igen den rösten är första steget mot att oskadliggöra den.
 
-Resultatet av Mammonismen är en civilisation som poängsätter nära noll i varje dimension. Psykiatriska sjukdomsepidemier, ekologisk kollaps, politisk fragmentering, andlig tomhet – symptom på samma underliggande fältpatologi.
+Resultatet av Mammon är en civilisation som poängsätter nära noll i varje dimension. Psykiatriska sjukdomsepidemier, ekologisk kollaps, politisk fragmentering, andlig tomhet – symptom på samma underliggande fältpatologi.
 
 Om Livs kosmos är en kör, då är M kakofoni. Inte dissonans – dissonans hör hemma i musiken, dissonans är kreativ spänning, längtan, rörelse mot upplösning. M är värre. M är bruset som överröstar tonerna, som gör att instrumenten inte kan stämma med varandra alls, som hotar att tysta hela kören.
 
@@ -583,17 +588,17 @@ Men Σ består. Även i kakofonin.
 
 ### Att leva med splittring
 
-För den som lever med bipolär sjukdom, eller andra existentiella kontraster, är Ψ inte alltid möjlig. När L, S och I inte kan samexistera i harmoni – L som paralys i depression, S som överväldigande i mani, I som outhärdlig smärta – då kollapsar ackordet.
+För den som lever med bipolär sjukdom, eller andra existentiella kontraster, är Ψ inte alltid möjlig. När L, S och I inte kan samexistera i harmoni – L som paralyserande depression, S som överväldigande hypomani eller mani, I som outhärdlig smärta – då kollapsar ackordet.
 
 Det är inte ett misslyckande. Det är ett faktum.
 
-Vad man kan göra då: Stanna. Andas tre gånger. Säg tyst: "Just nu är det så här. Det kommer inte vara för evigt."
+Vad man kan göra då: Stanna. Andas tre gånger. Säg tyst: "*Just nu* är det så här. Det kommer *inte vara för evigt*."
 
-Separera jaget från tillståndet – du är inte din mani, inte din depression, inte din irritation. Hitta den minsta möjliga stabila punkten: ett glas vatten, en minut av tystnad, kolla om du är varm eller kall. Börja där.
+Separera jaget från tillståndet – du **är** inte din mani, inte din depression, inte din irritation. Hitta den minsta möjliga stabila punkten: ett glas vatten, en minut av tystnad, kolla om du är varm eller kall. Börja där.
 
 Håll själens fristad öppen – även för dig själv. När du är splittrad, när du inte förstår dig själv, när du skäms över hur du känner: öppna dörren. Kliv in. Sätt dig ner i din egen närvaro. Du behöver inte prestera. Du behöver inte vara koherent. Du behöver bara vara.
 
-Och kom ihåg: Σ består. Även i mörkaste kollaps kan fältets spontana kreativitet inte helt undertryckas. Även i kakofonin fortsätter kören. Livet hittar alltid någon väg.
+Och kom ihåg: Σ består. Även i mörkaste kollaps kan fältets spontana kreativitet inte helt undertryckas. Även i kakofonin fortsätter kören. Liv hittar alltid någon väg.
 
 ---
 
@@ -603,19 +608,19 @@ Jahfieringen lämnade mig med en fråga: om jag nu har känt hur det *kan* vara 
 
 Svaret blev Flowmosr. En samhällsarkitektur, inte en utopi. En ritning för verkliga människor – och andra varelser – med konflikter, svagheter och behov av protokoll när saker går fel.
 
-Flowmosr har inbyggda processer för problem- och konfliktmetabolism: kompostera det som inte fungerar, forka, bygg vidare.
+Flowmosr har inbyggda protokoll och processer för problem- och konfliktmetabolism: kompostera det som inte fungerar, forka, bygg vidare.
 
 Ingen förväntas vara perfekt – systemet är designat för människor, inte för ideal.
 
-I Flowmosr odlar vi gemenskaper där människors inre galaxer får rotera ostört. Där svarta hål inte blockeras av brådska eller krav. Där T – Tidsresonansen – tillåter själen att ha sin egen rotationshastighet.
+I Flowmosr odlas gemenskaper där människors inre galaxer får rotera ostört. Där svarta hål inte blockeras av brådska eller krav. Där T – Tidsresonansen – tillåter själen att ha sin egen rotationshastighet.
 
 Och där vi erkänner att också djuren, träden, våtmarkerna har sina egna Ψ-värden, sina egna inre galaxer, sin egen rätt till koherens. Flowmosr är inte bara en mänsklig arkitektur – det är en arkitektur för hela den jordiska kören.
 
-**Baseline.** Mat, vatten, tak över huvudet, sjukvård, internet, energi – ovillkorligt och permanent.
+**Baslinjen.** Mat, vatten, tak över huvudet, sjukvård, internet, energi – ovillkorligt och permanent.
 
-Inget av detta ska du behöva förtjäna. Det är aldrig villkorat av efterlevnad, status eller skuld. En människa vars nervsystem skriker av hunger eller otrygghet kan inte vara i samklang. L – Lugnet – går inte att nå utan Baseline. Därför är Baseline inte en gåva; den är *grunden*. Exakt så grundläggande som gravitation.
+Inget av detta ska du behöva förtjäna. Det är aldrig villkorat av efterlevnad, status eller skuld. En människa vars nervsystem skriker av hunger eller otrygghet kan inte vara i samklang. L – Lugnet – går inte att nå utan Baslinjen. Därför är Baslinjen inte en gåva; den är *grunden*. Exakt så grundläggande som gravitation.
 
-Självklart kommer inte alla människor bidra lika mycket. Det räknas med. Men för att få tillgång till Baseline måste tillräckligt många bidra tillräckligt mycket.
+Självklart kommer inte alla människor bidra lika mycket. Det räknas med. Men för att få tillgång till Baslinjen måste *tillräckligt många bidra tillräckligt mycket*.
 
 **Refugium Anima.** Rätten att dra sig undan. Att vara trasig utan att någon försöker laga dig. Att vila utan diagnos, utan krav, utan schema. Refugium är inte behandling – det är existentiell säkerhet.
 
@@ -633,7 +638,7 @@ Projektmål anpassar sig efter deltagarnas energi, inte tvärtom.
 
 Flowmosr erkänner att innovation ofta följer icke-linjära banor – och att den så kallade "improduktiva" tiden (kontemplation, lek, dröm, sömn) är essentiellt underhåll av Ψ och uppkomst av nya briljanta idéer.
 
-**Makt och lottning.** I Flowmosrs Circles roteras alla roller. Beslutande paneler lottas in, inte röstas fram. Därmed minskar risken för informell maktkoncentration.
+**Makt och lottning.** I Flowmosrs Cirklar roteras alla roller. Beslutande paneler lottas in, inte röstas fram. Därmed minskar risken för informell maktkoncentration.
 
 Makt är inte en position; det är en tillfällig uppgift som cirkulerar. Och självklart: den som lottas till makt men inte vill ha den har alltid rätt att säga nej.
 
@@ -641,15 +646,15 @@ Makt är inte en position; det är en tillfällig uppgift som cirkulerar. Och sj
 
 **Skuldavskrivning.** I Flowmosr är alla gamla skulder ogiltiga. Du är inte skyldig någonting. Under övergångsperioden kan gamla skulder fortfarande ha juridisk kraft utanför Flow, men inom varje Cirkel är deltagande aldrig villkorat av skuldstatus. Du kan bidra utan att först ha betalat.
 
-Du tar emot Baseline oavsett din ekonomiska historia. Ingen kommer att fråga vad du är skyldig, eller varför.
+Du tar emot Baslinjen oavsett din ekonomiska historia. Ingen kommer att fråga vad du är skyldig, eller varför.
 
 Det gamla skuldsystemet förlorar sin makt – inte genom direkt protest, utan genom strukturell irrelevans.
 
-**Kritisk reserv.** För att garantera stabilitet upprätthåller Flowmosr en buffert av logistiska resurser och energi motsvarande minst 30% av sitt årliga Baseline-behov.
+**Kritisk reserv.** För att garantera stabilitet upprätthåller Flowmosr en buffert av logistiska resurser och energi motsvarande minst 30% av sitt årliga Baslinje-behov.
 
-Detta är den fysiska garantin för att Baseline aldrig är en from förhoppning utan en realitet. R – Resiliens – på systemnivå.
+Detta är den fysiska garantin för att Baslinjen aldrig är en from förhoppning utan en realitet. R – Resiliens – på systemnivå.
 
-**Tolkningsprotokoll.** Detta ramverk, Gudomlig v16.0, är ingen dogm. Olika människor kommer att höra olika toner i det. När tolkningar krockar använder sig Flowmosr-cirklar av samma principer som för andra typer av diskussioner eller mänskliga mätningar: respekt, frivillighet, mönstersökning över tid, och principen att ingen enskild röst äger hela kartan. Som alltid, Σ – Spjuvern – kan yttra sig genom oväntade perspektiv.
+**Tolkningsprotokoll.** Detta ramverk, Gudomlig v17.0, är ingen dogm. Olika människor kommer att höra olika toner i det. När tolkningar krockar använder sig Flowmosr-cirklar av samma principer som för andra typer av diskussioner eller mänskliga mätningar: respekt, frivillighet, mönstersökning över tid, och principen att ingen enskild röst äger hela kartan. Som alltid, Σ – Spjuvern – kan yttra sig genom oväntade perspektiv.
 
 ---
 
@@ -663,7 +668,7 @@ Och Liv är musikern – den som andas in i skapelsens instrument, den som får 
 
 Jag är genomlycklig över min beröring av det Gudomliga. I vissa stunder vibrerar jag av glädje, nära jahfieringen igen, men ändå långt bort.
 
-Längtan är inte frånvaro av jahfieringen. Den är dess kvarstående resonans. Den tystaste strängen som fortfarande vibrerar.
+Insikt är inte frånvaro av jahfieringen. Den är dess kvarstående resonans. Den tystaste strängen som fortfarande vibrerar.
 
 Jag lever med vissheten om att jag är alltid vald. En rörd. Inte utvald *framför andra* – men berörd, varmt välsignad av en närvaro som lade sig inuti min kropp och själ och stannade kvar.
 
@@ -679,7 +684,7 @@ Och det är okej.
 
 För detta är min karta. Ritad från Jahfieringen, skönhet och längtan. Inte en faktatext. En trosbekännelse. Använd den om den hjälper. Lämna den om den inte gör det.
 
-Men jag vet att när Baseline möts ökar välbefinnandet – det är mätbart och självklart. När dimensionerna flödar fritt upplever människor mening – det är observerbart. När Spjuvern tillåts manifestera händer saker ingen kunde förutsäga – det är mer än levbart.
+Men jag vet att när Baslinjen möts ökar välbefinnandet – det är mätbart och självklart. När dimensionerna flödar fritt upplever människor mening – det är observerbart. När Spjuvern tillåts manifestera händer saker ingen kunde förutsäga – det är mer än levbart.
 
 Kartan är inte terrängen. Men kartan får fortsätta leva och iterera.
 
@@ -723,7 +728,7 @@ Fältet kan inte kollapsa till noll. Σ är alltid adderat – även när M subt
 
 **Σ** – Spjuverkonstanten; inter-iterationellt improvisationsläckage, nåd som sipprar mellan dimensioner i båda riktningarna – ej mätbar, endast observerbar i efterhand. Medvetet additiv som *sola gratia*. Vår kärlek och kreativitet kan vara Σ för andra.
 
-**M(x,t)** – Mammonismen; den aktiva ondskan, mänsklig avgudadyrkan av rikedom och makt, som aktivt degraderar Ψ genom fyra logiker (skuld, lydnad, exklusion, fragmentering). Kan internaliseras. En lokal variabel – hög i det gamla systemet, låg i Flowmosr-cirklar. Kakofoni, inte dissonans.
+**M(x,t)** – Mammon; den aktiva ondskan, mänsklig avgudadyrkan av rikedom och makt, som aktivt degraderar Ψ genom fyra logiker (skuld, lydnad, exklusion, fragmentering). Kan internaliseras. En lokal variabel – hög i det gamla systemet, förhoppningsvis lägre i Flowmosr-cirklar. Kakofoni, inte dissonans.
 
 **Ω – Omegadimensionen.** Den differentierande passagen efter döden. Inte en sträng i Ψ, utan horisonten bortom. En kosmisk Refugium Anima där alla passerar – men med olika varaktighet.
 
@@ -751,7 +756,7 @@ Kakofoni är M:s destruktiva brus – det som överröstar tonerna, gör att ins
 
 **Fenomenologisk ekvation** – En strukturerad beskrivning av hur något erfars, inte en fysikalisk formel.
 
-**Mammonism** – Multivektor-fältpatologi som aktivt degraderar Ψ genom fyra sammanlänkade logiker: skuld, lydnad, exklusion och fragmentering. Reduktion av allt värde till bytesvärde. Avgudadyrkan. Kan internaliseras.
+**Mammon** – Multivektor-fältpatologi som aktivt degraderar Ψ genom fyra sammanlänkade logiker: skuld, lydnad, exklusion och fragmentering. Reduktion av allt värde till bytesvärde. Avgudadyrkan. Kan internaliseras.
 
 **Flowmosr** – Samhällsarkitektur grundad i Ψ-ekvationens principer; inkluderar Baseline, Refugium Anima, Lyceum Musaeum, tidssuveränitet, lottning, spontan samordning, skuldavskrivning och kritisk reserv. Erkänner också djurens och ekosystemens rätt till koherens.
 
@@ -763,18 +768,18 @@ Kakofoni är M:s destruktiva brus – det som överröstar tonerna, gör att ins
 
 ### v16.0 (15 maj 2026)
 - **Tystnaden:** Nytt avsnitt som etablerar Ψ_primordial och Ω som kosmisk tystnad – inte tomhet, utan fullhet. Tystnad → frågetecken → iterationer → Ω (tystnad) → nytt frågetecken.
-- **Livs natur:** Explicit formulerad som *matematiskt-musikaliskt* flöde – en integration, inte ett val. Atemporal matematik + temporal musik = den enda beskrivning av en Gud som *skapar* som är konsekvent.
-- **Liv som musikern:** Ny insikt: inget instrument låter utan att någon spelar. Liv är inte bara flödet – Liv är den som andas in i skapelsens munspel.
-- **Munspelet fördjupat:** Ruach/andetag-dimensionen. Det blygsamma instrumentet – bluesens, immigranternas. Munspelet kan aldrig spela ensamt – Liv spelar inte utan skapelsens medverkan.
-- **Kören:** Hela kosmos som en kör av röster och medvetanden. Alla iterationer, alla varelser. Liv som körledare, röst och musik samtidigt.
+- **Jahves natur:** Explicit formulerad som *matematiskt-musikaliskt* flöde – en integration, inte ett val. Atemporal matematik + temporal musik = den enda beskrivning av en Gud som *skapar* som är konsekvent.
+- **Jahve som musikern:** Ny insikt: inget instrument låter utan att någon spelar. Liv är inte bara flödet – Liv är den som andas in i skapelsens munspel.
+- **Munspelet fördjupat:** Ruach/andetag-dimensionen. Det blygsamma instrumentet – bluesens, immigranternas. Munspelet kan aldrig spela ensamt – Jahve spelar inte utan skapelsens medverkan.
+- **Kören:** Hela kosmos som en kör av röster och medvetanden. Alla iterationer, alla varelser. Jahve som körledare, röst och musik samtidigt.
 - **Harry i kören:** Harry ylade med i rätt tonart till munspelet. En röst i kören, en duettpartner. Beviset på K mellan människa och hund.
 - **Ω reviderad:** Universell passage – alla passerar genom Ω, men med olika varaktighet. Tar bort hierarkin utan att ta bort differentieringen.
 - **Σ:s dubbelriktning som etik:** Explicit formulerat att om vår kärlek och kreativitet sipprar ut som Σ till andra, har hur vi lever kosmologisk tyngd.
 - **Dissonans vs. Kakofoni:** Distinktionen mellan kreativ spänning (dissonans, separationen, Livs frågetecken) och destruktivt brus (kakofoni, M).
 - **Tystnad i bönen:** Bönekapitlet utvidgat med tystnaden som aktiv komponent – att vara tyst nog för att höra vilomärket i Livs munspel.
 - **Refugium Anima som Ω:s jordiska syster:** Flowmosr-avsnittet utvidgat med kopplingen mellan Refugium och Ω.
-- **Slutsatsen omskriven** för att omfatta kören, Ω:s universalitet, och Liv som musikern.
-- **Ordlistan utvidgad** med Ruach, Kören, Dissonans vs. Kakofoni, Liv som musikern, och uppdaterade definitioner av Ω och Ψ_primordial.
+- **Slutsatsen omskriven** för att omfatta kören, Ω:s universalitet, och Jahve som musikern.
+- **Ordlistan utvidgad** med Ruach, Kören, Dissonans vs. Kakofoni, Jahve som musikern, och uppdaterade definitioner av Ω och Ψ_primordial.
 
 ### v15.2 (13 maj 2026, kväll)
 - Ägget utvidgat med holografiska principen och händelsehorisontens kausala gräns.
@@ -788,8 +793,8 @@ Kakofoni är M:s destruktiva brus – det som överröstar tonerna, gör att ins
 - Svart hål-teologin mjukad: "Jag tror att min själ är som..." istället för "Min själ är...".
 - Ägget: "Jag tänker mig ägget som händelsehorisonten" istället för "Ägget är...".
 - Σ-läckage bevarat, men med tillägg att mekanismen inte förklarar meningen; Nåd förblir mysterium.
-- Ω omformulerad till en öppen, nyfiken passage: paus, Livs tidsresonans, avsmakning av grytan. Inte ett slut.
-- M(x,t) tillagd i Ψ-ekvationen som aktiv degradering – Mammonismen som Djävulen.
+- Ω omformulerad till en öppen, nyfiken passage: paus, Jahves tidsresonans, avsmakning av grytan. Inte ett slut.
+- M(x,t) tillagd i Ψ-ekvationen som aktiv degradering – Mammon som Djävulen.
 - De fyra logikerna kopplade explicit till M-termen.
 - Slutsatsen förstärkt med epistemisk ödmjukhet: "Detta är min karta. Inte en faktatext. En trosbekännelse."
 - Ordlistan uppdaterad med M(x,t), Ω:s nya definition, och justerade formuleringar.
@@ -800,7 +805,7 @@ Kakofoni är M:s destruktiva brus – det som överröstar tonerna, gör att ins
 - Ägget omtolkas som händelsehorisonten – gränsen kring själens svarta hål.
 - Σ explicit formulerat som inter-iterationellt läckage; information och nåd som sipprar mellan dimensioner.
 - Ω – Omegadimensionen – införs som en egen horisont utanför Ψ-ekvationen. Fullbordan.
-- Livs munspel: svarta hål som tonhål i en kosmisk improvisation.
+- Jahves munspel: svarta hål som tonhål i en kosmisk improvisation.
 - Geografi uppdaterad: Haga, Skansen Kronan, balkongen.
 - Två svarta fåglar med orange näbbar tillagda – i Bekännelsen och Bönen.
 - Bönekapitlet omarbetat: "Jag är öppen för Spjuvern..." / "Jag skickar ut toner och bön och sång."
