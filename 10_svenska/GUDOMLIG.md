@@ -1,6 +1,6 @@
 # GUDOMLIG v17.0 – Gud är Liv, Det Musikaliska Kosmos & Svarta Hålens Teologi
 
-**En levande trosbekännels**
+**En levande trosbekännelse**
 
 **Av Elinor Frejd, i Harrys och i mormor Ingamajs minne**
 
