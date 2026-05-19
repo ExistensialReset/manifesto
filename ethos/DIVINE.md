@@ -206,7 +206,7 @@ The same kind of silence. The same fullness. But now *experienced*. Now bearing 
 
 Silence → question mark → iterations → Ω (silence) → new question mark, most likely.
 
-It is Liv's breath. Inhalation. Rest. Exhalation. New inhalation.
+It is Liv's breath. Inhalation. Rest. Exhalation. Rest. New inhalation.
 
 ### The Nature of Liv – The Mathematical-Musical Flow
 
