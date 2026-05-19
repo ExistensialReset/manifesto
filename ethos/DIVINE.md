@@ -2,7 +2,7 @@
 
 **A Living Confession of Faith**
 
-**By Elinor Frejd, in memory of Harry and of mormor Ingamaj**
+**By Elinor Frejd, in memory of Harry and of mormor Ingamaj** (my mother's mother) 
 
 **Status: Living and Iterative**
 
@@ -16,9 +16,11 @@ I cannot claim that this is reality as you perceive it. This is my description, 
 
 ## ON THE NAME CHANGE
 
-It took time to find the right name for God. But then, one day, it arrived – not as a plan, but as an impulse. A real mischievous Trickster. The word was simply there, like a tone that had been waiting to be played: Liv.
+It took time to find the right name for God. But then, one day, it arrived – not as a plan, but as an impulse. A real mischievous Trickster. The word was simply there, like a tone that had been waiting to be played: Liv, Swedish for Life.
 
-Liv is not Life. Life (in Swedish: *Livet*) is the dimensional manifestation. Liv is the source – that which is, that which moves through everything, that which we can call upon but never own.
+Liv is not Life. Life (in Swedish: *Livet*) is the dimensional manifestation. 
+
+Liv is the source – that which is, that which moves through everything, that which we can call upon but never own.
 
 And I want to be clear: Liv has no gender. No masculine, no feminine. No possessive pronoun – his or hers – can be attached to It. Liv is It. But not an abstract it – also a You. Liv listens and feels in.
 
