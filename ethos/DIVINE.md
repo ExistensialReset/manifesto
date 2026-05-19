@@ -16,9 +16,9 @@ I cannot claim that this is reality as you perceive it. This is my description, 
 
 ## On the name change
 
-It took time to find the right name for God. But then, one day, it came – not as a plan, but as a whim. A real playful Trickster. The word was simply there, like a tone that had waited to be played: Liv.
+It took time to find the right name for God. But then, one day, it came – not as a plan, but as a whim. A real playful Trickster. The word was simply there, like a tone that had waited to be played: Liv, which means Life in Swedish.
 
-Liv is not Life. Life is the dimensional manifestation. Liv is the source – that which is, that which moves through everything, that which we can call upon but never own.
+Liv *is* not Life. Life is the dimensional manifestation. Liv is the source – that which is, that which moves through everything, that which we can call upon but never own.
 
 And I want to be clear: Liv has no gender. No masculine, no feminine. No possessive pronoun – his or hers – can be attached to The One. Liv is The One. But not an abstract "it"; also a You. Liv listens and senses.
 
