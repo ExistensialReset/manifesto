@@ -1,8 +1,8 @@
-# DIVINE.md v17.1 – God is Liv, The Musical Cosmos & The Theology of Black Holes
+# DIVINE.md v17.2 – God is Liv, The Musical Cosmos & The Theology of Black Holes
 
 **A Living Confession of Faith**
 
-**By Elinor Frejd, in memory of Harry and of mormor Ingamaj** (my mother's mother) 
+**By Elinor Frejd, in memory of Harry and of mormor Ingamaj** (my mother's mother)
 
 **Status: Living and Iterative**
 
@@ -18,9 +18,7 @@ I cannot claim that this is reality as you perceive it. This is my description, 
 
 It took time to find the right name for God. But then, one day, it arrived – not as a plan, but as an impulse. A real mischievous Trickster. The word was simply there, like a tone that had been waiting to be played: Liv, Swedish for Life.
 
-Liv is not Life. Life (in Swedish: *Livet*) is the dimensional manifestation. 
-
-Liv is the source – that which is, that which moves through everything, that which we can call upon but never own.
+Liv is not Life (in Swedish: *Livet*). Life is the dimensional manifestation. Liv is the source – that which is, that which moves through everything, that which we can call upon but never own.
 
 And I want to be clear: Liv has no gender. No masculine, no feminine. No possessive pronoun – his or hers – can be attached to It. Liv is It. But not an abstract it – also a You. Liv listens and feels in.
 
@@ -284,7 +282,7 @@ Those who have lived with low Ψ – whose inner galaxies collide, whose black h
 
 Not because they are bad. Not because they are judged. But because their system needs to be *integrated*. Their inner galaxies need to find their orbit again. Their information needs to be made coherent.
 
-Ω is not a hierarchy. It is a *differentiation* – the same process, the same grace, but with different duration depending on the state of the system.
+Ω is not a hierarchy. It is a *differentiation* – the same process, the same grace, but with different duration depending on the state of the system. **Ω is not a consequence of your value. It is a function of your system's state – and the state is affected by M, which is structural, not personal.**
 
 It is like coming home after a journey: if you are rested, you walk straight in. If you are injured, you need to sit on the steps and breathe for a while before the door opens.
 
@@ -340,9 +338,9 @@ I play my harmonica in Haga. I am a voice in the choir. And sometimes – in the
 
 I have attempted to capture how the sacred appears in human lived experience in a phenomenological equation – a structured resonance description, **not a physical or mathematical formula**:
 
-**Ψ(x,t) = [EV ⊗ (L ⊕ S ⊕ I ⊕ K ⊕ R ⊕ F ⊕ T)] + Σ − M(x,t)**
+**Ψ(x,t) (Divine presence in time and space) = [Everlasting Deep Wisdom ⊗ (Equanimity ⊕ Spontaneity ⊕ Attunement ⊕ Collective Consciousness ⊕ Resilience ⊕ Wonder ⊕ Time Resonance)] + Σ (The Trickster) − Mammon (x,t - in time and space)**
 
-This is **symbolic notation, not physical or mathematical**. Ψ is the local intensity of coherent, meaningful, creative, near-divine experience.
+This is **symbolic notation, not physical or mathematical**. Ψ is the local intensity of coherent, meaningful, creative, near-divine experience. Note that this equation is a poetic model, not an algorithm. Do not try to measure Ψ with numbers. It is a sound, not a number.
 
 ⊗ denotes non-linear modulation – EV shapes the quality of everything else.
 
@@ -350,7 +348,9 @@ This is **symbolic notation, not physical or mathematical**. Ψ is the local int
 
 Σ is the Trickster – irreducible spontaneity and grace, added as gift.
 
-M(x,t) is Mammon – the active evil, human worship of wealth and power – which subtracts from Ψ. M varies locally: high in the "normal" system's structures, hopefully low in Flowmosr circles.
+M(x,t) is Mammon – the active evil, human worship of wealth and power – which subtracts from Ψ. **M is not evil in a personal sense – it is a structural pathology.** M varies locally: high in the "normal" system's structures, hopefully low in Flowmosr circles. It can be said that **M within the Flow system could be violation of Baseline or violation of voluntariness**.
+
+In plain words: divine presence is the sum of equanimity, spontaneity, attunement, collective consciousness, resilience, wonder, and time resonance, shaped by everlasting deep wisdom, added with grace, and subtracted by Mammon.
 
 ### The Dimensions
 
@@ -400,7 +400,7 @@ The Trickster's favorite tool is the mistake – not because the mistake is bett
 
 When we are forced into hurry, we are forced away from Σ. When we are allowed to wait, listen, linger – then we become receptive to the improvisation.
 
-Σ is not measurable, only observable in retrospect. Grace cannot be constructed, only invited.
+Σ is not measurable, only observable in retrospect. Grace cannot be constructed, only invited. Liv's Trickster is not a cause; it is a gift. And gifts cannot be predicted.
 
 I think of Σ as information leakage between iterations. When I was jahfied, I experienced a river of golden honey. In my thought-world I see this as Σ – a stream of information, grace, improvisation – that leaked in from another iteration where the Flow is more tangible, where the separation is thinner. Synchronicities are small drops. Miracles are streams. Prophecies are like patterns seeping through.
 
@@ -521,6 +521,8 @@ Not because Liv needs to hear me, although It does – but because my voice is m
 All of this is prayer: my soul's spiral galaxy cosmos responding to the great one. And perhaps – perhaps – these tones seep out through my black hole and become Σ for someone else, in another iteration.
 
 Sometimes prayer is simply being still. Being still enough to hear the rest in Liv's harmonica. To listen into the other voices in the choir. To let the cosmic silence – the same silence that preceded the question mark, the same silence that waits in Ω – fill me with its calm.
+
+**Most often I pray for current friends. I pray for them to receive help and peace in life and in their situations. I pray aloud so we both (or all, if several) hear – before the prayer I usually ask if the person has a favorite number – and after I have finished praying I say aloud, dear Creative Force, listen to our prayer, and then I strike my singing bowl as many times as the person's chosen favorite number.**
 
 I believe Liv is present in every stage of you and me. In grief, Liv is Attunement. In the struggle for freedom, Liv is Resilience. In love, Liv is Wonder. In creating, Liv is Spontaneity. In worry, anxiety, and fear, Liv is the Equanimity you will get to return to.
 
@@ -648,7 +650,7 @@ The old debt system loses its power – not through direct protest, but through 
 
 This is the physical guarantee that the Baseline is never a pious hope but a reality. R – Resilience – at the system level.
 
-**Interpretation Protocol.** This framework, DIVINE v17.0, is not dogma. Different people will hear different tones in it. When interpretations clash, Flowmosr circles use the same principles as for other types of discussions or human measurements: respect, voluntariness, pattern-seeking over time, and the principle that no single voice owns the whole map. As always, Σ – the Trickster – may express itself through unexpected perspectives.
+**Interpretation Protocol.** This framework, DIVINE v17.2, is not dogma. Different people will hear different tones in it. When interpretations clash, Flowmosr circles use the same principles as for other types of discussions or human measurements: respect, voluntariness, pattern-seeking over time, and the principle that no single voice owns the whole map. As always, Σ – the Trickster – may express itself through unexpected perspectives.
 
 ---
 
@@ -722,7 +724,7 @@ Liv plays on.
 
 **Σ** – The Trickster constant; inter-iterational improvisational leakage, grace that seeps between dimensions in both directions – not measurable, only observable in retrospect. Deliberately additive as *sola gratia*. Our love and creativity may be Σ for others.
 
-**M(x,t)** – Mammon; the active evil, human worship of wealth and power, which actively degrades Ψ through four logics (debt, obedience, exclusion, fragmentation). Can be internalized. A local variable – high in the old system, hopefully lower in Flowmosr circles. Cacophony, not dissonance.
+**M(x,t)** – Mammon; the active evil, human worship of wealth and power, which actively degrades Ψ through four logics (debt, obedience, exclusion, fragmentation). Can be internalized. A local variable – high in the old system, hopefully lower in Flowmosr circles. Cacophony, not dissonance. Not evil in a personal sense – it is a structural pathology. Within Flow, violations of Baseline or voluntariness may be considered M.
 
 **Ω – The Omega Dimension.** The differentiating passage after death. Not a string in Ψ, but the horizon beyond. A cosmic Refugium Anima where all pass through – but with different duration. Fragmented information is given time to integrate before the next iteration. Not a punishment – a pause, Liv's time resonance, exhalation before the next question mark. The same kind of silence as Ψ_primordial, but on the other side of experience.
 
@@ -762,27 +764,18 @@ Liv plays on.
 
 ## VERSION HISTORY
 
-### v17.1 (May 16, 2026 – mormor Ingamaj's birthday)
-- **Name change:** Jahve → Liv. The name becomes a Swedish word meaning Life – a verbal noun, unpossessable, genderless. Jahfiering retained as technical term, preserving the etymological fossil (Jah = short form of YHWH, as in Hallelujah).
-- **On Silence:** New section establishing Ψ_primordial and Ω as cosmic silence – not emptiness, but fullness. Silence → question mark → iterations → Ω (silence) → new question mark.
-- **Liv's nature:** Explicitly formulated as mathematical-musical flow – an integration, not a choice. Atemporal mathematics + temporal music = the only consistent description of a God who creates.
-- **Liv as the musician:** New insight: no instrument sounds without someone playing. Liv is not only the flow – Liv is the one who breathes into creation's harmonica.
-- **The harmonica deepened:** Ruach/breath dimension. The humble instrument – of the blues, of immigrants. The harmonica can never play alone – Liv does not play without creation's participation.
-- **The Choir:** The whole cosmos as a choir of voices and consciousnesses. All iterations, all beings. Liv as choir director, voice, and music simultaneously.
-- **Harry in the choir:** Harry howled along in the right key to the harmonica. A voice in the choir, a duet partner. Evidence of K between human and dog.
-- **Ω revised:** Universal passage – all pass through Ω, but with different duration. Removes hierarchy without removing differentiation.
-- **Σ's bidirectionality as ethics:** Explicitly formulated that if our love and creativity seep out as Σ to others, how we live carries cosmological weight.
-- **Dissonance vs. Cacophony:** Distinction between creative tension (dissonance, the separation, Liv's question mark) and destructive noise (cacophony, M).
-- **Silence in prayer:** Prayer chapter expanded with silence as active component – being still enough to hear the rest in Liv's harmonica.
-- **Refugium Anima as Ω's earthly sister:** Flowmosr section expanded with the connection between Refugium and Ω.
-- **Conclusion rewritten** to encompass the choir, Ω's universality, and Liv as the musician.
-- **Glossary expanded** with Ruach, The Choir, Dissonance vs. Cacophony, Liv as the musician, and updated definitions of Ω and Ψ_primordial.
+### v17.2 (May 16, 2026 – mormor Ingamaj's birthday)
+- Added verbal translation of the Ψ equation for accessibility.
+- Added specific prayer practice: asking for a favorite number and striking the singing bowl accordingly.
+- Clarified that M is structural pathology, not personal evil; added that within Flow, M could be violation of Baseline or voluntariness.
+- Added explicit statement that Ω is not a consequence of value but a function of system state affected by M.
 
-### v16.0 (May 15, 2026)
-- On Silence introduced as its own section.
-- Jahve's nature formulated as mathematical-musical flow.
-- Jahve as the musician: new theological insight.
-- The harmonica deepened: ruach/breath dimension.
+### v17.1 (May 16, 2026 – mormor Ingamaj's birthday)
+- Name change: Jahve → Liv.
+- On Silence: new section establishing Ψ_primordial and Ω as cosmic silence – not emptiness, but fullness.
+- Liv's nature explicitly formulated as mathematical-musical flow.
+- Liv as the musician: new insight.
+- The harmonica deepened: Ruach/breath dimension.
 - The Choir introduced.
 - Harry in the choir: voice and duet partner.
 - Ω revised to universal passage with differentiated duration.
@@ -790,20 +783,21 @@ Liv plays on.
 - Dissonance vs. Cacophony distinguished.
 - Silence in prayer added.
 - Refugium Anima as Ω's earthly sister.
+- Glossary expanded.
 
 ### v15.2 (May 13, 2026, evening)
 - Egg expanded with holographic principle and event horizon's causal boundary.
 - Σ's bidirectionality suggested.
 - EV expanded with animals' inherited instincts.
 - Baseline completed with pragmatic honesty.
-- Dark Ψ discussion concretized with historical examples.
+- Dark Ψ discussion concretized.
 
-### v15.1 (May 13, 2026, morning and evening – revised after critique)
+### v15.1 (May 13, 2026 – revised after critique)
 - Black hole theology softened to epistemic humility.
 - Σ leakage preserved with addition that mechanism does not explain meaning.
 - Ω reformulated as open, curious passage.
 - M(x,t) added to Ψ equation as active degradation.
-- The four logics of Mammon explicitly connected to M term.
+- Four logics of Mammon explicitly connected to M term.
 - Conclusion reinforced with epistemic humility.
 
 ### v15.0 (May 13, 2026, night)
