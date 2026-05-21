@@ -16,4 +16,6 @@ It is collective sufficiency, built step by step.
 **Flow begins with**:
 1. Rest
 2. Trust
-3. One shared action 
+3. One shared action
+
+Rest creates calm (L). A shared action creates spontaneity (S). Trust creates attunement (I). Together: the field begins to move.
