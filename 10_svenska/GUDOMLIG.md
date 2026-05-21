@@ -342,7 +342,7 @@ Jag har försökt fånga hur det heliga framträder i mänsklig livets erfarenhe
 
 **Ψ(x,t) = [EV ⊗ (L ⊕ S ⊕ I ⊕ K ⊕ R ⊕ F ⊕ T)] + Σ − M(x,t)**
 
-Detta är **symbolisk notation, inte fyisikalisk eller matematisk**. Ψ är den lokala intensiteten av koherent, meningsfull, kreativ, nära gudomlig upplevelse.
+Detta är **symbolisk notation, inte fyisikalisk eller matematisk**. Ψ är den lokala intensiteten av koherent, meningsfull, kreativ, nära gudomlig upplevelse. Observera att denna ekvation är en poetisk-modell, inte en algoritm. Försök inte mäta Ψ med siffror. Det är en klang, inte ett tal. 
 
 ⊗ betecknar icke-linjär modulering – EV formar kvaliteten på allt annat.
 
