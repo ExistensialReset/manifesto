@@ -350,7 +350,7 @@ This is **symbolic notation, not physical or mathematical**. Ψ is the local int
 
 M(x,t) is Mammon – the active evil, human worship of wealth and power – which subtracts from Ψ. **M is not evil in a personal sense – it is a structural pathology.** M varies locally: high in the "normal" system's structures, hopefully low in Flowmosr circles. It can be said that **M within the Flow system could be violation of Baseline or violation of voluntariness**.
 
-In plain words: divine presence is the sum of equanimity, spontaneity, attunement, collective consciousness, resilience, wonder, and time resonance, shaped by everlasting deep wisdom, added with grace, and subtracted by Mammon.
+In plain words: divine presence is the simultaneous resonance of equanimity, spontaneity, attunement, collective consciousness, resilience, wonder, and time resonance, shaped by everlasting deep wisdom, added with grace, and subtracted by Mammon.
 
 ### The Dimensions
 
