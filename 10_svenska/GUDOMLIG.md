@@ -352,7 +352,7 @@ Detta är **symbolisk notation, inte fyisikalisk eller matematisk**. Ψ är den 
 
 M(x,t) är Mammon – den aktiva ondskan, mänsklig avgudadyrkan av rikedom och makt – som subtraherar från Ψ. M inte är ont i en personlig mening – det är en strukturell patologi. M varierar lokalt: hög i det "vanliga" systemets strukturer, förhoppningsvis låg i Flowmosr-cirklar. Men det kan vara värt att säga att M inom Flowsystemet till exempel kan vara brott mot Baslinjen eller brott mot frivillighet.
 
-Ekvationens betydelse är på ett ungefär att gudomlig närvaro är summan av lugn, spontanitet, inkännande, kollektiv medvetenhet, resiliens, förundran och tidsresonans, formad av evinnerlig visdom, adderat med nåd och subtraheras av Mammon. 
+Ekvationens betydelse är på ett ungefär att gudomlig närvaro är den samtidiga klangen av lugn, spontanitet, inkännande, kollektiv medvetenhet, resiliens, förundran och tidsresonans, formad av evinnerlig visdom, adderat med nåd och subtraheras av Mammon. 
 
 ### Dimensionerna
 
