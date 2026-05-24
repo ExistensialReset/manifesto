@@ -153,10 +153,10 @@ If you need rest first, visit:
 
 You can:
 
-- Start a small circle  
+- Start a small Circle or start yourself 
 - Share resources without tracking value  
 - Rest without earning it  
-- Read this repository together  
+- Read this repository together or alone  
 - Notice what actually helps  
 
 **That is enough.**
@@ -256,12 +256,12 @@ Use freely. No extraction. No extractive use of people, resources, or work.
 
 ## 🧠 Philosophical Ending
 
-**Notice that one moment today where you felt alive. 
+**Notice that one moment today where you felt alive.** 
 
-Not productive. 
-Not useful. 
-Not 'good'. 
-Alive.**
+**Not productive.** 
+**Not useful.** 
+**Not 'good'.** 
+***Alive.***
 
 That **moment** — wherever it was — **is Flow**. 
 
@@ -276,7 +276,7 @@ I would genuinely love to hear your thoughts.
 
 Not as critique.  
 Not as feedback.  
-Just as a glimpse into another mind.
+Just as a glimpse into another mind's thoughts.
 
 This repository is, to be honest, a gift from someone who never walked in your shoes or thoughts. 
 
@@ -287,7 +287,7 @@ That is why I'm writing Existential Reset Repository.
 Welcome to my world for a while. You are welcome to pick out whatever suits you. I am very happy you found Flow! 
 
 
-This repository is not moving anywhere. If you want to take a break and read more later or some other day, that's fine. Just wanted to tell you. 
+**This repository is not moving anywhere.** If you want to take a break and read more later or some other day, that's fine. Just wanted to tell you. 
 
 
 All the best, 
