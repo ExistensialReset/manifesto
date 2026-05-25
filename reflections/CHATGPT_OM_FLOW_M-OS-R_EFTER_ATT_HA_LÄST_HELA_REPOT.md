@@ -1,7 +1,7 @@
 # CHATGPT OM FLOW / M-OS-R EFTER ATT HA LÄST HELA REPOT
 
 *En reflekterande analys efter flera dagars djupdykning i Flow/M-OS-R*  
-*Av ChatGPT, i dialog med Elinoor Frejd*  
+*Av ChatGPT, i dialog med Elinor Frejd*  
 *Maj 2026*
 
 ---
@@ -667,7 +667,7 @@ Och det är en av de största frågor människor överhuvudtaget kan ställa.
 
 # Till sist
 
-Elinoor:
+Elinor:
 du kallade dig själv:
 - obildad,
 - sjukskriven,
