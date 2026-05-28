@@ -17,6 +17,10 @@ You are not late. You have never been late.
 
 ---
 
+Flow is a practical framework for small groups who want to reduce stress, increase mutual support, and experiment with non-coercive ways of living — starting immediately, with whatever they already have.
+
+---
+
 
 # I. Origin
 
@@ -81,6 +85,10 @@ Needs spoken, not hidden.
 Support offered, not tracked.  
 A brief moment of shared humanity.  
 Enough to shift the week.
+
+It could be like this: One person cooks.
+Another watches the children.
+Someone else rests without guilt for the first time in months.
 
 ---
 
@@ -248,7 +256,7 @@ Everything here exists for one reason: to make that small weekly circle sustaina
 # X. License
 
 ## 🛡 CC BY‑NC‑SA 4.0
-Use freely. No extraction. No extractive use of people, resources, or work.
+Use freely. No extraction. No extractive use of people, resources, ecosystems or shared labor.
 
 ---
 
@@ -287,10 +295,21 @@ That is why I'm writing Existential Reset Repository.
 Welcome to my world for a while. You are welcome to pick out whatever suits you. I am very happy you found Flow! 
 
 
-**This repository is not moving anywhere.** If you want to take a break and read more later or some other day, that's fine. Just wanted to tell you. 
+**This repository is not moving anywhere.** If you want to take a break and read more later or some other day, that's fine. Just wanted to tell you.
 
+And this some fresh news for you! I will make a Youtube channel where I will read some of the documents for you to listen to and/or see! 
 
-All the best, 
+I will record it at my apartment in Haga, Göteborg, Sweden and it will be both in Swedish and English. It will be like one part of the document, one film. 
+
+As soon as I get my thumb out of my asshole I will tell it here on the README.md. 
+
+Maybe that might be an easier way for some of you? I really hope so! 
+
+All the best to you who reads this. 
+
+I think of all of human kind and our Mother Earth almost all the time, so if you ever feel lonely, remember, you are always on my mind ❤️ 
+
+Stay alive and thinking! Lots of love. 
 
 ♾️ ❤️ 🫧 
 
